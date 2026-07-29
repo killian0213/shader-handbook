@@ -527,6 +527,115 @@ void mainImage(out vec4 fragColor, in vec2 fragCoord)
 
 ---
 
+## 15.17 阶梯实战：亮球场景上的后期管线
+
+后期的输入永远是「一张已经算好的图」。这里用几颗亮球当场景，五步把 Bloom → tonemap → CRT → NPR 走完。
+
+文件在 `examples/ch15_stage1..5.glsl`。多 Pass 真·可分离模糊到了 Shadertoy 再拆；网页上用单 Pass 近似，观感一致。
+
+### 阶段 1：基础亮球场景
+
+后续所有后期的输入。
+
+<!-- glsl-from: examples/ch15_stage1.glsl -->
+```glsl
+{
+    vec2 p = (2.0 * fragCoord - iResolution.xy) / iResolution.y;
+
+    float an = 0.20 + 0.10 * sin(iTime * 0.12);
+    vec3  ta = vec3(0.0, 0.55, 0.0);
+    vec3  ro = vec3(4.8 * sin(an), 1.35, 4.8 * cos(an));
+    mat3  ca = setCamera(ro, ta);
+    vec3  rd = ca * normalize(vec3(p, 2.2));
+
+    vec3 col = renderScene(ro, rd);
+    col = pow(col, vec3(0.4545));
+    fragColor = vec4(col, 1.0);
+```
+
+![阶段1](img/ch15_stage1.png)
+
+
+### 阶段 2：阈值 + Bloom
+
+先提取亮部再模糊加回。
+
+<!-- glsl-from: examples/ch15_stage2.glsl -->
+```glsl
+vec3  bloom  = blurV(uv, px * 2.5);
+
+    vec3 col = base + bloom * 1.25 + bright * 0.2;
+    col = pow(col, vec3(0.4545));
+    fragColor = vec4(col, 1.0);
+```
+
+![阶段2](img/ch15_stage2.png)
+
+
+### 阶段 3：tonemap + 暗角 + dither
+
+显示管线三件套。
+
+<!-- glsl-from: examples/ch15_stage3.glsl -->
+```glsl
+vec3 col = tonemap(base + bloom * 1.25);
+    col = pow(col, vec3(0.4545));
+
+    col *= 0.60 + 0.40 * pow(16.0 * uv.x * uv.y * (1.0 - uv.x) * (1.0 - uv.y), 0.28);
+    col += (hash21(fragCoord) - 0.5) / 255.0;
+
+    fragColor = vec4(clamp(col, 0.0, 1.0), 1.0);
+```
+
+![阶段3](img/ch15_stage3.png)
+
+
+### 阶段 4：CRT
+
+扫描线、微畸变、色差。
+
+<!-- glsl-from: examples/ch15_stage4.glsl -->
+```glsl
+float scan = 0.88 + 0.12 * sin(fragCoord.y * 3.14159);
+    col *= scan;
+
+    // 屏幕边缘暗角（CRT bezels）
+    vec2 q = uv - 0.5;
+    col *= 1.0 - dot(q, q) * 0.35;
+
+    fragColor = vec4(clamp(col, 0.0, 1.0), 1.0);
+```
+
+![阶段4](img/ch15_stage4.png)
+
+
+### 阶段 5：NPR 卡通
+
+Sobel 边 + 色阶量化。
+
+<!-- glsl-from: examples/ch15_stage5.glsl -->
+```glsl
+float edge = clamp(length(vec2(gx, gy)) * 8.0, 0.0, 1.0);
+
+    vec3 col = mix(c, vec3(0.05, 0.05, 0.08), edge * 0.85);
+    fragColor = vec4(col, 1.0);
+```
+
+![阶段5](img/ch15_stage5.png)
+
+
+### 回头看
+
+| 阶段 | 新增 | 对应 |
+|---|---|---|
+| 1 | 场景 | — |
+| 2 | Bloom | 15.2–15.3 |
+| 3 | tonemap/暗角/抖动 | 15.6–15.7 |
+| 4 | CRT | 15.8 |
+| 5 | NPR | 15.9 |
+
+**接着**：只保留 Bloom 关 CRT；把 NPR 边缘颜色改成深青；把场景换成第 7 章球。
+
 ## 要点回顾
 
 1. 后期 = 重映射 + 卷积 + 扭曲坐标 + 图案阈值的组合拳。
