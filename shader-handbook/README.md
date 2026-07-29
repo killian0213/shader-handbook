@@ -4,9 +4,10 @@
 >
 > 它要回答的**唯一问题**是：**我脑子里想到一个效果，怎么把它做出来？**
 
-> 📺 **想边看边跑？** 手册有网页版：`python web/serve.py`，然后打开 <http://localhost:8000/web/>。
-> 网页版直接读这些 Markdown 原文，但书里的代码块能当场出画面、拖滑块调参数、就地改代码。
-> 说明见 [`web/README.md`](../web/README.md)。
+> 📺 **想边看边跑？** 在线网页版（随时打开）：  
+> <https://killian0213.github.io/shader-handbook/>  
+> 本地调试：`python web/serve.py`，然后打开 <http://localhost:8000/web/>。  
+> 网页版直接读这些 Markdown 原文，代码块能当场出画面、拖滑块调参数、就地改代码。说明见 [`web/README.md`](../web/README.md)。
 
 ---
 
