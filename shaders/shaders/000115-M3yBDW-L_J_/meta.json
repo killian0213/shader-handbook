@@ -1,0 +1,148 @@
+{
+  "id": "M3yBDW",
+  "name": "Lā Jī",
+  "author": "SL0ANE",
+  "description": "这次阴影，描边和边缘光都尽量做了抗锯齿，没用SSAA。\n形象出自漫画《勇者传》",
+  "tags": [
+    "procedural",
+    "3d",
+    "raymarching",
+    "distancefield",
+    "sdf",
+    "cartoon",
+    "manga",
+    "anime"
+  ],
+  "publishedAt": "2025-02-06T14:54:22.000Z",
+  "publishedTimestamp": 1738853662,
+  "views": 2774,
+  "likes": 115,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 48,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/M3yBDW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 2,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XdfGR8",
+          "filepath": "/media/previz/buffer03.png",
+          "previewfilepath": "/media/previz/buffer03.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRr",
+          "filepath": "/presets/tex00.jpg",
+          "previewfilepath": "/presets/tex00.jpg",
+          "type": "keyboard",
+          "channel": 3,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 2,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer D",
+      "file": "buffer_d.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 2,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "XdfGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "lstGRB",
+  "name": "Transparent 3D Noise",
+  "author": "Shane",
+  "description": "Raymarching some transparent 3D noise.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "noise",
+    "transparency",
+    "volumetric"
+  ],
+  "publishedAt": "2015-12-22T00:14:59.000Z",
+  "publishedTimestamp": 1450743299,
+  "views": 3708,
+  "likes": 87,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lstGRB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

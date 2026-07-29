@@ -1,0 +1,52 @@
+{
+  "id": "4sXBRn",
+  "name": "Luminescence",
+  "author": "BigWIngs",
+  "description": "My entry for the monthly challenge on r/proceduralgeneration \nUse the mouse to look around. Uncomment the SINGLE define to see one specimen by itself.\nCode is a bit of a mess, too lazy to clean up. Hope you like it!",
+  "tags": [
+    "raymarching",
+    "ocean",
+    "underwater",
+    "jellyfish",
+    "deepsea"
+  ],
+  "publishedAt": "2017-05-23T04:45:13.000Z",
+  "publishedTimestamp": 1495514713,
+  "views": 27280,
+  "likes": 385,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sXBRn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dlXz7",
+          "filepath": "https://soundcloud.com/klauslunde/zebra-tribute",
+          "previewfilepath": "https://soundcloud.com/klauslunde/zebra-tribute",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

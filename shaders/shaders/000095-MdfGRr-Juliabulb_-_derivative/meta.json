@@ -1,0 +1,36 @@
+{
+  "id": "MdfGRr",
+  "name": "Juliabulb - derivative",
+  "author": "iq",
+  "description": "A Julia-bulb implementation. Two tricks worth noting: [1] it doesn't use pow() functions to compute complex number powers, but it uses algebra instead.  [2] the distance estimator (DE) is analytic, not based on numerically computed gradient. ",
+  "tags": [
+    "3d",
+    "raymarching",
+    "fractal",
+    "distancefield",
+    "juliabulb"
+  ],
+  "publishedAt": "2013-02-10T04:46:01.000Z",
+  "publishedTimestamp": 1360471561,
+  "views": 22097,
+  "likes": 95,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdfGRr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

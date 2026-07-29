@@ -1,0 +1,139 @@
+{
+  "id": "Mlcczf",
+  "name": "oil on glcanvas",
+  "author": "flockaroo",
+  "description": "...britney in oil\nif you change to webcam or another video, don't forget to enable mipmap again on that texture (gives better quality)",
+  "tags": [
+    "effect",
+    "painting",
+    "oil",
+    "npr"
+  ],
+  "publishedAt": "2018-08-20T15:00:35.000Z",
+  "publishedTimestamp": 1534777235,
+  "views": 4736,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mlcczf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdXGzn",
+          "filepath": "/media/a/3083c722c0c738cad0f468383167a0d246f91af2bfa373e9c5c094fb8c8413e0.png",
+          "previewfilepath": "/media/ap/3083c722c0c738cad0f468383167a0d246f91af2bfa373e9c5c094fb8c8413e0.png",
+          "type": "texture",
+          "channel": 2,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "Xdf3Rn",
+          "filepath": "/media/a/e81e818ac76a8983d746784b423178ee9f6cdcdf7f8e8d719341a6fe2d2ab303.webm",
+          "previewfilepath": "/media/ap/e81e818ac76a8983d746784b423178ee9f6cdcdf7f8e8d719341a6fe2d2ab303.webm",
+          "type": "video",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XdXGzn",
+          "filepath": "/media/a/3083c722c0c738cad0f468383167a0d246f91af2bfa373e9c5c094fb8c8413e0.png",
+          "previewfilepath": "/media/ap/3083c722c0c738cad0f468383167a0d246f91af2bfa373e9c5c094fb8c8413e0.png",
+          "type": "texture",
+          "channel": 2,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

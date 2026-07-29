@@ -1,0 +1,38 @@
+{
+  "id": "lssXWS",
+  "name": "Music - Harry Potter",
+  "author": "iq",
+  "description": "Experiment for sequencing a simple melody (the instrument is simple too). So there, Hedwig's Theme from Harry Potter) generated completely in a GPU shader!",
+  "tags": [
+    "2d",
+    "sound",
+    "music",
+    "synthesis",
+    "melody"
+  ],
+  "publishedAt": "2014-07-30T12:39:32.000Z",
+  "publishedTimestamp": 1406723972,
+  "views": 13182,
+  "likes": 78,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lssXWS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

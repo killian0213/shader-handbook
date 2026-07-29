@@ -1,0 +1,78 @@
+{
+  "id": "MsX3RH",
+  "name": "The Cave",
+  "author": "BoyC",
+  "description": "Hello Shadertoy :)",
+  "tags": [
+    "3d",
+    "tunnel",
+    "raymarch",
+    "shadow",
+    "triplanar",
+    "normalmap"
+  ],
+  "publishedAt": "2013-03-03T16:47:34.000Z",
+  "publishedTimestamp": 1362329254,
+  "views": 11442,
+  "likes": 140,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsX3RH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsXGRn",
+          "filepath": "/media/a/cd4c518bc6ef165c39d4405b347b51ba40f8d7a065ab0e8d2e4f422cbc1e8a43.jpg",
+          "previewfilepath": "/media/ap/cd4c518bc6ef165c39d4405b347b51ba40f8d7a065ab0e8d2e4f422cbc1e8a43.jpg",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4sfGRn",
+          "filepath": "/media/a/fb918796edc3d2221218db0811e240e72e340350008338b0c07a52bd353666a6.jpg",
+          "previewfilepath": "/media/ap/fb918796edc3d2221218db0811e240e72e340350008338b0c07a52bd353666a6.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XsX3Rn",
+          "filepath": "/media/a/92d7758c402f0927011ca8d0a7e40251439fba3a1dac26f5b8b62026323501aa.jpg",
+          "previewfilepath": "/media/ap/92d7758c402f0927011ca8d0a7e40251439fba3a1dac26f5b8b62026323501aa.jpg",
+          "type": "texture",
+          "channel": 2,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

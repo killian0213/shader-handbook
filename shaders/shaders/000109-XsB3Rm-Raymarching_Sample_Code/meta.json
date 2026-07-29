@@ -1,0 +1,49 @@
+{
+  "id": "XsB3Rm",
+  "name": "Raymarching Sample Code",
+  "author": "gltracy",
+  "description": "a basic sample code demonstrates how to generate rays, rotate rays, do ray marching, calculate gradients and do phong shading; drag mouse to rotate camera",
+  "tags": [
+    "3d",
+    "raymarching"
+  ],
+  "publishedAt": "2013-11-20T15:54:14.000Z",
+  "publishedTimestamp": 1384962854,
+  "views": 15301,
+  "likes": 109,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsB3Rm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsfGzn",
+          "filepath": "/media/a/585f9546c092f53ded45332b343144396c0b2d70d9965f585ebc172080d8aa58.jpg",
+          "previewfilepath": "/media/ap/585f9546c092f53ded45332b343144396c0b2d70d9965f585ebc172080d8aa58.jpg",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

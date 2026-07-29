@@ -1,0 +1,35 @@
+{
+  "id": "MscBRs",
+  "name": "Outline #1: Voxel tunnel",
+  "author": "lsdlive",
+  "description": "This was my shader for the shader showdown at Outline demoparty 2018 for the first round.\nShader showdown is a live-coding competition where two participants are facing each other during 25 minutes.\n\nI was a little bit nervous, but it turned out well :-)",
+  "tags": [
+    "tunnel",
+    "voxel",
+    "livecoding",
+    "demoparty"
+  ],
+  "publishedAt": "2018-05-14T19:46:09.000Z",
+  "publishedTimestamp": 1526327169,
+  "views": 9698,
+  "likes": 138,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MscBRs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

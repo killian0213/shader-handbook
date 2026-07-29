@@ -1,0 +1,48 @@
+{
+  "id": "ddfyD7",
+  "name": "Complicating things even further",
+  "author": "mrange",
+  "description": "CC0: Complicating things even further\nThat is what I do.\n\n",
+  "tags": [
+    "3d"
+  ],
+  "publishedAt": "2023-06-15T19:47:46.000Z",
+  "publishedTimestamp": 1686858466,
+  "views": 2385,
+  "likes": 78,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ddfyD7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dtGzM",
+          "filepath": "https://soundcloud.com/astrix-official/astrix-rising-dust-universo-coming-soon",
+          "previewfilepath": "https://soundcloud.com/astrix-official/astrix-rising-dust-universo-coming-soon",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "tlGBW1",
+  "name": "Evo32 SMNCA - Slackermanz",
+  "author": "SlackermanzCA",
+  "description": "Evo32 SMNCA: Selective Multiple Neighbourhood Cellular Automata by Slackermanz\nPattern variant created through manual searching and variation with evolutionary functions\nhttps://www.reddit.com/user/slackermanz/\nhttps://www.reddit.com/r/cellular_automata\n",
+  "tags": [
+    "2d",
+    "simulation",
+    "diffusion",
+    "automata",
+    "life",
+    "chaos",
+    "cellular",
+    "conway",
+    "gameoflife",
+    "cellularautomata",
+    "cellularautomata",
+    "cgol"
+  ],
+  "publishedAt": "2021-02-25T22:16:28.000Z",
+  "publishedTimestamp": 1614291388,
+  "views": 2977,
+  "likes": 79,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tlGBW1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4df3D8",
+  "name": "Gaussian Splatting 1",
+  "author": "iq",
+  "description": "If you were entrusted to portray Audrey Hepburn BUT asked to do it with only 316 gaussian splats, you'd probably do this (you'll only see 201 in the code thanks to symmetry)",
+  "tags": [
+    "2d",
+    "compression",
+    "genetic",
+    "photo",
+    "image",
+    "gaussian",
+    "splatting",
+    "gaussiansplatting"
+  ],
+  "publishedAt": "2013-05-11T01:45:34.000Z",
+  "publishedTimestamp": 1368236734,
+  "views": 14350,
+  "likes": 77,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4df3D8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

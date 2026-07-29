@@ -1,0 +1,42 @@
+{
+  "id": "tcccRl",
+  "name": "Stormy Torus [527]",
+  "author": "Jaenam",
+  "description": "A Storm in a Donut.\n\nPlaying with different techniques as compact as possible. How short can it be?",
+  "tags": [
+    "3d",
+    "raymarch",
+    "torus",
+    "clouds",
+    "volumetric",
+    "turbulence",
+    "donut",
+    "donut",
+    "iridescence",
+    "short",
+    "golf"
+  ],
+  "publishedAt": "2025-11-24T13:12:05.000Z",
+  "publishedTimestamp": 1763989925,
+  "views": 3170,
+  "likes": 128,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tcccRl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

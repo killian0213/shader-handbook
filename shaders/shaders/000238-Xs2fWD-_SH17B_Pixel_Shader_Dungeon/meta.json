@@ -1,0 +1,315 @@
+{
+  "id": "Xs2fWD",
+  "name": "[SH17B] Pixel Shader Dungeon",
+  "author": "knarkowicz",
+  "description": "Greetings adventurer!\nControls: arrow keys\nTIPs:\n-Attack by walking into enemies\n-Walk into a wall to skip a turn\n-Time movement to attack first\n-Lure enemies into traps\nBased on \"Pixel Dungeon\" (http://pixeldungeon.watabou.ru/)",
+  "tags": [
+    "game",
+    "pixel",
+    "sprite",
+    "dungeon",
+    "sh17b",
+    "crawler"
+  ],
+  "publishedAt": "2017-07-24T20:46:30.000Z",
+  "publishedTimestamp": 1500929190,
+  "views": 28281,
+  "likes": 238,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 112,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xs2fWD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzr",
+          "filepath": "/media/a/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "previewfilepath": "/media/ap/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "type": "texture",
+          "channel": 3,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XsXGR8",
+          "filepath": "/media/previz/buffer01.png",
+          "previewfilepath": "/media/previz/buffer01.png",
+          "type": "buffer",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XdfGR8",
+          "filepath": "/media/previz/buffer03.png",
+          "previewfilepath": "/media/previz/buffer03.png",
+          "type": "buffer",
+          "channel": 2,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buf A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRr",
+          "filepath": "/presets/tex00.jpg",
+          "previewfilepath": "/presets/tex00.jpg",
+          "type": "keyboard",
+          "channel": 2,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XsXGR8",
+          "filepath": "/media/previz/buffer01.png",
+          "previewfilepath": "/media/previz/buffer01.png",
+          "type": "buffer",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buf B",
+      "file": "buffer_b.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XsXGR8",
+          "filepath": "/media/previz/buffer01.png",
+          "previewfilepath": "/media/previz/buffer01.png",
+          "type": "buffer",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "XsXGR8",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buf C",
+      "file": "buffer_c.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XsXGR8",
+          "filepath": "/media/previz/buffer01.png",
+          "previewfilepath": "/media/previz/buffer01.png",
+          "type": "buffer",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4sXGR8",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buf D",
+      "file": "buffer_d.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XsXGR8",
+          "filepath": "/media/previz/buffer01.png",
+          "previewfilepath": "/media/previz/buffer01.png",
+          "type": "buffer",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4sXGR8",
+          "filepath": "/media/previz/buffer02.png",
+          "previewfilepath": "/media/previz/buffer02.png",
+          "type": "buffer",
+          "channel": 2,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "MssXDB",
+          "filepath": "https://soundcloud.com/space_lion/diablo-ost-matt-uelmen-into-town",
+          "previewfilepath": "https://soundcloud.com/space_lion/diablo-ost-matt-uelmen-into-town",
+          "type": "musicstream",
+          "channel": 3,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "XdfGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

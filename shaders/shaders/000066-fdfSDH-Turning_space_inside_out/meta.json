@@ -1,0 +1,33 @@
+{
+  "id": "fdfSDH",
+  "name": "Turning space inside out",
+  "author": "tdhooper",
+  "description": "A quick demo of the transformation used in my animation, Inside, the new Outside! [url]https://twitter.com/tdhooper/status/1378746948136624128[/url]",
+  "tags": [
+    "4d",
+    "inversion"
+  ],
+  "publishedAt": "2021-04-16T00:26:39.000Z",
+  "publishedTimestamp": 1618532799,
+  "views": 1875,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/fdfSDH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

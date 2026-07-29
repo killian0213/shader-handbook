@@ -1,0 +1,35 @@
+{
+  "id": "dlKyWw",
+  "name": "SHARD NOISE",
+  "author": "ENDESGA",
+  "description": "using the splat-field (upgraded to 3D) to inject the tanh function, giving a unique metallic structure.\n'sharpness' parameter can be any value.\nclick to show the full octave-blend that's very perlin-like",
+  "tags": [
+    "3d",
+    "noise",
+    "gradient",
+    "shard"
+  ],
+  "publishedAt": "2023-11-18T10:35:14.000Z",
+  "publishedTimestamp": 1700303714,
+  "views": 4779,
+  "likes": 109,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/dlKyWw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

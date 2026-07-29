@@ -1,0 +1,46 @@
+{
+  "id": "NlcBRs",
+  "name": "Radial Tiling Truchet",
+  "author": "Shane",
+  "description": "Using elongated hexagons as a base to radially tile a plane and produce a Truchet pattern.",
+  "tags": [
+    "2d",
+    "spiral",
+    "radial",
+    "truchet",
+    "pattern",
+    "polar",
+    "polygon",
+    "tile"
+  ],
+  "publishedAt": "2022-10-25T13:50:24.000Z",
+  "publishedTimestamp": 1666705824,
+  "views": 929,
+  "likes": 87,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/NlcBRs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "mlsSWH",
+  "name": "Visualizing Curl Noise",
+  "author": "Shane",
+  "description": "Yet another curl noise demonstration. This one focuses more on presentation than procedural fluid flow, etc, so I wouldn't take the physics component too seriously.",
+  "tags": [
+    "noise",
+    "swirl",
+    "fluid",
+    "gradient",
+    "curl",
+    "warp",
+    "bump",
+    "flow",
+    "vortex"
+  ],
+  "publishedAt": "2023-01-26T14:22:18.000Z",
+  "publishedTimestamp": 1674742938,
+  "views": 4657,
+  "likes": 133,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/mlsSWH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XsBSR3",
+          "filepath": "/media/a/cb49c003b454385aa9975733aff4571c62182ccdda480aaba9a8d250014f00ec.png",
+          "previewfilepath": "/media/ap/cb49c003b454385aa9975733aff4571c62182ccdda480aaba9a8d250014f00ec.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

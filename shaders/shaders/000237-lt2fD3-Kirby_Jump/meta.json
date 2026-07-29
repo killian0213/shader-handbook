@@ -1,0 +1,33 @@
+{
+  "id": "lt2fD3",
+  "name": "Kirby Jump",
+  "author": "fizzer",
+  "description": "Kirby, from the Kirby videogames by Nintendo. Modelled purely with code, from a reference found via Google. Composed and lit for this shot only.",
+  "tags": [
+    "nintendo",
+    "kirby"
+  ],
+  "publishedAt": "2018-01-31T23:42:55.000Z",
+  "publishedTimestamp": 1517442175,
+  "views": 15186,
+  "likes": 237,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lt2fD3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

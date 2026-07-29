@@ -1,0 +1,49 @@
+{
+  "id": "4s3fDH",
+  "name": "I Have a Question!",
+  "author": "wyatt",
+  "description": "Here is my question: \nHow is it that in between the vertex and fragment shader of a graphics program, the hardware is able to rasterize millions of triangles in parallel? \nThis just seems like an impossible task and always feels like magic.",
+  "tags": [
+    "triangles",
+    "reflections"
+  ],
+  "publishedAt": "2018-04-27T21:19:08.000Z",
+  "publishedTimestamp": 1524863948,
+  "views": 3859,
+  "likes": 108,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4s3fDH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsX3zn",
+          "filepath": "/media/a/94284d43be78f00eb6b298e6d78656a1b34e2b91b34940d02f1ca8b22310e8a0.png",
+          "previewfilepath": "/media/ap/94284d43be78f00eb6b298e6d78656a1b34e2b91b34940d02f1ca8b22310e8a0.png",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

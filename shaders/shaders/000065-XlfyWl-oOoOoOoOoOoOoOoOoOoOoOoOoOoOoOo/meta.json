@@ -1,0 +1,32 @@
+{
+  "id": "XlfyWl",
+  "name": "oOoOoOoOoOoOoOoOoOoOoOoOoOoOoOo",
+  "author": "TinyTexel",
+  "description": "practical application of analytical AA for disks ( https://www.shadertoy.com/view/XtfyWs ) and\nSpherical Fibonacci Mapping ( http://lgdv.cs.fau.de/publications/publication/Pub.2015.tech.IMMD.IMMD9.spheri/ )\n",
+  "tags": [
+    "ooooo"
+  ],
+  "publishedAt": "2017-10-08T20:24:15.000Z",
+  "publishedTimestamp": 1507494255,
+  "views": 9267,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlfyWl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "MlBSDW",
+  "name": "Entangled Vines",
+  "author": "Shane",
+  "description": "Flying through an entangled vine structure at dusk.",
+  "tags": [
+    "raymarching",
+    "bisection",
+    "lattice",
+    "log",
+    "vine"
+  ],
+  "publishedAt": "2015-09-30T14:29:32.000Z",
+  "publishedTimestamp": 1443623372,
+  "views": 6371,
+  "likes": 148,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MlBSDW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsXGRn",
+          "filepath": "/media/a/cd4c518bc6ef165c39d4405b347b51ba40f8d7a065ab0e8d2e4f422cbc1e8a43.jpg",
+          "previewfilepath": "/media/ap/cd4c518bc6ef165c39d4405b347b51ba40f8d7a065ab0e8d2e4f422cbc1e8a43.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

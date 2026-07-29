@@ -1,0 +1,63 @@
+{
+  "id": "lflGRS",
+  "name": "Emissive Ikura",
+  "author": "amagitakayosi",
+  "description": "raymarching\nglow + motionblur + aberration + text",
+  "tags": [
+    "raymarching"
+  ],
+  "publishedAt": "2023-12-22T09:16:12.000Z",
+  "publishedTimestamp": 1703236572,
+  "views": 5390,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lflGRS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sfGzn",
+          "filepath": "/media/a/793a105653fbdadabdc1325ca08675e1ce48ae5f12e37973829c87bea4be3232.png",
+          "previewfilepath": "/media/ap/793a105653fbdadabdc1325ca08675e1ce48ae5f12e37973829c87bea4be3232.png",
+          "type": "cubemap",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dXGzr",
+          "filepath": "/media/a/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "previewfilepath": "/media/ap/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

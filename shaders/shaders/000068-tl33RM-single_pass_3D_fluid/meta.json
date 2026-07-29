@@ -1,0 +1,146 @@
+{
+  "id": "tl33RM",
+  "name": "single pass 3D fluid",
+  "author": "flockaroo",
+  "description": "this is basically \"molten bismuth\" shader generalized to three dimensions.\n(finally a reason to utilize the render-cubemap - at least one face of it...)",
+  "tags": [
+    "3d",
+    "fluid",
+    "cfd",
+    "singlepass"
+  ],
+  "publishedAt": "2019-12-09T15:56:02.000Z",
+  "publishedTimestamp": 1575906962,
+  "views": 2927,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 16,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tl33RM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sX3zn",
+          "filepath": "/media/a/0681c014f6c88c356cf9c0394ffe015acc94ec1474924855f45d22c3e70b5785.png",
+          "previewfilepath": "/media/ap/0681c014f6c88c356cf9c0394ffe015acc94ec1474924855f45d22c3e70b5785.png",
+          "type": "cubemap",
+          "channel": 2,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dX3Rr",
+          "filepath": "/media/a//media/previz/cubemap00.png",
+          "previewfilepath": "/media/ap//media/previz/cubemap00.png",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "cubemap",
+      "name": "Cube A",
+      "file": "cubemap.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dXGRr",
+          "filepath": "/presets/tex00.jpg",
+          "previewfilepath": "/presets/tex00.jpg",
+          "type": "keyboard",
+          "channel": 2,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dX3Rr",
+          "filepath": "/media/a//media/previz/cubemap00.png",
+          "previewfilepath": "/media/ap//media/previz/cubemap00.png",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dX3Rr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

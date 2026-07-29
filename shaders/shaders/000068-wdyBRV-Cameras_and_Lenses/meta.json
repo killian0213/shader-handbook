@@ -1,0 +1,35 @@
+{
+  "id": "wdyBRV",
+  "name": "Cameras and Lenses",
+  "author": "reinder",
+  "description": "Based on the shaders of the excellent article 'Cameras and Lenses' by @BCiechanowski: [URL]https://ciechanow.ski/cameras-and-lenses[/URL]. Use your mouse to focus.",
+  "tags": [
+    "dof",
+    "aperture",
+    "cameras",
+    "lenses"
+  ],
+  "publishedAt": "2020-12-09T10:14:50.000Z",
+  "publishedTimestamp": 1607508890,
+  "views": 2248,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wdyBRV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

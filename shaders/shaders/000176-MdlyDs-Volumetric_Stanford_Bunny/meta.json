@@ -1,0 +1,50 @@
+{
+  "id": "MdlyDs",
+  "name": "Volumetric Stanford Bunny",
+  "author": "SebH",
+  "description": "Volumetric 32x32x32 Stanford Bunny with volumetric lighting, shadow and noise.\nThe shader does not compile on some platform for some reason. Set \"VOLUME_FILTERING_NEAREST 1\" can fix that issue (Thanks Fabrice for the investigation).",
+  "tags": [
+    "voxel",
+    "volumetricscattering",
+    "stanfordbunny"
+  ],
+  "publishedAt": "2017-03-25T22:04:56.000Z",
+  "publishedTimestamp": 1490479496,
+  "views": 14569,
+  "likes": 176,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdlyDs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4df3Rr",
+          "filepath": "/media/a/3871e838723dd6b166e490664eead8ec60aedd6b8d95bc8e2fe3f882f0fd90f0.jpg",
+          "previewfilepath": "/media/ap/3871e838723dd6b166e490664eead8ec60aedd6b8d95bc8e2fe3f882f0fd90f0.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

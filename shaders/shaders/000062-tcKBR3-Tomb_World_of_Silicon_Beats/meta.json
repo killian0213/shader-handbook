@@ -1,0 +1,50 @@
+{
+  "id": "tcKBR3",
+  "name": "Tomb World of Silicon Beats",
+  "author": "mrange",
+  "description": "CC0: Tomb World of Silicon Beats\n  Now with music. No more silent silicon dreaming. \n  Music starts after 5 seconds and because browsers you might need to jiggle the controls to get it started\n\n",
+  "tags": [
+    "raymarching",
+    "planet",
+    "alien"
+  ],
+  "publishedAt": "2026-01-04T10:21:43.000Z",
+  "publishedTimestamp": 1767522103,
+  "views": 1124,
+  "likes": 62,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tcKBR3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dfGzn",
+          "filepath": "/media/a/ec8a6ea755d34600547a5353f21f0a453f9f55ff95514383b2d80b8d71283eda.mp3",
+          "previewfilepath": "/media/ap/ec8a6ea755d34600547a5353f21f0a453f9f55ff95514383b2d80b8d71283eda.mp3",
+          "type": "music",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

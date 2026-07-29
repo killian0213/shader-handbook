@@ -1,0 +1,44 @@
+{
+  "id": "MtsXzl",
+  "name": "Infinite Hermite Rectangles",
+  "author": "demofox",
+  "description": "Based on https://www.shadertoy.com/view/ltsXzl, but extended to multiple squares.  Each checkerboard square is a cubic hermite rectangle.  Could add lower frequency sine waves to look better maybe.",
+  "tags": [
+    "3d",
+    "hermite"
+  ],
+  "publishedAt": "2015-08-09T14:24:53.000Z",
+  "publishedTimestamp": 1439130293,
+  "views": 12356,
+  "likes": 83,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MtsXzl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdX3zn",
+          "filepath": "/media/a/488bd40303a2e2b9a71987e48c66ef41f5e937174bf316d3ed0e86410784b919.jpg",
+          "previewfilepath": "/media/ap/488bd40303a2e2b9a71987e48c66ef41f5e937174bf316d3ed0e86410784b919.jpg",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

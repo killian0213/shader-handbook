@@ -1,0 +1,36 @@
+{
+  "id": "XsX3zB",
+  "name": "3d simplex noise",
+  "author": "nikat",
+  "description": "3d version of Simplex Noise with commented code.\n     ( http://en.wikipedia.org/wiki/Simplex_noise )      \nThis code can't be easily extended to 4d version, because it uses vec4 to store 4 surflets. In 4d version you'll need 5 surflets.",
+  "tags": [
+    "procedural",
+    "2d",
+    "3d",
+    "noise",
+    "perlin"
+  ],
+  "publishedAt": "2013-07-03T09:48:30.000Z",
+  "publishedTimestamp": 1372844910,
+  "views": 34685,
+  "likes": 147,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsX3zB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

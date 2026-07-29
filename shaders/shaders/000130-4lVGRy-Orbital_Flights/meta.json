@@ -1,0 +1,68 @@
+{
+  "id": "4lVGRy",
+  "name": "Orbital Flights",
+  "author": "blackjero",
+  "description": "Mouse to look around. The camera switches every 30 seconds, there are currently 8 different paths.\n\nIt is meant to be slow pace / viewed at normal speed, but right arrow lets you fast forward.\n\n",
+  "tags": [
+    "clouds",
+    "earth",
+    "space",
+    "planet",
+    "atmosphere",
+    "keplerorbit"
+  ],
+  "publishedAt": "2016-09-30T12:05:30.000Z",
+  "publishedTimestamp": 1475237130,
+  "views": 10346,
+  "likes": 130,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 16,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4lVGRy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sfGRn",
+          "filepath": "/media/a/fb918796edc3d2221218db0811e240e72e340350008338b0c07a52bd353666a6.jpg",
+          "previewfilepath": "/media/ap/fb918796edc3d2221218db0811e240e72e340350008338b0c07a52bd353666a6.jpg",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dXGRr",
+          "filepath": "/presets/tex00.jpg",
+          "previewfilepath": "/presets/tex00.jpg",
+          "type": "keyboard",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

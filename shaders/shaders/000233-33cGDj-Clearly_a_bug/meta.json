@@ -1,0 +1,32 @@
+{
+  "id": "33cGDj",
+  "name": "Clearly a bug",
+  "author": "mrange",
+  "description": "CC0: Clearly a bug\n  A \"Happy Accident\" Shader\n",
+  "tags": [
+    "glow"
+  ],
+  "publishedAt": "2025-07-05T09:00:34.000Z",
+  "publishedTimestamp": 1751706034,
+  "views": 14272,
+  "likes": 233,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/33cGDj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

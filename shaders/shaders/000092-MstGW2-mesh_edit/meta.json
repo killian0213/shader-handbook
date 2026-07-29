@@ -1,0 +1,87 @@
+{
+  "id": "MstGW2",
+  "name": "mesh edit",
+  "author": "FabriceNeyret2",
+  "description": "drag nodes with mouse to edit the mesh. ",
+  "tags": [
+    "mesh",
+    "modeler"
+  ],
+  "publishedAt": "2016-01-08T22:57:26.000Z",
+  "publishedTimestamp": 1452293846,
+  "views": 11012,
+  "likes": 92,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MstGW2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    },
+    {
+      "type": "buffer",
+      "name": "Buf A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

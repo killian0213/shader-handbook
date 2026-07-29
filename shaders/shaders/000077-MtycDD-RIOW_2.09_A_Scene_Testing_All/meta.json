@@ -1,0 +1,82 @@
+{
+  "id": "MtycDD",
+  "name": "RIOW 2.09: A Scene Testing All",
+  "author": "reinder",
+  "description": "These shaders are my implementation of the ray/path tracer described in the book \"Raytracing in one weekend\" by Peter Shirley. - DOF and motion blur; boxes, spheres and constant mediums; Lambertian, dielectric, isotropic, emissive and metal materials -",
+  "tags": [
+    "raytracing",
+    "ray",
+    "tracer",
+    "one",
+    "in",
+    "path",
+    "weekend"
+  ],
+  "publishedAt": "2018-09-07T15:09:54.000Z",
+  "publishedTimestamp": 1536332994,
+  "views": 7364,
+  "likes": 77,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MtycDD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

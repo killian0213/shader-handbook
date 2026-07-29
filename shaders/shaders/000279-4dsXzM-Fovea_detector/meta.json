@@ -1,0 +1,28 @@
+{
+  "id": "4dsXzM",
+  "name": "Fovea detector",
+  "author": "nimitz",
+  "description": "Look at any specific point and you should clearly see the extent of your fovea (the stars only seem to be rotating in a small circle at the center of your vision). Move your head back and forth to see it grow/shrink. Works better in full screen mode.",
+  "tags": [
+    "2d",
+    "illusion"
+  ],
+  "publishedAt": "2014-04-26T06:35:10.000Z",
+  "publishedTimestamp": 1398494110,
+  "views": 157022,
+  "likes": 279,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dsXzM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

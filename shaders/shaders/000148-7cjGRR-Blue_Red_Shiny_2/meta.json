@@ -1,0 +1,33 @@
+{
+  "id": "7cjGRR",
+  "name": "Blue Red Shiny 2",
+  "author": "diatribes",
+  "description": "Blue Red Shiny 2",
+  "tags": [
+    "tunnel",
+    "raymarch"
+  ],
+  "publishedAt": "2026-03-15T15:33:15.000Z",
+  "publishedTimestamp": 1773588795,
+  "views": 10162,
+  "likes": 148,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7cjGRR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

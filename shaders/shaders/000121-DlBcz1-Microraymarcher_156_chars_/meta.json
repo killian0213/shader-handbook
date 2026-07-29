@@ -1,0 +1,38 @@
+{
+  "id": "DlBcz1",
+  "name": "Microraymarcher (156 chars)",
+  "author": "iq",
+  "description": "Writing a raymarching shader using only the two input variables, no temporaries.",
+  "tags": [
+    "3d",
+    "sdf",
+    "raymarcher",
+    "tweet",
+    "micro",
+    "golf",
+    "size"
+  ],
+  "publishedAt": "2023-08-07T22:54:21.000Z",
+  "publishedTimestamp": 1691448861,
+  "views": 5256,
+  "likes": 121,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/DlBcz1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

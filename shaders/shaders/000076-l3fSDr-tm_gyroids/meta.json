@@ -1,0 +1,32 @@
+{
+  "id": "l3fSDr",
+  "name": "tm gyroids",
+  "author": "tubeman",
+  "description": "a",
+  "tags": [
+    "gyroids"
+  ],
+  "publishedAt": "2024-03-02T09:38:03.000Z",
+  "publishedTimestamp": 1709372283,
+  "views": 4282,
+  "likes": 76,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/l3fSDr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

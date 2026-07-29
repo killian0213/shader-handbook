@@ -1,0 +1,37 @@
+{
+  "id": "lfVBRW",
+  "name": "Graphic Designer VS Programmer",
+  "author": "servostar",
+  "description": "Recreation of the \"Graphic Designer VS Programmer\" meme.\nA variant of the meme can be found on YouTube: https://www.youtube.com/watch?v=5qHHm7ooavo\nNote that this is not an exact recreation but rather a proof of concept.",
+  "tags": [
+    "cycle",
+    "night",
+    "ui",
+    "challenge",
+    "button",
+    "day"
+  ],
+  "publishedAt": "2024-12-10T22:45:32.000Z",
+  "publishedTimestamp": 1733870732,
+  "views": 3355,
+  "likes": 74,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lfVBRW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

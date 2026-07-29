@@ -1,0 +1,52 @@
+{
+  "id": "Ds3XRl",
+  "name": "Procedural Blue Planet",
+  "author": "jsulpis",
+  "description": "Procedural planet made with raycasting and FBM noises.\n\nI made a web page with a GUI to tweak some uniforms (and it's more optimized than this one):\n[url]https://jsulpis.github.io/realtime-planet-shader/procedural[/url]",
+  "tags": [
+    "procedural",
+    "raycasting",
+    "fbm",
+    "space",
+    "planet"
+  ],
+  "publishedAt": "2023-03-30T21:23:56.000Z",
+  "publishedTimestamp": 1680211436,
+  "views": 2794,
+  "likes": 61,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Ds3XRl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sfGRr",
+          "filepath": "/media/a/27012b4eadd0c3ce12498b867058e4f717ce79e10a99568cca461682d84a4b04.bin",
+          "previewfilepath": "/media/ap/27012b4eadd0c3ce12498b867058e4f717ce79e10a99568cca461682d84a4b04.bin",
+          "type": "volume",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

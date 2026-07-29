@@ -1,0 +1,33 @@
+{
+  "id": "lsX3WH",
+  "name": "A lot of spheres",
+  "author": "reinder",
+  "description": "Simple raytracer showing a lot of spheres and light sources. A grid is used as an acceleration structure.",
+  "tags": [
+    "raytracer",
+    "spheres"
+  ],
+  "publishedAt": "2013-05-14T15:56:09.000Z",
+  "publishedTimestamp": 1368546969,
+  "views": 27727,
+  "likes": 160,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsX3WH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

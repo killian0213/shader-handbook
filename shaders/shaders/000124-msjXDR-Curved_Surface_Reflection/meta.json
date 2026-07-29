@@ -1,0 +1,83 @@
+{
+  "id": "msjXDR",
+  "name": "Curved Surface Reflection",
+  "author": "NuSan",
+  "description": "Test reflection of rays on curved surface\nClick and drag on the control points to change the surface\nTop-left knob control the \"spread\" of the emitted light\nOther settings are in the \"Common\" tab",
+  "tags": [
+    "2d"
+  ],
+  "publishedAt": "2022-12-04T17:12:59.000Z",
+  "publishedTimestamp": 1670173979,
+  "views": 2637,
+  "likes": 124,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/msjXDR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

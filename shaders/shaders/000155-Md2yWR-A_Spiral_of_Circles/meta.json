@@ -1,0 +1,35 @@
+{
+  "id": "Md2yWR",
+  "name": "A Spiral of Circles",
+  "author": "knarkowicz",
+  "description": "Reference GIF by Dave Whyte\nhttps://inspirationfeeed.files.wordpress.com/2014/09/gif10.gif",
+  "tags": [
+    "procedural",
+    "2d",
+    "gif",
+    "copyagif"
+  ],
+  "publishedAt": "2017-04-09T17:24:30.000Z",
+  "publishedTimestamp": 1491758670,
+  "views": 4877,
+  "likes": 155,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Md2yWR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

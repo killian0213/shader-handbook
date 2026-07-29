@@ -1,0 +1,37 @@
+{
+  "id": "4lK3Rc",
+  "name": "Heart - 3D",
+  "author": "iq",
+  "description": "Code for the making of this video: [url]https://www.youtube.com/watch?v=aNR4n0i2ZlM[/url]",
+  "tags": [
+    "procedural",
+    "3d",
+    "raymarching",
+    "video",
+    "tutorial",
+    "heart"
+  ],
+  "publishedAt": "2017-02-24T09:23:38.000Z",
+  "publishedTimestamp": 1487928218,
+  "views": 17680,
+  "likes": 108,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4lK3Rc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

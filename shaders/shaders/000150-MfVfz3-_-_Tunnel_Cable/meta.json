@@ -1,0 +1,32 @@
+{
+  "id": "MfVfz3",
+  "name": "大龙猫 - Tunnel Cable",
+  "author": "totetmatt",
+  "description": "tunnel runner",
+  "tags": [
+    "tunnel"
+  ],
+  "publishedAt": "2024-12-15T22:15:35.000Z",
+  "publishedTimestamp": 1734300935,
+  "views": 23420,
+  "likes": 150,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MfVfz3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

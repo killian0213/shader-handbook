@@ -1,0 +1,35 @@
+{
+  "id": "4slSD8",
+  "name": "Möbius Strip",
+  "author": "vgs",
+  "description": "Watch the strip transforming into a torus. Click to rotate.",
+  "tags": [
+    "3d",
+    "raymarch",
+    "mobius",
+    "implicit"
+  ],
+  "publishedAt": "2014-05-15T00:51:25.000Z",
+  "publishedTimestamp": 1400115085,
+  "views": 7137,
+  "likes": 95,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4slSD8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "ls2SDD",
+  "name": "Unreal Intro",
+  "author": "fizzer",
+  "description": "A remake of the castle fly-by sequence from the classic 90's videogame Unreal. The geometry is converted directly from the level data and I made everything else myself. \"Alter your reality...forever\".\nhttp://www.youtube.com/watch?v=26I-Pw-yPJ4",
+  "tags": [
+    "procedural",
+    "videogame",
+    "flyby",
+    "unreal"
+  ],
+  "publishedAt": "2014-10-03T20:32:21.000Z",
+  "publishedTimestamp": 1412368341,
+  "views": 22841,
+  "likes": 164,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ls2SDD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

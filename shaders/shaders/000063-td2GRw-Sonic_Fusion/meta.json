@@ -1,0 +1,49 @@
+{
+  "id": "td2GRw",
+  "name": "Sonic Fusion",
+  "author": "BigWIngs",
+  "description": "Watch fullscreen with sound till the end! Use mouse to scrub time.",
+  "tags": [
+    "torus",
+    "music"
+  ],
+  "publishedAt": "2019-01-28T02:28:57.000Z",
+  "publishedTimestamp": 1548642537,
+  "views": 6107,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/td2GRw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "llsGWr",
+          "filepath": "https://soundcloud.com/mamulashvili1/daft-punk-beyond-nicolas-jaar-feat-dave-harrington-remix",
+          "previewfilepath": "https://soundcloud.com/mamulashvili1/daft-punk-beyond-nicolas-jaar-feat-dave-harrington-remix",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

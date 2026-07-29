@@ -1,0 +1,65 @@
+{
+  "id": "3dlBWH",
+  "name": "one line britney",
+  "author": "flockaroo",
+  "description": "Hilb-Toning: halftoning using a hilbert curve in different scales.\nmove mouse to adjust detail\n\n...btw this effect is also available for AfterEffects and OpenFX (e.g. Nuke, DaVinci, Natron) here: [url]https://10xfx.com?package=pack2[/url]\n",
+  "tags": [
+    "effect",
+    "halftone",
+    "hilbert"
+  ],
+  "publishedAt": "2020-04-29T14:08:46.000Z",
+  "publishedTimestamp": 1588169326,
+  "views": 2009,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3dlBWH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xdf3Rn",
+          "filepath": "/media/a/e81e818ac76a8983d746784b423178ee9f6cdcdf7f8e8d719341a6fe2d2ab303.webm",
+          "previewfilepath": "/media/ap/e81e818ac76a8983d746784b423178ee9f6cdcdf7f8e8d719341a6fe2d2ab303.webm",
+          "type": "video",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

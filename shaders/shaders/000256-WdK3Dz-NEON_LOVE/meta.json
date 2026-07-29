@@ -1,0 +1,45 @@
+{
+  "id": "WdK3Dz",
+  "name": "NEON LOVE",
+  "author": "alro",
+  "description": "Quadratic Bezier curve SDF with glow. Using distance function from [url]https://www.shadertoy.com/view/MlKcDD[/url]\n\nAt sharp turns, the SDF has creases in the far field. Smooth minimum functions seem to distort low values. Is there a fix for this?",
+  "tags": [
+    "2d",
+    "sdf",
+    "bezier",
+    "heart",
+    "glow",
+    "curve",
+    "neon"
+  ],
+  "publishedAt": "2019-10-02T22:27:34.000Z",
+  "publishedTimestamp": 1570055254,
+  "views": 16820,
+  "likes": 256,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WdK3Dz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

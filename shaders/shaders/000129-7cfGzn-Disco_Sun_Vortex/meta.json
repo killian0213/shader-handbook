@@ -1,0 +1,33 @@
+{
+  "id": "7cfGzn",
+  "name": "Disco Sun Vortex",
+  "author": "workingclasshacker",
+  "description": "Disco Sun is a raymarched corkscrew tunnel wrapped in a warm cosine palette.\nDepth-driven rotation shapes the solar vortex while a time-gated matrix of pulsating dots overlays rhythmic energy.",
+  "tags": [
+    "raymarching",
+    "abstract"
+  ],
+  "publishedAt": "2026-03-01T09:28:47.000Z",
+  "publishedTimestamp": 1772357327,
+  "views": 11537,
+  "likes": 129,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7cfGzn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

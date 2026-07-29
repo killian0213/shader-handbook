@@ -1,0 +1,49 @@
+{
+  "id": "ldB3Rz",
+  "name": "Larval",
+  "author": "P_Malin",
+  "description": "Some kind of alien fractal thingy.\nA hacked together KIFS doodle.\nThe fractal parameters aren't that exciting but I like the pretty colours :D",
+  "tags": [
+    "glow",
+    "kifs"
+  ],
+  "publishedAt": "2014-05-28T22:29:01.000Z",
+  "publishedTimestamp": 1401316141,
+  "views": 26181,
+  "likes": 151,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 1,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldB3Rz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsfGzn",
+          "filepath": "/media/a/585f9546c092f53ded45332b343144396c0b2d70d9965f585ebc172080d8aa58.jpg",
+          "previewfilepath": "/media/ap/585f9546c092f53ded45332b343144396c0b2d70d9965f585ebc172080d8aa58.jpg",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

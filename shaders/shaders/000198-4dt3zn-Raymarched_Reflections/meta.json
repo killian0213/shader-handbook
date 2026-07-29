@@ -1,0 +1,35 @@
+{
+  "id": "4dt3zn",
+  "name": "Raymarched Reflections",
+  "author": "Shane",
+  "description": "A very basic demonstration of raymarching a distance field with reflections and shadows. Definitely not cutting edge, but hopefully, interesting to anyone who isn't quite familiar with the process.",
+  "tags": [
+    "raymarching",
+    "reflection",
+    "cubes",
+    "rounded"
+  ],
+  "publishedAt": "2015-11-17T15:17:08.000Z",
+  "publishedTimestamp": 1447773428,
+  "views": 21258,
+  "likes": 198,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dt3zn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

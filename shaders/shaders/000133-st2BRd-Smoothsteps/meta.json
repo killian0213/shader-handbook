@@ -1,0 +1,33 @@
+{
+  "id": "st2BRd",
+  "name": "Smoothsteps",
+  "author": "iq",
+  "description": "Alll the smoothstep described in [url=https://iquilezles.org/articles/smoothsteps/]this article[/url]. Polynomial, Rational, Piecewise Polynomial and Trigonometric, paired with their first and second derivatives.",
+  "tags": [
+    "2d",
+    "smoothstep"
+  ],
+  "publishedAt": "2022-05-17T00:12:43.000Z",
+  "publishedTimestamp": 1652746363,
+  "views": 6240,
+  "likes": 133,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/st2BRd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

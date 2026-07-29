@@ -1,0 +1,35 @@
+{
+  "id": "3cjcWD",
+  "name": "Night Cloud Dance",
+  "author": "diatribes",
+  "description": "Night Cloud Dance",
+  "tags": [
+    "raymarch",
+    "cloud",
+    "small",
+    "short"
+  ],
+  "publishedAt": "2025-08-31T15:08:02.000Z",
+  "publishedTimestamp": 1756652882,
+  "views": 1643,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3cjcWD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

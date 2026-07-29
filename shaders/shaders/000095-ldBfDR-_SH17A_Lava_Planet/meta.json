@@ -1,0 +1,82 @@
+{
+  "id": "ldBfDR",
+  "name": "[SH17A] Lava Planet",
+  "author": "P_Malin",
+  "description": "280 character entry for Round 1 of the 2017 Shadertoy competition https://www.shadertoy.com/events/competition\n\nThere was more potential in this code so I made a variation without the 280 character limit here: https://www.shadertoy.com/view/4dBBDD",
+  "tags": [
+    "terrain",
+    "lava",
+    "2tweets",
+    "2tweet",
+    "sh17a"
+  ],
+  "publishedAt": "2017-07-14T13:56:13.000Z",
+  "publishedTimestamp": 1500040573,
+  "views": 37820,
+  "likes": 95,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldBfDR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4df3Rr",
+          "filepath": "/media/a/3871e838723dd6b166e490664eead8ec60aedd6b8d95bc8e2fe3f882f0fd90f0.jpg",
+          "previewfilepath": "/media/ap/3871e838723dd6b166e490664eead8ec60aedd6b8d95bc8e2fe3f882f0fd90f0.jpg",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XdXGzr",
+          "filepath": "/media/a/8979352a182bde7c3c651ba2b2f4e0615de819585cc37b7175bcefbca15a6683.jpg",
+          "previewfilepath": "/media/ap/8979352a182bde7c3c651ba2b2f4e0615de819585cc37b7175bcefbca15a6683.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XdsSRs",
+          "filepath": "https://soundcloud.com/eat-static-official/uforic-undulance",
+          "previewfilepath": "https://soundcloud.com/eat-static-official/uforic-undulance",
+          "type": "musicstream",
+          "channel": 2,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

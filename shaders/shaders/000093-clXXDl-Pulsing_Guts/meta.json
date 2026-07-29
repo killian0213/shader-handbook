@@ -1,0 +1,34 @@
+{
+  "id": "clXXDl",
+  "name": "Pulsing Guts",
+  "author": "jairoandre",
+  "description": "Interesting shader that I saw a few days ago on Twitter. Props for the author:\nhttps://twitter.com/zozuar/status/1621229990267310081",
+  "tags": [
+    "organic",
+    "disgusting",
+    "guts"
+  ],
+  "publishedAt": "2023-02-03T20:21:47.000Z",
+  "publishedTimestamp": 1675455707,
+  "views": 2271,
+  "likes": 93,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/clXXDl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

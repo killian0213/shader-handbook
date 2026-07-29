@@ -1,0 +1,111 @@
+{
+  "id": "X3ySRc",
+  "name": "Alien Tunnel",
+  "author": "lz",
+  "description": "Exploring breathing alien tunnel.",
+  "tags": [
+    "3d",
+    "gyroid"
+  ],
+  "publishedAt": "2024-07-08T15:45:54.000Z",
+  "publishedTimestamp": 1720453554,
+  "views": 11401,
+  "likes": 100,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/X3ySRc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsXGR8",
+          "filepath": "/media/previz/buffer01.png",
+          "previewfilepath": "/media/previz/buffer01.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer B",
+      "file": "buffer_b.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 3,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "XsXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3dVfDc",
+  "name": "Decorated Christmas Spiral",
+  "author": "sylvain69780",
+  "description": "It's Christmas time for Math's lovers !\n[url=https://www.shadertoy.com/view/stB3WK]SDF for Archimedean Spiral[/url]",
+  "tags": [
+    "christmas",
+    "spiral",
+    "archimed"
+  ],
+  "publishedAt": "2020-12-16T17:03:21.000Z",
+  "publishedTimestamp": 1608138201,
+  "views": 9266,
+  "likes": 115,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3dVfDc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

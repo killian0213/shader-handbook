@@ -1,0 +1,80 @@
+{
+  "id": "ltKGzc",
+  "name": "Rhodium Fractalscape",
+  "author": "Virgill",
+  "description": "Fractalscape effect from Rhodium 4k Intro\n4kb executable: http://www.pouet.net/prod.php?which=68239\nhttps://www.youtube.com/watch?v=YK7fbtQw3ZU\n",
+  "tags": [
+    "demoscene",
+    "dof",
+    "spheretracing",
+    "kifs",
+    "colorsplit",
+    "crystal"
+  ],
+  "publishedAt": "2016-10-09T14:25:28.000Z",
+  "publishedTimestamp": 1476023128,
+  "views": 12192,
+  "likes": 144,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 96,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltKGzc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dBGzm",
+          "filepath": "https://soundcloud.com/virgill/4klang-rhodium",
+          "previewfilepath": "https://soundcloud.com/virgill/4klang-rhodium",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buf A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ls33DN",
+  "name": "70s Wallpaper",
+  "author": "Shane",
+  "description": "A 2D, square Truchet pattern, in under a tweet.",
+  "tags": [
+    "2d",
+    "truchet",
+    "pattern",
+    "minimal",
+    "tweet",
+    "golf",
+    "minified"
+  ],
+  "publishedAt": "2015-12-09T13:31:58.000Z",
+  "publishedTimestamp": 1449667918,
+  "views": 4066,
+  "likes": 82,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ls33DN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

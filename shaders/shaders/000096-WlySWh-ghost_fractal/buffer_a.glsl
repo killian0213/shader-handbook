@@ -1,0 +1,99 @@
+// Buffer A (buffer) — ghost fractal by loicvdb
+// https://www.shadertoy.com/view/WlySWh
+
+#define Pi 3.14159265359
+
+//set to 1 for a higher quality version
+#define HD 0
+
+#if HD
+    #define FogSteps 128
+    #define ShadowSteps 8
+#else
+    #define FogSteps 64
+    #define ShadowSteps 4
+#endif
+
+#define FogRange 5.
+#define ShadowRange 2.
+
+#define ShadowSampleBias 2.
+#define FogSampleBias 2.
+
+#define MaxIterations 50
+
+#define Anisotropy .4
+
+vec3 VolumeColor;
+vec3 CamPos = vec3(0., 0., -2.2);
+vec3 CamRot = vec3(-.2, 0., 0.);
+float CamFocalLength = .7;
+vec3 LightRot = vec3(1., 0., 0.);
+vec3 LightCol = vec3(5.);
+
+mat3 rotationMatrix(vec3 rotEuler){
+    float c = cos(rotEuler.x), s = sin(rotEuler.x);
+    mat3 rx = mat3(1, 0, 0, 0, c, -s, 0, s, c);
+    c = cos(rotEuler.y), s = sin(rotEuler.y);
+    mat3 ry = mat3(c, 0, -s, 0, 1, 0, s, 0, c);
+    c = cos(rotEuler.z), s = sin(rotEuler.z);
+    mat3 rz = mat3(c, -s, 0, s, c, 0, 0, 0, 1);
+    return rz * rx * ry;
+}
+
+float henyeyGreenstein(vec3 dirI, vec3 dirO){
+ 	return Pi/4.*(1.-Anisotropy*Anisotropy) / pow(1.+Anisotropy*(Anisotropy-2.*dot(dirI, dirO)), 1.5);
+}
+
+int julia(vec2 z, vec2 c){
+    for(int i = 0; i < 12; i++){
+        z = vec2(z.x*z.x - z.y*z.y, 2.*z.x*z.y) + c;
+        if(z.x*z.x+z.y*z.y > 4.) return i;
+    }
+    return MaxIterations;
+}
+
+float density(vec3 pos){
+    float angle = iTime*.3;
+    vec2 c = vec2(pos.x*cos(angle)+pos.y*sin(angle),
+             	  pos.y*cos(angle)-pos.x*sin(angle));
+    return float(julia(pos.xz, c))*.2+.1;
+}
+
+vec3 directLight(vec3 pos, vec3 dir, float headStart){
+    vec3 lightDir = vec3(0., 0., 1.) * rotationMatrix(LightRot);
+    vec3 pos0 = pos, oldPos, volAbs = vec3(1.);
+    float stepDist;
+    for(int i = 0; i < ShadowSteps; i++){
+        oldPos = pos;
+        pos = pos0 - lightDir * pow((float(i)+headStart) / float(ShadowSteps), ShadowSampleBias) * ShadowRange;
+        volAbs *= vec3(exp(-density(pos)*length(pos-oldPos)*VolumeColor));
+    }
+    return LightCol * volAbs * henyeyGreenstein(-lightDir, dir);
+}
+
+void mainImage(out vec4 fragColor, in vec2 fragCoord){
+    
+    vec2 uv = (fragCoord-iResolution.xy/2.0) / iResolution.y;
+    
+    VolumeColor = vec3(cos(iTime*.5), sin(iTime*.4), sin(iTime*.3))*.35+.5;
+    CamRot.y += iTime*.3;
+    LightRot.y -= iTime*.25;
+    
+    CamPos *= rotationMatrix(CamRot);
+    vec3 dir = normalize(vec3(uv, CamFocalLength)) * rotationMatrix(CamRot);
+    
+    float headStartCam = texture(iChannel0, (fragCoord+vec2(iFrame*50))/iChannelResolution[0].xy).a;
+    float headStartShadow = texture(iChannel0, (fragCoord+vec2(5+iFrame*50))/iChannelResolution[0].xy).a;
+    
+    vec3 volCol = vec3(0.), volAbs = vec3(1.), pos = CamPos, oldPos, stepAbs, stepCol;
+    for(int i = 0; i < FogSteps; i++){
+        oldPos = pos;
+        pos = CamPos + dir * pow((float(i)+headStartCam) / float(FogSteps), FogSampleBias) * FogRange;
+        stepAbs = exp(-density(pos)*length(pos-oldPos)*VolumeColor);
+        stepCol = vec3(1.)-stepAbs;
+        volCol += stepCol*volAbs*directLight(pos, dir, headStartShadow);
+        volAbs *= stepAbs;
+    }
+    fragColor = vec4(volCol, 1.);
+}

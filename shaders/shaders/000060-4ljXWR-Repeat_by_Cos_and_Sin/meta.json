@@ -1,0 +1,33 @@
+{
+  "id": "4ljXWR",
+  "name": "Repeat by Cos and Sin",
+  "author": "aiekick",
+  "description": "A simple sphere with the shane func \"voronesque\" as displaced.\nThe sphere is repeated with some deformation due to the use of cos and sin instead of mod.\nclick on cell to see it fullscreen",
+  "tags": [
+    "3d",
+    "raymarching",
+    "sin",
+    "cos",
+    "mod",
+    "repeat",
+    "voronesque"
+  ],
+  "publishedAt": "2015-09-21T20:58:55.000Z",
+  "publishedTimestamp": 1442869135,
+  "views": 3410,
+  "likes": 60,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4ljXWR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

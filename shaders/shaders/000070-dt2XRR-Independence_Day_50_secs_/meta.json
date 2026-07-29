@@ -1,0 +1,41 @@
+{
+  "id": "dt2XRR",
+  "name": "Independence Day (50 secs)",
+  "author": "dean_the_coder",
+  "description": "Based on the Independence Day movie.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "space",
+    "fog",
+    "glow",
+    "stars",
+    "modelling",
+    "lazer",
+    "movie",
+    "cineshader"
+  ],
+  "publishedAt": "2023-02-05T13:49:40.000Z",
+  "publishedTimestamp": 1675604980,
+  "views": 5042,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/dt2XRR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

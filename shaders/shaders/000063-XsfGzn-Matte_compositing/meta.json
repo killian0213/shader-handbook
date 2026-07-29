@@ -1,0 +1,65 @@
+{
+  "id": "XsfGzn",
+  "name": "Matte compositing",
+  "author": "iq",
+  "description": "A simple green screen image comping",
+  "tags": [
+    "2d",
+    "chroma",
+    "chroma",
+    "greenscreen",
+    "chromakey",
+    "matte",
+    "compositing",
+    "despill"
+  ],
+  "publishedAt": "2013-01-02T14:27:09.000Z",
+  "publishedTimestamp": 1357136829,
+  "views": 11921,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsfGzn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sX3Rn",
+          "filepath": "/media/a/c3a071ecf273428bc72fc72b2dd972671de8da420a2d4f917b75d20e1c24b34c.ogv",
+          "previewfilepath": "/media/ap/c3a071ecf273428bc72fc72b2dd972671de8da420a2d4f917b75d20e1c24b34c.ogv",
+          "type": "video",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XdfGRr",
+          "filepath": "/media/a/35c87bcb8d7af24c54d41122dadb619dd920646a0bd0e477e7bdc6d12876df17.webm",
+          "previewfilepath": "/media/ap/35c87bcb8d7af24c54d41122dadb619dd920646a0bd0e477e7bdc6d12876df17.webm",
+          "type": "video",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

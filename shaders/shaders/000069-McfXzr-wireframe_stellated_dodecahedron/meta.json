@@ -1,0 +1,80 @@
+{
+  "id": "McfXzr",
+  "name": "wireframe stellated dodecahedron",
+  "author": "ChunderFPV",
+  "description": "Just playing around with Fabrice's wireframe code: https://www.shadertoy.com/view/XfS3DK.  The P key toggles between perspective & orthogonal view.",
+  "tags": [
+    "3d",
+    "blur",
+    "wireframe",
+    "dodecahedron",
+    "stellated"
+  ],
+  "publishedAt": "2024-01-10T00:45:50.000Z",
+  "publishedTimestamp": 1704847550,
+  "views": 1697,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 48,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/McfXzr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRr",
+          "filepath": "/presets/tex00.jpg",
+          "previewfilepath": "/presets/tex00.jpg",
+          "type": "keyboard",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

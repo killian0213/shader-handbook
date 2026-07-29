@@ -1,0 +1,64 @@
+{
+  "id": "4l2BW3",
+  "name": "Common shader Tab",
+  "author": "iq",
+  "description": "This shader shows how to use the Common tab in Shadertoy. All tabs inherit the code of the Common tab. Here, that's used to get the Image and the Sound shader to conveniently share the music pattern generator, so they can display and play it respectively.",
+  "tags": [
+    "2d",
+    "shadertoy",
+    "common"
+  ],
+  "publishedAt": "2018-02-02T06:58:26.000Z",
+  "publishedTimestamp": 1517554706,
+  "views": 4007,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4l2BW3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

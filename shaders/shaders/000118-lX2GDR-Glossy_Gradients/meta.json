@@ -1,0 +1,33 @@
+{
+  "id": "lX2GDR",
+  "name": "Glossy Gradients",
+  "author": "Peace",
+  "description": "Glossy Gradients",
+  "tags": [
+    "gradient",
+    "glossy"
+  ],
+  "publishedAt": "2024-02-19T20:27:13.000Z",
+  "publishedTimestamp": 1708374433,
+  "views": 7085,
+  "likes": 118,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lX2GDR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

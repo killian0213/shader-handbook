@@ -1,0 +1,30 @@
+{
+  "id": "4sB3D1",
+  "name": "Lanterns",
+  "author": "iq",
+  "description": "Another example of using a 2D grid to accelerate raytracing (of procedural content in this case). The lighting is shadowless this time, that's why it's fast. The ambient occlusion is half-procedural, half-analytical.",
+  "tags": [
+    "procedural",
+    "3d",
+    "raytracing",
+    "grid"
+  ],
+  "publishedAt": "2013-12-12T07:44:35.000Z",
+  "publishedTimestamp": 1386834275,
+  "views": 17598,
+  "likes": 127,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sB3D1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

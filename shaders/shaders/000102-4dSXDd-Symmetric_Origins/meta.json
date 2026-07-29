@@ -1,0 +1,29 @@
+{
+  "id": "4dSXDd",
+  "name": "Symmetric Origins",
+  "author": "otaviogood",
+  "description": "A fractal that behaves like a Rubik's cube with a bit of a dyson sphere feel.",
+  "tags": [
+    "procedural",
+    "fractal",
+    "raymarch"
+  ],
+  "publishedAt": "2014-11-27T22:26:38.000Z",
+  "publishedTimestamp": 1417127198,
+  "views": 9305,
+  "likes": 102,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dSXDd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "Xlf3Rj",
+  "name": "Creepy Mountains",
+  "author": "Kali",
+  "description": "A random tree generator, some birds (or bats... or something with wings), sine/noise waves for the terrains, a bit of fog, and finally kind of a volumetric light effect.",
+  "tags": [
+    "2d"
+  ],
+  "publishedAt": "2014-01-05T05:24:40.000Z",
+  "publishedTimestamp": 1388899480,
+  "views": 4891,
+  "likes": 136,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xlf3Rj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

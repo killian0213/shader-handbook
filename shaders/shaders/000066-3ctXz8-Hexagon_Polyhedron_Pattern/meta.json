@@ -1,0 +1,54 @@
+{
+  "id": "3ctXz8",
+  "name": "Hexagon Polyhedron Pattern",
+  "author": "Shane",
+  "description": "Combining two different sized hexagon grids to produce a pattern reminiscent of stacked polyhedrons.",
+  "tags": [
+    "2d",
+    "hexagon",
+    "isometric",
+    "pattern",
+    "tile",
+    "polyhedron",
+    "faux"
+  ],
+  "publishedAt": "2025-06-06T15:02:22.000Z",
+  "publishedTimestamp": 1749222142,
+  "views": 532,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3ctXz8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGRn",
+          "filepath": "/media/a/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "previewfilepath": "/media/ap/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

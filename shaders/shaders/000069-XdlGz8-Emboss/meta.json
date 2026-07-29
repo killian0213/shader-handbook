@@ -1,0 +1,45 @@
+{
+  "id": "XdlGz8",
+  "name": "Emboss",
+  "author": "P_Malin",
+  "description": "Using a sobel filter to create a normal map and then applying simple lighting.\nClick mouse to move light.",
+  "tags": [
+    "2d",
+    "sobel",
+    "postprocessing"
+  ],
+  "publishedAt": "2013-03-06T10:36:58.000Z",
+  "publishedTimestamp": 1362566218,
+  "views": 5401,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdlGz8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdfGRn",
+          "filepath": "/media/a/e6e5631ce1237ae4c05b3563eda686400a401df4548d0f9fad40ecac1659c46c.jpg",
+          "previewfilepath": "/media/ap/e6e5631ce1237ae4c05b3563eda686400a401df4548d0f9fad40ecac1659c46c.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

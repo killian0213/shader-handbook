@@ -1,0 +1,53 @@
+{
+  "id": "sdsXWf",
+  "name": "Ukiyo-e Japanese Woodblock Print",
+  "author": "ircss",
+  "description": "A ukiyo a inspired shader. Inspired by a Shin hanga Kawase Hasui piece known as Road to Arayu, Shiobara. You can find the original here https://artsandculture.google.com/asset/road-to-arayu-shiobara-artist-kawase-hasui-publisher-s-watanabe-color-print-co/",
+  "tags": [
+    "2d",
+    "landscape",
+    "painting",
+    "japanese",
+    "reproduction",
+    "ukiyoe"
+  ],
+  "publishedAt": "2021-06-02T10:12:16.000Z",
+  "publishedTimestamp": 1622628736,
+  "views": 1901,
+  "likes": 83,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/sdsXWf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

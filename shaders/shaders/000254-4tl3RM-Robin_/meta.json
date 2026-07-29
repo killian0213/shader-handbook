@@ -1,0 +1,110 @@
+{
+  "id": "4tl3RM",
+  "name": "Robin ",
+  "author": "Dave_Hoskins",
+  "description": "The winter Robin - a UK resident bird.\nThey occasionally sing at night next to street lights.\nDespite their cute appearance, they are aggressively territorial.\nUpdate: Background birds now answer back.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "sound",
+    "antialiasing",
+    "vr",
+    "robin"
+  ],
+  "publishedAt": "2015-01-02T17:56:56.000Z",
+  "publishedTimestamp": 1420221416,
+  "views": 21783,
+  "likes": 254,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tl3RM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGRn",
+          "filepath": "/media/a/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "previewfilepath": "/media/ap/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XsX3zn",
+          "filepath": "/media/a/94284d43be78f00eb6b298e6d78656a1b34e2b91b34940d02f1ca8b22310e8a0.png",
+          "previewfilepath": "/media/ap/94284d43be78f00eb6b298e6d78656a1b34e2b91b34940d02f1ca8b22310e8a0.png",
+          "type": "cubemap",
+          "channel": 2,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4sX3zn",
+          "filepath": "/media/a/0681c014f6c88c356cf9c0394ffe015acc94ec1474924855f45d22c3e70b5785.png",
+          "previewfilepath": "/media/ap/0681c014f6c88c356cf9c0394ffe015acc94ec1474924855f45d22c3e70b5785.png",
+          "type": "cubemap",
+          "channel": 3,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "XsfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

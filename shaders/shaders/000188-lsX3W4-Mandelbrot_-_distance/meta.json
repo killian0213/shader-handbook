@@ -1,0 +1,35 @@
+{
+  "id": "lsX3W4",
+  "name": "Mandelbrot - distance",
+  "author": "iq",
+  "description": "Distance estimation to the Mandelbrot set. Basically, distance(c) = |G(c)|/|G'(c))|. More info in url=https://iquilezles.org/articles/distancefractals]this article[/url].",
+  "tags": [
+    "2d",
+    "fractal",
+    "mandelbrot",
+    "distance"
+  ],
+  "publishedAt": "2013-05-31T02:24:22.000Z",
+  "publishedTimestamp": 1369967062,
+  "views": 62805,
+  "likes": 188,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsX3W4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

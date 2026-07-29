@@ -1,0 +1,35 @@
+{
+  "id": "XddcWn",
+  "name": "A Fast Voxel Traversal Algorithm",
+  "author": "paniq",
+  "description": "branchless 2D implementation/demo of \"A Fast Voxel Traversal Algorithm for Ray Tracing\" by Amanatides & Woo (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.42.3443&rep=rep1&type=pdf)\n\nHold and drag the cursor to define a ray.",
+  "tags": [
+    "voxel",
+    "dda",
+    "algorithm",
+    "traversal"
+  ],
+  "publishedAt": "2018-02-13T00:22:58.000Z",
+  "publishedTimestamp": 1518481378,
+  "views": 12853,
+  "likes": 99,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XddcWn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

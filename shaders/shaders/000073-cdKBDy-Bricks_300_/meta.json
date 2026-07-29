@@ -1,0 +1,34 @@
+{
+  "id": "cdKBDy",
+  "name": "Bricks [300]",
+  "author": "Xor",
+  "description": "I wanted to try the [url=https://www.shadertoy.com/view/dsyBDy]double mod pattern[/url] in 3D.",
+  "tags": [
+    "3d",
+    "voxels",
+    "golf"
+  ],
+  "publishedAt": "2023-10-29T20:57:43.000Z",
+  "publishedTimestamp": 1698613063,
+  "views": 1067,
+  "likes": 73,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/cdKBDy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

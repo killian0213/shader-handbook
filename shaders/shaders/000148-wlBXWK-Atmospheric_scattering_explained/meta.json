@@ -1,0 +1,41 @@
+{
+  "id": "wlBXWK",
+  "name": "Atmospheric scattering explained",
+  "author": "skythedragon",
+  "description": "A simple explanation of how atmospheric scattering works.\nDrag the mouse to change the time of day!\n\nThe development repo of this shader: https://github.com/Dimev/atmospheric-scattering-explained\n",
+  "tags": [
+    "raymarching",
+    "tutorial",
+    "sky",
+    "scattering",
+    "atmosphere",
+    "rayleigh",
+    "explanation",
+    "mie",
+    "absorption",
+    "ozone"
+  ],
+  "publishedAt": "2019-08-29T17:22:10.000Z",
+  "publishedTimestamp": 1567099330,
+  "views": 24843,
+  "likes": 148,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wlBXWK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

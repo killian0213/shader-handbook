@@ -1,0 +1,32 @@
+{
+  "id": "cdV3DW",
+  "name": "Electric Eel Universe",
+  "author": "mrange",
+  "description": "CC0: Electric Eel Universe\nSaturday tinkering with an old failed shader\nTurned out a bit better today\n",
+  "tags": [
+    "electric"
+  ],
+  "publishedAt": "2023-03-11T13:41:24.000Z",
+  "publishedTimestamp": 1678542084,
+  "views": 9011,
+  "likes": 141,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/cdV3DW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "4dGyDm",
+  "name": "keyboard debugging",
+  "author": "mattz",
+  "description": "I just wanted a shader to debug the keyboard texture a little more easily. Sometimes I forget which keys have which codes.",
+  "tags": [
+    "visualization",
+    "keyboard",
+    "debug"
+  ],
+  "publishedAt": "2018-03-27T19:46:18.000Z",
+  "publishedTimestamp": 1522179978,
+  "views": 2569,
+  "likes": 62,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 16,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dGyDm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRr",
+          "filepath": "/presets/tex00.jpg",
+          "previewfilepath": "/presets/tex00.jpg",
+          "type": "keyboard",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dXGzr",
+          "filepath": "/media/a/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "previewfilepath": "/media/ap/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

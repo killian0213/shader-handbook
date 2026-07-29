@@ -1,0 +1,50 @@
+{
+  "id": "wdBGDh",
+  "name": "Dancing icons",
+  "author": "otaviogood",
+  "description": "Each dance is unique! :) This was going to be part of a bigger shader, but I figured it works well on its own too.",
+  "tags": [
+    "dancing",
+    "dance",
+    "dancer"
+  ],
+  "publishedAt": "2019-01-29T16:59:31.000Z",
+  "publishedTimestamp": 1548781171,
+  "views": 7014,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wdBGDh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsXGRr",
+          "filepath": "/media/a/d96b229eeb7a08d53adfcf1ff89e54c9ffeebed193d317d1a01cc8125c0f5cca.mp3",
+          "previewfilepath": "/media/ap/d96b229eeb7a08d53adfcf1ff89e54c9ffeebed193d317d1a01cc8125c0f5cca.mp3",
+          "type": "music",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

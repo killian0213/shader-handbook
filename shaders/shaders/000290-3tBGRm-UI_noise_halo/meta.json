@@ -1,0 +1,34 @@
+{
+  "id": "3tBGRm",
+  "name": "UI noise halo",
+  "author": "magician0809",
+  "description": "UI noise halo",
+  "tags": [
+    "noise",
+    "ui",
+    "halo"
+  ],
+  "publishedAt": "2019-11-29T07:27:48.000Z",
+  "publishedTimestamp": 1575012468,
+  "views": 116630,
+  "likes": 290,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3tBGRm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

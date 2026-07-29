@@ -1,0 +1,51 @@
+{
+  "id": "ldS3Wm",
+  "name": "doski canady",
+  "author": "w23",
+  "description": "I cannot describe my shader. Use mouse to move sun around.",
+  "tags": [
+    "3d",
+    "sunset",
+    "clouds",
+    "scattering"
+  ],
+  "publishedAt": "2014-03-07T19:09:37.000Z",
+  "publishedTimestamp": 1394219377,
+  "views": 18400,
+  "likes": 230,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldS3Wm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

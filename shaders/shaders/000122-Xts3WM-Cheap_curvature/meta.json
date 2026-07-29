@@ -1,0 +1,52 @@
+{
+  "id": "Xts3WM",
+  "name": "Cheap curvature",
+  "author": "nimitz",
+  "description": "One extra fetch is required if you're already computing normals, also included (unused) is a 5-tap version if you want a different epsilon on the curvature check.  Here the curvature is used for coloring and isolines display.",
+  "tags": [
+    "3d",
+    "cheap",
+    "technique",
+    "curvature",
+    "laplacian"
+  ],
+  "publishedAt": "2015-01-29T17:51:17.000Z",
+  "publishedTimestamp": 1422553877,
+  "views": 6205,
+  "likes": 122,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xts3WM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sX3zn",
+          "filepath": "/media/a/0681c014f6c88c356cf9c0394ffe015acc94ec1474924855f45d22c3e70b5785.png",
+          "previewfilepath": "/media/ap/0681c014f6c88c356cf9c0394ffe015acc94ec1474924855f45d22c3e70b5785.png",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

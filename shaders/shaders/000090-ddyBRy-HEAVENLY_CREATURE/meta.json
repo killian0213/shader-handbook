@@ -1,0 +1,180 @@
+{
+  "id": "ddyBRy",
+  "name": "HEAVENLY CREATURE",
+  "author": "alro",
+  "description": "\"Yonder cloud\nThat rises upward always higher,\nAnd onward drags a laboring breast,\nAnd topples round the dreary west,\nA looming bastion fringed with fire.\"\n- Alfred, Lord Tennyson",
+  "tags": [
+    "3d",
+    "raymarch",
+    "cloud",
+    "light",
+    "volumetric",
+    "cubemap",
+    "bloom",
+    "glow",
+    "stars",
+    "scattering",
+    "data",
+    "rabbit"
+  ],
+  "publishedAt": "2023-10-28T22:35:19.000Z",
+  "publishedTimestamp": 1698532519,
+  "views": 1709,
+  "likes": 90,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ddyBRy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsXGR8",
+          "filepath": "/media/previz/buffer01.png",
+          "previewfilepath": "/media/previz/buffer01.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer B",
+      "file": "buffer_b.glsl",
+      "inputs": [
+        {
+          "id": "4dX3Rr",
+          "filepath": "/media/a//media/previz/cubemap00.png",
+          "previewfilepath": "/media/ap//media/previz/cubemap00.png",
+          "type": "cubemap",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XsBSR3",
+          "filepath": "/media/a/cb49c003b454385aa9975733aff4571c62182ccdda480aaba9a8d250014f00ec.png",
+          "previewfilepath": "/media/ap/cb49c003b454385aa9975733aff4571c62182ccdda480aaba9a8d250014f00ec.png",
+          "type": "texture",
+          "channel": 2,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "XsXGR8",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "cubemap",
+      "name": "Cube A",
+      "file": "cubemap.glsl",
+      "inputs": [
+        {
+          "id": "4dX3Rr",
+          "filepath": "/media/a//media/previz/cubemap00.png",
+          "previewfilepath": "/media/ap//media/previz/cubemap00.png",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dX3Rr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

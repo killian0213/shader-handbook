@@ -1,0 +1,51 @@
+{
+  "id": "XtSGRV",
+  "name": "Prism Break",
+  "author": "Virgill",
+  "description": "Effects from \"Prism Break\" 4k intro by Virgill / Alcatraz              \nFull Intro here:\nwww.pouet.net/prod.php?which=65359\nwww.youtube.com/watch?v=8UYrJoCsYEY",
+  "tags": [
+    "3d",
+    "raymarching",
+    "demoscene",
+    "glass"
+  ],
+  "publishedAt": "2015-04-28T09:08:12.000Z",
+  "publishedTimestamp": 1430212092,
+  "views": 6825,
+  "likes": 88,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtSGRV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dfGW2",
+          "filepath": "https://soundcloud.com/virgill/prism-break",
+          "previewfilepath": "https://soundcloud.com/virgill/prism-break",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

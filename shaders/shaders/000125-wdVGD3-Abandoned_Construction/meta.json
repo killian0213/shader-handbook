@@ -1,0 +1,53 @@
+{
+  "id": "wdVGD3",
+  "name": "Abandoned Construction",
+  "author": "Shane",
+  "description": "Flying through an extruded structure produced via an underlying herringbone block pattern.",
+  "tags": [
+    "raymarching",
+    "grid",
+    "pattern",
+    "block",
+    "sand",
+    "herringbone"
+  ],
+  "publishedAt": "2019-10-28T13:05:12.000Z",
+  "publishedTimestamp": 1572267912,
+  "views": 6116,
+  "likes": 125,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wdVGD3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3Rr",
+          "filepath": "/media/a/79520a3d3a0f4d3caa440802ef4362e99d54e12b1392973e4ea321840970a88a.jpg",
+          "previewfilepath": "/media/ap/79520a3d3a0f4d3caa440802ef4362e99d54e12b1392973e4ea321840970a88a.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

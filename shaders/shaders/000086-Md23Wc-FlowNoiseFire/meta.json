@@ -1,0 +1,45 @@
+{
+  "id": "Md23Wc",
+  "name": "FlowNoiseFire",
+  "author": "Antonalog",
+  "description": "firey flow noise..Took nikat's simplex noise, added analytic derivatves, couldn't resist making yet another fire effect.",
+  "tags": [
+    "noise",
+    "fire",
+    "flow"
+  ],
+  "publishedAt": "2014-03-13T10:05:21.000Z",
+  "publishedTimestamp": 1394705121,
+  "views": 6429,
+  "likes": 86,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Md23Wc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

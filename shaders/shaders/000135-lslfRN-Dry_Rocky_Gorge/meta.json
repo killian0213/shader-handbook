@@ -1,0 +1,53 @@
+{
+  "id": "lslfRN",
+  "name": "Dry Rocky Gorge",
+  "author": "Shane",
+  "description": "A simple canyon\\gorge fly-through. Not much different to the many other examples on here, but fun to make.",
+  "tags": [
+    "noise",
+    "terrain",
+    "clouds",
+    "flythrough",
+    "canyon",
+    "gorge"
+  ],
+  "publishedAt": "2017-05-21T08:42:53.000Z",
+  "publishedTimestamp": 1495356173,
+  "views": 11107,
+  "likes": 135,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lslfRN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4df3Rr",
+          "filepath": "/media/a/3871e838723dd6b166e490664eead8ec60aedd6b8d95bc8e2fe3f882f0fd90f0.jpg",
+          "previewfilepath": "/media/ap/3871e838723dd6b166e490664eead8ec60aedd6b8d95bc8e2fe3f882f0fd90f0.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "WtGXWm",
+  "name": "Echeveria II",
+  "author": "tdhooper",
+  "description": "This time I'm distributing leaves on a hemisphere. Using brute-force AO as the usual approach looks bad with this model; it's slow so you can toggle it with the define\n\n[url=https://media.giphy.com/media/Y0mfLzgzBIfgmCqyqF/source.gif]GIF version[/url]",
+  "tags": [
+    "plant",
+    "succulent"
+  ],
+  "publishedAt": "2020-02-27T13:24:22.000Z",
+  "publishedTimestamp": 1582809862,
+  "views": 9242,
+  "likes": 207,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WtGXWm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "4td3zj",
+  "name": "Raymarched Hexagonal Truchet",
+  "author": "Shane",
+  "description": "Raymarched hexagonal Truchet tile, based off of Fabrice and Mattz's examples.",
+  "tags": [
+    "raymarch",
+    "map",
+    "hexagon",
+    "truchet",
+    "edge",
+    "environment"
+  ],
+  "publishedAt": "2016-08-12T15:09:39.000Z",
+  "publishedTimestamp": 1471014579,
+  "views": 56869,
+  "likes": 329,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4td3zj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

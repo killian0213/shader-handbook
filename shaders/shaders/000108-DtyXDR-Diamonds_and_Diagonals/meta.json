@@ -1,0 +1,32 @@
+{
+  "id": "DtyXDR",
+  "name": "Diamonds and Diagonals",
+  "author": "blackle",
+  "description": "shader jam with jneen",
+  "tags": [
+    "shader"
+  ],
+  "publishedAt": "2023-06-06T03:00:16.000Z",
+  "publishedTimestamp": 1686020416,
+  "views": 5584,
+  "likes": 108,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/DtyXDR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

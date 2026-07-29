@@ -1,0 +1,44 @@
+{
+  "id": "MtGSWc",
+  "name": "My First Shader Sound",
+  "author": "keim",
+  "description": "GPGPU sound test",
+  "tags": [
+    "sound"
+  ],
+  "publishedAt": "2017-02-06T15:50:43.000Z",
+  "publishedTimestamp": 1486396243,
+  "views": 6680,
+  "likes": 117,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MtGSWc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "XsfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

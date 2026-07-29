@@ -1,0 +1,63 @@
+{
+  "id": "ms3GDs",
+  "name": "Smoke Flythrough",
+  "author": "Poisson",
+  "description": "A simple cloud shader to test my volumetric renderer, the noise is very bad and cheap.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "noise",
+    "ray",
+    "volume",
+    "clouds",
+    "fbm",
+    "cloud",
+    "fire",
+    "volumetric",
+    "raymarcher",
+    "scattering",
+    "smoke",
+    "scatter",
+    "volumetrics",
+    "cineshader"
+  ],
+  "publishedAt": "2023-03-05T17:50:30.000Z",
+  "publishedTimestamp": 1678038630,
+  "views": 2162,
+  "likes": 100,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ms3GDs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sfGRr",
+          "filepath": "/media/a/27012b4eadd0c3ce12498b867058e4f717ce79e10a99568cca461682d84a4b04.bin",
+          "previewfilepath": "/media/ap/27012b4eadd0c3ce12498b867058e4f717ce79e10a99568cca461682d84a4b04.bin",
+          "type": "volume",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

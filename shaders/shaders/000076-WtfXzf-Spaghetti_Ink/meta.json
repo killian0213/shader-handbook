@@ -1,0 +1,34 @@
+{
+  "id": "WtfXzf",
+  "name": "Spaghetti Ink",
+  "author": "Kali",
+  "description": "Experimental raymarching of a fractal.",
+  "tags": [
+    "raymarching",
+    "fractal",
+    "experimental"
+  ],
+  "publishedAt": "2019-07-21T06:55:05.000Z",
+  "publishedTimestamp": 1563692105,
+  "views": 1778,
+  "likes": 76,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WtfXzf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

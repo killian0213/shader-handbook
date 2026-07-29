@@ -1,0 +1,34 @@
+{
+  "id": "WlcfRS",
+  "name": "Golden apollian",
+  "author": "mrange",
+  "description": "Licence CC0: Golden apollian\nMore late night coding\n",
+  "tags": [
+    "2d",
+    "fractal",
+    "apollian"
+  ],
+  "publishedAt": "2021-02-09T22:52:29.000Z",
+  "publishedTimestamp": 1612911149,
+  "views": 2519,
+  "likes": 90,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WlcfRS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

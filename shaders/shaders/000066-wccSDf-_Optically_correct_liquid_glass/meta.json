@@ -1,0 +1,48 @@
+{
+  "id": "wccSDf",
+  "name": "\"Optically correct\" liquid glass",
+  "author": "MetroWind",
+  "description": "Document: https://blog.mws.rocks/p/96",
+  "tags": [
+    "optics"
+  ],
+  "publishedAt": "2025-06-11T21:25:12.000Z",
+  "publishedTimestamp": 1749677112,
+  "views": 8434,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wccSDf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dfGRn",
+          "filepath": "/media/a/8de3a3924cb95bd0e95a443fff0326c869f9d4979cd1d5b6e94e2a01f5be53e9.jpg",
+          "previewfilepath": "/media/ap/8de3a3924cb95bd0e95a443fff0326c869f9d4979cd1d5b6e94e2a01f5be53e9.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

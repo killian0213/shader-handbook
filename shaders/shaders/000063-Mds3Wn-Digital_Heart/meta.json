@@ -1,0 +1,29 @@
+{
+  "id": "Mds3Wn",
+  "name": "Digital Heart",
+  "author": "JoshP",
+  "description": "The purest of love demands the highest of prices.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "heart"
+  ],
+  "publishedAt": "2013-05-06T06:48:41.000Z",
+  "publishedTimestamp": 1367822921,
+  "views": 3105,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mds3Wn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

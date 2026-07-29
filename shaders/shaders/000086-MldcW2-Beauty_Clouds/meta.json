@@ -1,0 +1,34 @@
+{
+  "id": "MldcW2",
+  "name": "Beauty Clouds",
+  "author": "nide",
+  "description": "Based on https://www.shadertoy.com/view/Xttcz2",
+  "tags": [
+    "clouds",
+    "sky",
+    "volumetric"
+  ],
+  "publishedAt": "2018-08-22T15:44:44.000Z",
+  "publishedTimestamp": 1534952684,
+  "views": 4344,
+  "likes": 86,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MldcW2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

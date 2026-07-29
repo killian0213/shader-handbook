@@ -1,0 +1,143 @@
+{
+  "id": "XdtSRn",
+  "name": "Light Propagation Volume",
+  "author": "paniq",
+  "description": "diffuse illumination with occlusion and infinite bounces using a single 32^3 light propagation volume. Implemented after \"Light Propagation Volumes in CryEngine 3\", Kaplanyan",
+  "tags": [
+    "illumination",
+    "bounce",
+    "occlusion",
+    "spherical",
+    "harmonics",
+    "radiosity",
+    "lpv"
+  ],
+  "publishedAt": "2016-03-08T01:37:39.000Z",
+  "publishedTimestamp": 1457401059,
+  "views": 14011,
+  "likes": 184,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdtSRn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGR8",
+          "filepath": "/media/previz/buffer02.png",
+          "previewfilepath": "/media/previz/buffer02.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer B",
+      "file": "buffer_b.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "XsXGR8",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer C",
+      "file": "buffer_c.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XsXGR8",
+          "filepath": "/media/previz/buffer01.png",
+          "previewfilepath": "/media/previz/buffer01.png",
+          "type": "buffer",
+          "channel": 1,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4sXGR8",
+          "filepath": "/media/previz/buffer02.png",
+          "previewfilepath": "/media/previz/buffer02.png",
+          "type": "buffer",
+          "channel": 2,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4sXGR8",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

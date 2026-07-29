@@ -1,0 +1,36 @@
+{
+  "id": "Ms2SzV",
+  "name": "sdf raymarching: min rings",
+  "author": "hornet",
+  "description": "from the demo 'min' by loopit: http://www.pouet.net/prod.php?which=62851\n- code cleaned up a bit, but still in a terrible state\n\nadded a hue-offset not present in original (as it looks cool :D )",
+  "tags": [
+    "raymarching",
+    "sdf",
+    "distance",
+    "min",
+    "loopit"
+  ],
+  "publishedAt": "2014-10-23T17:30:04.000Z",
+  "publishedTimestamp": 1414085404,
+  "views": 3266,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Ms2SzV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

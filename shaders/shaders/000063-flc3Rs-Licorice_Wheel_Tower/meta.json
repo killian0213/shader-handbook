@@ -1,0 +1,35 @@
+{
+  "id": "flc3Rs",
+  "name": "Licorice Wheel Tower",
+  "author": "Tater",
+  "description": "The code became very messy but the result is good, just don't look at the code :)",
+  "tags": [
+    "3d",
+    "raymarching",
+    "spiral",
+    "roll"
+  ],
+  "publishedAt": "2021-11-10T07:34:08.000Z",
+  "publishedTimestamp": 1636529648,
+  "views": 965,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/flc3Rs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

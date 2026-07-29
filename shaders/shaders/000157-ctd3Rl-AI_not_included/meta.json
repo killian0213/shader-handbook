@@ -1,0 +1,33 @@
+{
+  "id": "ctd3Rl",
+  "name": "AI not included",
+  "author": "mrange",
+  "description": "CC0: AI not included\nTinkering around with old shaders.\nNo AI and very little human intelligence used ;)\n",
+  "tags": [
+    "2d",
+    "heart"
+  ],
+  "publishedAt": "2023-05-01T12:32:34.000Z",
+  "publishedTimestamp": 1682944354,
+  "views": 8622,
+  "likes": 157,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ctd3Rl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

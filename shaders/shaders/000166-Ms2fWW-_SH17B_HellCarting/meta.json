@@ -1,0 +1,78 @@
+{
+  "id": "Ms2fWW",
+  "name": "[SH17B] HellCarting",
+  "author": "Trisomie21",
+  "description": "Some say that the mine is endless... the one that knows never returned.\n",
+  "tags": [
+    "sh17b"
+  ],
+  "publishedAt": "2017-07-19T22:20:57.000Z",
+  "publishedTimestamp": 1500502857,
+  "views": 34769,
+  "likes": 166,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Ms2fWW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsfGzn",
+          "filepath": "/media/a/585f9546c092f53ded45332b343144396c0b2d70d9965f585ebc172080d8aa58.jpg",
+          "previewfilepath": "/media/ap/585f9546c092f53ded45332b343144396c0b2d70d9965f585ebc172080d8aa58.jpg",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 2,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XdXXDB",
+          "filepath": "https://soundcloud.com/outlooks/subwaytrainsoundeffect2",
+          "previewfilepath": "https://soundcloud.com/outlooks/subwaytrainsoundeffect2",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tsScRK",
+  "name": "another synthwave sunset thing",
+  "author": "stduhpf",
+  "description": "I was thinking of a way to make pseudo tesselation noise and i made this to illustrate it, i might not be the first one to come up with this solution.\n\nNow as a music visualizer! (channel 0, remove line 11)",
+  "tags": [
+    "raymarching",
+    "sunset",
+    "tesselation",
+    "synthwave",
+    "cineshader"
+  ],
+  "publishedAt": "2020-04-16T13:05:30.000Z",
+  "publishedTimestamp": 1587042330,
+  "views": 406359,
+  "likes": 236,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tsScRK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

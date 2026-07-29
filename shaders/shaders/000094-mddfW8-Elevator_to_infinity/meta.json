@@ -1,0 +1,63 @@
+{
+  "id": "mddfW8",
+  "name": "Elevator to infinity",
+  "author": "kishimisu",
+  "description": "Inspired by [url]https://i.pinimg.com/564x/33/9b/e3/339be34164834d427922a36e75defece.jpg[/url]",
+  "tags": [
+    "3d",
+    "raymarching",
+    "ray",
+    "light",
+    "marching",
+    "space",
+    "repetition",
+    "tower",
+    "night",
+    "city",
+    "city",
+    "infinite",
+    "neon",
+    "buildings",
+    "building",
+    "liminal"
+  ],
+  "publishedAt": "2023-10-12T16:57:35.000Z",
+  "publishedTimestamp": 1697129855,
+  "views": 2400,
+  "likes": 94,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/mddfW8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRn",
+          "filepath": "/media/a/10eb4fe0ac8a7dc348a2cc282ca5df1759ab8bf680117e4047728100969e7b43.jpg",
+          "previewfilepath": "/media/ap/10eb4fe0ac8a7dc348a2cc282ca5df1759ab8bf680117e4047728100969e7b43.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

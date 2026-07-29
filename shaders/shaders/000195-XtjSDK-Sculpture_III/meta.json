@@ -1,0 +1,51 @@
+{
+  "id": "XtjSDK",
+  "name": "Sculpture III",
+  "author": "iq",
+  "description": "Another sine/cosine deformation of a sphere.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "noise",
+    "trigonometry"
+  ],
+  "publishedAt": "2015-11-03T21:31:26.000Z",
+  "publishedTimestamp": 1446586286,
+  "views": 15460,
+  "likes": 195,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtjSDK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdfGRn",
+          "filepath": "/media/a/e6e5631ce1237ae4c05b3563eda686400a401df4548d0f9fad40ecac1659c46c.jpg",
+          "previewfilepath": "/media/ap/e6e5631ce1237ae4c05b3563eda686400a401df4548d0f9fad40ecac1659c46c.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

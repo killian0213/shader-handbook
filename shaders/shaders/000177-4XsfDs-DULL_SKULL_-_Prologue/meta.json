@@ -1,0 +1,45 @@
+{
+  "id": "4XsfDs",
+  "name": "DULL SKULL - Prologue",
+  "author": "Katur",
+  "description": "///// Studies of human anatomy /////\nMove the mouse to explore from different perspectives.",
+  "tags": [
+    "raymarching",
+    "sdf",
+    "normals",
+    "skeleton",
+    "fresnel",
+    "skull",
+    "human"
+  ],
+  "publishedAt": "2024-10-16T15:55:47.000Z",
+  "publishedTimestamp": 1729094147,
+  "views": 11083,
+  "likes": 177,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4XsfDs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

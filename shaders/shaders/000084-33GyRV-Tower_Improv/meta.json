@@ -1,0 +1,38 @@
+{
+  "id": "33GyRV",
+  "name": "Tower Improv",
+  "author": "iq",
+  "description": "I improvised a tower of bricks for somebody who was asking me for advice. Full live coding session here: [url]https://www.youtube.com/watch?v=DAMiS2PGTEE[/url]",
+  "tags": [
+    "procedural",
+    "2d",
+    "raymarching",
+    "sdf",
+    "livecoding",
+    "live",
+    "livesession"
+  ],
+  "publishedAt": "2026-06-19T20:19:30.000Z",
+  "publishedTimestamp": 1781900370,
+  "views": 3667,
+  "likes": 84,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/33GyRV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

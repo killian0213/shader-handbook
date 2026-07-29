@@ -1,0 +1,32 @@
+{
+  "id": "4dS3Wd",
+  "name": " 1D, 2D & 3D Value Noise",
+  "author": "morgan3d",
+  "description": "Noise in up to three dimensions tuned for performance and avoiding visible tiling artifacts.",
+  "tags": [
+    "noise"
+  ],
+  "publishedAt": "2014-03-15T22:26:05.000Z",
+  "publishedTimestamp": 1394922365,
+  "views": 45923,
+  "likes": 218,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dS3Wd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "XsfGDS",
+  "name": "I/O",
+  "author": "movAX13h",
+  "description": "input/output",
+  "tags": [
+    "2d",
+    "sound",
+    "shapes"
+  ],
+  "publishedAt": "2013-08-29T04:24:07.000Z",
+  "publishedTimestamp": 1377750247,
+  "views": 29305,
+  "likes": 169,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsfGDS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dfGzn",
+          "filepath": "/media/a/ec8a6ea755d34600547a5353f21f0a453f9f55ff95514383b2d80b8d71283eda.mp3",
+          "previewfilepath": "/media/ap/ec8a6ea755d34600547a5353f21f0a453f9f55ff95514383b2d80b8d71283eda.mp3",
+          "type": "music",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

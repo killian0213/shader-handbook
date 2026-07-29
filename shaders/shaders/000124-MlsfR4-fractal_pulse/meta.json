@@ -1,0 +1,49 @@
+{
+  "id": "MlsfR4",
+  "name": "fractal pulse",
+  "author": "macbooktall",
+  "description": "0f9isdf",
+  "tags": [
+    "1320",
+    "cineshader"
+  ],
+  "publishedAt": "2017-11-20T23:53:32.000Z",
+  "publishedTimestamp": 1511222012,
+  "views": 64519,
+  "likes": 124,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MlsfR4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsXGR8",
+          "filepath": "/media/previz/buffer01.png",
+          "previewfilepath": "/media/previz/buffer01.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

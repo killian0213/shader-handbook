@@ -1,0 +1,34 @@
+{
+  "id": "WsfBzN",
+  "name": "Shine On You Crazy Ball",
+  "author": "Kali",
+  "description": "Surely not the best way to achieve what I did here, but I'm quite happy with the outcome and it was fun to figure out things. ",
+  "tags": [
+    "raymarching",
+    "volumetric",
+    "reflections"
+  ],
+  "publishedAt": "2020-04-24T15:59:33.000Z",
+  "publishedTimestamp": 1587743973,
+  "views": 3941,
+  "likes": 88,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WsfBzN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "DlyyWR",
+  "name": "DULL SKULL - Prometheus",
+  "author": "Katur",
+  "description": "// All work and no play makes Jack a Dull Skull //\nDULL SKULL - Playlist\nhttps://www.shadertoy.com/playlist/c3sXWn",
+  "tags": [
+    "raymarching",
+    "normals",
+    "fog",
+    "specular",
+    "softshadows",
+    "diffuse",
+    "skeleton",
+    "fresnel",
+    "skull",
+    "bones",
+    "cineshader"
+  ],
+  "publishedAt": "2023-11-15T16:14:20.000Z",
+  "publishedTimestamp": 1700064860,
+  "views": 14734,
+  "likes": 178,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/DlyyWR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsfGzn",
+          "filepath": "/media/a/585f9546c092f53ded45332b343144396c0b2d70d9965f585ebc172080d8aa58.jpg",
+          "previewfilepath": "/media/ap/585f9546c092f53ded45332b343144396c0b2d70d9965f585ebc172080d8aa58.jpg",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "4slSWf",
+  "name": "Bender",
+  "author": "iq",
+  "description": "Bender distance field (partial, only what's visible to camera).",
+  "tags": [
+    "procedural",
+    "3d",
+    "raymarching",
+    "distancefield",
+    "sdf",
+    "cartoon"
+  ],
+  "publishedAt": "2014-08-07T03:34:25.000Z",
+  "publishedTimestamp": 1407382465,
+  "views": 24349,
+  "likes": 209,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4slSWf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

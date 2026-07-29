@@ -1,0 +1,34 @@
+{
+  "id": "Wl2Gz1",
+  "name": "mandelbrot orbit trap periods",
+  "author": "elenzil",
+  "description": "inspired by [url=https://www.shadertoy.com/view/wtfGWS]Plento's Orbits[/url].\nstill to explore: coloring traps based on the simpleness or self-overlapping ness of the orbit polygons. eg a pentagon vs. a five-pointed star.",
+  "tags": [
+    "mandelbrot",
+    "orbittrap",
+    "grimoire"
+  ],
+  "publishedAt": "2019-05-22T06:19:51.000Z",
+  "publishedTimestamp": 1558505991,
+  "views": 3296,
+  "likes": 202,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Wl2Gz1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

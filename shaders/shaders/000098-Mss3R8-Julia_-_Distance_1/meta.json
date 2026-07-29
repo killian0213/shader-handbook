@@ -1,0 +1,37 @@
+{
+  "id": "Mss3R8",
+  "name": "Julia - Distance 1",
+  "author": "iq",
+  "description": "Analytical distance to a Julia set. More info here: [url]https://iquilezles.org/articles/distancefractals/distancefractals.htm[/url]",
+  "tags": [
+    "2d",
+    "fractal",
+    "motionblur",
+    "distanceestimation",
+    "antialiasing",
+    "supersampling"
+  ],
+  "publishedAt": "2013-03-09T06:16:34.000Z",
+  "publishedTimestamp": 1362809794,
+  "views": 13856,
+  "likes": 98,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mss3R8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

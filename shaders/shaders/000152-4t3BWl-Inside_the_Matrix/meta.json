@@ -1,0 +1,37 @@
+{
+  "id": "4t3BWl",
+  "name": "Inside the Matrix",
+  "author": "And390",
+  "description": "Mouse camera control is available (click left bottom corner to return to auto demo mode)",
+  "tags": [
+    "green",
+    "rain",
+    "code",
+    "digital",
+    "matrix",
+    "runes"
+  ],
+  "publishedAt": "2018-11-05T14:09:44.000Z",
+  "publishedTimestamp": 1541426984,
+  "views": 12397,
+  "likes": 152,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4t3BWl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

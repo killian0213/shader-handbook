@@ -1,0 +1,50 @@
+{
+  "id": "mt23z3",
+  "name": "Fun #define alphabet experiment",
+  "author": "kishimisu",
+  "description": "Just a fun experiment, not practical in any way!",
+  "tags": [
+    "bloom",
+    "glow",
+    "font",
+    "string",
+    "alphabet",
+    "hack",
+    "code",
+    "letters",
+    "bright",
+    "neon",
+    "parse",
+    "parsing"
+  ],
+  "publishedAt": "2023-01-16T14:23:55.000Z",
+  "publishedTimestamp": 1673879035,
+  "views": 2035,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/mt23z3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

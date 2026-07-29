@@ -1,0 +1,80 @@
+{
+  "id": "XsSSRW",
+  "name": "Abandoned base",
+  "author": "reinder",
+  "description": "My entry to the in-official, nonexistent st mine compo :) If you like shiny things, define 'GOLD' at line 3. Use your mouse to look around.",
+  "tags": [
+    "raymarching",
+    "distancefield",
+    "tunnel",
+    "water",
+    "reflections"
+  ],
+  "publishedAt": "2014-08-30T18:08:31.000Z",
+  "publishedTimestamp": 1409422111,
+  "views": 20236,
+  "likes": 173,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsSSRW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGRn",
+          "filepath": "/media/a/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "previewfilepath": "/media/ap/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "XsfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

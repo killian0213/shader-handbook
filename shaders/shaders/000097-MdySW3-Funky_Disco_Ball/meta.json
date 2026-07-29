@@ -1,0 +1,83 @@
+{
+  "id": "MdySW3",
+  "name": "Funky Disco Ball",
+  "author": "knarkowicz",
+  "description": "Just playing around with sound sync.",
+  "tags": [
+    "3d",
+    "sphere",
+    "ball",
+    "disco",
+    "raytraycing",
+    "soundcloud"
+  ],
+  "publishedAt": "2016-07-28T19:42:24.000Z",
+  "publishedTimestamp": 1469734944,
+  "views": 7445,
+  "likes": 97,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdySW3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdX3zn",
+          "filepath": "/media/a/488bd40303a2e2b9a71987e48c66ef41f5e937174bf316d3ed0e86410784b919.jpg",
+          "previewfilepath": "/media/ap/488bd40303a2e2b9a71987e48c66ef41f5e937174bf316d3ed0e86410784b919.jpg",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dBGz1",
+          "filepath": "https://soundcloud.com/istv-ntak-cs/taki-spring-funky-disco-2014",
+          "previewfilepath": "https://soundcloud.com/istv-ntak-cs/taki-spring-funky-disco-2014",
+          "type": "musicstream",
+          "channel": 3,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

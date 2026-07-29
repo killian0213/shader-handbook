@@ -1,0 +1,28 @@
+{
+  "id": "Xd3BW2",
+  "name": "Digiverse - worms (a.ka pasta)",
+  "author": "patu",
+  "description": "Scene used in \"Digiverse\"",
+  "tags": [
+    "raymarching",
+    "intro"
+  ],
+  "publishedAt": "2018-07-09T00:38:02.000Z",
+  "publishedTimestamp": 1531096682,
+  "views": 6017,
+  "likes": 92,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xd3BW2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

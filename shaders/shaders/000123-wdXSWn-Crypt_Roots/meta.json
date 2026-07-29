@@ -1,0 +1,32 @@
+{
+  "id": "wdXSWn",
+  "name": "Crypt Roots",
+  "author": "leon",
+  "description": "Ray marching improvised geometry with curvy shapes and rock textures.\nExploring level of details, materials and lights.",
+  "tags": [
+    "tunnel"
+  ],
+  "publishedAt": "2019-02-24T14:19:14.000Z",
+  "publishedTimestamp": 1551017954,
+  "views": 6405,
+  "likes": 123,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wdXSWn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

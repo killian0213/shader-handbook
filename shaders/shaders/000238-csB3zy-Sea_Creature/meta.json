@@ -1,0 +1,39 @@
+{
+  "id": "csB3zy",
+  "name": "Sea Creature",
+  "author": "iq",
+  "description": "A procedural sea creature. It's a recursive/fractal SDF, rendered with raymarching. Info: [url]https://iquilezles.org/articles/raymarchingdf/[/url]",
+  "tags": [
+    "procedural",
+    "3d",
+    "raymarching",
+    "distancefield",
+    "sea",
+    "sdf",
+    "ocean",
+    "creature"
+  ],
+  "publishedAt": "2022-11-07T01:11:38.000Z",
+  "publishedTimestamp": 1667783498,
+  "views": 13822,
+  "likes": 238,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/csB3zy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

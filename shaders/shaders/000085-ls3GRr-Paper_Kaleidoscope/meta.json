@@ -1,0 +1,29 @@
+{
+  "id": "ls3GRr",
+  "name": "Paper Kaleidoscope",
+  "author": "fizzer",
+  "description": "A sketch with some paper-like pieces and soft shadowing in layers.",
+  "tags": [
+    "kaleidoscope",
+    "heart",
+    "paper"
+  ],
+  "publishedAt": "2015-11-16T12:40:12.000Z",
+  "publishedTimestamp": 1447677612,
+  "views": 4037,
+  "likes": 85,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ls3GRr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

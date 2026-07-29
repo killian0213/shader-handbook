@@ -1,0 +1,27 @@
+{
+  "id": "4lX3Rj",
+  "name": "Ancient Temple",
+  "author": "Kali",
+  "description": "A neverending visit to a fractal temple.",
+  "tags": [
+    "3dfractal"
+  ],
+  "publishedAt": "2015-02-06T00:40:33.000Z",
+  "publishedTimestamp": 1423183233,
+  "views": 3524,
+  "likes": 123,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4lX3Rj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

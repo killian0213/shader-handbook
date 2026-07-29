@@ -1,0 +1,48 @@
+{
+  "id": "XlX3RB",
+  "name": "Ocean Rescue",
+  "author": "Trisomie21",
+  "description": "Tweaked version of a leftover from the 2TC. (See comment for <280 char version.)",
+  "tags": [
+    "3d",
+    "raymarching",
+    "wave",
+    "displacement",
+    "ocean",
+    "short"
+  ],
+  "publishedAt": "2015-02-02T07:01:40.000Z",
+  "publishedTimestamp": 1422860500,
+  "views": 2699,
+  "likes": 64,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlX3RB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsXGRn",
+          "filepath": "/media/a/cd4c518bc6ef165c39d4405b347b51ba40f8d7a065ab0e8d2e4f422cbc1e8a43.jpg",
+          "previewfilepath": "/media/ap/cd4c518bc6ef165c39d4405b347b51ba40f8d7a065ab0e8d2e4f422cbc1e8a43.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

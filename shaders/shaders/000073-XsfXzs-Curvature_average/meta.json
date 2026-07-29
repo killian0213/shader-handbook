@@ -1,0 +1,30 @@
+{
+  "id": "XsfXzs",
+  "name": "Curvature average",
+  "author": "nimitz",
+  "description": "Click and drag to move a bit.\nMostly based on Jussi HÃ¤rkÃ¶nen's paper: http://jussiharkonen.com/files/on_fractal_coloring_techniques(lo-res).pdf",
+  "tags": [
+    "2d",
+    "fractal",
+    "mandelbrot",
+    "curvatureaverage"
+  ],
+  "publishedAt": "2014-07-16T16:55:58.000Z",
+  "publishedTimestamp": 1405529758,
+  "views": 3672,
+  "likes": 73,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsfXzs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

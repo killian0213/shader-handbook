@@ -1,0 +1,52 @@
+{
+  "id": "wt2GDW",
+  "name": "rygcbv dispersion lens",
+  "author": "j2rgb",
+  "description": "An artistic dispersive lens effect based on https://web.archive.org/web/20061128135550/http://home.iitk.ac.in/~shankars/reports/dispersionraytrace.pdf. Use the mouse to move the lens. Inspired by https://www.taylorpetrick.com/blog/post/dispersion",
+  "tags": [
+    "refraction",
+    "lens",
+    "educational",
+    "chromatic",
+    "dispersion"
+  ],
+  "publishedAt": "2019-06-04T16:10:13.000Z",
+  "publishedTimestamp": 1559664613,
+  "views": 3035,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wt2GDW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sX3Rn",
+          "filepath": "/media/a/c3a071ecf273428bc72fc72b2dd972671de8da420a2d4f917b75d20e1c24b34c.ogv",
+          "previewfilepath": "/media/ap/c3a071ecf273428bc72fc72b2dd972671de8da420a2d4f917b75d20e1c24b34c.ogv",
+          "type": "video",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

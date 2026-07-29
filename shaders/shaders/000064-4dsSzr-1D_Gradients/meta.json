@@ -1,0 +1,34 @@
+{
+  "id": "4dsSzr",
+  "name": "1D Gradients",
+  "author": "morgan3d",
+  "description": "A dictionary of color functions useful for applying as shading functions, visualizations, and falloff curves.",
+  "tags": [
+    "colors",
+    "palette",
+    "rainbow"
+  ],
+  "publishedAt": "2014-03-28T03:34:37.000Z",
+  "publishedTimestamp": 1395977677,
+  "views": 5176,
+  "likes": 64,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dsSzr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "7sSSDd",
+  "name": "Call of the Siren",
+  "author": "Quasimondo",
+  "description": "This shader runs a SIREN neural network that was trained on a series of faces generated with StyleGAN2. The code is based on the work of Blackle Mori / https://www.shadertoy.com/view/wtVyWK",
+  "tags": [
+    "portrait",
+    "neuralnetwork",
+    "siren",
+    "gan",
+    "stylegan2"
+  ],
+  "publishedAt": "2021-05-17T18:06:13.000Z",
+  "publishedTimestamp": 1621274773,
+  "views": 2670,
+  "likes": 74,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7sSSDd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

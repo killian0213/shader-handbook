@@ -1,0 +1,30 @@
+{
+  "id": "XsX3zl",
+  "name": "70s Melt",
+  "author": "tomorrowevening",
+  "description": "THE COLORS MAN, THE COLORS.\n\nInspired by @WAHa_06x36's sine puke\n\nNot for personal or professiaonal use.",
+  "tags": [
+    "generative",
+    "ambient",
+    "70s",
+    "cineshader"
+  ],
+  "publishedAt": "2013-08-12T23:00:36.000Z",
+  "publishedTimestamp": 1376348436,
+  "views": 307880,
+  "likes": 153,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsX3zl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

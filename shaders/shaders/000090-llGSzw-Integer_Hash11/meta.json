@@ -1,0 +1,34 @@
+{
+  "id": "llGSzw",
+  "name": "Integer Hash11",
+  "author": "iq",
+  "description": "Using integer arithmetic and bit operations to create a hash. Traditionally in Shadertoy and most WebGL demos people used aliasing through fract(sin(dot())) to generate random numbers, which was machine dependent. That approach is no longer needed.",
+  "tags": [
+    "2d",
+    "hash",
+    "integers"
+  ],
+  "publishedAt": "2017-02-16T09:02:04.000Z",
+  "publishedTimestamp": 1487235724,
+  "views": 14423,
+  "likes": 90,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llGSzw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "Nsd3Wl",
+  "name": "Mysterious Roman Dodecahedron",
+  "author": "sylvain69780",
+  "description": "While visiting the Lugdunum Museum at Lyon (France) I was [url=https://sylvain69780.github.io/assets/images/roman_dodecahedron.jpg]shocked by a very strange artifact ! [/url]\nYou can play with it. Try to create your own Roman dodecahedron ! ",
+  "tags": [
+    "icosahedron",
+    "dodecahedron",
+    "rounding",
+    "platonic",
+    "antiquities"
+  ],
+  "publishedAt": "2021-09-05T20:29:57.000Z",
+  "publishedTimestamp": 1630873797,
+  "views": 1398,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Nsd3Wl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsXGRn",
+          "filepath": "/media/a/cd4c518bc6ef165c39d4405b347b51ba40f8d7a065ab0e8d2e4f422cbc1e8a43.jpg",
+          "previewfilepath": "/media/ap/cd4c518bc6ef165c39d4405b347b51ba40f8d7a065ab0e8d2e4f422cbc1e8a43.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

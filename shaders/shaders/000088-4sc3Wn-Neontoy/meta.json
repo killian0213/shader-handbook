@@ -1,0 +1,29 @@
+{
+  "id": "4sc3Wn",
+  "name": "Neontoy",
+  "author": "Flyguy",
+  "description": " A neon Shadertoy logo made using AutoCAD and converted to GLSL using C# and netDxf. \nThe font is a slightly modified version of Srfm_Neon by Srfm.",
+  "tags": [
+    "distancefield",
+    "text",
+    "neon"
+  ],
+  "publishedAt": "2015-12-01T01:59:05.000Z",
+  "publishedTimestamp": 1448935145,
+  "views": 6352,
+  "likes": 88,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sc3Wn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

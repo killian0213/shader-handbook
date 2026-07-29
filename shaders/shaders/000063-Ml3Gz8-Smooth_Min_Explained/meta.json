@@ -1,0 +1,35 @@
+{
+  "id": "Ml3Gz8",
+  "name": "Smooth Min Explained",
+  "author": "vgs",
+  "description": "A tutorial explaining the derivation of the polynomial smooth minimum commonly used in Shadertoy.\nSee http://viniciusgraciano.com/blog/smin/ for a full explanation.",
+  "tags": [
+    "tutorial",
+    "smooth",
+    "min",
+    "smoothmin"
+  ],
+  "publishedAt": "2016-07-08T17:02:59.000Z",
+  "publishedTimestamp": 1467997379,
+  "views": 10661,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Ml3Gz8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

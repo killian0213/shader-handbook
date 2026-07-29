@@ -1,0 +1,55 @@
+{
+  "id": "tt3GRN",
+  "name": "Happy 2020!",
+  "author": "piyushslayer",
+  "description": "Happy new year everyone!\n\nv1.1 Added an initial bright flash at the starting of each explosion. (Thanks bigwings)\nv1.2 Improved water reflections.\nv1.3 Added a crescent moon.\nv1.4 Rockets slow down nearing apex.",
+  "tags": [
+    "noise",
+    "reflection",
+    "fbm",
+    "water",
+    "particles",
+    "city",
+    "lights",
+    "fireworks"
+  ],
+  "publishedAt": "2019-12-31T23:33:41.000Z",
+  "publishedTimestamp": 1577835221,
+  "views": 7220,
+  "likes": 83,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tt3GRN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

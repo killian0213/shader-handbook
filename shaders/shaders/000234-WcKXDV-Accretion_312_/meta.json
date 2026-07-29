@@ -1,0 +1,34 @@
+{
+  "id": "WcKXDV",
+  "name": "Accretion [312]",
+  "author": "Xor",
+  "description": "Ported from [url=https://x.com/XorDev/status/1936884244128661986]twigl[/url]\n",
+  "tags": [
+    "water",
+    "turbulence",
+    "golf"
+  ],
+  "publishedAt": "2025-06-23T17:54:19.000Z",
+  "publishedTimestamp": 1750701259,
+  "views": 9990,
+  "likes": 234,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WcKXDV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

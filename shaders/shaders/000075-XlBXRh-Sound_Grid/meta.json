@@ -1,0 +1,44 @@
+{
+  "id": "XlBXRh",
+  "name": "Sound Grid",
+  "author": "Kali",
+  "description": "Sound visualization with different presets. Made some time ago and reuploaded... if you understand the code, please explain it to me!\nChange line 2 to preset1, preset2, etc. for different presets",
+  "tags": [
+    "sound",
+    "visualization"
+  ],
+  "publishedAt": "2015-09-03T05:51:35.000Z",
+  "publishedTimestamp": 1441259495,
+  "views": 6202,
+  "likes": 75,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlBXRh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsXGRr",
+          "filepath": "/media/a/d96b229eeb7a08d53adfcf1ff89e54c9ffeebed193d317d1a01cc8125c0f5cca.mp3",
+          "previewfilepath": "/media/ap/d96b229eeb7a08d53adfcf1ff89e54c9ffeebed193d317d1a01cc8125c0f5cca.mp3",
+          "type": "music",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

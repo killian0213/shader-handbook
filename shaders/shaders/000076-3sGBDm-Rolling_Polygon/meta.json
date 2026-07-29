@@ -1,0 +1,40 @@
+{
+  "id": "3sGBDm",
+  "name": "Rolling Polygon",
+  "author": "Shane",
+  "description": "A simulation of an n-gon rolling along an undulating surface.",
+  "tags": [
+    "collision",
+    "terrain",
+    "square",
+    "physics",
+    "polygon",
+    "ngon",
+    "roll",
+    "roll",
+    "rigid"
+  ],
+  "publishedAt": "2021-02-27T11:58:50.000Z",
+  "publishedTimestamp": 1614427130,
+  "views": 1287,
+  "likes": 76,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3sGBDm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

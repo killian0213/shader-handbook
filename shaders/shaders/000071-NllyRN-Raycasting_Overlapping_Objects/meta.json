@@ -1,0 +1,83 @@
+{
+  "id": "NllyRN",
+  "name": "Raycasting Overlapping Objects",
+  "author": "Shane",
+  "description": "A cell by cell traversal of overlapping objects.",
+  "tags": [
+    "raycasting",
+    "cube",
+    "cell",
+    "block",
+    "overlap",
+    "traversal"
+  ],
+  "publishedAt": "2022-04-25T12:20:08.000Z",
+  "publishedTimestamp": 1650889208,
+  "views": 1506,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/NllyRN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGRn",
+          "filepath": "/media/a/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "previewfilepath": "/media/ap/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XdX3Rn",
+          "filepath": "/media/a/52d2a8f514c4fd2d9866587f4d7b2a5bfa1a11a0e772077d7682deb8b3b517e5.jpg",
+          "previewfilepath": "/media/ap/52d2a8f514c4fd2d9866587f4d7b2a5bfa1a11a0e772077d7682deb8b3b517e5.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4sX3zn",
+          "filepath": "/media/a/0681c014f6c88c356cf9c0394ffe015acc94ec1474924855f45d22c3e70b5785.png",
+          "previewfilepath": "/media/ap/0681c014f6c88c356cf9c0394ffe015acc94ec1474924855f45d22c3e70b5785.png",
+          "type": "cubemap",
+          "channel": 3,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "XdXBRH",
+  "name": "Noise - Gradient - 2D - Deriv",
+  "author": "iq",
+  "description": "Analytic derivatives for 2D Gradient Noise ([url]https://www.shadertoy.com/view/XdXGW8[/url])",
+  "tags": [
+    "procedural",
+    "2d",
+    "noise",
+    "perlin",
+    "analytic"
+  ],
+  "publishedAt": "2017-05-14T07:01:57.000Z",
+  "publishedTimestamp": 1494745317,
+  "views": 18941,
+  "likes": 75,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdXBRH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

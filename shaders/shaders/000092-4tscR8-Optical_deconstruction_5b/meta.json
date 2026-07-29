@@ -1,0 +1,40 @@
+{
+  "id": "4tscR8",
+  "name": "Optical deconstruction 5b",
+  "author": "ollj",
+  "description": "the [optical circuit demo] video source code once appeared on glslsandbox.com\nwww.pouet.net/prod.php?which=65125\nhttps://www.youtube.com/watch?v=ISkIB4w6v6I\nit is fractal code golf overkill in [0..6] scenes.\nthis is a deconstruction of scene 5",
+  "tags": [
+    "fractal",
+    "optical",
+    "glow",
+    "kifs",
+    "laser",
+    "battle",
+    "circuit",
+    "0x4015",
+    "spaseship"
+  ],
+  "publishedAt": "2017-08-22T15:06:30.000Z",
+  "publishedTimestamp": 1503414390,
+  "views": 9515,
+  "likes": 92,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tscR8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

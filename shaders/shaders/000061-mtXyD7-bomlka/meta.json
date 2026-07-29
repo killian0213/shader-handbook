@@ -1,0 +1,35 @@
+{
+  "id": "mtXyD7",
+  "name": "bomlka",
+  "author": "lamogui",
+  "description": "Bob-omb performing polka\nShader used for my 64k entry at evoke 2023 https://www.pouet.net/prod.php?which=94746",
+  "tags": [
+    "intro",
+    "mario",
+    "64k",
+    "bobomb"
+  ],
+  "publishedAt": "2023-07-31T16:13:14.000Z",
+  "publishedTimestamp": 1690819994,
+  "views": 4077,
+  "likes": 61,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/mtXyD7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

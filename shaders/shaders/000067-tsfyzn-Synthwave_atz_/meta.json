@@ -1,0 +1,34 @@
+{
+  "id": "tsfyzn",
+  "name": "Synthwave (atz)",
+  "author": "ilyaev",
+  "description": "Very 'original' synthwave landscape surfing :)",
+  "tags": [
+    "retro",
+    "landscape",
+    "synthwave"
+  ],
+  "publishedAt": "2020-03-12T23:32:10.000Z",
+  "publishedTimestamp": 1584055930,
+  "views": 1764,
+  "likes": 67,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tsfyzn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

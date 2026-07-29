@@ -1,0 +1,47 @@
+{
+  "id": "4t2SzR",
+  "name": "Normal Map Blending",
+  "author": "ZigguratVertigo",
+  "description": "Reoriented Normal Mapping (vs other techniques). Hopefully another step in convincing people to stop using Overlay to combine normal maps ;) We spend so much math on awesome lighting (ie.: PBR), source content matters. Please tell your artists! <3",
+  "tags": [
+    "blending",
+    "normal",
+    "detail",
+    "reorientednormalmapping",
+    "rnm"
+  ],
+  "publishedAt": "2015-08-31T20:09:04.000Z",
+  "publishedTimestamp": 1441051744,
+  "views": 16973,
+  "likes": 108,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4t2SzR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdfGRn",
+          "filepath": "/media/a/e6e5631ce1237ae4c05b3563eda686400a401df4548d0f9fad40ecac1659c46c.jpg",
+          "previewfilepath": "/media/ap/e6e5631ce1237ae4c05b3563eda686400a401df4548d0f9fad40ecac1659c46c.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

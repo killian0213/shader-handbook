@@ -1,0 +1,55 @@
+{
+  "id": "mtVXzR",
+  "name": "Apparent Motion",
+  "author": "fenix",
+  "description": "The shapes are not actually moving (just changing colors), except for the arrows!\n\n*press space or click mouse to remove the color*\n\nInspired by:\n\nhttps://www.reddit.com/r/OpticalIllusionGifs/comments/13zaowf/no_object_except_for_the_arrows_moves/",
+  "tags": [
+    "optical",
+    "illusion",
+    "opticalillusion",
+    "rainbow",
+    "motion",
+    "opart",
+    "reproduction",
+    "apparent"
+  ],
+  "publishedAt": "2023-06-06T17:06:17.000Z",
+  "publishedTimestamp": 1686071177,
+  "views": 940,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 16,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/mtVXzR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRr",
+          "filepath": "/presets/tex00.jpg",
+          "previewfilepath": "/presets/tex00.jpg",
+          "type": "keyboard",
+          "channel": 3,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

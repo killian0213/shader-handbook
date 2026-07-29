@@ -1,0 +1,35 @@
+{
+  "id": "XdfyWM",
+  "name": "Alloy Plated Voronoi",
+  "author": "Shane",
+  "description": "Bump mapped, smooth Voronoi layers, sectioned off into fractional contours. Basically, just an excuse to make something shiny. :)",
+  "tags": [
+    "voronoi",
+    "bump",
+    "metal",
+    "alloy"
+  ],
+  "publishedAt": "2017-03-16T12:03:50.000Z",
+  "publishedTimestamp": 1489665830,
+  "views": 5034,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdfyWM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

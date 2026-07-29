@@ -1,0 +1,33 @@
+{
+  "id": "lt23Dt",
+  "name": "bubble dist plasma",
+  "author": "FabriceNeyret2",
+  "description": "Well, it first was a bug in a Worley/Voronoi shader... :-)\n\nNB: try #define NOISE  1 or 3 if you wish.",
+  "tags": [
+    "voronoi",
+    "distance"
+  ],
+  "publishedAt": "2015-06-08T16:52:29.000Z",
+  "publishedTimestamp": 1433782349,
+  "views": 4713,
+  "likes": 92,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lt23Dt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

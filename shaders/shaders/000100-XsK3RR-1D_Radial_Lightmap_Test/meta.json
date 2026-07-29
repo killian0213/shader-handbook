@@ -1,0 +1,58 @@
+{
+  "id": "XsK3RR",
+  "name": "1D Radial Lightmap Test",
+  "author": "Flyguy",
+  "description": " Testing 2D lightmaps rendered as 1D distance fields which contain the distance to intersection at a given angle around the light. This is based off the method shown here: https://git.io/vzWmd",
+  "tags": [
+    "2d",
+    "shadow",
+    "light",
+    "distance"
+  ],
+  "publishedAt": "2016-01-17T15:34:38.000Z",
+  "publishedTimestamp": 1453044878,
+  "views": 10755,
+  "likes": 100,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsK3RR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    },
+    {
+      "type": "buffer",
+      "name": "Buf A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "4ds3zr",
+  "name": "voxels",
+  "author": "simesgreen",
+  "description": "ray casting some simple voxel shapes",
+  "tags": [
+    "voxels",
+    "raycasting"
+  ],
+  "publishedAt": "2013-02-25T12:00:46.000Z",
+  "publishedTimestamp": 1361793646,
+  "views": 7668,
+  "likes": 80,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4ds3zr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

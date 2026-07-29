@@ -1,0 +1,35 @@
+{
+  "id": "ftcyW4",
+  "name": "4D Cube II / Tesseract",
+  "author": "iq",
+  "description": "Another 4D cube  / tesseract. It's the same as [url]https://www.shadertoy.com/view/4tVyWw[/url] but rendering faces (with gaps) instead of edges.",
+  "tags": [
+    "3d",
+    "4d",
+    "tesseract",
+    "hypercube"
+  ],
+  "publishedAt": "2022-08-06T11:40:11.000Z",
+  "publishedTimestamp": 1659786011,
+  "views": 3778,
+  "likes": 87,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ftcyW4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

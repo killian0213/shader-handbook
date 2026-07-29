@@ -1,0 +1,68 @@
+{
+  "id": "4slGD4",
+  "name": "Mountains",
+  "author": "Dave_Hoskins",
+  "description": "A Shader version of my terrain renderer:-\nhttp://www.youtube.com/watch?v=qzkBnCBpQAM\nUSE MOUSE > TO SHIFT TIME\n\n\nVideo of my OpenGL version that uses streaming texture normals for speed...\nhttp://www.youtube.com/watch?v=qzkBnCBpQAM",
+  "tags": [
+    "raymarching",
+    "terrain",
+    "landscape",
+    "mountains",
+    "vr",
+    "soundcloud"
+  ],
+  "publishedAt": "2013-06-06T17:44:04.000Z",
+  "publishedTimestamp": 1370540644,
+  "views": 59628,
+  "likes": 305,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4slGD4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sf3Rr",
+          "filepath": "/media/a/ad56fba948dfba9ae698198c109e71f118a54d209c0ea50d77ea546abad89c57.png",
+          "previewfilepath": "/media/ap/ad56fba948dfba9ae698198c109e71f118a54d209c0ea50d77ea546abad89c57.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "Xds3RH",
+          "filepath": "https://soundcloud.com/zzzzra/zzzzra-conclusion-wip",
+          "previewfilepath": "https://soundcloud.com/zzzzra/zzzzra-conclusion-wip",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

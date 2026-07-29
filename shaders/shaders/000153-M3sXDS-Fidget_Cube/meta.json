@@ -1,0 +1,98 @@
+{
+  "id": "M3sXDS",
+  "name": "Fidget Cube",
+  "author": "TheBen27",
+  "description": "Similar to a toy I have on my desk.\n\nThis is lit only with an environment map and ambient occlusion, which looks nice as long as you use big, soft lights. \n",
+  "tags": [
+    "raymarch"
+  ],
+  "publishedAt": "2024-06-29T03:37:59.000Z",
+  "publishedTimestamp": 1719632279,
+  "views": 5134,
+  "likes": 153,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/M3sXDS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dX3Rr",
+          "filepath": "/media/a//media/previz/cubemap00.png",
+          "previewfilepath": "/media/ap//media/previz/cubemap00.png",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XsBSR3",
+          "filepath": "/media/a/cb49c003b454385aa9975733aff4571c62182ccdda480aaba9a8d250014f00ec.png",
+          "previewfilepath": "/media/ap/cb49c003b454385aa9975733aff4571c62182ccdda480aaba9a8d250014f00ec.png",
+          "type": "texture",
+          "channel": 3,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "cubemap",
+      "name": "Cube A",
+      "file": "cubemap.glsl",
+      "inputs": [
+        {
+          "id": "4dX3Rr",
+          "filepath": "/media/a//media/previz/cubemap00.png",
+          "previewfilepath": "/media/ap//media/previz/cubemap00.png",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dX3Rr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "Mt2SzR",
+  "name": "Perlin Water Noise",
+  "author": "jackdavenport",
+  "description": "I was trying to write the Pixelshader's noise functions from memory and I created this REALLY cool water effect accidentally! I would love to see someone use this in a shader and make something totally awesome :D",
+  "tags": [
+    "noise",
+    "perlin",
+    "water",
+    "mask"
+  ],
+  "publishedAt": "2015-09-02T03:22:46.000Z",
+  "publishedTimestamp": 1441164166,
+  "views": 8664,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mt2SzR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

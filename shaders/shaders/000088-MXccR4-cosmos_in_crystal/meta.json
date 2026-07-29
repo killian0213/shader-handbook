@@ -1,0 +1,34 @@
+{
+  "id": "MXccR4",
+  "name": "cosmos in crystal",
+  "author": "nayk",
+  "description": "originals https://www.shadertoy.com/view/ldBXDD  https://www.shadertoy.com/view/l3fczr",
+  "tags": [
+    "stars",
+    "cosmos",
+    "universe"
+  ],
+  "publishedAt": "2024-12-21T11:28:28.000Z",
+  "publishedTimestamp": 1734780508,
+  "views": 3272,
+  "likes": 88,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 1,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MXccR4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

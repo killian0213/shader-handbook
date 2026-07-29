@@ -1,0 +1,32 @@
+{
+  "id": "3ttGRs",
+  "name": "Gnarly Apollian Tree",
+  "author": "mrange",
+  "description": "A gnarly apollian tree\nBased upon: https://www.shadertoy.com/view/4ds3zn",
+  "tags": [
+    "raymarcher"
+  ],
+  "publishedAt": "2019-12-25T10:19:25.000Z",
+  "publishedTimestamp": 1577269165,
+  "views": 10889,
+  "likes": 102,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3ttGRs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

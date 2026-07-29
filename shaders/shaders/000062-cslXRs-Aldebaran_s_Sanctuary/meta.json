@@ -1,0 +1,118 @@
+{
+  "id": "cslXRs",
+  "name": "Aldebaran's Sanctuary",
+  "author": "kishimisu",
+  "description": "It seems to produce a mystic energy... \n\nUse the mouse to change the time !",
+  "tags": [
+    "raymarching",
+    "terrain",
+    "fbm",
+    "fast",
+    "lighting",
+    "repetition",
+    "polar",
+    "snow",
+    "scene",
+    "alps",
+    "realistic",
+    "snowy",
+    "moutains"
+  ],
+  "publishedAt": "2022-11-25T18:31:38.000Z",
+  "publishedTimestamp": 1669401098,
+  "views": 2143,
+  "likes": 62,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 96,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/cslXRs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "llBXWm",
+          "filepath": "https://soundcloud.com/spiritualmoment/ultra-sleep-meditation-music-sleep-hypnosis-music-for-deep-sleep?in=billie-kihega/sets/billies-sleep-sounds",
+          "previewfilepath": "https://soundcloud.com/spiritualmoment/ultra-sleep-meditation-music-sleep-hypnosis-music-for-deep-sleep?in=billie-kihega/sets/billies-sleep-sounds",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4sf3Rr",
+          "filepath": "/media/a/ad56fba948dfba9ae698198c109e71f118a54d209c0ea50d77ea546abad89c57.png",
+          "previewfilepath": "/media/ap/ad56fba948dfba9ae698198c109e71f118a54d209c0ea50d77ea546abad89c57.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

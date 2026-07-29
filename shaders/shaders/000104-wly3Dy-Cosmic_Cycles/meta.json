@@ -1,0 +1,53 @@
+{
+  "id": "wly3Dy",
+  "name": "Cosmic Cycles",
+  "author": "BigWIngs",
+  "description": "See comments. Watch full screen with sound!",
+  "tags": [
+    "star",
+    "space",
+    "stars",
+    "starfield",
+    "universe",
+    "bigbang"
+  ],
+  "publishedAt": "2020-01-23T03:14:24.000Z",
+  "publishedTimestamp": 1579749264,
+  "views": 5505,
+  "likes": 104,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wly3Dy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "MtjGz1",
+          "filepath": "https://soundcloud.com/weareallastronauts/ether",
+          "previewfilepath": "https://soundcloud.com/weareallastronauts/ether",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

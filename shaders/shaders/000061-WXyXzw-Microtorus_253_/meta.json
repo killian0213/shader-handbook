@@ -1,0 +1,37 @@
+{
+  "id": "WXyXzw",
+  "name": "Microtorus [253]",
+  "author": "Xor",
+  "description": "Playing with iq's tiny torus shader",
+  "tags": [
+    "3d",
+    "sdf",
+    "torus",
+    "golf",
+    "minified",
+    "size"
+  ],
+  "publishedAt": "2025-08-04T19:06:13.000Z",
+  "publishedTimestamp": 1754334373,
+  "views": 549,
+  "likes": 61,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WXyXzw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

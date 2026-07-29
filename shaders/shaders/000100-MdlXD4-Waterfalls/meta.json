@@ -1,0 +1,78 @@
+{
+  "id": "MdlXD4",
+  "name": "Waterfalls",
+  "author": "P_Malin",
+  "description": "Some waterfalls and a rainbow.\nMade with so many hacks I don't know what is real any more.\n...I still need to work on the camera.",
+  "tags": [
+    "water",
+    "rainbow",
+    "waterfall",
+    "droplets"
+  ],
+  "publishedAt": "2014-06-04T22:00:07.000Z",
+  "publishedTimestamp": 1401919207,
+  "views": 12105,
+  "likes": 100,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 9,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdlXD4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sfGRn",
+          "filepath": "/media/a/fb918796edc3d2221218db0811e240e72e340350008338b0c07a52bd353666a6.jpg",
+          "previewfilepath": "/media/ap/fb918796edc3d2221218db0811e240e72e340350008338b0c07a52bd353666a6.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XsX3Rn",
+          "filepath": "/media/a/92d7758c402f0927011ca8d0a7e40251439fba3a1dac26f5b8b62026323501aa.jpg",
+          "previewfilepath": "/media/ap/92d7758c402f0927011ca8d0a7e40251439fba3a1dac26f5b8b62026323501aa.jpg",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "XsfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

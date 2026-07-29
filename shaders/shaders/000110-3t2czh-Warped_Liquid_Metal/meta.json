@@ -1,0 +1,34 @@
+{
+  "id": "3t2czh",
+  "name": "Warped Liquid Metal",
+  "author": "mrange",
+  "description": "Licence CC0: Liquid Metal\nSome experimenting with warped FBM and very very fake lighting turned out ok ",
+  "tags": [
+    "2d",
+    "fbm",
+    "warp"
+  ],
+  "publishedAt": "2020-07-02T20:20:38.000Z",
+  "publishedTimestamp": 1593721238,
+  "views": 4654,
+  "likes": 110,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3t2czh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

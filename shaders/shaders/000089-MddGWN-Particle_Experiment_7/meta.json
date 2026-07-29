@@ -1,0 +1,29 @@
+{
+  "id": "MddGWN",
+  "name": "Particle Experiment 7",
+  "author": "aiekick",
+  "description": "Mouse.x => Zoom\nMouse.y => Particle Duration",
+  "tags": [
+    "experiment",
+    "particle",
+    "7"
+  ],
+  "publishedAt": "2015-12-10T23:04:59.000Z",
+  "publishedTimestamp": 1449788699,
+  "views": 37572,
+  "likes": 89,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MddGWN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

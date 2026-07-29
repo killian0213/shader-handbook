@@ -1,0 +1,64 @@
+{
+  "id": "WtXcWB",
+  "name": "Whack-A-Mole Pistons",
+  "author": "blackle",
+  "description": "experimenting with 2D slicing the sphere packing SDF to get an array of circles of different sizes.\n\nNew: [url=https://youtu.be/I8fmkLK1OKg]The tutorial video[/url]",
+  "tags": [
+    "domainrepetition",
+    "pistons"
+  ],
+  "publishedAt": "2020-06-23T20:18:23.000Z",
+  "publishedTimestamp": 1592943503,
+  "views": 9845,
+  "likes": 197,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WtXcWB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xdf3zn",
+          "filepath": "/media/a/85a6d68622b36995ccb98a89bbb119edf167c914660e4450d313de049320005c.png",
+          "previewfilepath": "/media/ap/85a6d68622b36995ccb98a89bbb119edf167c914660e4450d313de049320005c.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4sfGRr",
+          "filepath": "/media/a/27012b4eadd0c3ce12498b867058e4f717ce79e10a99568cca461682d84a4b04.bin",
+          "previewfilepath": "/media/ap/27012b4eadd0c3ce12498b867058e4f717ce79e10a99568cca461682d84a4b04.bin",
+          "type": "volume",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

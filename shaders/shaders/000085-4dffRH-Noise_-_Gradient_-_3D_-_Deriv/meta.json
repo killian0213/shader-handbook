@@ -1,0 +1,36 @@
+{
+  "id": "4dffRH",
+  "name": "Noise - Gradient - 3D - Deriv",
+  "author": "iq",
+  "description": "Analytic derivatives for 3D Gradient Noise ([url]https://www.shadertoy.com/view/Xsl3Dl[/url])",
+  "tags": [
+    "procedural",
+    "3d",
+    "noise",
+    "perlin",
+    "analytic"
+  ],
+  "publishedAt": "2017-05-14T07:01:59.000Z",
+  "publishedTimestamp": 1494745319,
+  "views": 20681,
+  "likes": 85,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dffRH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

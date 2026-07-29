@@ -1,0 +1,37 @@
+{
+  "id": "WtScDt",
+  "name": "Bandlimited Synthesis 1",
+  "author": "iq",
+  "description": "A simple way to prevent aliasing of cosine functions (the color palette in this case) by removing frequencies as oscillations become smaller than a pixel. You can think of it as an LOD system. Move the mouse to compare naive versus band-limited cos(x)",
+  "tags": [
+    "2d",
+    "cos",
+    "filtering",
+    "lod",
+    "frequency",
+    "bandlimited"
+  ],
+  "publishedAt": "2020-07-27T06:52:31.000Z",
+  "publishedTimestamp": 1595832751,
+  "views": 36978,
+  "likes": 186,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WtScDt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

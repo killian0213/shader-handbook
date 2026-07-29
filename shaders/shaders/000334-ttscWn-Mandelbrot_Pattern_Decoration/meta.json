@@ -1,0 +1,36 @@
+{
+  "id": "ttscWn",
+  "name": "Mandelbrot Pattern Decoration",
+  "author": "Shane",
+  "description": "Applying a simple pattern and coloring to a standard iterative Mandelbrot transformation.",
+  "tags": [
+    "julia",
+    "mandelbrot",
+    "complex",
+    "pattern",
+    "imaginary"
+  ],
+  "publishedAt": "2020-06-12T12:35:13.000Z",
+  "publishedTimestamp": 1591965313,
+  "views": 13379,
+  "likes": 334,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ttscWn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

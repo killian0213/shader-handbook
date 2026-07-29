@@ -1,0 +1,35 @@
+{
+  "id": "MtBGDW",
+  "name": "Illustrated Equations ",
+  "author": "sben",
+  "description": "My contribution shows stuff about curves and iterative functions . After some explorations into the fractal world , I offers two drawing formulas with peculiar shapes. Enjoy!",
+  "tags": [
+    "procedural",
+    "2d",
+    "fractal",
+    "trigonometric",
+    "curve",
+    "complex",
+    "iterative",
+    "equation",
+    "popcorn"
+  ],
+  "publishedAt": "2015-04-22T21:46:24.000Z",
+  "publishedTimestamp": 1429739184,
+  "views": 3377,
+  "likes": 88,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MtBGDW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

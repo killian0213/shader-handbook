@@ -1,0 +1,66 @@
+{
+  "id": "MsdGz2",
+  "name": "Alien cocoons",
+  "author": "XT95",
+  "description": "Trying to implement \"Approximating Translucency for a Fast, Cheap and Convincing Subsurface Scattering Look\" by Colin BarrÃ© Brisebois!\n",
+  "tags": [
+    "sss",
+    "scattering",
+    "translucency",
+    "subsurface"
+  ],
+  "publishedAt": "2015-12-25T23:30:42.000Z",
+  "publishedTimestamp": 1451086242,
+  "views": 11273,
+  "likes": 148,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsdGz2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sf3Rr",
+          "filepath": "/media/a/ad56fba948dfba9ae698198c109e71f118a54d209c0ea50d77ea546abad89c57.png",
+          "previewfilepath": "/media/ap/ad56fba948dfba9ae698198c109e71f118a54d209c0ea50d77ea546abad89c57.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "lss3zH",
+          "filepath": "https://soundcloud.com/pandadubarchives/2007-2008-panda-dub-02",
+          "previewfilepath": "https://soundcloud.com/pandadubarchives/2007-2008-panda-dub-02",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

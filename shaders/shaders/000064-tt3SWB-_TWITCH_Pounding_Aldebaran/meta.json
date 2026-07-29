@@ -1,0 +1,61 @@
+{
+  "id": "tt3SWB",
+  "name": "[TWITCH] Pounding Aldebaran",
+  "author": "evvvvil",
+  "description": "Pounding Aldebaran\nResult of an improvised live coding session on Twitch\nLIVE SHADER CODING, SHADER SHOWDOWN STYLE, EVERY TUESDAYS 21:00 Uk time:\nhttps://www.twitch.tv/evvvvil_",
+  "tags": [
+    "noise",
+    "terrain",
+    "demoscene",
+    "light",
+    "particles",
+    "planet",
+    "landscape",
+    "glow",
+    "ripple",
+    "point",
+    "core",
+    "twitch",
+    "improv",
+    "interstellar"
+  ],
+  "publishedAt": "2020-02-13T15:45:06.000Z",
+  "publishedTimestamp": 1581608706,
+  "views": 3777,
+  "likes": 64,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tt3SWB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

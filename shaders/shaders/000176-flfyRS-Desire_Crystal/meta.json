@@ -1,0 +1,36 @@
+{
+  "id": "flfyRS",
+  "name": "Desire Crystal",
+  "author": "Hyeve",
+  "description": "Second creation in my new aim of \"just make lots of simple pretty stuff while I try and figure out complex scenes\"",
+  "tags": [
+    "3d",
+    "raymarching",
+    "transparency",
+    "glass",
+    "crystal"
+  ],
+  "publishedAt": "2022-03-24T18:31:55.000Z",
+  "publishedTimestamp": 1648146715,
+  "views": 8873,
+  "likes": 176,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/flfyRS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tlcXWX",
+  "name": "Math Zoo - Alien Orb",
+  "author": "BigWIngs",
+  "description": "See comments",
+  "tags": [
+    "sss",
+    "volumetric",
+    "gyroid",
+    "artofcode",
+    "mathzoo"
+  ],
+  "publishedAt": "2022-02-09T23:36:04.000Z",
+  "publishedTimestamp": 1644449764,
+  "views": 3829,
+  "likes": 133,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tlcXWX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

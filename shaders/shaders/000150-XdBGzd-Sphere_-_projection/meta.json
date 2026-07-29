@@ -1,0 +1,35 @@
+{
+  "id": "XdBGzd",
+  "name": "Sphere - projection",
+  "author": "iq",
+  "description": "Analytic projection of a sphere to screen pixels. Spheres in world space become ellipses in clip space. The ellipses can be analytically determined from the camera and sphere geometry. This shader computes their center, axis and area in raster pixels.",
+  "tags": [
+    "3d",
+    "sphere",
+    "projection",
+    "analytic"
+  ],
+  "publishedAt": "2014-02-11T01:29:22.000Z",
+  "publishedTimestamp": 1392082162,
+  "views": 77208,
+  "likes": 150,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdBGzd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

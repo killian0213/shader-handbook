@@ -1,0 +1,49 @@
+{
+  "id": "4ss3W7",
+  "name": "Procedural Normal Map",
+  "author": "4rknova",
+  "description": "Procedural generation of normal maps from diffuse maps.\nUse the mouse to move the light position on the xy plane.",
+  "tags": [
+    "normal",
+    "mapping"
+  ],
+  "publishedAt": "2013-06-25T20:33:53.000Z",
+  "publishedTimestamp": 1372192433,
+  "views": 8914,
+  "likes": 98,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4ss3W7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRn",
+          "filepath": "/media/a/10eb4fe0ac8a7dc348a2cc282ca5df1759ab8bf680117e4047728100969e7b43.jpg",
+          "previewfilepath": "/media/ap/10eb4fe0ac8a7dc348a2cc282ca5df1759ab8bf680117e4047728100969e7b43.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

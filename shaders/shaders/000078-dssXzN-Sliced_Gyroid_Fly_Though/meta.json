@@ -1,0 +1,33 @@
+{
+  "id": "dssXzN",
+  "name": "Sliced Gyroid Fly Though",
+  "author": "byt3_m3chanic",
+  "description": "Gyroid Slices \nmusic for mood only - Greenhouse Gasses | by Cevin Key\n\n@smjtyazdi https://twitter.com/smjtyazdi/status/1484828390104485896 (sliced SDFs)",
+  "tags": [
+    "raymarching",
+    "gyroid"
+  ],
+  "publishedAt": "2022-11-16T18:44:58.000Z",
+  "publishedTimestamp": 1668624298,
+  "views": 1278,
+  "likes": 78,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/dssXzN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

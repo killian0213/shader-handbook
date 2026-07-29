@@ -1,0 +1,32 @@
+{
+  "id": "XdlcWf",
+  "name": "position offsetting",
+  "author": "macbooktall",
+  "description": "discontinuous floored displacements of an sdf. low coefficients can create a nice effect, but naturally creates artifacts.\nbase raymarching code from iq.\npModPolar and fOctahedron from Mercury's hg_sdf library.",
+  "tags": [
+    "raymarching"
+  ],
+  "publishedAt": "2017-04-11T00:12:16.000Z",
+  "publishedTimestamp": 1491869536,
+  "views": 5430,
+  "likes": 72,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdlcWf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

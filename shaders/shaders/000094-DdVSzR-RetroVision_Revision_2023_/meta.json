@@ -1,0 +1,38 @@
+{
+  "id": "DdVSzR",
+  "name": "RetroVision (Revision 2023)",
+  "author": "dean_the_coder",
+  "description": "Based on my entry for the 4Kb Executable Graphics compo at Revision 2023.\n(Some changes made to improve performance.)\nhttps://demozoo.org/graphics/322475/",
+  "tags": [
+    "3d",
+    "reflection",
+    "raymarch",
+    "camera",
+    "glass",
+    "wood",
+    "antique"
+  ],
+  "publishedAt": "2023-04-09T15:49:10.000Z",
+  "publishedTimestamp": 1681055350,
+  "views": 6733,
+  "likes": 94,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/DdVSzR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

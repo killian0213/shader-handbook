@@ -1,0 +1,38 @@
+{
+  "id": "4llBRl",
+  "name": "Kelvin waves / ship waves",
+  "author": "FabriceNeyret2",
+  "description": "Semi-analytic Kelvin waves, in deep water conditions ( w=sqrt(gk), group velocity = 1/2 phase velocity ).\n\nMouse.x controls boat size ( in facts, the max of waves emission spectrum ).\nMouse.y controls the width of emission spectrum.\n(0,0) : auto-demo",
+  "tags": [
+    "2d",
+    "waves",
+    "water",
+    "fluid",
+    "physics",
+    "short",
+    "wake"
+  ],
+  "publishedAt": "2017-12-10T16:05:03.000Z",
+  "publishedTimestamp": 1512921903,
+  "views": 5606,
+  "likes": 82,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4llBRl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

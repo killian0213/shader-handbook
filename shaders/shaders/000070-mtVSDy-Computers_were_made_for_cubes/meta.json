@@ -1,0 +1,33 @@
+{
+  "id": "mtVSDy",
+  "name": "Computers were made for cubes",
+  "author": "mrange",
+  "description": "Computers were made for cubes\nMade after hanging lug00ber twitch stream: https://www.twitch.tv/lug00ber\nHad a discussion that rotating cubes + music is really what computers are made for.",
+  "tags": [
+    "3d",
+    "cubes"
+  ],
+  "publishedAt": "2023-06-09T19:52:30.000Z",
+  "publishedTimestamp": 1686340350,
+  "views": 2410,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/mtVSDy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

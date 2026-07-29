@@ -1,0 +1,36 @@
+{
+  "id": "4ts3DB",
+  "name": "Distance - PN Continuous",
+  "author": "iq",
+  "description": "Subdivision / Tesselation of a piecewise linear shape into a cubic, by means of PN-Triangle like tesselation. I implemented a cheap but inaccurate (in short distances) way to compute distances, and a brute force one for comparison.",
+  "tags": [
+    "2d",
+    "cubic",
+    "subdivision",
+    "tesselation",
+    "pntriangles"
+  ],
+  "publishedAt": "2015-02-26T02:43:36.000Z",
+  "publishedTimestamp": 1424918616,
+  "views": 6828,
+  "likes": 77,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4ts3DB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "MltGzM",
+  "name": "perlin + advection + flownoise 2",
+  "author": "FabriceNeyret2",
+  "description": "( mouse.x : show the trick > see FLAGS & comments )\nMix of simple procedural advection shader + smart blending shader.\n4 procedural layers : 3 vortex splats + background.\nEach done by combining 3 phased regenerated texture.\nMaintains constant contrat.",
+  "tags": [
+    "procedural",
+    "texture",
+    "perlin",
+    "sprite",
+    "blend",
+    "advection",
+    "variance",
+    "flownoise",
+    "lagrangian",
+    "smartblend"
+  ],
+  "publishedAt": "2016-07-14T08:31:01.000Z",
+  "publishedTimestamp": 1468485061,
+  "views": 4327,
+  "likes": 89,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MltGzM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "Xdf3zn",
+          "filepath": "/media/a/85a6d68622b36995ccb98a89bbb119edf167c914660e4450d313de049320005c.png",
+          "previewfilepath": "/media/ap/85a6d68622b36995ccb98a89bbb119edf167c914660e4450d313de049320005c.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

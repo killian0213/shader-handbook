@@ -1,0 +1,35 @@
+{
+  "id": "3dSXD1",
+  "name": "[twitch] Paper City",
+  "author": "NuSan",
+  "description": "Shader coded live on twitch (https://www.twitch.tv/nusan_fx)\nYou can lower the MARCH_STEPS and SHADOW_STEPS if too slow\nYou can find the original shader here: http://lezanu.fr/LiveCode/PaperCity.glsl\nInspired by https://www.shadertoy.com/view/tsjGRG",
+  "tags": [
+    "3d",
+    "volumetric",
+    "live",
+    "twitch"
+  ],
+  "publishedAt": "2019-03-25T22:38:02.000Z",
+  "publishedTimestamp": 1553553482,
+  "views": 2569,
+  "likes": 91,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3dSXD1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

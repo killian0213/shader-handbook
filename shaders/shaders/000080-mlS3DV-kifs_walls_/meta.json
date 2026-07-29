@@ -1,0 +1,34 @@
+{
+  "id": "mlS3DV",
+  "name": "kifs walls ",
+  "author": "dsa8",
+  "description": "Extruded 2D kifs on a wobbly refractive plane, a bit untamed and rough around the edges but I like the look :)\n\nTips and criticism more than welcome! (particularly when it comes to performance, I'm guessing it could be a lot better)",
+  "tags": [
+    "raymarching",
+    "refraction",
+    "kifs"
+  ],
+  "publishedAt": "2023-01-17T05:11:09.000Z",
+  "publishedTimestamp": 1673932269,
+  "views": 8040,
+  "likes": 80,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/mlS3DV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

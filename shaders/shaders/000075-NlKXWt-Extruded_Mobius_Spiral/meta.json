@@ -1,0 +1,38 @@
+{
+  "id": "NlKXWt",
+  "name": "Extruded Mobius Spiral",
+  "author": "Shane",
+  "description": "An extruded double Mobius spiral.",
+  "tags": [
+    "raymarch",
+    "spiral",
+    "atan",
+    "mobius",
+    "complex",
+    "complex",
+    "extrude"
+  ],
+  "publishedAt": "2022-01-08T13:18:35.000Z",
+  "publishedTimestamp": 1641647915,
+  "views": 3901,
+  "likes": 75,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/NlKXWt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "4ttGWM",
+  "name": "301's Fire Shader - Remix 3",
+  "author": "mu6k",
+  "description": "Sorry, I couln't resist :P. This is another take on the plasma-fire effect. Original code by CaliCoastReplay and 301.",
+  "tags": [
+    "flame",
+    "fire",
+    "blaze"
+  ],
+  "publishedAt": "2016-07-27T11:24:10.000Z",
+  "publishedTimestamp": 1469618650,
+  "views": 24655,
+  "likes": 195,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4ttGWM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dfGRn",
+          "filepath": "/media/a/8de3a3924cb95bd0e95a443fff0326c869f9d4979cd1d5b6e94e2a01f5be53e9.jpg",
+          "previewfilepath": "/media/ap/8de3a3924cb95bd0e95a443fff0326c869f9d4979cd1d5b6e94e2a01f5be53e9.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

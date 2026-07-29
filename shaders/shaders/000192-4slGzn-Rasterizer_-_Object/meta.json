@@ -1,0 +1,50 @@
+{
+  "id": "4slGzn",
+  "name": "Rasterizer - Object",
+  "author": "iq",
+  "description": "Using rasterization to render a deforming polygonal mesh, in a fragment shader!!! :D",
+  "tags": [
+    "3d",
+    "rasterizer",
+    "mesh"
+  ],
+  "publishedAt": "2013-03-19T05:19:54.000Z",
+  "publishedTimestamp": 1363670394,
+  "views": 17191,
+  "likes": 192,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4slGzn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGRn",
+          "filepath": "/media/a/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "previewfilepath": "/media/ap/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

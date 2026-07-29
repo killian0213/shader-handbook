@@ -1,0 +1,48 @@
+{
+  "id": "cscyDf",
+  "name": "Saturday hacking",
+  "author": "mrange",
+  "description": "Wanted to make the previous shader look a bit more like underwater travelling through glowing abstract \"algae\" \nSome glitches remains but now I need a break\n",
+  "tags": [
+    "underwater"
+  ],
+  "publishedAt": "2023-09-24T13:09:53.000Z",
+  "publishedTimestamp": 1695560993,
+  "views": 1726,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/cscyDf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Mdd3WM",
+          "filepath": "https://soundcloud.com/carbonbasedlifeforms/abiogenesis?si=2fd70ee2ecc8450e9b9a2bed741e4101&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "previewfilepath": "https://soundcloud.com/carbonbasedlifeforms/abiogenesis?si=2fd70ee2ecc8450e9b9a2bed741e4101&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

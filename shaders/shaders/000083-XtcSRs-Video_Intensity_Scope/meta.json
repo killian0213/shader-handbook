@@ -1,0 +1,66 @@
+{
+  "id": "XtcSRs",
+  "name": "Video Intensity Scope",
+  "author": "robingreen",
+  "description": "Takes video and generates a log-scaled density plot for the intensity of each column of pixels  in the image, RGB and Luma overlaid.\nThis demonstrates quite well the problem of picking a green-screen from a video source.",
+  "tags": [
+    "video",
+    "imageprocessing",
+    "scope",
+    "intensity"
+  ],
+  "publishedAt": "2016-12-06T19:33:22.000Z",
+  "publishedTimestamp": 1481052802,
+  "views": 13986,
+  "likes": 83,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 2,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtcSRs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4df3zn",
+          "filepath": "/media/a/3405e48f74815c7baa49133bdc835142948381fbe003ad2f12f5087715731153.ogv",
+          "previewfilepath": "/media/ap/3405e48f74815c7baa49133bdc835142948381fbe003ad2f12f5087715731153.ogv",
+          "type": "video",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4sf3zn",
+          "filepath": "/presets/webcam.png",
+          "previewfilepath": "/presets/webcam.png",
+          "type": "webcam",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "tdKfW1",
+  "name": "Isometric Lattice",
+  "author": "Shane",
+  "description": "Using a triangle grid to produce an isometric lattice, rendered in a hand drawn impossible geometry style.",
+  "tags": [
+    "triangle",
+    "sketch",
+    "geometry",
+    "isometric",
+    "quad",
+    "lattice",
+    "impossible"
+  ],
+  "publishedAt": "2020-12-04T13:51:04.000Z",
+  "publishedTimestamp": 1607089864,
+  "views": 1329,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tdKfW1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

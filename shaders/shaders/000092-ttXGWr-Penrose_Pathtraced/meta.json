@@ -1,0 +1,78 @@
+{
+  "id": "ttXGWr",
+  "name": "Penrose Pathtraced",
+  "author": "yx",
+  "description": "A shadertoy port of my 4k Executable Graphics entry at Revision 2019. Placed 7th out of 18 entries.\nUse the mouse to turn the camera and reveal the trick.\n\nDownload the original executable version here: [url]http://www.pouet.net/prod.php?which=81059[/url]",
+  "tags": [
+    "revision",
+    "impossible",
+    "penrosetriangle"
+  ],
+  "publishedAt": "2019-04-23T16:18:38.000Z",
+  "publishedTimestamp": 1556036318,
+  "views": 3182,
+  "likes": 92,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ttXGWr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "w3SSWd",
+  "name": "Checked Out",
+  "author": "diatribes",
+  "description": "Fire & Ice\n\n    Playing with turbulence and translucency from\n    @Xor's recent shaders, e.g.\n        https://www.shadertoy.com/view/wXjSRt\n        https://www.shadertoy.com/view/wXSXzV",
+  "tags": [
+    "raymarch",
+    "small",
+    "short"
+  ],
+  "publishedAt": "2025-05-08T12:23:56.000Z",
+  "publishedTimestamp": 1746707036,
+  "views": 1834,
+  "likes": 100,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/w3SSWd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

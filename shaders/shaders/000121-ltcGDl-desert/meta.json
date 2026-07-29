@@ -1,0 +1,33 @@
+{
+  "id": "ltcGDl",
+  "name": "desert",
+  "author": "wachel",
+  "description": "change log\n2016.8.29:modify curve function",
+  "tags": [
+    "noise",
+    "raytrace"
+  ],
+  "publishedAt": "2016-08-28T06:12:51.000Z",
+  "publishedTimestamp": 1472364771,
+  "views": 16411,
+  "likes": 121,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltcGDl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

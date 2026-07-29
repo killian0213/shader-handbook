@@ -1,0 +1,32 @@
+{
+  "id": "7sBfDD",
+  "name": "Interactive 2.5D Squiggles",
+  "author": "SnoopethDuckDuck",
+  "description": " please upload please upload please upload please upload please upload please upload ",
+  "tags": [
+    "fun"
+  ],
+  "publishedAt": "2022-03-03T12:59:37.000Z",
+  "publishedTimestamp": 1646312377,
+  "views": 1820,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7sBfDD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cltfRf",
+  "name": "Shield [284]",
+  "author": "Xor",
+  "description": "Inspired by @cmzw's [url=https://twitter.com/cmzw_/status/1729148918225916406]work[/url]",
+  "tags": [
+    "3d",
+    "sphere",
+    "scifi",
+    "hex",
+    "golf",
+    "sub300"
+  ],
+  "publishedAt": "2023-12-01T14:41:29.000Z",
+  "publishedTimestamp": 1701441689,
+  "views": 2901,
+  "likes": 173,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/cltfRf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

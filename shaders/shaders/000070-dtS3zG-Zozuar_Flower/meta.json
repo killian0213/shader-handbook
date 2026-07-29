@@ -1,0 +1,39 @@
+{
+  "id": "dtS3zG",
+  "name": "Zozuar Flower",
+  "author": "mla",
+  "description": "A semi-degolfed version of the impressively short [url]https://twitter.com/zozuar/status/1612919479582728232[/url] by Zozuar, mainly just to see what's going on.\n\nI've added mouse rotation and dinked with the colours a little. Further eludication welcome.",
+  "tags": [
+    "zozuar"
+  ],
+  "publishedAt": "2023-01-15T12:01:38.000Z",
+  "publishedTimestamp": 1673784098,
+  "views": 2908,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/dtS3zG",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

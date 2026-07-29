@@ -1,0 +1,28 @@
+{
+  "id": "XssXz4",
+  "name": "Neon parallax",
+  "author": "nimitz",
+  "description": "Manhattan distance metric and parallax scrolling.",
+  "tags": [
+    "2d",
+    "parallax"
+  ],
+  "publishedAt": "2014-04-15T18:24:11.000Z",
+  "publishedTimestamp": 1397586251,
+  "views": 6050,
+  "likes": 108,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XssXz4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

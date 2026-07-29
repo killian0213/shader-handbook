@@ -1,0 +1,52 @@
+{
+  "id": "fstfR8",
+  "name": "The Screen [316 chars]",
+  "author": "Xor",
+  "description": "Abstract shader art",
+  "tags": [
+    "3d",
+    "dof",
+    "bokeh",
+    "lcd",
+    "golf"
+  ],
+  "publishedAt": "2022-06-24T01:35:15.000Z",
+  "publishedTimestamp": 1656034515,
+  "views": 2202,
+  "likes": 110,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/fstfR8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsBSR3",
+          "filepath": "/media/a/cb49c003b454385aa9975733aff4571c62182ccdda480aaba9a8d250014f00ec.png",
+          "previewfilepath": "/media/ap/cb49c003b454385aa9975733aff4571c62182ccdda480aaba9a8d250014f00ec.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

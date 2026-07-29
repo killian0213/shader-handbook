@@ -1,0 +1,35 @@
+{
+  "id": "ldKyW1",
+  "name": "Light and dark glow",
+  "author": "Tetane",
+  "description": "A border between two worlds.",
+  "tags": [
+    "light",
+    "glow",
+    "sinus",
+    "dark"
+  ],
+  "publishedAt": "2018-03-24T20:20:25.000Z",
+  "publishedTimestamp": 1521922825,
+  "views": 2371,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldKyW1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

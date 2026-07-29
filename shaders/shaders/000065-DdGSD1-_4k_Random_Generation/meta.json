@@ -1,0 +1,93 @@
+{
+  "id": "DdGSD1",
+  "name": "[4k] Random Generation",
+  "author": "Kali",
+  "description": "4kb intro presented at Revision 2023 by LIA. The party version introduces variations every time is run. \nIn this version you can click the mouse at different points along the x axis to see these variations.\nCode by me and music by Uctumi as usual.",
+  "tags": [
+    "intro",
+    "4k",
+    "demoscene"
+  ],
+  "publishedAt": "2023-04-08T23:23:56.000Z",
+  "publishedTimestamp": 1680996236,
+  "views": 1328,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 96,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/DdGSD1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "ldt3Rn",
+          "filepath": "https://soundcloud.com/pablo-andrioli/random-generated-3e?si=f98962a4f27541eca27bc858c41b8848&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "previewfilepath": "https://soundcloud.com/pablo-andrioli/random-generated-3e?si=f98962a4f27541eca27bc858c41b8848&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

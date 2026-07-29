@@ -1,0 +1,47 @@
+{
+  "id": "XdjSRw",
+  "name": "Hashed blur",
+  "author": "Dave_Hoskins",
+  "description": "Samples evenly in a circular area. \n\n",
+  "tags": [
+    "2d",
+    "blur",
+    "post",
+    "effects",
+    "hashedblur"
+  ],
+  "publishedAt": "2014-09-09T17:32:52.000Z",
+  "publishedTimestamp": 1410283972,
+  "views": 6418,
+  "likes": 74,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdjSRw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dfGRn",
+          "filepath": "/media/a/8de3a3924cb95bd0e95a443fff0326c869f9d4979cd1d5b6e94e2a01f5be53e9.jpg",
+          "previewfilepath": "/media/ap/8de3a3924cb95bd0e95a443fff0326c869f9d4979cd1d5b6e94e2a01f5be53e9.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "XsyGRW",
+  "name": "2D SDF Toy",
+  "author": "hughsk",
+  "description": "I've been using this to experiment with different DF operations, but keep losing my link to it! Putting it here for safe keeping :) Note that you can use the mouse to test raymarching.",
+  "tags": [
+    "2d",
+    "sdf",
+    "debug",
+    "toy"
+  ],
+  "publishedAt": "2016-01-21T06:54:19.000Z",
+  "publishedTimestamp": 1453359259,
+  "views": 19832,
+  "likes": 118,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsyGRW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

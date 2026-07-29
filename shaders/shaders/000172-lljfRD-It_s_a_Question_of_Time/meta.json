@@ -1,0 +1,35 @@
+{
+  "id": "lljfRD",
+  "name": "It's a Question of Time",
+  "author": "rigel",
+  "description": "This was a study on circles inpired by this [url=http://www.dailymail.co.uk/news/article-1236380/Worlds-largest-artwork-etched-desert-sand.html]artwork[/url] . You can play circle inversion with your mouse...",
+  "tags": [
+    "2d",
+    "sdf",
+    "circle",
+    "apollonian"
+  ],
+  "publishedAt": "2018-01-20T11:42:15.000Z",
+  "publishedTimestamp": 1516448535,
+  "views": 18613,
+  "likes": 172,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lljfRD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

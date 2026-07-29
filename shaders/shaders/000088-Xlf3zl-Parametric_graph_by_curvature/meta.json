@@ -1,0 +1,29 @@
+{
+  "id": "Xlf3zl",
+  "name": "Parametric graph by curvature",
+  "author": "iq",
+  "description": "An attempt to find a way to compute the distance to a parametric curve map(t) that is better than linear search, based on curvature. An intuition really, need to think about this deeply. Inspired by eiffie's shaders.",
+  "tags": [
+    "2d",
+    "graph",
+    "parametric"
+  ],
+  "publishedAt": "2015-02-17T05:06:50.000Z",
+  "publishedTimestamp": 1424149610,
+  "views": 14811,
+  "likes": 88,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xlf3zl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

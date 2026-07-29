@@ -1,0 +1,36 @@
+{
+  "id": "MsjSzz",
+  "name": "Da Rasterizer",
+  "author": "TDM",
+  "description": "smooth rasterize line and circle shapes\nand a little 3d pipeline :)",
+  "tags": [
+    "3d",
+    "rasterizer",
+    "line",
+    "circle",
+    "pipeline"
+  ],
+  "publishedAt": "2014-08-20T16:36:16.000Z",
+  "publishedTimestamp": 1408552576,
+  "views": 18873,
+  "likes": 192,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsjSzz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

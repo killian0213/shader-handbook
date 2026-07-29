@@ -1,0 +1,51 @@
+{
+  "id": "ldfSW2",
+  "name": "sound - acid jam",
+  "author": "srtuss",
+  "description": ":love: the new sound feature. ",
+  "tags": [
+    "emulation",
+    "303",
+    "bassline",
+    "kick",
+    "tb",
+    "909",
+    "hard",
+    "bassdrum"
+  ],
+  "publishedAt": "2014-07-31T17:22:41.000Z",
+  "publishedTimestamp": 1406827361,
+  "views": 27043,
+  "likes": 336,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldfSW2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "XsfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

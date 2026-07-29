@@ -1,0 +1,50 @@
+{
+  "id": "MsXGWr",
+  "name": "Mike",
+  "author": "iq",
+  "description": "Raymarching (a simplified version of) Mike's procedural distance field. Modeling and shading are pretty arbitrary, and made after the first picture you get in google image when you type his name. You can see him in 3D if you uncomment line 9.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "distancefield"
+  ],
+  "publishedAt": "2013-05-03T02:39:24.000Z",
+  "publishedTimestamp": 1367548764,
+  "views": 132085,
+  "likes": 143,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsXGWr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdXGzn",
+          "filepath": "/media/a/3083c722c0c738cad0f468383167a0d246f91af2bfa373e9c5c094fb8c8413e0.png",
+          "previewfilepath": "/media/ap/3083c722c0c738cad0f468383167a0d246f91af2bfa373e9c5c094fb8c8413e0.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

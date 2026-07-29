@@ -1,0 +1,35 @@
+{
+  "id": "WXKGRd",
+  "name": "Phosphor 2 [318]",
+  "author": "Xor",
+  "description": "[url=https://x.com/XorDev/status/1945504914253205515]Twigl version[/url]",
+  "tags": [
+    "color",
+    "space",
+    "glow",
+    "golf"
+  ],
+  "publishedAt": "2025-07-16T18:09:40.000Z",
+  "publishedTimestamp": 1752689380,
+  "views": 2162,
+  "likes": 112,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WXKGRd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

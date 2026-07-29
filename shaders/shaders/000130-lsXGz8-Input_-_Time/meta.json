@@ -1,0 +1,30 @@
+{
+  "id": "lsXGz8",
+  "name": "Input - Time",
+  "author": "iq",
+  "description": "Simple realtime, real time, watch.",
+  "tags": [
+    "2d",
+    "time",
+    "clock",
+    "watch"
+  ],
+  "publishedAt": "2013-03-02T08:59:26.000Z",
+  "publishedTimestamp": 1362214766,
+  "views": 17878,
+  "likes": 130,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsXGz8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

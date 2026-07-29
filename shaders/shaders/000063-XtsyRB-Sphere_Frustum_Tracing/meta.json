@@ -1,0 +1,34 @@
+{
+  "id": "XtsyRB",
+  "name": "Sphere Frustum Tracing",
+  "author": "paniq",
+  "description": "crossing planes indicate outer and inner near and far depths of sphere within frustum. Inner boundaries show 100% occlusion. The segments between outer and inner planes enclose a part of the surface.",
+  "tags": [
+    "sphere",
+    "intersection",
+    "frustum"
+  ],
+  "publishedAt": "2017-09-13T19:10:18.000Z",
+  "publishedTimestamp": 1505329818,
+  "views": 2549,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtsyRB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

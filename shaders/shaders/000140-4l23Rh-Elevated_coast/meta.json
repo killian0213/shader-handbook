@@ -1,0 +1,29 @@
+{
+  "id": "4l23Rh",
+  "name": "Elevated coast",
+  "author": "guil",
+  "description": "Cheap sine noise with derivatives tested with the terrain from IQ's Elevated",
+  "tags": [
+    "3d",
+    "noise",
+    "terrain"
+  ],
+  "publishedAt": "2015-03-21T10:45:44.000Z",
+  "publishedTimestamp": 1426934744,
+  "views": 18637,
+  "likes": 140,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4l23Rh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

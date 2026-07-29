@@ -1,0 +1,36 @@
+{
+  "id": "4tl3z4",
+  "name": "Simple path tracer",
+  "author": "reinder",
+  "description": "This shader shows the difference between a path tracer with, and without, direct light sampling.",
+  "tags": [
+    "light",
+    "sampling",
+    "tracer",
+    "path",
+    "direct"
+  ],
+  "publishedAt": "2014-12-23T20:56:17.000Z",
+  "publishedTimestamp": 1419368177,
+  "views": 14015,
+  "likes": 128,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tl3z4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

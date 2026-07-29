@@ -1,0 +1,51 @@
+{
+  "id": "ldSGzR",
+  "name": "Screen space bump mapping",
+  "author": "iq",
+  "description": "Mikkelsen's technique for Bump Mapping Unparametrized Surfaces  (pretty much copy & pasted).",
+  "tags": [
+    "3d",
+    "bump",
+    "bumpmapping",
+    "mikkelsen"
+  ],
+  "publishedAt": "2013-10-22T22:56:12.000Z",
+  "publishedTimestamp": 1382482572,
+  "views": 8476,
+  "likes": 62,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldSGzR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4df3Rr",
+          "filepath": "/media/a/3871e838723dd6b166e490664eead8ec60aedd6b8d95bc8e2fe3f882f0fd90f0.jpg",
+          "previewfilepath": "/media/ap/3871e838723dd6b166e490664eead8ec60aedd6b8d95bc8e2fe3f882f0fd90f0.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

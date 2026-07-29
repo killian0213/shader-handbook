@@ -1,0 +1,39 @@
+{
+  "id": "Xt3yDS",
+  "name": "Isoline triangle",
+  "author": "tdhooper",
+  "description": "Inspired by the tattoo work of [url=https://www.instagram.com/p/Bl6G0v_gh4d]Cassady Bell[/url].\n\nI remember reading that it was possible to use fwidth to create isolines, turns out it's true!",
+  "tags": [
+    "noise",
+    "triangle",
+    "lines",
+    "perlin",
+    "simplex",
+    "contour",
+    "fwidth",
+    "isoline"
+  ],
+  "publishedAt": "2018-08-08T21:39:12.000Z",
+  "publishedTimestamp": 1533764352,
+  "views": 7250,
+  "likes": 210,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xt3yDS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

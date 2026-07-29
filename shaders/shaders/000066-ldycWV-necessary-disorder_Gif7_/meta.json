@@ -1,0 +1,37 @@
+{
+  "id": "ldycWV",
+  "name": "necessary-disorder \"Gif7\"",
+  "author": "FabriceNeyret2",
+  "description": "reproduce some  Étienne Jacob's effects [url]https://goo.gl/vBGWwj[/url] (see ref below)\n\nfollowing his tuto (based of Processing) [url]https://necessarydisorder.wordpress.com/[/url]\ncore Idea:  interpolated points delayed.",
+  "tags": [
+    "2d",
+    "curves",
+    "interpolation",
+    "art",
+    "reproduction",
+    "etiennejacob"
+  ],
+  "publishedAt": "2018-04-10T13:55:21.000Z",
+  "publishedTimestamp": 1523368521,
+  "views": 1812,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldycWV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

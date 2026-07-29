@@ -1,0 +1,39 @@
+{
+  "id": "WlfXRN",
+  "name": "matplotlib colormaps",
+  "author": "mattz",
+  "description": "similar to [url]https://www.shadertoy.com/view/XtGGzG[/url] with some small tweaks",
+  "tags": [
+    "plasma",
+    "colormap",
+    "uniform",
+    "viridis",
+    "magma",
+    "inferno",
+    "matplotlib",
+    "perceptually"
+  ],
+  "publishedAt": "2019-07-03T22:05:44.000Z",
+  "publishedTimestamp": 1562191544,
+  "views": 4954,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WlfXRN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

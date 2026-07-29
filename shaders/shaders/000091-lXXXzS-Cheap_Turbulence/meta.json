@@ -1,0 +1,35 @@
+{
+  "id": "lXXXzS",
+  "name": "Cheap Turbulence",
+  "author": "Xor",
+  "description": "Simulating proper fluid dynamics can be complicated. Sometimes, you just want to emulate some smoke or something simple, and you don't want to go through all that trouble. Here's my technique for cheaply faking it",
+  "tags": [
+    "2d",
+    "simple",
+    "fluid",
+    "turbulent"
+  ],
+  "publishedAt": "2024-03-05T15:29:10.000Z",
+  "publishedTimestamp": 1709652550,
+  "views": 1997,
+  "likes": 91,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lXXXzS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

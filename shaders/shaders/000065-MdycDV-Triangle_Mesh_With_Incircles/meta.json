@@ -1,0 +1,36 @@
+{
+  "id": "MdycDV",
+  "name": "Triangle Mesh With Incircles",
+  "author": "Shane",
+  "description": "Applying some mild adaptions to Tomkh's random triangulation algorithm to create a haphazard triangular mesh with some inscribed packed circles.",
+  "tags": [
+    "triangle",
+    "circle",
+    "packing",
+    "delaunay",
+    "incircle"
+  ],
+  "publishedAt": "2018-04-13T13:32:11.000Z",
+  "publishedTimestamp": 1523626331,
+  "views": 2432,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdycDV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

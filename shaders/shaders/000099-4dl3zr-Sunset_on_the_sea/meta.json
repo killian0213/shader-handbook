@@ -1,0 +1,38 @@
+{
+  "id": "4dl3zr",
+  "name": "Sunset on the sea",
+  "author": "h3r3",
+  "description": "Sunset on the sea v.1.0.1\nRay Marching & Ray Tracing experiment by Riccardo Gerosa aka h3r3 \nMore information about this shader can be found here: http://www.postronic.org/h3/pid65.html",
+  "tags": [
+    "raytracing",
+    "raymarching",
+    "waves",
+    "sea",
+    "sunset",
+    "simulation",
+    "sun"
+  ],
+  "publishedAt": "2013-02-25T08:55:45.000Z",
+  "publishedTimestamp": 1361782545,
+  "views": 9796,
+  "likes": 99,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dl3zr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

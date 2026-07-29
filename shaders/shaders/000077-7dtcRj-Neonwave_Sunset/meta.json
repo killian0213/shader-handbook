@@ -1,0 +1,48 @@
+{
+  "id": "7dtcRj",
+  "name": "Neonwave Sunset",
+  "author": "mrange",
+  "description": "License CC0: Neon Sunset\nCode is hackish but I thought it looked good enough to share\nThe music from GTA III - RISE FM, the best radio channel in GTA III IMHO",
+  "tags": [
+    "raytracerneon"
+  ],
+  "publishedAt": "2022-05-28T19:54:30.000Z",
+  "publishedTimestamp": 1653767670,
+  "views": 4565,
+  "likes": 77,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7dtcRj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "llBSz1",
+          "filepath": "https://soundcloud.com/furtheram-9/grand-theft-auto-iii-gta-3-1",
+          "previewfilepath": "https://soundcloud.com/furtheram-9/grand-theft-auto-iii-gta-3-1",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

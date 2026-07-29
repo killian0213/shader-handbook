@@ -1,0 +1,34 @@
+{
+  "id": "MdXSWn",
+  "name": "mandelbulb_",
+  "author": "EvilRyu",
+  "description": "a mandelbulb",
+  "tags": [
+    "raymarching",
+    "fractal",
+    "cineshader"
+  ],
+  "publishedAt": "2014-05-03T06:36:38.000Z",
+  "publishedTimestamp": 1399098998,
+  "views": 415815,
+  "likes": 282,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdXSWn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

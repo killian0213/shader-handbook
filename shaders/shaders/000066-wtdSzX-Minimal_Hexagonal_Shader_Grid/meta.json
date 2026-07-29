@@ -1,0 +1,32 @@
+{
+  "id": "wtdSzX",
+  "name": "Minimal Hexagonal Shader/Grid",
+  "author": "leftofzen",
+  "description": "Based on https://www.shadertoy.com/view/Xljczw, but actually a minimal example; no superfluous shading or colouring. See that shader for more info.",
+  "tags": [
+    "hexagonalgrid"
+  ],
+  "publishedAt": "2020-02-12T01:01:52.000Z",
+  "publishedTimestamp": 1581469312,
+  "views": 7521,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wtdSzX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

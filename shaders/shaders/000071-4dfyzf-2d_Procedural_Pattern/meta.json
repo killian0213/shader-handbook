@@ -1,0 +1,53 @@
+{
+  "id": "4dfyzf",
+  "name": "2d Procedural Pattern",
+  "author": "gPlatl",
+  "description": "A collection of 2d procedural pattern types.\nPress mouse button and select pattern in x direction & zoom in y direction.\nShould all work with Antialiasing - hints are welcome...",
+  "tags": [
+    "procedural",
+    "2d",
+    "basic",
+    "texture",
+    "pattern",
+    "collection"
+  ],
+  "publishedAt": "2017-03-09T09:41:23.000Z",
+  "publishedTimestamp": 1489052483,
+  "views": 1921,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dfyzf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "lsSXDm",
+          "filepath": "https://soundcloud.com/user-828301013/linkin-park-she-couldnt-instrumental",
+          "previewfilepath": "https://soundcloud.com/user-828301013/linkin-park-she-couldnt-instrumental",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "Dtf3Dl",
+  "name": "Human Shader - Code",
+  "author": "iq",
+  "description": "The shader I used while designing the Human Shader experiment ([url]https://humanshader.com/[/url]).",
+  "tags": [
+    "3d",
+    "human",
+    "humanshader"
+  ],
+  "publishedAt": "2023-07-21T20:43:16.000Z",
+  "publishedTimestamp": 1689972196,
+  "views": 3807,
+  "likes": 80,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Dtf3Dl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

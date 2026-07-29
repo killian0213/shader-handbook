@@ -1,0 +1,35 @@
+{
+  "id": "ctGyWK",
+  "name": "Origami [318]",
+  "author": "Xor",
+  "description": "I wanted to try out soft shading like paper, but quickly discovered it looks better with color and looks like bounce lighting!",
+  "tags": [
+    "shadow",
+    "paper",
+    "golf",
+    "sub512"
+  ],
+  "publishedAt": "2023-11-22T06:13:36.000Z",
+  "publishedTimestamp": 1700633616,
+  "views": 4392,
+  "likes": 235,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ctGyWK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

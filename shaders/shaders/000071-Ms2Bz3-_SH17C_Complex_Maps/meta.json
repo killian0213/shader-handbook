@@ -1,0 +1,68 @@
+{
+  "id": "Ms2Bz3",
+  "name": "[SH17C] Complex Maps",
+  "author": "ttoinou",
+  "description": "Recoding in GLSL my video [url=https://www.youtube.com/watch?v=CMMrEDIFPZY]Obama deformed by holomorphic complex functions (conformal map)[/url] : the domain coloring is showing visually how complex functions warps the C plane !\nWIP please comment :) ",
+  "tags": [
+    "visualization",
+    "complex",
+    "conformal",
+    "maps",
+    "sh17c",
+    "holomorphic"
+  ],
+  "publishedAt": "2017-07-31T20:56:54.000Z",
+  "publishedTimestamp": 1501534614,
+  "views": 2599,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Ms2Bz3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzr",
+          "filepath": "/media/a/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "previewfilepath": "/media/ap/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dXSD2",
+          "filepath": "https://soundcloud.com/officialratatat/track-05",
+          "previewfilepath": "https://soundcloud.com/officialratatat/track-05",
+          "type": "musicstream",
+          "channel": 2,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

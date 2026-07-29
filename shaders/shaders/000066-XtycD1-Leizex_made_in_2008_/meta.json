@@ -1,0 +1,63 @@
+{
+  "id": "XtycD1",
+  "name": "Leizex (made in 2008)",
+  "author": "iq",
+  "description": "\"Leizex\", a procedural graphics I made in 2008, as my 3rd ever SDF raymarched image (I was still investigating the technique). I copy+pasted the 10 years old code, which was C++ at the time, adjusted it a bit for GLSL and just worked!",
+  "tags": [
+    "3d",
+    "raymarching",
+    "voronoi",
+    "distancefields"
+  ],
+  "publishedAt": "2018-09-03T07:11:53.000Z",
+  "publishedTimestamp": 1535958713,
+  "views": 5005,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtycD1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

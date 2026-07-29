@@ -1,0 +1,51 @@
+{
+  "id": "MtSSRz",
+  "name": "Burning Runes",
+  "author": "revers",
+  "description": "Just playing with [url=https://www.shadertoy.com/view/MsXSRn]runes generation algorithm (by Otavio Good)[/url] and some turbulent noise.",
+  "tags": [
+    "fire",
+    "font",
+    "runes",
+    "pseudofont"
+  ],
+  "publishedAt": "2015-08-30T22:02:58.000Z",
+  "publishedTimestamp": 1440972178,
+  "views": 2183,
+  "likes": 86,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MtSSRz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGRn",
+          "filepath": "/media/a/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "previewfilepath": "/media/ap/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

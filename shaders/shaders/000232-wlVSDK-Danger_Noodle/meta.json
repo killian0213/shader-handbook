@@ -1,0 +1,97 @@
+{
+  "id": "wlVSDK",
+  "name": "Danger Noodle",
+  "author": "BigWIngs",
+  "description": "Watch fullscreen with sound. Use mouse to look around.",
+  "tags": [
+    "raymarching",
+    "snake",
+    "animal",
+    "jungle",
+    "viper"
+  ],
+  "publishedAt": "2020-03-20T07:16:20.000Z",
+  "publishedTimestamp": 1584688580,
+  "views": 17760,
+  "likes": 232,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wlVSDK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsX3zn",
+          "filepath": "/media/a/94284d43be78f00eb6b298e6d78656a1b34e2b91b34940d02f1ca8b22310e8a0.png",
+          "previewfilepath": "/media/ap/94284d43be78f00eb6b298e6d78656a1b34e2b91b34940d02f1ca8b22310e8a0.png",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4sX3zn",
+          "filepath": "/media/a/0681c014f6c88c356cf9c0394ffe015acc94ec1474924855f45d22c3e70b5785.png",
+          "previewfilepath": "/media/ap/0681c014f6c88c356cf9c0394ffe015acc94ec1474924855f45d22c3e70b5785.png",
+          "type": "cubemap",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XtS3DR",
+          "filepath": "https://soundcloud.com/extasis_demencial/jungle-sounds",
+          "previewfilepath": "https://soundcloud.com/extasis_demencial/jungle-sounds",
+          "type": "musicstream",
+          "channel": 2,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        },
+        {
+          "id": "4tS3DR",
+          "filepath": "https://soundcloud.com/liam-seagrave/pandemic-prologue-slow-strings-suspense-music-original-horror-piano-composition",
+          "previewfilepath": "https://soundcloud.com/liam-seagrave/pandemic-prologue-slow-strings-suspense-music-original-horror-piano-composition",
+          "type": "musicstream",
+          "channel": 3,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

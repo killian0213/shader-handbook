@@ -1,0 +1,52 @@
+{
+  "id": "tttBRX",
+  "name": "Cubes are dancing",
+  "author": "Flopine",
+  "description": "Improvised during OMZG Shader Royale, here are some cube vibin' to the muuuusiiiiiic ",
+  "tags": [
+    "raymarching",
+    "fft",
+    "animation",
+    "geometry",
+    "isometric"
+  ],
+  "publishedAt": "2021-02-12T23:38:44.000Z",
+  "publishedTimestamp": 1613173124,
+  "views": 3862,
+  "likes": 85,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tttBRX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGzn",
+          "filepath": "/media/a/a6a1cf7a09adfed8c362492c88c30d74fb3d2f4f7ba180ba34b98556660fada1.mp3",
+          "previewfilepath": "/media/ap/a6a1cf7a09adfed8c362492c88c30d74fb3d2f4f7ba180ba34b98556660fada1.mp3",
+          "type": "music",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

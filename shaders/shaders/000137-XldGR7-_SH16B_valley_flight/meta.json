@@ -1,0 +1,112 @@
+{
+  "id": "XldGR7",
+  "name": "[SH16B] valley flight",
+  "author": "Bananaft",
+  "description": "Here is my raymarching debut. Developed on GTX 960. Thanks for watching!\n\nMain inspiration (and optional soundtrack): https://www.youtube.com/watch?v=zLohrSf69ao\n\nShould look like this: https://twitter.com/Bananaft/status/754706898092425220",
+  "tags": [
+    "terrain",
+    "clouds",
+    "motionblur",
+    "sky",
+    "canyon",
+    "sh16b",
+    "valley"
+  ],
+  "publishedAt": "2016-07-15T12:31:54.000Z",
+  "publishedTimestamp": 1468585914,
+  "views": 21786,
+  "likes": 137,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XldGR7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xdf3zn",
+          "filepath": "/media/a/85a6d68622b36995ccb98a89bbb119edf167c914660e4450d313de049320005c.png",
+          "previewfilepath": "/media/ap/85a6d68622b36995ccb98a89bbb119edf167c914660e4450d313de049320005c.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4sf3Rn",
+          "filepath": "/media/a/0a40562379b63dfb89227e6d172f39fdce9022cba76623f1054a2c83d6c0ba5d.png",
+          "previewfilepath": "/media/ap/0a40562379b63dfb89227e6d172f39fdce9022cba76623f1054a2c83d6c0ba5d.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4sf3Rr",
+          "filepath": "/media/a/ad56fba948dfba9ae698198c109e71f118a54d209c0ea50d77ea546abad89c57.png",
+          "previewfilepath": "/media/ap/ad56fba948dfba9ae698198c109e71f118a54d209c0ea50d77ea546abad89c57.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

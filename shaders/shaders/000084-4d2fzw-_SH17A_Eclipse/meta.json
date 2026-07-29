@@ -1,0 +1,69 @@
+{
+  "id": "4d2fzw",
+  "name": "[SH17A] Eclipse",
+  "author": "Xor",
+  "description": "Here's a simple planet shader for the 2017 ShaderToy competition.\nInspired by: https://www.shadertoy.com/view/ldSBRm\nUpdated 4-26-19: -14 chars\nUpdated 5-12-21: -6 chars\nUpdated 2-17-22: -28 chars! I've learned a lot",
+  "tags": [
+    "3d",
+    "space",
+    "planet",
+    "xor",
+    "twotweets",
+    "challenge",
+    "sh17a"
+  ],
+  "publishedAt": "2017-07-13T18:29:58.000Z",
+  "publishedTimestamp": 1499970598,
+  "views": 2953,
+  "likes": 84,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4d2fzw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4df3Rr",
+          "filepath": "/media/a/3871e838723dd6b166e490664eead8ec60aedd6b8d95bc8e2fe3f882f0fd90f0.jpg",
+          "previewfilepath": "/media/ap/3871e838723dd6b166e490664eead8ec60aedd6b8d95bc8e2fe3f882f0fd90f0.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "lsfXzs",
+          "filepath": "https://soundcloud.com/justmusiclabel/weightless-marconi-union",
+          "previewfilepath": "https://soundcloud.com/justmusiclabel/weightless-marconi-union",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "wslSRr",
+  "name": "thinking...",
+  "author": "kaneta",
+  "description": "🤔",
+  "tags": [
+    "3d",
+    "raymarch",
+    "face",
+    "emoji",
+    "think"
+  ],
+  "publishedAt": "2019-02-18T19:14:04.000Z",
+  "publishedTimestamp": 1550517244,
+  "views": 4624,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wslSRr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

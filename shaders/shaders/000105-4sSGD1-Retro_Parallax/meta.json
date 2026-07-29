@@ -1,0 +1,44 @@
+{
+  "id": "4sSGD1",
+  "name": "Retro Parallax",
+  "author": "TekF",
+  "description": "Simple old-fashioned parallax.",
+  "tags": [
+    "retro",
+    "parallax"
+  ],
+  "publishedAt": "2013-12-10T23:17:27.000Z",
+  "publishedTimestamp": 1386717447,
+  "views": 4755,
+  "likes": 105,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sSGD1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdX3Rn",
+          "filepath": "/media/a/52d2a8f514c4fd2d9866587f4d7b2a5bfa1a11a0e772077d7682deb8b3b517e5.jpg",
+          "previewfilepath": "/media/ap/52d2a8f514c4fd2d9866587f4d7b2a5bfa1a11a0e772077d7682deb8b3b517e5.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

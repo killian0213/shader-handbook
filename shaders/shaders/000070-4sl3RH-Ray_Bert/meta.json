@@ -1,0 +1,35 @@
+{
+  "id": "4sl3RH",
+  "name": "Ray*Bert",
+  "author": "Dave_Hoskins",
+  "description": "Q*Bert board simulation with ray-tracing.\nTraces into voxels for the playing area, and distance estimation fields for the balls.\nTime based random positioning for the ball landing square, and unique direction choices.\n",
+  "tags": [
+    "raytracing",
+    "voxels",
+    "qbert",
+    "raybert"
+  ],
+  "publishedAt": "2013-03-08T15:48:05.000Z",
+  "publishedTimestamp": 1362757685,
+  "views": 4411,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sl3RH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "Mtf3Rj",
+  "name": "[2TC 15]Results",
+  "author": "nimitz",
+  "description": "Congratulations to Dave_Hoskins for 1st place with Mistery Mountains [url]https://www.shadertoy.com/view/llsGW7[/url]",
+  "tags": [
+    "smoke",
+    "short",
+    "2tc15",
+    "tweets"
+  ],
+  "publishedAt": "2015-02-06T23:19:25.000Z",
+  "publishedTimestamp": 1423264765,
+  "views": 3617,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mtf3Rj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sfGRn",
+          "filepath": "/media/a/fb918796edc3d2221218db0811e240e72e340350008338b0c07a52bd353666a6.jpg",
+          "previewfilepath": "/media/ap/fb918796edc3d2221218db0811e240e72e340350008338b0c07a52bd353666a6.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

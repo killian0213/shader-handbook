@@ -1,0 +1,36 @@
+{
+  "id": "Xds3zM",
+  "name": "Stack",
+  "author": "iq",
+  "description": "Implementing a stack in a shader, in order to render a recursive fractal with a distance field. Since all the traversing is static it can be resolved at compile/loop unrolling time by the GLSLES interpreter. ANGLE under Win seems to handle it correctly!",
+  "tags": [
+    "2d",
+    "fractal",
+    "distancefield",
+    "stack",
+    "recursion"
+  ],
+  "publishedAt": "2013-04-16T19:33:09.000Z",
+  "publishedTimestamp": 1366140789,
+  "views": 5275,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xds3zM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

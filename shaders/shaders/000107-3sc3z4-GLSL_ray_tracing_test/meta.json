@@ -1,0 +1,33 @@
+{
+  "id": "3sc3z4",
+  "name": "GLSL ray tracing test",
+  "author": "colin299",
+  "description": "you can drag left/right to control roughness\nopen using CineShader: https://cineshader.com/view/3sc3z4",
+  "tags": [
+    "raytracing",
+    "cineshader"
+  ],
+  "publishedAt": "2019-09-07T15:15:03.000Z",
+  "publishedTimestamp": 1567869303,
+  "views": 378608,
+  "likes": 107,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3sc3z4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "XXs3Rj",
+  "name": "Bezier Trefoil Knot",
+  "author": "etcher",
+  "description": "Bezier Trefoil Knot",
+  "tags": [
+    "3d",
+    "raymarching",
+    "bezier"
+  ],
+  "publishedAt": "2024-04-13T17:26:55.000Z",
+  "publishedTimestamp": 1713029215,
+  "views": 1215,
+  "likes": 64,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XXs3Rj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

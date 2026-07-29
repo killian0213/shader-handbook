@@ -1,0 +1,66 @@
+{
+  "id": "XsfGWN",
+  "name": "furball",
+  "author": "simesgreen",
+  "description": "Kajiya & Kay style ray-marched fur.\n\nhttp://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.127.5564",
+  "tags": [
+    "raymarch",
+    "hair",
+    "fur",
+    "fluffy"
+  ],
+  "publishedAt": "2013-05-28T16:15:46.000Z",
+  "publishedTimestamp": 1369757746,
+  "views": 57312,
+  "likes": 403,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsfGWN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdXGzn",
+          "filepath": "/media/a/3083c722c0c738cad0f468383167a0d246f91af2bfa373e9c5c094fb8c8413e0.png",
+          "previewfilepath": "/media/ap/3083c722c0c738cad0f468383167a0d246f91af2bfa373e9c5c094fb8c8413e0.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XdXGzn",
+          "filepath": "/media/a/3083c722c0c738cad0f468383167a0d246f91af2bfa373e9c5c094fb8c8413e0.png",
+          "previewfilepath": "/media/ap/3083c722c0c738cad0f468383167a0d246f91af2bfa373e9c5c094fb8c8413e0.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

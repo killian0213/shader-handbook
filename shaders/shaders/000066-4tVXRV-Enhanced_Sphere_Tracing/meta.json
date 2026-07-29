@@ -1,0 +1,34 @@
+{
+  "id": "4tVXRV",
+  "name": "Enhanced Sphere Tracing",
+  "author": "patu",
+  "description": "[url=http://erleuchtet.org/~cupe/permanent/enhanced_sphere_tracing.pdf]Trace source[/url]",
+  "tags": [
+    "raymarching",
+    "sky",
+    "enchanced"
+  ],
+  "publishedAt": "2017-01-22T02:44:49.000Z",
+  "publishedTimestamp": 1485053089,
+  "views": 7065,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tVXRV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

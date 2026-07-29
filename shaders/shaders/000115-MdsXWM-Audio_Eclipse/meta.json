@@ -1,0 +1,45 @@
+{
+  "id": "MdsXWM",
+  "name": "Audio Eclipse",
+  "author": "airtight",
+  "description": "Super basic audio-reactive HSL light ring. My first shader here :)",
+  "tags": [
+    "basic",
+    "reactive",
+    "audio"
+  ],
+  "publishedAt": "2014-06-12T23:07:42.000Z",
+  "publishedTimestamp": 1402614462,
+  "views": 11377,
+  "likes": 115,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdsXWM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4df3Rn",
+          "filepath": "/media/a/3c33c415862bb7964d256f4749408247da6596f2167dca2c86cc38f83c244aa6.mp3",
+          "previewfilepath": "/media/ap/3c33c415862bb7964d256f4749408247da6596f2167dca2c86cc38f83c244aa6.mp3",
+          "type": "music",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

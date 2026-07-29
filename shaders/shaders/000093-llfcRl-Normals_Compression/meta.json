@@ -1,0 +1,50 @@
+{
+  "id": "llfcRl",
+  "name": "Normals Compression",
+  "author": "iq",
+  "description": "* Encoding surface normals which are 96 bits normally\n* Top to bottom: 8, 12, 16, 24 and 32 bits (12x, 8x, 6x, 4x and 3x compression)\n* Left to Right: Direct, Cube, ZIgnore, Spherical, Spheremap, Fibonacci, and Octahedral",
+  "tags": [
+    "3d",
+    "normals",
+    "compression"
+  ],
+  "publishedAt": "2017-09-20T21:48:02.000Z",
+  "publishedTimestamp": 1505944082,
+  "views": 7439,
+  "likes": 93,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llfcRl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdX3zn",
+          "filepath": "/media/a/488bd40303a2e2b9a71987e48c66ef41f5e937174bf316d3ed0e86410784b919.jpg",
+          "previewfilepath": "/media/ap/488bd40303a2e2b9a71987e48c66ef41f5e937174bf316d3ed0e86410784b919.jpg",
+          "type": "cubemap",
+          "channel": 2,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

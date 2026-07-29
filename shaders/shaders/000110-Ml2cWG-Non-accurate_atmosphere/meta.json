@@ -1,0 +1,45 @@
+{
+  "id": "Ml2cWG",
+  "name": "Non-accurate atmosphere",
+  "author": "robobo1221",
+  "description": "Just another non-physical-based sky I made. I hope you like it!",
+  "tags": [
+    "sunset",
+    "sun",
+    "shadow",
+    "earth",
+    "gradient",
+    "sky",
+    "yellow",
+    "shader",
+    "red",
+    "scattering",
+    "blue",
+    "atmosphere",
+    "scatter",
+    "atmospheric"
+  ],
+  "publishedAt": "2017-11-07T09:12:01.000Z",
+  "publishedTimestamp": 1510045921,
+  "views": 13245,
+  "likes": 110,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Ml2cWG",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

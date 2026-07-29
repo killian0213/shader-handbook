@@ -1,0 +1,36 @@
+{
+  "id": "3dcXWS",
+  "name": "thundercloud",
+  "author": "mahalis",
+  "description": "a project for Nodevember. today's subject: “cloud”. you may need a relatively high-end GPU to get a decent frame rate.",
+  "tags": [
+    "volume",
+    "raymarch",
+    "cloud",
+    "smoke",
+    "lightning"
+  ],
+  "publishedAt": "2019-11-02T23:06:39.000Z",
+  "publishedTimestamp": 1572735999,
+  "views": 4094,
+  "likes": 83,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3dcXWS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

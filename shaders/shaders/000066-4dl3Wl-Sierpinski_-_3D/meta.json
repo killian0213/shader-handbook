@@ -1,0 +1,38 @@
+{
+  "id": "4dl3Wl",
+  "name": "Sierpinski - 3D",
+  "author": "iq",
+  "description": "Sierpinski fractal",
+  "tags": [
+    "3d",
+    "raymarching",
+    "fractal",
+    "distancefield",
+    "distance",
+    "sierpinski",
+    "gtc2015"
+  ],
+  "publishedAt": "2013-10-26T07:00:37.000Z",
+  "publishedTimestamp": 1382770837,
+  "views": 7370,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 1,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dl3Wl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "WddGDf",
+  "name": "Hexagon Grid Spiral Tessellation",
+  "author": "Shane",
+  "description": "Using a hexagon grid and polar spiral coordinates to create a subdivided interlocking triskelion pattern.",
+  "tags": [
+    "grid",
+    "spiral",
+    "hexagon",
+    "polar",
+    "tessellation",
+    "archimedes",
+    "triskelion"
+  ],
+  "publishedAt": "2025-10-07T14:00:08.000Z",
+  "publishedTimestamp": 1759845608,
+  "views": 462,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WddGDf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

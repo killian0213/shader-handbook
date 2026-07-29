@@ -1,0 +1,35 @@
+{
+  "id": "Mt3Gz2",
+  "name": "PSX rendering",
+  "author": "TDM",
+  "description": "Lack of perspective-correct texturing, z-buffer, float data type and bilinear filtering lead to this kind of buggy rendering.",
+  "tags": [
+    "barycentric",
+    "rasterization",
+    "playstation",
+    "psx"
+  ],
+  "publishedAt": "2016-08-06T20:37:48.000Z",
+  "publishedTimestamp": 1470515868,
+  "views": 9019,
+  "likes": 99,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mt3Gz2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "4tBXRh",
+  "name": "Fractal Anxiety",
+  "author": "Kali",
+  "description": "Playing too much with fractals and weird sounds can hurt your mind.",
+  "tags": [
+    "2d",
+    "fractal",
+    "kifs"
+  ],
+  "publishedAt": "2015-09-03T05:08:52.000Z",
+  "publishedTimestamp": 1441256932,
+  "views": 3384,
+  "likes": 79,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tBXRh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

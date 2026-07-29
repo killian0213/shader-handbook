@@ -1,0 +1,49 @@
+{
+  "id": "tfV3W3",
+  "name": "Galaxy in a Sphere",
+  "author": "atzedent",
+  "description": "I caught it in the dark forest yesterday and put it in a container to make it easier to handle. These things always try to escape!",
+  "tags": [
+    "galaxy",
+    "glass"
+  ],
+  "publishedAt": "2025-05-30T15:59:59.000Z",
+  "publishedTimestamp": 1748620799,
+  "views": 864,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tfV3W3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsX3zn",
+          "filepath": "/media/a/94284d43be78f00eb6b298e6d78656a1b34e2b91b34940d02f1ca8b22310e8a0.png",
+          "previewfilepath": "/media/ap/94284d43be78f00eb6b298e6d78656a1b34e2b91b34940d02f1ca8b22310e8a0.png",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

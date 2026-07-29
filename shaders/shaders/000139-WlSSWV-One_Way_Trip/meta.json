@@ -1,0 +1,50 @@
+{
+  "id": "WlSSWV",
+  "name": "One Way Trip",
+  "author": "PVM",
+  "description": "\"One Way Trip\" by PVM\nRanked 2nd in the 4 kbytes compo at Evoke 2019, Germany.\nCode: Kali, Music: Uctumi\nYou can download Windows 4kbyte executable from: http://pungas.space/releases/pvm-owtr.zip \n+PVM Info: http://pungas.space",
+  "tags": [
+    "intro",
+    "4k",
+    "demoscene"
+  ],
+  "publishedAt": "2019-08-29T04:02:43.000Z",
+  "publishedTimestamp": 1567051363,
+  "views": 10386,
+  "likes": 139,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WlSSWV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4lXGWS",
+          "filepath": "https://soundcloud.com/pablo-andrioli/uctumi-alien-reefs-wip",
+          "previewfilepath": "https://soundcloud.com/pablo-andrioli/uctumi-alien-reefs-wip",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

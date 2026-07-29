@@ -1,0 +1,34 @@
+{
+  "id": "fl2Bzd",
+  "name": "Planetary nebula",
+  "author": "nimitz",
+  "description": "Been wanting to try my hand at rendering a somewhat realistic planetary nebula for a while, here it is. Also showing off the latest version of my procedural starfield algorithm (note the lack of star flickering).",
+  "tags": [
+    "volumetric",
+    "stars",
+    "nebula"
+  ],
+  "publishedAt": "2023-03-02T20:46:04.000Z",
+  "publishedTimestamp": 1677789964,
+  "views": 1863,
+  "likes": 77,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/fl2Bzd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

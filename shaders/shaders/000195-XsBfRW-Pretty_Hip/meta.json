@@ -1,0 +1,33 @@
+{
+  "id": "XsBfRW",
+  "name": "Pretty Hip",
+  "author": "Hadyn",
+  "description": "Definitely some squares. The math is almost certainly more complicated than it needs to be - I'm refusing to think too hard today.",
+  "tags": [
+    "2d",
+    "cineshader"
+  ],
+  "publishedAt": "2017-10-09T11:27:19.000Z",
+  "publishedTimestamp": 1507548439,
+  "views": 79449,
+  "likes": 195,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsBfRW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

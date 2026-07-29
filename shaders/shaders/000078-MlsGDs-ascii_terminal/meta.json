@@ -1,0 +1,29 @@
+{
+  "id": "MlsGDs",
+  "name": "ascii terminal",
+  "author": "ryk",
+  "description": "webgl compatible variant of this shader: [url]https://vimeo.com/119702476[/url]",
+  "tags": [
+    "2d",
+    "crt",
+    "pixels"
+  ],
+  "publishedAt": "2015-03-14T21:02:30.000Z",
+  "publishedTimestamp": 1426366950,
+  "views": 9786,
+  "likes": 78,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MlsGDs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

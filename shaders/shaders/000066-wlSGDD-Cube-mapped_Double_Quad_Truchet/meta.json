@@ -1,0 +1,35 @@
+{
+  "id": "wlSGDD",
+  "name": "Cube-mapped Double Quad Truchet",
+  "author": "BigWIngs",
+  "description": "See comments for details. Mouse to move",
+  "tags": [
+    "cubemap",
+    "truchet",
+    "double",
+    "quad"
+  ],
+  "publishedAt": "2019-06-05T05:46:54.000Z",
+  "publishedTimestamp": 1559713614,
+  "views": 2013,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wlSGDD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

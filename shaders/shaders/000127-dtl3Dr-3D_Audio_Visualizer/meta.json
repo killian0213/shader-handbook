@@ -1,0 +1,57 @@
+{
+  "id": "dtl3Dr",
+  "name": "3D Audio Visualizer",
+  "author": "kishimisu",
+  "description": "Continuation of my attemps to extract audio features from a song",
+  "tags": [
+    "raymarching",
+    "sound",
+    "interactive",
+    "music",
+    "pixel",
+    "light",
+    "bloom",
+    "visual",
+    "live",
+    "neon"
+  ],
+  "publishedAt": "2022-12-21T18:01:46.000Z",
+  "publishedTimestamp": 1671645706,
+  "views": 8859,
+  "likes": 127,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/dtl3Dr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "MtjXzc",
+          "filepath": "https://soundcloud.com/blazerjacket/blazerjacket-x-neogarde-freedom-or-death",
+          "previewfilepath": "https://soundcloud.com/blazerjacket/blazerjacket-x-neogarde-freedom-or-death",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

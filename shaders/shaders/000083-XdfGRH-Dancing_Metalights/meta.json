@@ -1,0 +1,45 @@
+{
+  "id": "XdfGRH",
+  "name": "Dancing Metalights",
+  "author": "Danguafer",
+  "description": "Metaballs (I rather call it metalights) distorting a room.",
+  "tags": [
+    "metaballs",
+    "metalights",
+    "beat"
+  ],
+  "publishedAt": "2013-02-28T21:23:20.000Z",
+  "publishedTimestamp": 1362086600,
+  "views": 6135,
+  "likes": 83,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdfGRH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGzn",
+          "filepath": "/media/a/a6a1cf7a09adfed8c362492c88c30d74fb3d2f4f7ba180ba34b98556660fada1.mp3",
+          "previewfilepath": "/media/ap/a6a1cf7a09adfed8c362492c88c30d74fb3d2f4f7ba180ba34b98556660fada1.mp3",
+          "type": "music",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

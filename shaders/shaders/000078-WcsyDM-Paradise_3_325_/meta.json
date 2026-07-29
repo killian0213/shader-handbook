@@ -1,0 +1,35 @@
+{
+  "id": "WcsyDM",
+  "name": "Paradise 3 [325]",
+  "author": "Xor",
+  "description": "[url=https://x.com/XorDev/status/1958193141573353887]Original version[/url]",
+  "tags": [
+    "clouds",
+    "water",
+    "color",
+    "golf"
+  ],
+  "publishedAt": "2025-08-20T16:37:42.000Z",
+  "publishedTimestamp": 1755707862,
+  "views": 800,
+  "likes": 78,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WcsyDM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

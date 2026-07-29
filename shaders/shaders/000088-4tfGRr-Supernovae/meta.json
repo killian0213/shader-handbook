@@ -1,0 +1,28 @@
+{
+  "id": "4tfGRr",
+  "name": "Supernovae",
+  "author": "guil",
+  "description": "inspired by https://www.shadertoy.com/view/ls2SDd",
+  "tags": [
+    "3d",
+    "fractal"
+  ],
+  "publishedAt": "2014-12-04T09:33:02.000Z",
+  "publishedTimestamp": 1417685582,
+  "views": 4968,
+  "likes": 88,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tfGRr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

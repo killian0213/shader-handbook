@@ -1,0 +1,32 @@
+{
+  "id": "ltfGD7",
+  "name": "Wind Waker Ocean",
+  "author": "Polyflare",
+  "description": "An ocean scene inspired by The Legend of Zelda: Wind Waker. The foam in the game distorts differently than what's implemented here but it's good enough for now. Best experienced with [url]http://youtu.be/or8y5EC1_Rs[/url] playing in the background. :)",
+  "tags": [
+    "3d",
+    "waves",
+    "sea",
+    "water",
+    "ocean",
+    "zelda"
+  ],
+  "publishedAt": "2015-01-29T13:07:26.000Z",
+  "publishedTimestamp": 1422536846,
+  "views": 12061,
+  "likes": 123,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltfGD7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

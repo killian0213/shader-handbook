@@ -1,0 +1,32 @@
+{
+  "id": "lt2SDK",
+  "name": "vt220 at night",
+  "author": "sprash3",
+  "description": "A review of https://www.shadertoy.com/view/MljXDG but this time with lights off. At night bloom and reflection effects need to be taken care of. To increase quality, increase blur/bloom iterations. Uncomment MOUSE_MOVE to move terminal around.",
+  "tags": [
+    "2d",
+    "retro",
+    "screen",
+    "crt",
+    "curve",
+    "terminal"
+  ],
+  "publishedAt": "2015-11-05T18:11:27.000Z",
+  "publishedTimestamp": 1446747087,
+  "views": 6111,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lt2SDK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

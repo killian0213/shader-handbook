@@ -1,0 +1,36 @@
+{
+  "id": "wctXWN",
+  "name": "Vortex [265]",
+  "author": "Xor",
+  "description": "Ported from [url=https://x.com/XorDev/status/1930594981963505793]twigl[/url]\n",
+  "tags": [
+    "fire",
+    "glow",
+    "twist",
+    "tornado",
+    "golf"
+  ],
+  "publishedAt": "2025-06-05T13:11:48.000Z",
+  "publishedTimestamp": 1749129108,
+  "views": 1537,
+  "likes": 77,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wctXWN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

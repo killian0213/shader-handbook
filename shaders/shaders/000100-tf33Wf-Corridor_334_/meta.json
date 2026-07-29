@@ -1,0 +1,35 @@
+{
+  "id": "tf33Wf",
+  "name": "Corridor [334]",
+  "author": "Xor",
+  "description": "[url]https://x.com/XorDev/status/1923882930834751520[/url]",
+  "tags": [
+    "tunnel",
+    "color",
+    "abstract",
+    "golf"
+  ],
+  "publishedAt": "2025-05-18T17:38:20.000Z",
+  "publishedTimestamp": 1747589900,
+  "views": 993,
+  "likes": 100,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tf33Wf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

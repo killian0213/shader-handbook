@@ -1,0 +1,45 @@
+{
+  "id": "43BGRV",
+  "name": "Lucid Polyrhythm (music)",
+  "author": "Nguyen2007",
+  "description": "Inspired by: https://www.youtube.com/live/JU0tSeOc7_E?si=hMuDgyI4cIX2FA6U\nIf you're noticing that the audio isn't syncing up perfectly with the visuals, you might want to try restarting the shader.",
+  "tags": [
+    "2d",
+    "sdf",
+    "audio",
+    "trippy",
+    "art",
+    "visual",
+    "polyrhythms"
+  ],
+  "publishedAt": "2024-02-23T19:29:26.000Z",
+  "publishedTimestamp": 1708716566,
+  "views": 1408,
+  "likes": 72,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/43BGRV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "MtSBDc",
+  "name": "Golfing Ether - 361 chars",
+  "author": "GregRostami",
+  "description": "I'm trying to get nimitz's amazing Ether down to two tweets:\n[url]https://www.shadertoy.com/view/MsjSW3[/url]\nPlease help me reduce this shader. Thank you.",
+  "tags": [
+    "raymarch",
+    "small",
+    "golf",
+    "ether"
+  ],
+  "publishedAt": "2018-01-31T01:53:21.000Z",
+  "publishedTimestamp": 1517363601,
+  "views": 16288,
+  "likes": 94,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MtSBDc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

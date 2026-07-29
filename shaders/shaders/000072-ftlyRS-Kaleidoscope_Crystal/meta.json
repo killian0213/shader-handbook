@@ -1,0 +1,36 @@
+{
+  "id": "ftlyRS",
+  "name": "Kaleidoscope Crystal",
+  "author": "Hyeve",
+  "description": "hmn... the insides of crystals look pretty cool too :>",
+  "tags": [
+    "3d",
+    "raymarching",
+    "transparency",
+    "glass",
+    "crystal"
+  ],
+  "publishedAt": "2022-03-25T10:56:38.000Z",
+  "publishedTimestamp": 1648205798,
+  "views": 1616,
+  "likes": 72,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ftlyRS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

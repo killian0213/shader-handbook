@@ -1,0 +1,34 @@
+{
+  "id": "fldXWS",
+  "name": "Cubic Dispersal",
+  "author": "Tater",
+  "description": "3d version of [url]https://www.shadertoy.com/view/stdGz4[/url]. I finally got around to finishing it. \n\nuse mouse to reveal perspective. ",
+  "tags": [
+    "3d",
+    "raymarching",
+    "subdivision"
+  ],
+  "publishedAt": "2021-12-16T23:52:51.000Z",
+  "publishedTimestamp": 1639698771,
+  "views": 5658,
+  "likes": 149,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/fldXWS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

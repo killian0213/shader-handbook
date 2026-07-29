@@ -1,0 +1,36 @@
+{
+  "id": "wl3yWX",
+  "name": "sad cat",
+  "author": "blackle",
+  "description": ":(",
+  "tags": [
+    "sad",
+    "nn",
+    "neuralnetwork",
+    "siren",
+    "sirennetwork"
+  ],
+  "publishedAt": "2021-01-07T07:39:03.000Z",
+  "publishedTimestamp": 1610005143,
+  "views": 2479,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wl3yWX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

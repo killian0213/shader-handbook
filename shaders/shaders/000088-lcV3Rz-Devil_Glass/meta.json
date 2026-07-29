@@ -1,0 +1,32 @@
+{
+  "id": "lcV3Rz",
+  "name": "Devil Glass",
+  "author": "leon",
+  "description": "alternative version of my shader from Revision24 showdown final",
+  "tags": [
+    "shadershowdown"
+  ],
+  "publishedAt": "2024-04-05T19:25:00.000Z",
+  "publishedTimestamp": 1712345100,
+  "views": 2069,
+  "likes": 88,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lcV3Rz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

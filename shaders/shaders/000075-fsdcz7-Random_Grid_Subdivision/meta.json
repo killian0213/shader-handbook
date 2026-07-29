@@ -1,0 +1,39 @@
+{
+  "id": "fsdcz7",
+  "name": "Random Grid Subdivision",
+  "author": "Shane",
+  "description": "Performing CSG operations on variable frequency, randomly rotated, offset grids to produce a fractal-like polygonal pattern mildly reminiscent of randomly subdivided Voronoi cells.",
+  "tags": [
+    "2d",
+    "fractal",
+    "fbm",
+    "csg",
+    "hexagon",
+    "square",
+    "cell",
+    "subdivision"
+  ],
+  "publishedAt": "2022-05-25T13:32:41.000Z",
+  "publishedTimestamp": 1653485561,
+  "views": 1518,
+  "likes": 75,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/fsdcz7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "4d2cWd",
+  "name": "Splitting DNA",
+  "author": "BigWIngs",
+  "description": "DNA. See comments for details. Hope you like!",
+  "tags": [
+    "raymarching",
+    "dna",
+    "molecule"
+  ],
+  "publishedAt": "2017-05-18T05:13:26.000Z",
+  "publishedTimestamp": 1495084406,
+  "views": 18567,
+  "likes": 158,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4d2cWd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Mlf3WB",
+          "filepath": "https://soundcloud.com/free-tracks-downloads/gus-gus-selfoss-deepfunks",
+          "previewfilepath": "https://soundcloud.com/free-tracks-downloads/gus-gus-selfoss-deepfunks",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

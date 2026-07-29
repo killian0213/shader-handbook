@@ -1,0 +1,43 @@
+{
+  "id": "wl2Gzc",
+  "name": "Sparks from fire",
+  "author": "jaszunio15",
+  "description": "I challenged myself to save 169 € by recreating this:\nhttps://www.shutterstock.com/pl/video/clip-1009164515-burning-red-hot-sparks-rise-large-fire\n\nEnjoy :)",
+  "tags": [
+    "voronoi",
+    "burn",
+    "fire",
+    "particles",
+    "sparks"
+  ],
+  "publishedAt": "2019-06-15T18:28:11.000Z",
+  "publishedTimestamp": 1560623291,
+  "views": 12285,
+  "likes": 178,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wl2Gzc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "lctGRB",
+  "name": "20240331_Brainfiller",
+  "author": "0b5vr",
+  "description": "The shadertoy port of \"Brainfiller\", my Windows 4kb intro\n\nhttps://www.pouet.net/prod.php?which=96542",
+  "tags": [
+    "3d",
+    "pathtracing",
+    "quadtree"
+  ],
+  "publishedAt": "2024-03-31T02:18:13.000Z",
+  "publishedTimestamp": 1711851493,
+  "views": 8508,
+  "likes": 140,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 40,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lctGRB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

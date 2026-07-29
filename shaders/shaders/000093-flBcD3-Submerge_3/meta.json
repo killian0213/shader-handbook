@@ -1,0 +1,75 @@
+{
+  "id": "flBcD3",
+  "name": "Submerge 3",
+  "author": "Xor",
+  "description": "A new take on [url=https://www.shadertoy.com/view/NdBBzm]Submerge[/url], but with added bokeh.",
+  "tags": [
+    "underwater"
+  ],
+  "publishedAt": "2022-04-18T16:34:59.000Z",
+  "publishedTimestamp": 1650299699,
+  "views": 1860,
+  "likes": 93,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 96,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/flBcD3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "MlBSRz",
+          "filepath": "https://soundcloud.com/lmaodie/are-you-even-real",
+          "previewfilepath": "https://soundcloud.com/lmaodie/are-you-even-real",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

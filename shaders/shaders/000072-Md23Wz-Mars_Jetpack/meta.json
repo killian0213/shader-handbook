@@ -1,0 +1,68 @@
+{
+  "id": "Md23Wz",
+  "name": "Mars Jetpack",
+  "author": "Dave_Hoskins",
+  "description": "Uses sphere tracing to accumulate normals across the landscape. Materials are calculated after the tracing loop, so only the normal can be used as reference. Sphere diameter to create depth of field is distance squared.  http://youtu.be/2eSb8zB4dBo",
+  "tags": [
+    "3d",
+    "raymarch",
+    "spheretracing",
+    "mars",
+    "marsjetpack",
+    "soundcloud"
+  ],
+  "publishedAt": "2013-12-08T19:37:37.000Z",
+  "publishedTimestamp": 1386531457,
+  "views": 9911,
+  "likes": 72,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Md23Wz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4sl3Rr",
+          "filepath": "https://soundcloud.com/etokaminiature/zzzzra-vertige-version-excessive",
+          "previewfilepath": "https://soundcloud.com/etokaminiature/zzzzra-vertige-version-excessive",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

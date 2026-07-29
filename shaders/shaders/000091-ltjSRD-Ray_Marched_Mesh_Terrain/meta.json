@@ -1,0 +1,52 @@
+{
+  "id": "ltjSRD",
+  "name": "Ray Marched Mesh Terrain",
+  "author": "Flyguy",
+  "description": "An edit of a shader I posted here a few months ago with some fixes and better shading.",
+  "tags": [
+    "raymarching",
+    "distancefield",
+    "triangle",
+    "heightmap",
+    "mesh"
+  ],
+  "publishedAt": "2015-09-13T20:55:52.000Z",
+  "publishedTimestamp": 1442177752,
+  "views": 8450,
+  "likes": 91,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltjSRD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdX3Rn",
+          "filepath": "/media/a/52d2a8f514c4fd2d9866587f4d7b2a5bfa1a11a0e772077d7682deb8b3b517e5.jpg",
+          "previewfilepath": "/media/ap/52d2a8f514c4fd2d9866587f4d7b2a5bfa1a11a0e772077d7682deb8b3b517e5.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "Ml3SWj",
+  "name": "Quine in One Frame",
+  "author": "ttg",
+  "description": "Quine in One Frame\n\nPuzzle it out for yourself or read \"[url=https://www.shadertoy.com/view/XldSWB]Quine Explanation[/url]\" for an explanation of how this works.\n\nThis was created for WebGL1, there are now better ways: [url]/view/MlGcRz[/url]",
+  "tags": [
+    "text",
+    "font",
+    "quine",
+    "texfont"
+  ],
+  "publishedAt": "2016-12-12T21:02:09.000Z",
+  "publishedTimestamp": 1481576529,
+  "views": 3230,
+  "likes": 79,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Ml3SWj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzr",
+          "filepath": "/media/a/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "previewfilepath": "/media/ap/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

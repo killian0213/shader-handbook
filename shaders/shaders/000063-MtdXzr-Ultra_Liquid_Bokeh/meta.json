@@ -1,0 +1,35 @@
+{
+  "id": "MtdXzr",
+  "name": "Ultra Liquid Bokeh",
+  "author": "weyland",
+  "description": "Messing around with iq's bubbles to get endless bokeh variations and nice colorchannel interactions",
+  "tags": [
+    "procedural",
+    "2d",
+    "bokeh",
+    "bubbles"
+  ],
+  "publishedAt": "2016-10-31T17:42:41.000Z",
+  "publishedTimestamp": 1477935761,
+  "views": 4658,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MtdXzr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

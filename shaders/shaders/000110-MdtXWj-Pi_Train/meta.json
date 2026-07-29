@@ -1,0 +1,47 @@
+{
+  "id": "MdtXWj",
+  "name": "Pi Train",
+  "author": "mzadami",
+  "description": "WARNING! You may not see the correct digits of pi. Your WebGL implementation must support 32-bit ints.\n\nhttps://www.youtube.com/watch?v=QSf4aiTXnk8\n",
+  "tags": [
+    "2d",
+    "pi",
+    "font",
+    "train"
+  ],
+  "publishedAt": "2016-04-25T20:29:15.000Z",
+  "publishedTimestamp": 1461616155,
+  "views": 3407,
+  "likes": 110,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdtXWj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "XsfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

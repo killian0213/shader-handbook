@@ -1,0 +1,53 @@
+{
+  "id": "Ns2fzG",
+  "name": "Fractal Cube Steps",
+  "author": "Shane",
+  "description": "The classic hexagon fractal cube grid, rendered in 3D form.",
+  "tags": [
+    "fractal",
+    "raymarch",
+    "cube",
+    "wall",
+    "box",
+    "step"
+  ],
+  "publishedAt": "2022-03-18T14:18:44.000Z",
+  "publishedTimestamp": 1647613124,
+  "views": 1308,
+  "likes": 72,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Ns2fzG",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGRn",
+          "filepath": "/media/a/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "previewfilepath": "/media/ap/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

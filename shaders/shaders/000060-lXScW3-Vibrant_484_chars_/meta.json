@@ -1,0 +1,35 @@
+{
+  "id": "lXScW3",
+  "name": "Vibrant [484 chars]",
+  "author": "kishimisu",
+  "description": "A vibrant spiraling tunnel",
+  "tags": [
+    "raymarching",
+    "spiral",
+    "light",
+    "neon"
+  ],
+  "publishedAt": "2024-10-01T14:12:40.000Z",
+  "publishedTimestamp": 1727791960,
+  "views": 1370,
+  "likes": 60,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lXScW3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

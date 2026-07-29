@@ -1,0 +1,30 @@
+{
+  "id": "lssGRM",
+  "name": "Angels",
+  "author": "iq",
+  "description": "Some flying creatures. I need to find a cheap way to do volumetric rays!",
+  "tags": [
+    "procedural",
+    "3d",
+    "raymarching",
+    "distancefield"
+  ],
+  "publishedAt": "2013-04-19T23:32:26.000Z",
+  "publishedTimestamp": 1366414346,
+  "views": 30540,
+  "likes": 172,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 1,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lssGRM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

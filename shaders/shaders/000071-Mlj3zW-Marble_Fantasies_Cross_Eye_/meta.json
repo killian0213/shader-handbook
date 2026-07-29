@@ -1,0 +1,68 @@
+{
+  "id": "Mlj3zW",
+  "name": "Marble Fantasies (Cross Eye)",
+  "author": "tholzer",
+  "description": "A 3d marble with transparent satiny inner structure of the antialiased sphere and a generated background. \nIf you want to see this sphere in it's full beauty please switch to fullscreen mode.\nUse mouse to rotate marble.\ntoggle keys: a,b,f,r,s  see header!",
+  "tags": [
+    "3d",
+    "transparency",
+    "sphere",
+    "antialiasing",
+    "raytrace",
+    "satiny"
+  ],
+  "publishedAt": "2015-03-26T11:51:47.000Z",
+  "publishedTimestamp": 1427370707,
+  "views": 2532,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 80,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mlj3zW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRr",
+          "filepath": "/presets/tex00.jpg",
+          "previewfilepath": "/presets/tex00.jpg",
+          "type": "keyboard",
+          "channel": 3,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XsfSDl",
+          "filepath": "https://soundcloud.com/xlr8r/download-francesco-novara-ignition",
+          "previewfilepath": "https://soundcloud.com/xlr8r/download-francesco-novara-ignition",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

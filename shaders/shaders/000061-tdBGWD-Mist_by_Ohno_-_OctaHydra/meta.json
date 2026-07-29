@@ -1,0 +1,51 @@
+{
+  "id": "tdBGWD",
+  "name": "Mist by Ohno! - OctaHydra",
+  "author": "Flopine",
+  "description": "There are the scenes I worked on for a 4k demo at Cookie Demoparty 2018 with a music by Triace from Desire.\nThe other part was made by Lsdlive and you can find his work here : https://www.shadertoy.com/view/wdBGWD\nLink to pouet and youtube in the code. \n",
+  "tags": [
+    "raymarching",
+    "4k",
+    "demoscene",
+    "animation"
+  ],
+  "publishedAt": "2019-01-30T15:00:55.000Z",
+  "publishedTimestamp": 1548860455,
+  "views": 4265,
+  "likes": 61,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tdBGWD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "llfGD8",
+          "filepath": "https://soundcloud.com/deejay-arvy/mist-4k-intro-by-ohno?fbclid=IwAR2910wt7ol87XCiJmkp3QqxEvfwXhobrnmhbZvtYOFMYst5EUTRWXr8B7s",
+          "previewfilepath": "https://soundcloud.com/deejay-arvy/mist-4k-intro-by-ohno?fbclid=IwAR2910wt7ol87XCiJmkp3QqxEvfwXhobrnmhbZvtYOFMYst5EUTRWXr8B7s",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

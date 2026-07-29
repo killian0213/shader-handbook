@@ -1,0 +1,29 @@
+{
+  "id": "MslGRn",
+  "name": "electron",
+  "author": "gopher",
+  "description": "quick glsl port of an effect used in a 4k from 2007.\nuse mouse to rotate (x) and zoom (y)\n\n",
+  "tags": [
+    "raycasting",
+    "perlinnoise",
+    "fbm"
+  ],
+  "publishedAt": "2013-02-25T14:40:19.000Z",
+  "publishedTimestamp": 1361803219,
+  "views": 17460,
+  "likes": 201,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MslGRn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

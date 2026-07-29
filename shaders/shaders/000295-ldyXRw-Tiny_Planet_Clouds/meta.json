@@ -1,0 +1,39 @@
+{
+  "id": "ldyXRw",
+  "name": "Tiny Planet Clouds",
+  "author": "valentingalea",
+  "description": "Learning terrain and clouds rendering all in one!",
+  "tags": [
+    "noise",
+    "terrain",
+    "clouds",
+    "fbm",
+    "water",
+    "planet",
+    "volumetric",
+    "textureless"
+  ],
+  "publishedAt": "2016-05-16T20:47:49.000Z",
+  "publishedTimestamp": 1463431669,
+  "views": 47798,
+  "likes": 295,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldyXRw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

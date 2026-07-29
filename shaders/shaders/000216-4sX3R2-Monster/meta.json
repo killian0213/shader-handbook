@@ -1,0 +1,46 @@
+{
+  "id": "4sX3R2",
+  "name": "Monster",
+  "author": "iq",
+  "description": "Rotating, translating and reflecting a sphere 22 times (and using orbit trapping for coloring). Raymarching and lighting as usual.",
+  "tags": [
+    "procedural",
+    "3d",
+    "raymarching",
+    "fractal"
+  ],
+  "publishedAt": "2013-09-19T04:27:12.000Z",
+  "publishedTimestamp": 1379564832,
+  "views": 59405,
+  "likes": 216,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sX3R2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsX3zn",
+          "filepath": "/media/a/94284d43be78f00eb6b298e6d78656a1b34e2b91b34940d02f1ca8b22310e8a0.png",
+          "previewfilepath": "/media/ap/94284d43be78f00eb6b298e6d78656a1b34e2b91b34940d02f1ca8b22310e8a0.png",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

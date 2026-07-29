@@ -1,0 +1,36 @@
+{
+  "id": "mds3DX",
+  "name": "generative art deco 4",
+  "author": "morisil",
+  "description": "I just played a bit with the coefficients of my original \"generative art deco\". I changed color grading to be based on polar coordinates and put the shape in motion.",
+  "tags": [
+    "chromaticaberration",
+    "study",
+    "depthoffield",
+    "focus",
+    "cineshader"
+  ],
+  "publishedAt": "2022-10-28T00:48:13.000Z",
+  "publishedTimestamp": 1666918093,
+  "views": 20504,
+  "likes": 228,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/mds3DX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

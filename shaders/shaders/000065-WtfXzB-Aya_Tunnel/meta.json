@@ -1,0 +1,49 @@
+{
+  "id": "WtfXzB",
+  "name": "Aya Tunnel",
+  "author": "BigWIngs",
+  "description": "Put fullscreen and watch a while! See comments for details.",
+  "tags": [
+    "tunnel",
+    "gyroid"
+  ],
+  "publishedAt": "2019-07-18T08:19:01.000Z",
+  "publishedTimestamp": 1563437941,
+  "views": 3044,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WtfXzB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "ltX3zf",
+          "filepath": "https://soundcloud.com/licoknigi-1/asura-crossroads-limiter",
+          "previewfilepath": "https://soundcloud.com/licoknigi-1/asura-crossroads-limiter",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

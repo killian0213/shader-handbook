@@ -1,0 +1,35 @@
+{
+  "id": "lsdGzN",
+  "name": "Will it blend",
+  "author": "nmz",
+  "description": "From left to right: RGB Lerp, HSV bledning, CIE Lch Blending, My blending function\nMouse lets you change interpolated colors, the cylinder switches between HSV and Lch over time (Lch is the smooth one).\n\nThe new blending method is at line 200.",
+  "tags": [
+    "blending",
+    "lab",
+    "lch",
+    "colortheory"
+  ],
+  "publishedAt": "2015-11-25T17:30:09.000Z",
+  "publishedTimestamp": 1448472609,
+  "views": 24826,
+  "likes": 253,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsdGzN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

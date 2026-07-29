@@ -1,0 +1,33 @@
+{
+  "id": "ftGfDK",
+  "name": "Saturday cubism experiment",
+  "author": "mrange",
+  "description": "CC0: Saturday cubism experiment\nTrying to recreate some twitch graphics but failed\nbut thought the failure looked interesting enough to share\n",
+  "tags": [
+    "3d",
+    "cubes"
+  ],
+  "publishedAt": "2022-10-08T09:30:39.000Z",
+  "publishedTimestamp": 1665221439,
+  "views": 4448,
+  "likes": 96,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ftGfDK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4scBW8",
+  "name": "Blurry Spheres",
+  "author": "Klems",
+  "description": "Short exemple of depth of field with cone tracing. Click the screen to change the focal length.",
+  "tags": [
+    "3d",
+    "raymarch",
+    "dof"
+  ],
+  "publishedAt": "2018-04-27T07:45:20.000Z",
+  "publishedTimestamp": 1524815120,
+  "views": 6597,
+  "likes": 140,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4scBW8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

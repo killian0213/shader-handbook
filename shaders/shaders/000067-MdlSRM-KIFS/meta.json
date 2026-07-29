@@ -1,0 +1,35 @@
+{
+  "id": "MdlSRM",
+  "name": "KIFS",
+  "author": "EvilRyu",
+  "description": "A menger spone..",
+  "tags": [
+    "3d",
+    "raymarching",
+    "fractal",
+    "kifs"
+  ],
+  "publishedAt": "2014-04-27T10:42:31.000Z",
+  "publishedTimestamp": 1398595351,
+  "views": 7404,
+  "likes": 67,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdlSRM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

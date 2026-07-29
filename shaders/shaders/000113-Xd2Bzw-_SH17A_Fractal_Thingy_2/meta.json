@@ -1,0 +1,51 @@
+{
+  "id": "Xd2Bzw",
+  "name": "[SH17A] Fractal Thingy #2",
+  "author": "Klems",
+  "description": "Based on [url]https://www.shadertoy.com/view/Mt3Szr[/url]. Click to fast-forward!",
+  "tags": [
+    "2d",
+    "fractal",
+    "psychedelic",
+    "sh17a"
+  ],
+  "publishedAt": "2017-07-12T23:47:00.000Z",
+  "publishedTimestamp": 1499903220,
+  "views": 9714,
+  "likes": 113,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xd2Bzw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdfSRs",
+          "filepath": "https://soundcloud.com/lucifersamberlin/04-the-psychedelic-folk",
+          "previewfilepath": "https://soundcloud.com/lucifersamberlin/04-the-psychedelic-folk",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

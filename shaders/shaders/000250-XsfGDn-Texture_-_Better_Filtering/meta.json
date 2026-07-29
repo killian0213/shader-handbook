@@ -1,0 +1,52 @@
+{
+  "id": "XsfGDn",
+  "name": "Texture - Better Filtering",
+  "author": "iq",
+  "description": "This shader shows how to avoid the ugly artifacts of bilinear texture filtering. You can find more information here [url]https://iquilezles.org/articles/texture[/url]",
+  "tags": [
+    "2d",
+    "texture",
+    "filtering",
+    "cubic",
+    "bilinear"
+  ],
+  "publishedAt": "2013-04-23T22:42:23.000Z",
+  "publishedTimestamp": 1366756943,
+  "views": 71161,
+  "likes": 250,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsfGDn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdXGzn",
+          "filepath": "/media/a/3083c722c0c738cad0f468383167a0d246f91af2bfa373e9c5c094fb8c8413e0.png",
+          "previewfilepath": "/media/ap/3083c722c0c738cad0f468383167a0d246f91af2bfa373e9c5c094fb8c8413e0.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

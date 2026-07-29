@@ -1,0 +1,35 @@
+{
+  "id": "4dsGD7",
+  "name": "The Inversion Machine",
+  "author": "Kali",
+  "description": "My \"Inversion Machine\" shader now with synthesized sound",
+  "tags": [
+    "raymarching",
+    "sound"
+  ],
+  "publishedAt": "2013-06-26T06:42:33.000Z",
+  "publishedTimestamp": 1372228953,
+  "views": 21722,
+  "likes": 226,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dsGD7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

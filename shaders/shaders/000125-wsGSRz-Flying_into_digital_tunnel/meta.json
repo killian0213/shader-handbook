@@ -1,0 +1,42 @@
+{
+  "id": "wsGSRz",
+  "name": "Flying into digital tunnel",
+  "author": "jaszunio15",
+  "description": "Shutterstock challenge! It has some bugs, but I'm happy with the result :)\nCoding timelapse: https://youtu.be/QPWSkuW53Qs\n\nStock video:\nhttps://www.shutterstock.com/pl/video/clip-1026647174-motion-graphic-4k-seamless-loop-flying-into",
+  "tags": [
+    "sdf",
+    "digital",
+    "tunel",
+    "stockchallenge"
+  ],
+  "publishedAt": "2019-11-08T17:37:48.000Z",
+  "publishedTimestamp": 1573234668,
+  "views": 5692,
+  "likes": 125,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wsGSRz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

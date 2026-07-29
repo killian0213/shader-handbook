@@ -1,0 +1,42 @@
+{
+  "id": "wlc3zr",
+  "name": "Water Caustics w/ OpenSimplex2S",
+  "author": "KdotJPG",
+  "description": "Domain-warping noise with its own derivative produces a smooth rudimentary water caustics effect.",
+  "tags": [
+    "2d",
+    "noise",
+    "water",
+    "caustic"
+  ],
+  "publishedAt": "2019-12-04T12:25:28.000Z",
+  "publishedTimestamp": 1575462328,
+  "views": 5879,
+  "likes": 94,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wlc3zr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

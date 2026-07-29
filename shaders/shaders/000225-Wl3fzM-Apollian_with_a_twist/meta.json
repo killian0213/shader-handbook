@@ -1,0 +1,33 @@
+{
+  "id": "Wl3fzM",
+  "name": "Apollian with a twist",
+  "author": "mrange",
+  "description": "License CC0: Apollian with a twist\nPlaying around with apollian fractal\n",
+  "tags": [
+    "2d",
+    "apollian"
+  ],
+  "publishedAt": "2021-02-03T22:24:53.000Z",
+  "publishedTimestamp": 1612391093,
+  "views": 6925,
+  "likes": 225,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Wl3fzM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

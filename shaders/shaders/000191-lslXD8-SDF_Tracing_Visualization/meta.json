@@ -1,0 +1,32 @@
+{
+  "id": "lslXD8",
+  "name": "SDF Tracing Visualization",
+  "author": "paniq",
+  "description": "Testbed for tracing",
+  "tags": [
+    "mattdamon"
+  ],
+  "publishedAt": "2014-05-18T05:59:18.000Z",
+  "publishedTimestamp": 1400392758,
+  "views": 23102,
+  "likes": 191,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lslXD8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

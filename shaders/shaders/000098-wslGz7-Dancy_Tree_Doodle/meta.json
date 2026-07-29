@@ -1,0 +1,33 @@
+{
+  "id": "wslGz7",
+  "name": "Dancy Tree Doodle",
+  "author": "wyatt",
+  "description": "I saw this Betty Boop cartoon from way back when and I liked how every character kind of bobs up and down in unison. \nI wanted to make a more natural looking tree, but I realized you're limited to really symetrical trees for this setup. ",
+  "tags": [
+    "tree",
+    "kifs"
+  ],
+  "publishedAt": "2018-12-25T04:38:00.000Z",
+  "publishedTimestamp": 1545712680,
+  "views": 4005,
+  "likes": 98,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wslGz7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

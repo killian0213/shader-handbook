@@ -1,0 +1,80 @@
+{
+  "id": "w3cSzj",
+  "name": "gfx 4k - The Firefly effect",
+  "author": "iapafoto",
+  "description": "Xenium 2025 - Executable graphic Entry \nslow to compile in WebGL (10 to 25s vs 2-3s in cpp version)\nhttps://www.pouet.net/prod.php?which=104828 \nhttps://demozoo.org/graphics/376927/\nhhttps://github.com/iapafoto/g4k_TheFireflyEffect",
+  "tags": [
+    "4k",
+    "gfx",
+    "frog",
+    "xenium",
+    "firfly"
+  ],
+  "publishedAt": "2025-08-23T18:13:54.000Z",
+  "publishedTimestamp": 1755972834,
+  "views": 1740,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/w3cSzj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsXGR8",
+          "filepath": "/media/previz/buffer01.png",
+          "previewfilepath": "/media/previz/buffer01.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer B",
+      "file": "buffer_b.glsl",
+      "inputs": [
+        {
+          "id": "XsXGR8",
+          "filepath": "/media/previz/buffer01.png",
+          "previewfilepath": "/media/previz/buffer01.png",
+          "type": "buffer",
+          "channel": 3,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "XsXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

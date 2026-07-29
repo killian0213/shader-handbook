@@ -1,0 +1,40 @@
+{
+  "id": "ldKBRt",
+  "name": "Eternal Commute",
+  "author": "tdhooper",
+  "description": "Placed 3rd in the 2018 Nova wild compo (as an animated gif, check out [url]https://giphy.com/gifs/7J4WFr2AAN0vGVXTgZ[/url] if it's running slowly)",
+  "tags": [
+    "escher",
+    "knot",
+    "train",
+    "trefoil",
+    "underground",
+    "nova",
+    "london",
+    "graffiti",
+    "tfl"
+  ],
+  "publishedAt": "2018-06-26T21:59:56.000Z",
+  "publishedTimestamp": 1530050396,
+  "views": 2783,
+  "likes": 110,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldKBRt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

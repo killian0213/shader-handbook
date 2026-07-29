@@ -1,0 +1,35 @@
+{
+  "id": "NddGzH",
+  "name": "UV Mapping Truchet Tiles",
+  "author": "byt3_m3chanic",
+  "description": "Thank you @Fabrice for helping me though this beast - wanted to share / Doing a UV map on a tile set made my head cave in but wow!! ( Kind of looking like a Lisa Frank sticker)",
+  "tags": [
+    "raymarching",
+    "uv",
+    "truchet",
+    "tiles"
+  ],
+  "publishedAt": "2021-08-16T23:55:29.000Z",
+  "publishedTimestamp": 1629158129,
+  "views": 6348,
+  "likes": 128,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/NddGzH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

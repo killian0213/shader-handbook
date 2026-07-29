@@ -1,0 +1,34 @@
+{
+  "id": "4l3XD2",
+  "name": "Jumping cards",
+  "author": "zachernuk",
+  "description": "I was explaining SDF shapes to someone and thought I'd make a demo out of it.",
+  "tags": [
+    "sdf",
+    "shadow",
+    "cards"
+  ],
+  "publishedAt": "2016-12-12T17:52:31.000Z",
+  "publishedTimestamp": 1481565151,
+  "views": 2841,
+  "likes": 78,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4l3XD2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

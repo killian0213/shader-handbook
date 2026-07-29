@@ -1,0 +1,32 @@
+{
+  "id": "ttSyR3",
+  "name": "Cube Fall",
+  "author": "shau",
+  "description": "quick sketch, rendering some cubes using partitioned space marching from Nimitz",
+  "tags": [
+    "3d"
+  ],
+  "publishedAt": "2020-07-18T16:13:51.000Z",
+  "publishedTimestamp": 1595088831,
+  "views": 1494,
+  "likes": 61,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ttSyR3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

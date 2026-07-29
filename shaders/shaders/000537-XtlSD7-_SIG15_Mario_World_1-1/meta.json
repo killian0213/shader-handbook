@@ -1,0 +1,51 @@
+{
+  "id": "XtlSD7",
+  "name": "[SIG15] Mario World 1-1",
+  "author": "knarkowicz",
+  "description": "NES Super Mario Bros. World 1-1. My favorite game moment (just like for most kids in the early 90s). 20 years later implemented in a single shader.",
+  "tags": [
+    "2d",
+    "sound",
+    "music",
+    "crt",
+    "sprite",
+    "mario",
+    "nes",
+    "sig15"
+  ],
+  "publishedAt": "2015-07-29T23:17:18.000Z",
+  "publishedTimestamp": 1438211838,
+  "views": 194958,
+  "likes": 537,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtlSD7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "XsfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "Xsd3Rs",
+  "name": "Everyday003 - IceCube",
+  "author": "Makio64",
+  "description": "Everyday003 - IceCube\n\nTest SSS Technic & HG_SDF ",
+  "tags": [
+    "noise",
+    "sss",
+    "ice",
+    "hgsdf"
+  ],
+  "publishedAt": "2016-01-03T05:11:10.000Z",
+  "publishedTimestamp": 1451797870,
+  "views": 8492,
+  "likes": 86,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xsd3Rs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dfGzn",
+          "filepath": "/media/a/ec8a6ea755d34600547a5353f21f0a453f9f55ff95514383b2d80b8d71283eda.mp3",
+          "previewfilepath": "/media/ap/ec8a6ea755d34600547a5353f21f0a453f9f55ff95514383b2d80b8d71283eda.mp3",
+          "type": "music",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

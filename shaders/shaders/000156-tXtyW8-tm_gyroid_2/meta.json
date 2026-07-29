@@ -1,0 +1,32 @@
+{
+  "id": "tXtyW8",
+  "name": "tm gyroid 2",
+  "author": "tubeman",
+  "description": "playing around with lighting / bump mapping",
+  "tags": [
+    "gyroid"
+  ],
+  "publishedAt": "2026-01-13T04:43:42.000Z",
+  "publishedTimestamp": 1768279422,
+  "views": 9263,
+  "likes": 156,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tXtyW8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

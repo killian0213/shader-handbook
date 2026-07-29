@@ -1,0 +1,27 @@
+{
+  "id": "llBXWV",
+  "name": "Exit Sunlight",
+  "author": "felixfaire",
+  "description": "Very quick attempt to mimic a photograph by Marcus W. :P",
+  "tags": [
+    "horizon"
+  ],
+  "publishedAt": "2015-11-02T18:33:50.000Z",
+  "publishedTimestamp": 1446489230,
+  "views": 9004,
+  "likes": 79,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llBXWV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

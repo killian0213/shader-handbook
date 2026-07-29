@@ -1,0 +1,31 @@
+{
+  "id": "4ss3DM",
+  "name": "Sparks",
+  "author": "vanburgler",
+  "description": "Particle-effects in 2D. Has a few presets to play around with.\nv1.1 - Added auto/manual brightness, wider range of spark counts and crash warning for win7/chrome",
+  "tags": [
+    "raytracing",
+    "fire",
+    "water",
+    "particles",
+    "sparks"
+  ],
+  "publishedAt": "2013-06-25T16:53:53.000Z",
+  "publishedTimestamp": 1372179233,
+  "views": 8140,
+  "likes": 110,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4ss3DM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

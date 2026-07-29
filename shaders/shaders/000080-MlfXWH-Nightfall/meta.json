@@ -1,0 +1,46 @@
+{
+  "id": "MlfXWH",
+  "name": "Nightfall",
+  "author": "vgs",
+  "description": "Everyone needs to do at least one raymarched terrain in shadertoy, right? :)",
+  "tags": [
+    "raymarching",
+    "moon",
+    "night",
+    "mountains"
+  ],
+  "publishedAt": "2015-07-07T21:49:16.000Z",
+  "publishedTimestamp": 1436305756,
+  "views": 5437,
+  "likes": 80,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MlfXWH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

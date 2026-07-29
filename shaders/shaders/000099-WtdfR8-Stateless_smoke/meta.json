@@ -1,0 +1,33 @@
+{
+  "id": "WtdfR8",
+  "name": "Stateless smoke",
+  "author": "nimitz",
+  "description": "Trying to get somewhat realistic smoke animation, once again based on my periodic noise with deformation, but this time using a 4-dimensional space to add more believable rotational forces.",
+  "tags": [
+    "volumetric",
+    "smoke"
+  ],
+  "publishedAt": "2022-10-28T16:59:01.000Z",
+  "publishedTimestamp": 1666976341,
+  "views": 2158,
+  "likes": 99,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WtdfR8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

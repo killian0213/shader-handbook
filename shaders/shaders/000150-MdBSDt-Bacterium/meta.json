@@ -1,0 +1,46 @@
+{
+  "id": "MdBSDt",
+  "name": "Bacterium",
+  "author": "vgs",
+  "description": "Bacterium, bacteria, bacterias...\nMy first try at anti-aliasing thanks to eiffie and his shader AA methods.",
+  "tags": [
+    "raymarch",
+    "antialiasing",
+    "antialias",
+    "bacteria"
+  ],
+  "publishedAt": "2014-12-01T23:58:02.000Z",
+  "publishedTimestamp": 1417478282,
+  "views": 8294,
+  "likes": 150,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdBSDt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdfGRn",
+          "filepath": "/media/a/e6e5631ce1237ae4c05b3563eda686400a401df4548d0f9fad40ecac1659c46c.jpg",
+          "previewfilepath": "/media/ap/e6e5631ce1237ae4c05b3563eda686400a401df4548d0f9fad40ecac1659c46c.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

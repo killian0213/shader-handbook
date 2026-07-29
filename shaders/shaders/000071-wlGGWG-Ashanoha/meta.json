@@ -1,0 +1,35 @@
+{
+  "id": "wlGGWG",
+  "name": "Ashanoha",
+  "author": "coposuke",
+  "description": "traning. 麻の葉",
+  "tags": [
+    "pattern",
+    "japanese",
+    "traning",
+    "cineshader"
+  ],
+  "publishedAt": "2020-01-24T05:36:04.000Z",
+  "publishedTimestamp": 1579844164,
+  "views": 36883,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wlGGWG",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

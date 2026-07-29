@@ -1,0 +1,55 @@
+{
+  "id": "3lj3zt",
+  "name": "Contoured Layers",
+  "author": "Shane",
+  "description": "Constructing some concise contoured layers, then applying various edge and shading effects to produce some faux depth.",
+  "tags": [
+    "noise",
+    "shadow",
+    "gradient",
+    "edge",
+    "derivative",
+    "contour",
+    "art",
+    "layer"
+  ],
+  "publishedAt": "2019-06-18T14:12:39.000Z",
+  "publishedTimestamp": 1560867159,
+  "views": 3927,
+  "likes": 80,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3lj3zt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGRn",
+          "filepath": "/media/a/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "previewfilepath": "/media/ap/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

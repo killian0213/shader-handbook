@@ -1,0 +1,44 @@
+{
+  "id": "ldB3Dh",
+  "name": "Mrs Scary",
+  "author": "Dave_Hoskins",
+  "description": "She speaks with forked eyes!!! Playing with TekF's 'Retro Parallax' ( https://www.shadertoy.com/view/4sSGD1 )\nIt uses smoothstep to zoom and pan the camera using the video's frame time information.\n\n",
+  "tags": [
+    "video",
+    "mrsscary"
+  ],
+  "publishedAt": "2013-12-12T21:49:32.000Z",
+  "publishedTimestamp": 1386884972,
+  "views": 5914,
+  "likes": 94,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldB3Dh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4df3zn",
+          "filepath": "/media/a/3405e48f74815c7baa49133bdc835142948381fbe003ad2f12f5087715731153.ogv",
+          "previewfilepath": "/media/ap/3405e48f74815c7baa49133bdc835142948381fbe003ad2f12f5087715731153.ogv",
+          "type": "video",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

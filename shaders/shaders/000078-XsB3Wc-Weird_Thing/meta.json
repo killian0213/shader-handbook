@@ -1,0 +1,50 @@
+{
+  "id": "XsB3Wc",
+  "name": "Weird Thing",
+  "author": "iq",
+  "description": "Some broken experiment on something undefined",
+  "tags": [
+    "3d",
+    "raymarching",
+    "volumetric"
+  ],
+  "publishedAt": "2014-03-06T10:46:55.000Z",
+  "publishedTimestamp": 1394102815,
+  "views": 8150,
+  "likes": 78,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsB3Wc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

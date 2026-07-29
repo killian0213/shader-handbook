@@ -1,0 +1,36 @@
+{
+  "id": "4tdyRj",
+  "name": "Happy Plant 3",
+  "author": "lnae",
+  "description": "Last one :)\n\nmore plants :\nhttps://www.shadertoy.com/view/4t3cDM\nhttps://www.shadertoy.com/view/4ltyD4\n\n",
+  "tags": [
+    "raymarching",
+    "watercolor",
+    "npr",
+    "plant",
+    "cactus"
+  ],
+  "publishedAt": "2018-08-02T10:58:06.000Z",
+  "publishedTimestamp": 1533207486,
+  "views": 3124,
+  "likes": 98,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tdyRj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

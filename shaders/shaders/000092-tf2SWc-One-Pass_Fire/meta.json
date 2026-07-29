@@ -1,0 +1,49 @@
+{
+  "id": "tf2SWc",
+  "name": "One-Pass Fire",
+  "author": "Xor",
+  "description": "[url=https://mini.gmshaders.com/p/turbulence]Read my tutorial on turbulence here[/url]",
+  "tags": [
+    "fire",
+    "turbulent"
+  ],
+  "publishedAt": "2025-03-20T21:00:16.000Z",
+  "publishedTimestamp": 1742504416,
+  "views": 2330,
+  "likes": 92,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tf2SWc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

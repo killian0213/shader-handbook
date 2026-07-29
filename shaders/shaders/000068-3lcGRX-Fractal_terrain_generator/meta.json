@@ -1,0 +1,45 @@
+{
+  "id": "3lcGRX",
+  "name": "Fractal terrain generator",
+  "author": "michael0884",
+  "description": "Adding smooth perlin noise to a repeating fractal makes quite realistic and fast terrains with almost infinite resolution.",
+  "tags": [
+    "fractal",
+    "ray",
+    "terrain",
+    "sdf",
+    "perlin",
+    "marching",
+    "tracing"
+  ],
+  "publishedAt": "2019-12-21T22:29:18.000Z",
+  "publishedTimestamp": 1576967358,
+  "views": 3066,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3lcGRX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

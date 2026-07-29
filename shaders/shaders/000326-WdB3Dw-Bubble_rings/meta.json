@@ -1,0 +1,35 @@
+{
+  "id": "WdB3Dw",
+  "name": "Bubble rings",
+  "author": "tdhooper",
+  "description": "Clifford torus intersected with a sphere",
+  "tags": [
+    "torus",
+    "glow",
+    "4d",
+    "stereographic"
+  ],
+  "publishedAt": "2019-01-31T20:50:25.000Z",
+  "publishedTimestamp": 1548967825,
+  "views": 10357,
+  "likes": 326,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WdB3Dw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

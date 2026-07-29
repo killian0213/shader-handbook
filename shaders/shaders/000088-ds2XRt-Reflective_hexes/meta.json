@@ -1,0 +1,33 @@
+{
+  "id": "ds2XRt",
+  "name": "Reflective hexes",
+  "author": "mrange",
+  "description": "CC0: Reflective hexes\nBit of weekend tinkering\nSome shadow artefacts which are irritating but felt it was overall good enough to share.\n",
+  "tags": [
+    "raymarching",
+    "hex"
+  ],
+  "publishedAt": "2022-12-11T10:54:35.000Z",
+  "publishedTimestamp": 1670756075,
+  "views": 2458,
+  "likes": 88,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ds2XRt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

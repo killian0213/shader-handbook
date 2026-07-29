@@ -1,0 +1,38 @@
+{
+  "id": "4ds3zn",
+  "name": "Apollonian",
+  "author": "iq",
+  "description": "The classic standard apollonian/kleinian fractal (everybody needs to render one at some point).",
+  "tags": [
+    "3d",
+    "raymarching",
+    "fractal",
+    "distancefield",
+    "kleinian",
+    "apollonian",
+    "vr"
+  ],
+  "publishedAt": "2013-05-02T09:21:30.000Z",
+  "publishedTimestamp": 1367486490,
+  "views": 40249,
+  "likes": 263,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4ds3zn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

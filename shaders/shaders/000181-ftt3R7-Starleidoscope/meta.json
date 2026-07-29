@@ -1,0 +1,48 @@
+{
+  "id": "ftt3R7",
+  "name": "Starleidoscope",
+  "author": "DanielXMoore",
+  "description": "Followed some TheArtOfCodeTutorials and ended up with this!",
+  "tags": [
+    "tutorial"
+  ],
+  "publishedAt": "2021-11-02T20:06:29.000Z",
+  "publishedTimestamp": 1635883589,
+  "views": 151998,
+  "likes": 181,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ftt3R7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGzn",
+          "filepath": "/media/a/a6a1cf7a09adfed8c362492c88c30d74fb3d2f4f7ba180ba34b98556660fada1.mp3",
+          "previewfilepath": "/media/ap/a6a1cf7a09adfed8c362492c88c30d74fb3d2f4f7ba180ba34b98556660fada1.mp3",
+          "type": "music",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

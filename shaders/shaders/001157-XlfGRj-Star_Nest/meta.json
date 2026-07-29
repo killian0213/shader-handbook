@@ -1,0 +1,29 @@
+{
+  "id": "XlfGRj",
+  "name": "Star Nest",
+  "author": "Kali",
+  "description": "3D kaliset fractal - volumetric rendering and some tricks. I put the params on top to play with. Mouse enabled to explore different regions. ",
+  "tags": [
+    "fractal",
+    "space",
+    "stars"
+  ],
+  "publishedAt": "2013-06-17T01:35:30.000Z",
+  "publishedTimestamp": 1371432930,
+  "views": 130832,
+  "likes": 1157,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlfGRj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

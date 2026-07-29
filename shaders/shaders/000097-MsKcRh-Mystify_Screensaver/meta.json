@@ -1,0 +1,99 @@
+{
+  "id": "MsKcRh",
+  "name": "Mystify Screensaver",
+  "author": "Qendolin",
+  "description": "This is supposed to be a clone of the Windows \"Mystify\" screensaver. I guess I got close but you can definitely tell that it's not as good as the original.\n\nMusic: https://soundcloud.com/3kliksphilip/under-the-pizza\n\n",
+  "tags": [
+    "screensaver",
+    "art"
+  ],
+  "publishedAt": "2018-03-16T21:11:34.000Z",
+  "publishedTimestamp": 1521234694,
+  "views": 364198,
+  "likes": 97,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 96,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsKcRh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "ltf3zf",
+          "filepath": "https://soundcloud.com/3kliksphilip/under-the-pizza",
+          "previewfilepath": "https://soundcloud.com/3kliksphilip/under-the-pizza",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

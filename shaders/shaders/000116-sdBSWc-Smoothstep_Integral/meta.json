@@ -1,0 +1,35 @@
+{
+  "id": "sdBSWc",
+  "name": "Smoothstep Integral",
+  "author": "iq",
+  "description": "The integral of smoothstep is a useful way to smoothly ramping up a stationary object into constant motion. More info: [url]https://iquilezles.org/articles/smoothstepintegral[/url]",
+  "tags": [
+    "2d",
+    "smoothstep",
+    "integral",
+    "butterfly"
+  ],
+  "publishedAt": "2021-06-21T05:20:04.000Z",
+  "publishedTimestamp": 1624252804,
+  "views": 3691,
+  "likes": 116,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/sdBSWc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

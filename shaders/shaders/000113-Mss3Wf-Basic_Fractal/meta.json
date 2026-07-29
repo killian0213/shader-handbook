@@ -1,0 +1,28 @@
+{
+  "id": "Mss3Wf",
+  "name": "Basic Fractal",
+  "author": "PauloFalcao",
+  "description": "A very very simple fractal, just mirror, rotate and scale ;)",
+  "tags": [
+    "2d",
+    "fractal"
+  ],
+  "publishedAt": "2013-10-07T21:51:38.000Z",
+  "publishedTimestamp": 1381182698,
+  "views": 17122,
+  "likes": 113,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mss3Wf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

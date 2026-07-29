@@ -1,0 +1,33 @@
+{
+  "id": "Xd3SDs",
+  "name": "Transparent Lattice",
+  "author": "Shane",
+  "description": "Point lit, transparent lattice. Adding fake diffuse and specular lighting to the transparency formula. Kind of interesting, but not to be taken too seriously.",
+  "tags": [
+    "transparent",
+    "lattice"
+  ],
+  "publishedAt": "2016-05-08T13:21:52.000Z",
+  "publishedTimestamp": 1462713712,
+  "views": 11523,
+  "likes": 138,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xd3SDs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

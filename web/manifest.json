@@ -1,0 +1,220 @@
+{
+  "bookDir": "shader-handbook",
+  "corpusDir": "shaders/shaders",
+  "chapters": [
+    {
+      "file": "README.md",
+      "id": "README",
+      "title": "Shadertoy 效果实现手册",
+      "part": "开始",
+      "bytes": 9717
+    },
+    {
+      "file": "00-拆解方法论.md",
+      "id": "00-拆解方法论",
+      "title": "第 0 章 · 如何把一个想象中的效果变成代码",
+      "part": "第一部分 · 心法",
+      "bytes": 29574
+    },
+    {
+      "file": "01-平台与心智模型.md",
+      "id": "01-平台与心智模型",
+      "title": "第 1 章 · 平台与心智模型",
+      "part": "第一部分 · 心法",
+      "bytes": 18634
+    },
+    {
+      "file": "02-坐标系与变换.md",
+      "id": "02-坐标系与变换",
+      "title": "第 2 章 · 坐标系与变换",
+      "part": "第二部分 · 2D 基本功",
+      "bytes": 24795
+    },
+    {
+      "file": "03-2D形状与SDF.md",
+      "id": "03-2D形状与SDF",
+      "title": "第 3 章 · 2D 形状与 SDF",
+      "part": "第二部分 · 2D 基本功",
+      "bytes": 27965
+    },
+    {
+      "file": "04-颜色.md",
+      "id": "04-颜色",
+      "title": "第 4 章 · 颜色",
+      "part": "第二部分 · 2D 基本功",
+      "bytes": 24392
+    },
+    {
+      "file": "05-随机与噪声.md",
+      "id": "05-随机与噪声",
+      "title": "第 5 章 · 随机与噪声",
+      "part": "第二部分 · 2D 基本功",
+      "bytes": 30915
+    },
+    {
+      "file": "06-网格与拼贴.md",
+      "id": "06-网格与拼贴",
+      "title": "第 6 章 · 网格与拼贴",
+      "part": "第二部分 · 2D 基本功",
+      "bytes": 51255
+    },
+    {
+      "file": "07-Raymarching入门.md",
+      "id": "07-Raymarching入门",
+      "title": "第 7 章 · Raymarching 入门",
+      "part": "第三部分 · 3D",
+      "bytes": 19868
+    },
+    {
+      "file": "08-3D-SDF图元与算子.md",
+      "id": "08-3D-SDF图元与算子",
+      "title": "第 8 章 · 3D SDF 图元与算子",
+      "part": "第三部分 · 3D",
+      "bytes": 17745
+    },
+    {
+      "file": "09-光照与材质.md",
+      "id": "09-光照与材质",
+      "title": "第 9 章 · 光照与材质",
+      "part": "第三部分 · 3D",
+      "bytes": 19300
+    },
+    {
+      "file": "10-体积与大气.md",
+      "id": "10-体积与大气",
+      "title": "第 10 章 · 体积渲染与大气",
+      "part": "第三部分 · 3D",
+      "bytes": 25567
+    },
+    {
+      "file": "11-分形.md",
+      "id": "11-分形",
+      "title": "第 11 章 · 分形",
+      "part": "第三部分 · 3D",
+      "bytes": 24093
+    },
+    {
+      "file": "12-光追与GI.md",
+      "id": "12-光追与GI",
+      "title": "第 12 章 · 光线追踪与全局光照",
+      "part": "第三部分 · 3D",
+      "bytes": 24106
+    },
+    {
+      "file": "13-多Pass与状态.md",
+      "id": "13-多Pass与状态",
+      "title": "第 13 章 · 多 Pass 与状态",
+      "part": "第四部分 · 系统与工程",
+      "bytes": 17407
+    },
+    {
+      "file": "14-仿真.md",
+      "id": "14-仿真",
+      "title": "第 14 章 · 仿真",
+      "part": "第四部分 · 系统与工程",
+      "bytes": 18289
+    },
+    {
+      "file": "15-后期与NPR.md",
+      "id": "15-后期与NPR",
+      "title": "第 15 章 · 后期与 NPR",
+      "part": "第四部分 · 系统与工程",
+      "bytes": 14818
+    },
+    {
+      "file": "16-声音文字与交互.md",
+      "id": "16-声音文字与交互",
+      "title": "第 16 章 · 声音、文字与交互",
+      "part": "第四部分 · 系统与工程",
+      "bytes": 14801
+    },
+    {
+      "file": "17-代码高尔夫.md",
+      "id": "17-代码高尔夫",
+      "title": "第 17 章 · 代码高尔夫",
+      "part": "第四部分 · 系统与工程",
+      "bytes": 16211
+    },
+    {
+      "file": "18-效果配方大全.md",
+      "id": "18-效果配方大全",
+      "title": "第 18 章 · 效果配方大全",
+      "part": "第五部分 · 实战与附录",
+      "bytes": 27330
+    },
+    {
+      "file": "19-性能与调试.md",
+      "id": "19-性能与调试",
+      "title": "第 19 章 · 性能、调试与工程",
+      "part": "第五部分 · 实战与附录",
+      "bytes": 22781
+    },
+    {
+      "file": "A-函数速查表.md",
+      "id": "A-函数速查表",
+      "title": "附录 A · 函数速查表",
+      "part": "第五部分 · 实战与附录",
+      "bytes": 11649
+    },
+    {
+      "file": "B-语料索引.md",
+      "id": "B-语料索引",
+      "title": "附录 B · 语料索引",
+      "part": "第五部分 · 实战与附录",
+      "bytes": 13439
+    }
+  ],
+  "examples": [
+    "ch0_stage1.glsl",
+    "ch0_stage2.glsl",
+    "ch0_stage3.glsl",
+    "ch0_stage4.glsl",
+    "ch0_stage5.glsl",
+    "ch0_stage6.glsl",
+    "ch11_stage1.glsl",
+    "ch11_stage2.glsl",
+    "ch11_stage3.glsl",
+    "ch11_stage4.glsl",
+    "ch11_stage5.glsl",
+    "ch11_stage6.glsl",
+    "ch11_stage7.glsl",
+    "ch1_basics.glsl",
+    "ch3_stage1.glsl",
+    "ch3_stage2.glsl",
+    "ch3_stage3.glsl",
+    "ch3_stage4.glsl",
+    "ch3_stage5.glsl",
+    "ch3_stage6.glsl",
+    "ch4_stage1.glsl",
+    "ch4_stage2.glsl",
+    "ch4_stage3.glsl",
+    "ch4_stage4.glsl",
+    "ch4_stage5.glsl",
+    "ch4_stage6.glsl",
+    "ch4_stage7.glsl",
+    "ch5_stage1.glsl",
+    "ch5_stage2.glsl",
+    "ch5_stage3.glsl",
+    "ch5_stage4.glsl",
+    "ch5_stage5.glsl",
+    "ch5_stage6.glsl",
+    "ch6_stage1.glsl",
+    "ch6_stage2.glsl",
+    "ch6_stage3.glsl",
+    "ch6_stage4.glsl",
+    "ch6_stage5.glsl",
+    "ch6_stage6.glsl",
+    "ch7_stage1.glsl",
+    "ch7_stage2.glsl",
+    "ch7_stage3.glsl",
+    "ch7_stage4.glsl",
+    "ch7_stage5.glsl",
+    "ch7_stage6.glsl",
+    "ch7_stage7.glsl",
+    "ch9_stage1.glsl",
+    "ch9_stage2.glsl",
+    "ch9_stage3.glsl",
+    "ch9_stage4.glsl",
+    "ch9_stage5.glsl"
+  ]
+}

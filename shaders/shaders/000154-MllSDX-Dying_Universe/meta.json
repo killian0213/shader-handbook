@@ -1,0 +1,50 @@
+{
+  "id": "MllSDX",
+  "name": "Dying Universe",
+  "author": "BigWIngs",
+  "description": "This is how stars die.\nRecommended Usage:\n1) Put full screen on a large screen\n2) Turn off all lights in the room\n3) listen to deepspacehouse on mixes.beatport.com\n4) Enjoy!",
+  "tags": [
+    "star",
+    "bounce",
+    "universe"
+  ],
+  "publishedAt": "2015-08-23T06:36:20.000Z",
+  "publishedTimestamp": 1440311780,
+  "views": 7905,
+  "likes": 154,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MllSDX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dlXRf",
+          "filepath": "https://soundcloud.com/cubicolor/fictionalise-lindstrom-prins-thomas-remix",
+          "previewfilepath": "https://soundcloud.com/cubicolor/fictionalise-lindstrom-prins-thomas-remix",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "7dVyDh",
+  "name": "Mobius Maze [331 chars]",
+  "author": "Xor",
+  "description": "Mobius maze, inspired by works from FabriceNeyret2 and Shane",
+  "tags": [
+    "mobius",
+    "maze",
+    "golf"
+  ],
+  "publishedAt": "2022-06-09T17:59:28.000Z",
+  "publishedTimestamp": 1654797568,
+  "views": 810,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7dVyDh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

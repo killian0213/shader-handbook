@@ -1,0 +1,56 @@
+{
+  "id": "MdXSzS",
+  "name": "Galaxy of Universes",
+  "author": "Dave_Hoskins",
+  "description": "Big Bang? *pfft* It's just a small explosion somewhere in a rotating Galaxy of Universes!\nThanks to Kali for his fractal formula.",
+  "tags": [
+    "galaxy",
+    "universes"
+  ],
+  "publishedAt": "2014-06-19T15:29:46.000Z",
+  "publishedTimestamp": 1403191786,
+  "views": 50042,
+  "likes": 294,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 96,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdXSzS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dl3Rr",
+          "filepath": "https://soundcloud.com/paper-bag-records/young-galaxy-new-summer",
+          "previewfilepath": "https://soundcloud.com/paper-bag-records/young-galaxy-new-summer",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

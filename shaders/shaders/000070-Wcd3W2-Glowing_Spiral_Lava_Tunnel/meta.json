@@ -1,0 +1,38 @@
+{
+  "id": "Wcd3W2",
+  "name": "Glowing Spiral Lava Tunnel",
+  "author": "Shane",
+  "description": "Following a glowing spiral through a lava tube tunnel.",
+  "tags": [
+    "tunnel",
+    "spiral",
+    "glow",
+    "lava",
+    "cellular",
+    "gyroid",
+    "rock"
+  ],
+  "publishedAt": "2025-06-03T13:33:29.000Z",
+  "publishedTimestamp": 1748957609,
+  "views": 774,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Wcd3W2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

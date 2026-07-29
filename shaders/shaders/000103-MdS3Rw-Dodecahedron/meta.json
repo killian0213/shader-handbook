@@ -1,0 +1,29 @@
+{
+  "id": "MdS3Rw",
+  "name": "Dodecahedron",
+  "author": "gltracy",
+  "description": "Idea arises from Miloyip's artwork.\nArticle reference : http://mars.wne.edu/~thull/fit.html",
+  "tags": [
+    "raymarching",
+    "ao",
+    "dodecahedron"
+  ],
+  "publishedAt": "2013-12-04T14:00:59.000Z",
+  "publishedTimestamp": 1386165659,
+  "views": 3382,
+  "likes": 103,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdS3Rw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Xd3GD4",
+  "name": "Fires mod",
+  "author": "merry",
+  "description": "A single-line modification of \"Fires\" shader by xbe available at https://www.shadertoy.com/view/XsXSWS to add some smoke :) Nothing fancy, though.",
+  "tags": [
+    "procedural",
+    "2d",
+    "fire"
+  ],
+  "publishedAt": "2015-12-07T23:20:07.000Z",
+  "publishedTimestamp": 1449530407,
+  "views": 6207,
+  "likes": 110,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xd3GD4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

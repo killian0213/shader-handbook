@@ -1,0 +1,85 @@
+{
+  "id": "Ws2cDD",
+  "name": "[4k] Sync Cord - Revision 2020",
+  "author": "NuSan",
+  "description": "Sync Cord, PC 4k intro released at Revision 2020\nby NuSan & Valden\n\nNuSan: Concept, visual, code\nValden: Music\n\nhttps://www.pouet.net/prod.php?which=85222\n\nhttps://www.pouet.net/prod.php?which=85222",
+  "tags": [
+    "raytracing",
+    "intro",
+    "4k",
+    "dof"
+  ],
+  "publishedAt": "2020-04-13T12:38:30.000Z",
+  "publishedTimestamp": 1586781510,
+  "views": 10107,
+  "likes": 190,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 96,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Ws2cDD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "ll2GWh",
+          "filepath": "https://soundcloud.com/valden_music/awakening",
+          "previewfilepath": "https://soundcloud.com/valden_music/awakening",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

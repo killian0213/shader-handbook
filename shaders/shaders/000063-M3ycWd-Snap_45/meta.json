@@ -1,0 +1,32 @@
+{
+  "id": "M3ycWd",
+  "name": "Snap 45",
+  "author": "iq",
+  "description": "Snap a unit vector to a 45 degrees angle, without using arctan, making it 1.8 times faster on my GPU",
+  "tags": [
+    "2d"
+  ],
+  "publishedAt": "2025-01-13T22:33:02.000Z",
+  "publishedTimestamp": 1736807582,
+  "views": 2856,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/M3ycWd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

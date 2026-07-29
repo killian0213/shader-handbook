@@ -1,0 +1,56 @@
+{
+  "id": "ltScRG",
+  "name": "Single-pass gaussian blur - fast",
+  "author": "FabriceNeyret2",
+  "description": "16x acceleration of [url]https://www.shadertoy.com/view/4tSyzy[/url]\nby applying gaussian at intermediate MIPmap level.\n(classical trick also used on hardware for anisotropic filtering).",
+  "tags": [
+    "2d",
+    "blur",
+    "filter",
+    "dof",
+    "gaussian",
+    "integration",
+    "pass",
+    "single",
+    "gpmipmap"
+  ],
+  "publishedAt": "2017-10-25T21:14:04.000Z",
+  "publishedTimestamp": 1508966044,
+  "views": 29150,
+  "likes": 157,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltScRG",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dfGRn",
+          "filepath": "/media/a/8de3a3924cb95bd0e95a443fff0326c869f9d4979cd1d5b6e94e2a01f5be53e9.jpg",
+          "previewfilepath": "/media/ap/8de3a3924cb95bd0e95a443fff0326c869f9d4979cd1d5b6e94e2a01f5be53e9.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

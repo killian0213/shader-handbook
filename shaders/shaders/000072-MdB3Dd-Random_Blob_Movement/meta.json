@@ -1,0 +1,43 @@
+{
+  "id": "MdB3Dd",
+  "name": "Random Blob Movement",
+  "author": "Raxvan",
+  "description": "My first post on ShaderToy, it's nothing special, i took the idea from https://www.shadertoy.com/view/lsfGzr to draw some blobs and introduce some random movement. I found the \"windows\" effect by mistake by adding uv.x and uv.y to the random angle.",
+  "tags": [
+    "2dblobs"
+  ],
+  "publishedAt": "2014-03-18T15:02:06.000Z",
+  "publishedTimestamp": 1395154926,
+  "views": 3186,
+  "likes": 72,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdB3Dd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xdf3zn",
+          "filepath": "/media/a/85a6d68622b36995ccb98a89bbb119edf167c914660e4450d313de049320005c.png",
+          "previewfilepath": "/media/ap/85a6d68622b36995ccb98a89bbb119edf167c914660e4450d313de049320005c.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

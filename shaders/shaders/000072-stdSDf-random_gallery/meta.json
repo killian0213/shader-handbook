@@ -1,0 +1,32 @@
+{
+  "id": "stdSDf",
+  "name": "random gallery",
+  "author": "SnoopethDuckDuck",
+  "description": "example using this idea: \nhttps://www.shadertoy.com/view/7tdSDX\n\ni like the colors\n\nmore readable version: https://www.shadertoy.com/view/43GGDK",
+  "tags": [
+    "e"
+  ],
+  "publishedAt": "2021-12-19T17:48:51.000Z",
+  "publishedTimestamp": 1639936131,
+  "views": 1212,
+  "likes": 72,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/stdSDf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

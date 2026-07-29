@@ -1,0 +1,35 @@
+{
+  "id": "XlscDH",
+  "name": "Dispersion",
+  "author": "tdhooper",
+  "description": "Example of dispersion in a transparent material, to get those sweet rainbow effects.",
+  "tags": [
+    "spectrum",
+    "refraction",
+    "glass",
+    "dispersion"
+  ],
+  "publishedAt": "2017-09-05T22:02:26.000Z",
+  "publishedTimestamp": 1504648946,
+  "views": 5650,
+  "likes": 102,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlscDH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

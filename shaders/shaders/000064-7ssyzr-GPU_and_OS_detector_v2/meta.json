@@ -1,0 +1,57 @@
+{
+  "id": "7ssyzr",
+  "name": "GPU and OS detector v2",
+  "author": "archee",
+  "description": "This will guess your GPU manufacturer and OS based on the inaccuracy of math functions. Displaying resulting hashes at top-right corner. Please comment your hashes, if your GPU is shown unknown or wrong.",
+  "tags": [
+    "hash",
+    "gpudetector",
+    "determinism"
+  ],
+  "publishedAt": "2022-01-08T21:15:10.000Z",
+  "publishedTimestamp": 1641676510,
+  "views": 2540,
+  "likes": 64,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7ssyzr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzr",
+          "filepath": "/media/a/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "previewfilepath": "/media/ap/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

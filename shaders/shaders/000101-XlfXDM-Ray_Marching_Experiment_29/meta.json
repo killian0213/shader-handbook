@@ -1,0 +1,51 @@
+{
+  "id": "XlfXDM",
+  "name": "Ray Marching Experiment 29",
+  "author": "aiekick",
+  "description": "based on pattern from 104 shader https://www.shadertoy.com/view/ltlSW4  displaced on ball\nyou can comment line 4 il you want unlimited dispalce from 0 to 1.\nMouse Axis X =&gt; Grow Up/Down // Mouse Axis Y =&gt; Density from 0 to 100.",
+  "tags": [
+    "ray",
+    "experiment",
+    "marching",
+    "29"
+  ],
+  "publishedAt": "2015-07-16T13:04:23.000Z",
+  "publishedTimestamp": 1437051863,
+  "views": 4913,
+  "likes": 101,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlfXDM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sX3zn",
+          "filepath": "/media/a/0681c014f6c88c356cf9c0394ffe015acc94ec1474924855f45d22c3e70b5785.png",
+          "previewfilepath": "/media/ap/0681c014f6c88c356cf9c0394ffe015acc94ec1474924855f45d22c3e70b5785.png",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "4ltfDr",
+  "name": "traveler.",
+  "author": "kaneta",
+  "description": "learning ray marching",
+  "tags": [
+    "procedural",
+    "3d",
+    "raymarching",
+    "sound"
+  ],
+  "publishedAt": "2018-10-11T03:54:26.000Z",
+  "publishedTimestamp": 1539230066,
+  "views": 8030,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4ltfDr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

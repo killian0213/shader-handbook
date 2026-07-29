@@ -1,0 +1,78 @@
+{
+  "id": "Ns2fzy",
+  "name": "Kleinian Seahorse",
+  "author": "tdhooper",
+  "description": "Path tracing the kleinian fractal from Jos Leys & Knighty [url]https://www.shadertoy.com/view/XlVXzh[/url]\n\nI've attempted 'focus stacking' to widen the focal plane, so objects near the camera stay in focus, but allowing a large blur in the background.",
+  "tags": [
+    "fractal",
+    "pathtrace",
+    "kleinian"
+  ],
+  "publishedAt": "2022-03-06T13:25:27.000Z",
+  "publishedTimestamp": 1646573127,
+  "views": 5157,
+  "likes": 124,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Ns2fzy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

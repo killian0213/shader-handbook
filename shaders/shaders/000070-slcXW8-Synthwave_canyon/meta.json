@@ -1,0 +1,32 @@
+{
+  "id": "slcXW8",
+  "name": "Synthwave canyon",
+  "author": "mrange",
+  "description": "Synthwave landscape",
+  "tags": [
+    "planemarching"
+  ],
+  "publishedAt": "2021-12-08T20:01:32.000Z",
+  "publishedTimestamp": 1638993692,
+  "views": 20601,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/slcXW8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

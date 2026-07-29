@@ -1,0 +1,51 @@
+{
+  "id": "4tsGzf",
+  "name": "Texture Repetition I",
+  "author": "iq",
+  "description": "Avoiding texture repetition by using [url=https://www.shadertoy.com/view/Xd23Dh]Voronoise[/url]: a small texture can be used to generate infinite variety instead of tiled repetition. More info: [url]https://iquilezles.org/articles/texturerepetition/[/url]",
+  "tags": [
+    "2d",
+    "voronoi",
+    "texture",
+    "voronoise"
+  ],
+  "publishedAt": "2015-02-14T12:24:49.000Z",
+  "publishedTimestamp": 1423916689,
+  "views": 29136,
+  "likes": 114,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tsGzf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sf3Rr",
+          "filepath": "/media/a/ad56fba948dfba9ae698198c109e71f118a54d209c0ea50d77ea546abad89c57.png",
+          "previewfilepath": "/media/ap/ad56fba948dfba9ae698198c109e71f118a54d209c0ea50d77ea546abad89c57.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

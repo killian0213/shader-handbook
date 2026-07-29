@@ -1,0 +1,36 @@
+{
+  "id": "Wt33Wf",
+  "name": "Cyber Fuji 2020",
+  "author": "kaiware007",
+  "description": "A Happy New Yeahhhhhhhhhhhhhhhhhh!!!!!!!!!!!!!",
+  "tags": [
+    "sun",
+    "80s",
+    "retro",
+    "fuji",
+    "cineshader"
+  ],
+  "publishedAt": "2020-01-28T14:53:58.000Z",
+  "publishedTimestamp": 1580223238,
+  "views": 663975,
+  "likes": 465,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Wt33Wf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

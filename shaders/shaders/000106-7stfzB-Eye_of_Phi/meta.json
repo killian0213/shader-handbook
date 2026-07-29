@@ -1,0 +1,43 @@
+{
+  "id": "7stfzB",
+  "name": "Eye of Phi",
+  "author": "ChunderFPV",
+  "description": "Math art.  Contains a few grid transforms.  Mouse x to change the exponent.  Mouse y to zoom.\nUpdate 11/15/22: Now with anti-aliasing.",
+  "tags": [
+    "2d",
+    "grid",
+    "math",
+    "loopless",
+    "metallicratios"
+  ],
+  "publishedAt": "2022-07-02T07:14:42.000Z",
+  "publishedTimestamp": 1656746082,
+  "views": 6264,
+  "likes": 106,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7stfzB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

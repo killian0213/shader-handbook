@@ -1,0 +1,38 @@
+{
+  "id": "cs3XzS",
+  "name": "2D GI Test 2",
+  "author": "krisp",
+  "description": "Improved 2d path tracing with bidir, and interleaved gradient noise",
+  "tags": [
+    "2d",
+    "raytracing",
+    "gi",
+    "globalillumination",
+    "bidirectional",
+    "interleavedgradientnoise",
+    "ign"
+  ],
+  "publishedAt": "2023-04-19T04:52:20.000Z",
+  "publishedTimestamp": 1681879940,
+  "views": 3088,
+  "likes": 89,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/cs3XzS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

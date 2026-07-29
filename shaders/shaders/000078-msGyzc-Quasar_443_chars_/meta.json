@@ -1,0 +1,47 @@
+{
+  "id": "msGyzc",
+  "name": "Quasar [443 chars]",
+  "author": "kishimisu",
+  "description": "Quasar",
+  "tags": [
+    "3d",
+    "raymarching",
+    "ray",
+    "radial",
+    "marching",
+    "star",
+    "repetition",
+    "galaxy",
+    "glow",
+    "code",
+    "supernova",
+    "rotation",
+    "neon",
+    "short",
+    "golf",
+    "golfing"
+  ],
+  "publishedAt": "2023-10-06T08:07:28.000Z",
+  "publishedTimestamp": 1696579648,
+  "views": 2360,
+  "likes": 78,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/msGyzc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

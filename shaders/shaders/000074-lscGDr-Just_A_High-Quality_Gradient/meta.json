@@ -1,0 +1,27 @@
+{
+  "id": "lscGDr",
+  "name": "Just A High-Quality Gradient",
+  "author": "tsone",
+  "description": "High-quality smoothstep gradient in linear color space. Drag with mouse to move the gradient. Also has some noise to reduce color banding.\n\nUpdate 2-Jun-2018: Added gradient noise and comments.",
+  "tags": [
+    "gradient"
+  ],
+  "publishedAt": "2015-12-01T13:14:35.000Z",
+  "publishedTimestamp": 1448975675,
+  "views": 10076,
+  "likes": 74,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lscGDr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

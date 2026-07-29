@@ -1,0 +1,57 @@
+{
+  "id": "wdGXzK",
+  "name": "Wait.. what? CyberTruck!",
+  "author": "BigWIngs",
+  "description": "Couldn't help it. This thing is insane!See code for comments.",
+  "tags": [
+    "car",
+    "truck",
+    "teslacybertruck"
+  ],
+  "publishedAt": "2019-11-28T07:22:25.000Z",
+  "publishedTimestamp": 1574925745,
+  "views": 21181,
+  "likes": 198,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wdGXzK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XtlGWl",
+          "filepath": "https://soundcloud.com/weareallsynners/cyberpunk",
+          "previewfilepath": "https://soundcloud.com/weareallsynners/cyberpunk",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "4dGyRh",
+  "name": "Re-entry",
+  "author": "nimitz",
+  "description": "multi-layer volumetric rendering and geometry interaction. Getting 60fps in full-screen let me know if you get less and what's your gpu.",
+  "tags": [
+    "space",
+    "particles",
+    "volumetric",
+    "stars"
+  ],
+  "publishedAt": "2020-05-26T20:16:11.000Z",
+  "publishedTimestamp": 1590524171,
+  "views": 6993,
+  "likes": 121,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dGyRh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

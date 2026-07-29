@@ -1,0 +1,37 @@
+{
+  "id": "MlKcDD",
+  "name": "Quadratic Bezier - distance 2D",
+  "author": "iq",
+  "description": "Distance to a quadratic Bezier segment, which can be computer analytically by solving a cubic equation.",
+  "tags": [
+    "2d",
+    "distancefield",
+    "sdf",
+    "bezier",
+    "cubic",
+    "quadratic"
+  ],
+  "publishedAt": "2018-09-08T04:57:14.000Z",
+  "publishedTimestamp": 1536382634,
+  "views": 24116,
+  "likes": 95,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MlKcDD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

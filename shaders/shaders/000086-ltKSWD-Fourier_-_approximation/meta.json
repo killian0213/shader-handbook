@@ -1,0 +1,36 @@
+{
+  "id": "ltKSWD",
+  "name": "Fourier - approximation",
+  "author": "iq",
+  "description": "Approximating a 50 point shape by 1, 2, 3, ..., 50 Fourier coefficients. The last coefficients are pretty small and therefore can be stored in very few bits or simply discarded, achieving data compression similar to JPG or MPG",
+  "tags": [
+    "2d",
+    "approximation",
+    "compression",
+    "fourier",
+    "dft"
+  ],
+  "publishedAt": "2017-01-16T04:54:21.000Z",
+  "publishedTimestamp": 1484542461,
+  "views": 7505,
+  "likes": 86,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltKSWD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

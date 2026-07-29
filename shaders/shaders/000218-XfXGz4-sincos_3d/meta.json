@@ -1,0 +1,36 @@
+{
+  "id": "XfXGz4",
+  "name": "sincos 3d",
+  "author": "ChunderFPV",
+  "description": "sine & cosine waves with z coord",
+  "tags": [
+    "3d",
+    "raymarch",
+    "wave",
+    "sine",
+    "trig"
+  ],
+  "publishedAt": "2023-12-17T03:06:15.000Z",
+  "publishedTimestamp": 1702782375,
+  "views": 11583,
+  "likes": 218,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XfXGz4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

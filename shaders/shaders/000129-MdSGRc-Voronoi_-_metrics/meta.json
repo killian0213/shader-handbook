@@ -1,0 +1,29 @@
+{
+  "id": "MdSGRc",
+  "name": "Voronoi - metrics",
+  "author": "iq",
+  "description": "Changing the distance metric in voronoi patterns to get different shapes",
+  "tags": [
+    "2d",
+    "voronoi",
+    "worley"
+  ],
+  "publishedAt": "2014-02-04T23:33:52.000Z",
+  "publishedTimestamp": 1391556832,
+  "views": 8783,
+  "likes": 129,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdSGRc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

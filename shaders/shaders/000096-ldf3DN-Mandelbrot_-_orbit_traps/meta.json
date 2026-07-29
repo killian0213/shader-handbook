@@ -1,0 +1,30 @@
+{
+  "id": "ldf3DN",
+  "name": "Mandelbrot - orbit traps",
+  "author": "iq",
+  "description": "Some orbit trap coloring in the Maldebrot set. There are two traps. First one (col1, in blue) is \"average trap distance to line\". The second one (col2, in yellow) is \"minimum distance to point\". The distance to the set (c1, in black) is then multiplied.",
+  "tags": [
+    "2d",
+    "fractal",
+    "orbittrap",
+    "orbit"
+  ],
+  "publishedAt": "2013-06-05T09:16:09.000Z",
+  "publishedTimestamp": 1370423769,
+  "views": 31771,
+  "likes": 96,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldf3DN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4dl3R4",
+  "name": "Snowy",
+  "author": "HeGu",
+  "description": "To celebrate that winter is soon over....\n\nThis shader uses various noises (uses stegu simplex noise and worley) and ramps to make a 2D snow landscape scene with an out of focus moon and a snowy slope below it.",
+  "tags": [
+    "2dnoiseworleyperlin"
+  ],
+  "publishedAt": "2013-03-22T13:53:54.000Z",
+  "publishedTimestamp": 1363960434,
+  "views": 14697,
+  "likes": 117,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dl3R4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

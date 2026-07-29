@@ -1,0 +1,29 @@
+{
+  "id": "4tXSzM",
+  "name": "square wave",
+  "author": "mmalex",
+  "description": "having a go at re-creating @vector_gl's lovely gif https://twitter.com/Vector_GL/status/612337298064150529\n",
+  "tags": [
+    "squarewave",
+    "fourierdecomposition",
+    "vectorgl"
+  ],
+  "publishedAt": "2015-06-23T20:00:39.000Z",
+  "publishedTimestamp": 1435089639,
+  "views": 30153,
+  "likes": 302,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tXSzM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

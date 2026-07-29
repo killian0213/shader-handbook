@@ -1,0 +1,78 @@
+{
+  "id": "Mllfzl",
+  "name": "Isopleth",
+  "author": "Ultraviolet",
+  "description": "Some iso-surfaces and iso-line of a layered noise function computed in a separate buffer (you may replace it with something else).\nClick for view control.\nOther controls:\n - [b]C[/b] cube on/off\n - [b]I[/b] isolines on/off\n - [b]S[/b] shadow on/off",
+  "tags": [
+    "isosurface",
+    "iso",
+    "isoline",
+    "datavis"
+  ],
+  "publishedAt": "2017-12-12T08:33:55.000Z",
+  "publishedTimestamp": 1513067635,
+  "views": 3147,
+  "likes": 80,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 48,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mllfzl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRr",
+          "filepath": "/presets/tex00.jpg",
+          "previewfilepath": "/presets/tex00.jpg",
+          "type": "keyboard",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

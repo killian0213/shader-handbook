@@ -1,0 +1,34 @@
+{
+  "id": "4ctfWS",
+  "name": "Circle For 3 Points",
+  "author": "iq",
+  "description": "Computes the circle that passes through 3 points. I'm aware there are other implementations already in Shadertoy. This is shorter and most likely faster.",
+  "tags": [
+    "2d",
+    "circle",
+    "points"
+  ],
+  "publishedAt": "2024-12-05T21:50:11.000Z",
+  "publishedTimestamp": 1733435411,
+  "views": 1646,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4ctfWS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

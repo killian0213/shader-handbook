@@ -1,0 +1,50 @@
+{
+  "id": "mds3R4",
+  "name": "Fractal Texturing",
+  "author": "Xor",
+  "description": "Here's a technique for preserving texture detail at any scale. On the left is regular mipmapping, and on the right is my method.\nHere's the written [url=https://mini.gmshaders.com/p/gm-shaders-mini-fractal-texturing-1408552]tutorial[/url]",
+  "tags": [
+    "texture",
+    "demo",
+    "filtering"
+  ],
+  "publishedAt": "2022-10-15T00:25:25.000Z",
+  "publishedTimestamp": 1665793525,
+  "views": 5982,
+  "likes": 157,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/mds3R4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4df3Rr",
+          "filepath": "/media/a/3871e838723dd6b166e490664eead8ec60aedd6b8d95bc8e2fe3f882f0fd90f0.jpg",
+          "previewfilepath": "/media/ap/3871e838723dd6b166e490664eead8ec60aedd6b8d95bc8e2fe3f882f0fd90f0.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

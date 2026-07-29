@@ -1,0 +1,35 @@
+{
+  "id": "wXSXzV",
+  "name": "Nebula 3 [299]",
+  "author": "Xor",
+  "description": "Based on my [url=https://x.com/XorDev/status/1918766627828515190]tweet shader[/url]\n    ",
+  "tags": [
+    "space",
+    "glow",
+    "golf",
+    "300"
+  ],
+  "publishedAt": "2025-05-03T20:39:07.000Z",
+  "publishedTimestamp": 1746304747,
+  "views": 1231,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wXSXzV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

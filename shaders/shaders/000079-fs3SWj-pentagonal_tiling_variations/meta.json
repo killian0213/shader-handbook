@@ -1,0 +1,35 @@
+{
+  "id": "fs3SWj",
+  "name": "pentagonal tiling variations",
+  "author": "mattz",
+  "description": "Click and drag to set vertex position. \n\nInspired by [url]https://twitter.com/cs_kaplan[/url]. See [url]https://en.wikipedia.org/wiki/Cairo_pentagonal_tiling[/url] for details.",
+  "tags": [
+    "tiling",
+    "pentagonal",
+    "variations",
+    "cairo"
+  ],
+  "publishedAt": "2021-10-12T00:52:06.000Z",
+  "publishedTimestamp": 1633999926,
+  "views": 2698,
+  "likes": 79,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/fs3SWj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

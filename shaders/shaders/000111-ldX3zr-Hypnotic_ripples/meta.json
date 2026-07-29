@@ -1,0 +1,35 @@
+{
+  "id": "ldX3zr",
+  "name": "Hypnotic ripples",
+  "author": "Cha",
+  "description": "Hypnotic ripples... yah...  usefeul comment sorry... XDD\nSimple shader to start doing sth.",
+  "tags": [
+    "waves",
+    "circles",
+    "aspectratio",
+    "simple"
+  ],
+  "publishedAt": "2013-02-15T22:59:23.000Z",
+  "publishedTimestamp": 1360969163,
+  "views": 16137,
+  "likes": 111,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldX3zr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

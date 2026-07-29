@@ -1,0 +1,35 @@
+{
+  "id": "Xt23z3",
+  "name": "Ring Twister",
+  "author": "Flyguy",
+  "description": " Classic twister effect applied to a ring.",
+  "tags": [
+    "distort",
+    "shading",
+    "ring",
+    "twist"
+  ],
+  "publishedAt": "2015-05-07T01:46:54.000Z",
+  "publishedTimestamp": 1430963214,
+  "views": 10794,
+  "likes": 181,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xt23z3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

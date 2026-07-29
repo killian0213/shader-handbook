@@ -1,0 +1,35 @@
+{
+  "id": "ll2GRt",
+  "name": "Oil stain",
+  "author": "noby",
+  "description": "A little 2D effect I wrote earlier this year based on iq's noise derivatives. A standalone GLSL version only works on nVidia for some reason, I'm probably abusing the derivatives too badly, or maybe the noise has some sort of a quirk I haven't noticed...",
+  "tags": [
+    "2d",
+    "noise",
+    "fbm",
+    "perlin",
+    "blackandwhite",
+    "fluid",
+    "monochrome",
+    "liquid",
+    "noisederivative"
+  ],
+  "publishedAt": "2015-05-13T13:19:38.000Z",
+  "publishedTimestamp": 1431523178,
+  "views": 6943,
+  "likes": 106,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ll2GRt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

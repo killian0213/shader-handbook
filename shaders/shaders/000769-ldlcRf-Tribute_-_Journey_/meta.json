@@ -1,0 +1,87 @@
+{
+  "id": "ldlcRf",
+  "name": "Tribute - Journey!",
+  "author": "Shakemayster",
+  "description": "This is just a tribute, to the greatest game in the world, ah,\nguh fli-goo ga goo buh dee\nOoh guh goo bee, ooh guh guh bee guh guh bee\nFli-goo gee goo, a-fli-guh woo wa mama Lucifer!",
+  "tags": [
+    "clouds",
+    "sky",
+    "character",
+    "tribute",
+    "desert",
+    "journey",
+    "scarf",
+    "sphericalclouds",
+    "traveller",
+    "tomb"
+  ],
+  "publishedAt": "2017-03-17T21:16:33.000Z",
+  "publishedTimestamp": 1489785393,
+  "views": 132383,
+  "likes": 769,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldlcRf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dXGzr",
+          "filepath": "/media/a/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "previewfilepath": "/media/ap/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4djGDV",
+          "filepath": "https://soundcloud.com/awintory/journey-i-was-born-for-this?in=awintory/sets/journey",
+          "previewfilepath": "https://soundcloud.com/awintory/journey-i-was-born-for-this?in=awintory/sets/journey",
+          "type": "musicstream",
+          "channel": 2,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

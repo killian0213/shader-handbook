@@ -1,0 +1,34 @@
+{
+  "id": "4lfcDr",
+  "name": "Path tracing cornellbox with MIS",
+  "author": "cschied",
+  "description": "path tracing in the cornell box",
+  "tags": [
+    "cornellbox",
+    "pathtracing",
+    "mis"
+  ],
+  "publishedAt": "2017-09-01T13:38:18.000Z",
+  "publishedTimestamp": 1504273098,
+  "views": 15767,
+  "likes": 149,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4lfcDr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

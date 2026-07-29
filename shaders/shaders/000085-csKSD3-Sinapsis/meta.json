@@ -1,0 +1,34 @@
+{
+  "id": "csKSD3",
+  "name": "Sinapsis",
+  "author": "Kali",
+  "description": "Based on the \"particle\" system as seen in the final part of the 4k intro Random Generation https://www.shadertoy.com/view/DdGSD1",
+  "tags": [
+    "raymarching",
+    "particles",
+    "volumetric"
+  ],
+  "publishedAt": "2023-04-17T06:09:17.000Z",
+  "publishedTimestamp": 1681711757,
+  "views": 1741,
+  "likes": 85,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/csKSD3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

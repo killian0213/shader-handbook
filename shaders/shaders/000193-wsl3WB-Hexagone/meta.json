@@ -1,0 +1,51 @@
+{
+  "id": "wsl3WB",
+  "name": "Hexagone",
+  "author": "BigWIngs",
+  "description": "What you get when you screw with hexagons for too long. Scrub time with the mouse. Watch fullscreen!",
+  "tags": [
+    "psychedelic",
+    "hexagon",
+    "trippy",
+    "dmt"
+  ],
+  "publishedAt": "2019-01-14T06:58:20.000Z",
+  "publishedTimestamp": 1547449100,
+  "views": 18739,
+  "likes": 193,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wsl3WB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "lll3z7",
+          "filepath": "https://soundcloud.com/buku/front-to-back",
+          "previewfilepath": "https://soundcloud.com/buku/front-to-back",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

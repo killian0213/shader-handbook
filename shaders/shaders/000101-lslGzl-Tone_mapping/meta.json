@@ -1,0 +1,29 @@
+{
+  "id": "lslGzl",
+  "name": "Tone mapping",
+  "author": "Zavie",
+  "description": "Comparing different tone mappings operators.\n\nFrom top to bottom:\ncolor displayed as is,\nlinear,\nsimplified Reinhard operator,\nluma based Reinhard op.,\nwhite preserving luma based Reinhard op.,\nRomBinDaHouse\nfilmic tone map.,\nUncharted 2 tone map..",
+  "tags": [
+    "gamma",
+    "tonemapping",
+    "reinhard"
+  ],
+  "publishedAt": "2013-08-25T13:32:56.000Z",
+  "publishedTimestamp": 1377437576,
+  "views": 21934,
+  "likes": 101,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lslGzl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

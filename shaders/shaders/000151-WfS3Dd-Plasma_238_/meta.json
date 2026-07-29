@@ -1,0 +1,35 @@
+{
+  "id": "WfS3Dd",
+  "name": "Plasma [238]",
+  "author": "Xor",
+  "description": "A ball of plasma?",
+  "tags": [
+    "plasma",
+    "golf",
+    "256",
+    "300"
+  ],
+  "publishedAt": "2025-02-25T21:13:29.000Z",
+  "publishedTimestamp": 1740518009,
+  "views": 5438,
+  "likes": 151,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WfS3Dd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

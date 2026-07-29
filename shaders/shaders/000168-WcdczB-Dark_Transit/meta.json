@@ -1,0 +1,34 @@
+{
+  "id": "WcdczB",
+  "name": "Dark Transit",
+  "author": "diatribes",
+  "description": "Dark Transit",
+  "tags": [
+    "noise",
+    "tunnel",
+    "lowtechtunnel"
+  ],
+  "publishedAt": "2025-11-22T02:42:28.000Z",
+  "publishedTimestamp": 1763779348,
+  "views": 10031,
+  "likes": 168,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WcdczB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

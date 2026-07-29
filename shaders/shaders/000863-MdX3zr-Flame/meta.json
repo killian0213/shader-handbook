@@ -1,0 +1,29 @@
+{
+  "id": "MdX3zr",
+  "name": "Flame",
+  "author": "XT95",
+  "description": "Simple flame in distance field.",
+  "tags": [
+    "3d",
+    "distancefield",
+    "transparency"
+  ],
+  "publishedAt": "2013-02-15T23:05:12.000Z",
+  "publishedTimestamp": 1360969512,
+  "views": 192259,
+  "likes": 863,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdX3zr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "lsycDG",
+  "name": "Doodling #7: Speed",
+  "author": "lsdlive",
+  "description": "Doodling session for live-coding or sketching new ideas.\nThanks to iq, mercury, lj, shane, shau, aiekick, balkhan & all shadertoyers.\nGreets to all the shader showdown paris gang.\n\nMusic by CoLD SToRaGE for the game wipEout.",
+  "tags": [
+    "tunnel",
+    "raymarch",
+    "speed",
+    "doodling"
+  ],
+  "publishedAt": "2018-04-07T16:34:56.000Z",
+  "publishedTimestamp": 1523118896,
+  "views": 10937,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsycDG",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdX3Rn",
+          "filepath": "/media/a/52d2a8f514c4fd2d9866587f4d7b2a5bfa1a11a0e772077d7682deb8b3b517e5.jpg",
+          "previewfilepath": "/media/ap/52d2a8f514c4fd2d9866587f4d7b2a5bfa1a11a0e772077d7682deb8b3b517e5.jpg",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4s2XWw",
+          "filepath": "https://soundcloud.com/brandon-mark-8/cold-storage-slipstream-volume-one-03-cairodrome?in=user-881335089/sets/wipeout-cold-storage",
+          "previewfilepath": "https://soundcloud.com/brandon-mark-8/cold-storage-slipstream-volume-one-03-cairodrome?in=user-881335089/sets/wipeout-cold-storage",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

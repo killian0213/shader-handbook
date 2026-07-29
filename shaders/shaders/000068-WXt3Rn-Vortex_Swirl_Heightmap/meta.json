@@ -1,0 +1,43 @@
+{
+  "id": "WXt3Rn",
+  "name": "Vortex Swirl Heightmap",
+  "author": "Shane",
+  "description": "Applying a vortex swirl to an extruded rectangular grid.",
+  "tags": [
+    "procedural",
+    "swirl",
+    "vortex",
+    "environment",
+    "heighmap"
+  ],
+  "publishedAt": "2025-07-09T13:22:34.000Z",
+  "publishedTimestamp": 1752067354,
+  "views": 647,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WXt3Rn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

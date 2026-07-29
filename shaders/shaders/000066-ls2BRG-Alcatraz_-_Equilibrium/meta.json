@@ -1,0 +1,100 @@
+{
+  "id": "ls2BRG",
+  "name": "Alcatraz - Equilibrium",
+  "author": "Virgill",
+  "description": "Equilibrium 4k intro\n",
+  "tags": [
+    "noise",
+    "intro",
+    "4k",
+    "refraction",
+    "demoscene",
+    "fog",
+    "spheretracing",
+    "glow",
+    "feedback",
+    "colorsplit"
+  ],
+  "publishedAt": "2017-07-25T11:59:39.000Z",
+  "publishedTimestamp": 1500983979,
+  "views": 3175,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 96,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ls2BRG",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XsfXWj",
+          "filepath": "https://soundcloud.com/virgill/virgill-4klang-equilibrium",
+          "previewfilepath": "https://soundcloud.com/virgill/virgill-4klang-equilibrium",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

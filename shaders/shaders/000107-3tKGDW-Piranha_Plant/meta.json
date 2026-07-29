@@ -1,0 +1,60 @@
+{
+  "id": "3tKGDW",
+  "name": "Piranha Plant",
+  "author": "PixelPhil",
+  "description": "A Piranah Plant inspired by Mario Bros with procedural animations and PBR-ish Lighting.\nDrag around the screen to move the camera.\n\nMusic: Underworld Remix by Zifur ",
+  "tags": [
+    "procedural",
+    "mario",
+    "pbr",
+    "plant",
+    "animations",
+    "piranha"
+  ],
+  "publishedAt": "2020-01-23T17:57:45.000Z",
+  "publishedTimestamp": 1579802265,
+  "views": 9532,
+  "likes": 107,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3tKGDW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "lt2Gz1",
+          "filepath": "https://soundcloud.com/zifur/underworld-remix-super-mario",
+          "previewfilepath": "https://soundcloud.com/zifur/underworld-remix-super-mario",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

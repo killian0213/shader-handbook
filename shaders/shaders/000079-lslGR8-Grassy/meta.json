@@ -1,0 +1,28 @@
+{
+  "id": "lslGR8",
+  "name": "Grassy",
+  "author": "fizzer",
+  "description": "I tried to create some convincing grass procedurally. The result became less than realistic, but I am still happy with how it went. There are some quite subtle gradients, which resulted in very noticeable mach bands. I mostly fixed them with noise.",
+  "tags": [
+    "procedural",
+    "grass"
+  ],
+  "publishedAt": "2013-03-07T21:36:16.000Z",
+  "publishedTimestamp": 1362692176,
+  "views": 7599,
+  "likes": 79,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lslGR8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

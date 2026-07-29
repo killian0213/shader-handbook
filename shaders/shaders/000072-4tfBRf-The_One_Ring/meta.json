@@ -1,0 +1,83 @@
+{
+  "id": "4tfBRf",
+  "name": "The One Ring",
+  "author": "k_kondrak",
+  "description": "Lord of the Rings - One Ring to rule them all.\nThe inscription is a nice side effect of how surface noise works - a cool improvement would be to map a buffer with proper Black Speech glyphs.",
+  "tags": [
+    "sdf",
+    "hell",
+    "ring",
+    "sauron",
+    "lotr",
+    "gold"
+  ],
+  "publishedAt": "2017-12-08T12:34:09.000Z",
+  "publishedTimestamp": 1512736449,
+  "views": 7498,
+  "likes": 72,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tfBRf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdX3zn",
+          "filepath": "/media/a/488bd40303a2e2b9a71987e48c66ef41f5e937174bf316d3ed0e86410784b919.jpg",
+          "previewfilepath": "/media/ap/488bd40303a2e2b9a71987e48c66ef41f5e937174bf316d3ed0e86410784b919.jpg",
+          "type": "cubemap",
+          "channel": 2,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dX3zn",
+          "filepath": "/media/a/550a8cce1bf403869fde66dddf6028dd171f1852f4a704a465e1b80d23955663.png",
+          "previewfilepath": "/media/ap/550a8cce1bf403869fde66dddf6028dd171f1852f4a704a465e1b80d23955663.png",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4d2Xz1",
+          "filepath": "https://soundcloud.com/dnd-music-444515068/sauron-voice-black-speech",
+          "previewfilepath": "https://soundcloud.com/dnd-music-444515068/sauron-voice-black-speech",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

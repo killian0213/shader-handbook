@@ -1,0 +1,35 @@
+{
+  "id": "ttcyRS",
+  "name": "oklab - optimized color mix",
+  "author": "iq",
+  "description": "Mixing linear-rgb colors in oklab space, but skipping 3 unnecessary 3x3 matrix transformations. Left: optimized oklab interpolation. Right: rgb interpolation. More info here: [url]https://bottosson.github.io/posts/oklab[/url]",
+  "tags": [
+    "2d",
+    "color",
+    "colorspace",
+    "oklab"
+  ],
+  "publishedAt": "2020-12-30T12:54:53.000Z",
+  "publishedTimestamp": 1609332893,
+  "views": 8234,
+  "likes": 118,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ttcyRS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

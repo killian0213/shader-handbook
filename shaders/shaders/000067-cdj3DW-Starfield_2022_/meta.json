@@ -1,0 +1,31 @@
+{
+  "id": "cdj3DW",
+  "name": "Starfield (2022)",
+  "author": "jurnip",
+  "description": "Starfield with nebulae based on the kaliset fractal\nUse the mouse to pan\n\nBased on \"Simplicity Galaxy\" by CBS: https://www.shadertoy.com/view/MslGWN",
+  "tags": [
+    "fractal",
+    "star",
+    "stars",
+    "nebula",
+    "starfield"
+  ],
+  "publishedAt": "2022-11-05T00:38:05.000Z",
+  "publishedTimestamp": 1667608685,
+  "views": 4234,
+  "likes": 67,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/cdj3DW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

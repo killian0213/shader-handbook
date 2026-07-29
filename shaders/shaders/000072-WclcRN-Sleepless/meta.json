@@ -1,0 +1,35 @@
+{
+  "id": "WclcRN",
+  "name": "Sleepless",
+  "author": "diatribes",
+  "description": "Sleepless",
+  "tags": [
+    "raymarch",
+    "cloud",
+    "small",
+    "short"
+  ],
+  "publishedAt": "2025-08-17T05:57:00.000Z",
+  "publishedTimestamp": 1755410220,
+  "views": 1597,
+  "likes": 72,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WclcRN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

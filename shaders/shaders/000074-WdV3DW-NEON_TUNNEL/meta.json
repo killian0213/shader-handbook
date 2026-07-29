@@ -1,0 +1,44 @@
+{
+  "id": "WdV3DW",
+  "name": "NEON TUNNEL",
+  "author": "alro",
+  "description": "Tunnel with 2D shapes and SDF glow on multiple layers. Distance functions from [url]https://iquilezles.org/articles/distfunctions2d/distfunctions2d.htm[/url]",
+  "tags": [
+    "2d",
+    "tunnel",
+    "sdf",
+    "glow",
+    "shapes",
+    "neon"
+  ],
+  "publishedAt": "2019-10-05T11:39:14.000Z",
+  "publishedTimestamp": 1570275554,
+  "views": 2555,
+  "likes": 74,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WdV3DW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

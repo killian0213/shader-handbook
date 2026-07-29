@@ -1,0 +1,69 @@
+{
+  "id": "tslGz7",
+  "name": "Stateless Fight",
+  "author": "iq",
+  "description": "No simulation or history used, all instant and pure procedural. It's really a remix of [url=https://www.shadertoy.com/view/XdjXWK]Repelling[/url], but doing the collisions in their own pass and adding motion blur.",
+  "tags": [
+    "3d",
+    "collision",
+    "spheres"
+  ],
+  "publishedAt": "2018-12-24T07:24:22.000Z",
+  "publishedTimestamp": 1545636262,
+  "views": 8741,
+  "likes": 124,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tslGz7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

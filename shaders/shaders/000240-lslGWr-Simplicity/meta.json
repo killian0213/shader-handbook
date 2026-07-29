@@ -1,0 +1,28 @@
+{
+  "id": "lslGWr",
+  "name": "Simplicity",
+  "author": "JoshP",
+  "description": "Beauty in simplicity.",
+  "tags": [
+    "2d",
+    "fractal"
+  ],
+  "publishedAt": "2013-05-07T09:42:22.000Z",
+  "publishedTimestamp": 1367919742,
+  "views": 15351,
+  "likes": 240,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lslGWr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "fdXXWH",
+  "name": "White Drops",
+  "author": "Xor",
+  "description": "Is it milk? I don't know. I just think it looks cool",
+  "tags": [
+    "liquid",
+    "ripple",
+    "droplets"
+  ],
+  "publishedAt": "2021-04-16T21:08:04.000Z",
+  "publishedTimestamp": 1618607284,
+  "views": 2498,
+  "likes": 81,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/fdXXWH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

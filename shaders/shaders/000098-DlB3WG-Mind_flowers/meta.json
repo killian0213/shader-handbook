@@ -1,0 +1,48 @@
+{
+  "id": "DlB3WG",
+  "name": "Mind flowers",
+  "author": "mrange",
+  "description": "CC0: Mind flowers\nSaw some twitter art that inspired me to do weird colorful stuff\nTurn on, tune in, drop out!\nAnd full screen!\n\n",
+  "tags": [
+    "colorful"
+  ],
+  "publishedAt": "2023-01-15T19:04:47.000Z",
+  "publishedTimestamp": 1673809487,
+  "views": 3676,
+  "likes": 98,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/DlB3WG",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Ml2SWy",
+          "filepath": "https://soundcloud.com/ultimatespinach-music/mind-flowers-2",
+          "previewfilepath": "https://soundcloud.com/ultimatespinach-music/mind-flowers-2",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

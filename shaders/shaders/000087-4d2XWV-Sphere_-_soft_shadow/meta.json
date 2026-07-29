@@ -1,0 +1,34 @@
+{
+  "id": "4d2XWV",
+  "name": "Sphere - soft shadow",
+  "author": "iq",
+  "description": "Fake plausible soft shadows for spheres. The parameter \"k\" controls the softness.",
+  "tags": [
+    "3d",
+    "shadow",
+    "sphere"
+  ],
+  "publishedAt": "2014-11-17T03:54:12.000Z",
+  "publishedTimestamp": 1416196452,
+  "views": 23101,
+  "likes": 87,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4d2XWV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "4ctcRl",
+  "name": "Segmented spiral whirlpool",
+  "author": "ChunderFPV",
+  "description": ".",
+  "tags": [
+    "3d",
+    "example",
+    "raymarch",
+    "vortex",
+    "whirlpool"
+  ],
+  "publishedAt": "2024-11-07T23:54:44.000Z",
+  "publishedTimestamp": 1731023684,
+  "views": 15638,
+  "likes": 188,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4ctcRl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

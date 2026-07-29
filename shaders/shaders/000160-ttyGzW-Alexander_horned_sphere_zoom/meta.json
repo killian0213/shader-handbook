@@ -1,0 +1,63 @@
+{
+  "id": "ttyGzW",
+  "name": "Alexander horned sphere zoom",
+  "author": "tmst",
+  "description": "- Infinite zoom into an Alexander horned sphere\n- Use mouse drag to move forward or back along the path",
+  "tags": [
+    "recursive",
+    "outlines",
+    "topology",
+    "alexanderhornedsphere"
+  ],
+  "publishedAt": "2020-01-24T06:12:11.000Z",
+  "publishedTimestamp": 1579846331,
+  "views": 6699,
+  "likes": 160,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ttyGzW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

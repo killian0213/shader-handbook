@@ -1,0 +1,30 @@
+{
+  "id": "4s23DR",
+  "name": "ray/cone & ray/frustum",
+  "author": "robertcupisz",
+  "description": "Couldn't find any decent implementations of ray/cone and ray/frustum intersection tests, so wrote them here. All handle the case of ray origin being inside the shape as well. Unit box for reference. Any tips on simplifying or speeding up very welcome :)",
+  "tags": [
+    "ray",
+    "intersection",
+    "cone",
+    "frustum"
+  ],
+  "publishedAt": "2013-12-08T14:29:25.000Z",
+  "publishedTimestamp": 1386512965,
+  "views": 3729,
+  "likes": 94,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4s23DR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

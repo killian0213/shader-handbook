@@ -1,0 +1,34 @@
+{
+  "id": "ttVXWt",
+  "name": "Hopf fibers",
+  "author": "tmst",
+  "description": "- A volumetric visualization of the Hopf fibration.\n- Use mouse drag to change some parameters.",
+  "tags": [
+    "volumetric",
+    "hopf",
+    "fibration"
+  ],
+  "publishedAt": "2020-03-17T04:02:39.000Z",
+  "publishedTimestamp": 1584417759,
+  "views": 1656,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ttVXWt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

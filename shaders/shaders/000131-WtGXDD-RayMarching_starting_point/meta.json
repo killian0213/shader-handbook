@@ -1,0 +1,34 @@
+{
+  "id": "WtGXDD",
+  "name": "RayMarching starting point",
+  "author": "BigWIngs",
+  "description": "Start your raymarching shader with this template",
+  "tags": [
+    "raymarching",
+    "template",
+    "artofcode"
+  ],
+  "publishedAt": "2020-02-26T02:56:06.000Z",
+  "publishedTimestamp": 1582685766,
+  "views": 15680,
+  "likes": 131,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WtGXDD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

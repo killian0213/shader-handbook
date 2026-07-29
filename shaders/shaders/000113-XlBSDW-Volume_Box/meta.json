@@ -1,0 +1,42 @@
+{
+  "id": "XlBSDW",
+  "name": "Volume Box",
+  "author": "TDM",
+  "description": "Cheap approx of a heterogeneous fog using integrals. You can also rotate the cube with your mouse.",
+  "tags": [
+    "volume",
+    "fog",
+    "integration",
+    "integrals"
+  ],
+  "publishedAt": "2019-09-30T11:19:54.000Z",
+  "publishedTimestamp": 1569842394,
+  "views": 2709,
+  "likes": 113,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlBSDW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

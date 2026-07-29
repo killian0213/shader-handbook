@@ -1,0 +1,36 @@
+{
+  "id": "fdK3DD",
+  "name": "Pixel Spirit Deck, Dynamic",
+  "author": "chenglou",
+  "description": "All 50 cards from [url=https://patriciogonzalezvivo.github.io/PixelSpiritDeck]Pixel Spirit[/url].\n[b]Mouse click a card to see the bigger version![/b]\nSlightly modified to add dynamism and anti-aliasing.",
+  "tags": [
+    "sdf",
+    "symbol",
+    "cards",
+    "icon",
+    "pixelspirit"
+  ],
+  "publishedAt": "2021-09-14T05:34:46.000Z",
+  "publishedTimestamp": 1631597686,
+  "views": 1670,
+  "likes": 83,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/fdK3DD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

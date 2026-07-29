@@ -1,0 +1,32 @@
+{
+  "id": "4sffRj",
+  "name": "Marching Cubes Basis",
+  "author": "gltracy",
+  "description": "Marching Cubes basis configurations with ambiguity cases",
+  "tags": [
+    "marchingcubes"
+  ],
+  "publishedAt": "2024-11-14T01:59:07.000Z",
+  "publishedTimestamp": 1731549547,
+  "views": 1740,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sffRj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

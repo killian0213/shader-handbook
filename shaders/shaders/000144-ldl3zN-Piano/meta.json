@@ -1,0 +1,51 @@
+{
+  "id": "ldl3zN",
+  "name": "Piano",
+  "author": "iq",
+  "description": "Mi piano at home. I wanted to add all lots of modeling details, but WebGL simply dies (Desktop OpenGL is perfectly fine, though). ",
+  "tags": [
+    "procedural",
+    "3d",
+    "raymarching",
+    "distancefield"
+  ],
+  "publishedAt": "2013-04-05T22:20:55.000Z",
+  "publishedTimestamp": 1365200455,
+  "views": 39382,
+  "likes": 144,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldl3zN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdfGRn",
+          "filepath": "/media/a/e6e5631ce1237ae4c05b3563eda686400a401df4548d0f9fad40ecac1659c46c.jpg",
+          "previewfilepath": "/media/ap/e6e5631ce1237ae4c05b3563eda686400a401df4548d0f9fad40ecac1659c46c.jpg",
+          "type": "texture",
+          "channel": 3,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "Md23z1",
+  "name": "DOF Tweak 05",
+  "author": "knighty",
+  "description": "tweaking eiffie's spheres of confusion DE DOF",
+  "tags": [
+    "dof",
+    "de",
+    "soc"
+  ],
+  "publishedAt": "2013-11-17T15:14:19.000Z",
+  "publishedTimestamp": 1384701259,
+  "views": 6076,
+  "likes": 95,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Md23z1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

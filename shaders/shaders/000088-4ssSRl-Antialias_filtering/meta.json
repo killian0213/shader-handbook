@@ -1,0 +1,29 @@
+{
+  "id": "4ssSRl",
+  "name": "Antialias / filtering",
+  "author": "iq",
+  "description": "Used filter width (fwidth) to antialias edges (no supersampling). See the jagged edges in the left side of the screen vs the smooth edges in the right side. Both pre and post gamma filtering are implemented (move mouse to change the areas)",
+  "tags": [
+    "2d",
+    "antialias",
+    "filtering"
+  ],
+  "publishedAt": "2014-07-18T08:21:44.000Z",
+  "publishedTimestamp": 1405671704,
+  "views": 13213,
+  "likes": 88,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4ssSRl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

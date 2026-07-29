@@ -1,0 +1,32 @@
+{
+  "id": "MlXGzr",
+  "name": "Jelly-something",
+  "author": "Kali",
+  "description": "Just raymarching something jelly but I don't have any idea what it is... :D - added some kind of noisy DOF",
+  "tags": [
+    "raymarching"
+  ],
+  "publishedAt": "2014-12-06T06:14:43.000Z",
+  "publishedTimestamp": 1417846483,
+  "views": 4345,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MlXGzr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

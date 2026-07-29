@@ -1,0 +1,32 @@
+{
+  "id": "Md2XDD",
+  "name": "Somewhere in 1993",
+  "author": "nimitz",
+  "description": "Experiments in making low poly terrain.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "terrain",
+    "lowpoly",
+    "mockup",
+    "hud"
+  ],
+  "publishedAt": "2014-10-10T03:04:06.000Z",
+  "publishedTimestamp": 1412910246,
+  "views": 3983,
+  "likes": 93,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Md2XDD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

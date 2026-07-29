@@ -1,0 +1,35 @@
+{
+  "id": "Msf3Wr",
+  "name": "Fractal Noise",
+  "author": "mu6k",
+  "description": "Infinite zoomer + 12 layers of noise.",
+  "tags": [
+    "2d",
+    "fractal",
+    "noise",
+    "zoom"
+  ],
+  "publishedAt": "2013-04-30T12:54:23.000Z",
+  "publishedTimestamp": 1367326463,
+  "views": 4872,
+  "likes": 62,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Msf3Wr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

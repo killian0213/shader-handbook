@@ -1,0 +1,35 @@
+{
+  "id": "XtGGRt",
+  "name": "Auroras",
+  "author": "nimitz",
+  "description": "Trying to get cheap and fully procedural northern lights effect. Looks better in full screen. Could still be improved...",
+  "tags": [
+    "procedural",
+    "aurora",
+    "atmosphere",
+    "weather"
+  ],
+  "publishedAt": "2017-10-03T17:10:02.000Z",
+  "publishedTimestamp": 1507050602,
+  "views": 60909,
+  "likes": 724,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtGGRt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

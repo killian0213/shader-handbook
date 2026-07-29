@@ -1,0 +1,34 @@
+{
+  "id": "4djXzz",
+  "name": "Topologica",
+  "author": "otaviogood",
+  "description": "At some point I stopped understanding exactly what makes this work, but it just kept getting cooler. Mostly, it's stepping through a low frequency noise function that ramps up to a 1/x pulse. But then there are lots of tweaks on top of that.",
+  "tags": [
+    "noise",
+    "glow",
+    "contour"
+  ],
+  "publishedAt": "2014-08-21T06:53:07.000Z",
+  "publishedTimestamp": 1408603987,
+  "views": 22090,
+  "likes": 184,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4djXzz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

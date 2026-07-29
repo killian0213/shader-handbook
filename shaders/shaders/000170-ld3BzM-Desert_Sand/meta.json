@@ -1,0 +1,37 @@
+{
+  "id": "ld3BzM",
+  "name": "Desert Sand",
+  "author": "Shane",
+  "description": "Bump mapping a procedural sand texture onto some basic terrain and applying some lighting to produce a stylized desert sand scene.",
+  "tags": [
+    "procedural",
+    "terrain",
+    "texture",
+    "sand",
+    "desert",
+    "dune"
+  ],
+  "publishedAt": "2018-04-29T13:10:54.000Z",
+  "publishedTimestamp": 1525007454,
+  "views": 11371,
+  "likes": 170,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ld3BzM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

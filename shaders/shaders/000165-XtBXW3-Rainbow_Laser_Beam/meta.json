@@ -1,0 +1,29 @@
+{
+  "id": "XtBXW3",
+  "name": "Rainbow Laser Beam",
+  "author": "epicabsol",
+  "description": "Need to dispatch some pesky enemies with love, grace, and style? I've got just the weapon for you!\n\nFirst shadertoy!\n\nNeeds a more laser-y sound for the muzzle/emitter. Maybe sound in stereo?",
+  "tags": [
+    "2d",
+    "beam",
+    "rainbow"
+  ],
+  "publishedAt": "2015-11-05T09:46:39.000Z",
+  "publishedTimestamp": 1446716799,
+  "views": 18244,
+  "likes": 165,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtBXW3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "DlVczV",
+  "name": "Vortex [267]",
+  "author": "Xor",
+  "description": "Abstract art",
+  "tags": [
+    "shadow",
+    "glow",
+    "golf"
+  ],
+  "publishedAt": "2023-11-20T00:43:33.000Z",
+  "publishedTimestamp": 1700441013,
+  "views": 1396,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/DlVczV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "3tdSRn",
+  "name": "001-DrawCircle",
+  "author": "haquxx",
+  "description": "Draw circle",
+  "tags": [
+    "cineshader"
+  ],
+  "publishedAt": "2020-01-29T08:56:57.000Z",
+  "publishedTimestamp": 1580288217,
+  "views": 55833,
+  "likes": 74,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3tdSRn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

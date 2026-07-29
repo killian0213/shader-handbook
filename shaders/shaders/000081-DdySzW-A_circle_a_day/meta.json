@@ -1,0 +1,35 @@
+{
+  "id": "DdySzW",
+  "name": "A circle a day",
+  "author": "Plento",
+  "description": "Circles",
+  "tags": [
+    "2d",
+    "mouse",
+    "color",
+    "pseudo3d"
+  ],
+  "publishedAt": "2023-04-06T07:11:55.000Z",
+  "publishedTimestamp": 1680765115,
+  "views": 4281,
+  "likes": 81,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/DdySzW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

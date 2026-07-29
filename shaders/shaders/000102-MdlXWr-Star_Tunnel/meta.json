@@ -1,0 +1,32 @@
+{
+  "id": "MdlXWr",
+  "name": "Star Tunnel",
+  "author": "P_Malin",
+  "description": "Single pass starfield inspired by old school tunnel effects.\nI wanted to try to render a starfield without any loops or iteration. Each angular segment of space around the viewer generates a random star xy radius from the viewer and z repeat distance.",
+  "tags": [
+    "starfield"
+  ],
+  "publishedAt": "2014-05-09T15:17:35.000Z",
+  "publishedTimestamp": 1399648655,
+  "views": 9306,
+  "likes": 102,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 1,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdlXWr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

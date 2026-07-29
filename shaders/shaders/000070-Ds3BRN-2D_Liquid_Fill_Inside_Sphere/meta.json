@@ -1,0 +1,38 @@
+{
+  "id": "Ds3BRN",
+  "name": "2D Liquid Fill Inside Sphere",
+  "author": "Mirza",
+  "description": "2D liquid inside 'sphere' shader.\n\nExpanded:\n> https://www.shadertoy.com/view/Ds3fRN\n\nFeel free to use this however you want.\nModify, learn from it, copy-paste, etc...\n\n- https://twitter.com/TheMirzaBeig/status/1711574005247819899",
+  "tags": [
+    "sdf",
+    "sphere",
+    "circle",
+    "progress",
+    "liquid",
+    "fill",
+    "loader"
+  ],
+  "publishedAt": "2023-10-09T23:25:56.000Z",
+  "publishedTimestamp": 1696893956,
+  "views": 5169,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Ds3BRN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

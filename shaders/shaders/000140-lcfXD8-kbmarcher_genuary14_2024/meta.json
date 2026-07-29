@@ -1,0 +1,33 @@
+{
+  "id": "lcfXD8",
+  "name": "kbmarcher genuary14 2024",
+  "author": "ufffd",
+  "description": "kilobyte raymarcher for genuary14 (997B)\nfrom memory maybe we'll see (success!)",
+  "tags": [
+    "raymarcher",
+    "kilobyte"
+  ],
+  "publishedAt": "2024-01-14T18:32:13.000Z",
+  "publishedTimestamp": 1705257133,
+  "views": 7398,
+  "likes": 140,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lcfXD8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

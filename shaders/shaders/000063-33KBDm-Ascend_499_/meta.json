@@ -1,0 +1,35 @@
+{
+  "id": "33KBDm",
+  "name": "Ascend [499]",
+  "author": "bug",
+  "description": "💫",
+  "tags": [
+    "clouds",
+    "star",
+    "short",
+    "golf"
+  ],
+  "publishedAt": "2026-02-22T11:59:35.000Z",
+  "publishedTimestamp": 1771761575,
+  "views": 1380,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/33KBDm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

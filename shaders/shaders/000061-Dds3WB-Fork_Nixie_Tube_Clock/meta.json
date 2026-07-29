@@ -1,0 +1,36 @@
+{
+  "id": "Dds3WB",
+  "name": "Fork Nixie Tube Clock",
+  "author": "picoplanetdev",
+  "description": "Fork of https://www.shadertoy.com/view/csl3DS\n\nRemoves gray circle background (I'm using it as a desktop wallpaper) and enables minutes functionality (not just minutes=55)",
+  "tags": [
+    "text",
+    "distance",
+    "font",
+    "digit",
+    "nixie"
+  ],
+  "publishedAt": "2022-10-26T00:45:41.000Z",
+  "publishedTimestamp": 1666745141,
+  "views": 13684,
+  "likes": 61,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Dds3WB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

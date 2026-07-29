@@ -1,0 +1,33 @@
+{
+  "id": "XtyGR1",
+  "name": "L System",
+  "author": "iq",
+  "description": "LSystem without a stack. Root to leave traversal plus pruning.",
+  "tags": [
+    "2d",
+    "lsystem"
+  ],
+  "publishedAt": "2016-09-04T04:50:09.000Z",
+  "publishedTimestamp": 1472964609,
+  "views": 5187,
+  "likes": 104,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtyGR1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

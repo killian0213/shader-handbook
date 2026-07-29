@@ -1,0 +1,36 @@
+{
+  "id": "4lfcRl",
+  "name": "Cubic Truchet Pattern",
+  "author": "Shane",
+  "description": "A standard cubic Truchet pattern, rendered in a simplistic style. Nothing exciting. :)",
+  "tags": [
+    "raymarching",
+    "truchet",
+    "polar",
+    "cubic",
+    "tile"
+  ],
+  "publishedAt": "2017-09-21T15:36:17.000Z",
+  "publishedTimestamp": 1506008177,
+  "views": 7113,
+  "likes": 93,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4lfcRl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "tscBz8",
+  "name": "Smooth Union Inclusive of Colors",
+  "author": "oneshade",
+  "description": "An experiment with blending colors alongside SDFs. I solved the shading issue. It had to do with the colors not being clamped (the pow function was the culprit).",
+  "tags": [
+    "raymarching",
+    "colors",
+    "smoothunion"
+  ],
+  "publishedAt": "2020-11-02T15:42:56.000Z",
+  "publishedTimestamp": 1604331776,
+  "views": 2391,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tscBz8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

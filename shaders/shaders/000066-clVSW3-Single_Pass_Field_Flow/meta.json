@@ -1,0 +1,80 @@
+{
+  "id": "clVSW3",
+  "name": "Single Pass Field Flow",
+  "author": "myth0genesis",
+  "description": "This is an effort inspired by MartinRGB's recent post on [url=https://www.shadertoy.com/view/DttSRB]vector flow[/url]. I needed an effect like this that could run in a single pass on a mobile device, so here are the fruits of my effort...",
+  "tags": [
+    "flow",
+    "field",
+    "vector",
+    "pass",
+    "single"
+  ],
+  "publishedAt": "2023-06-10T18:05:34.000Z",
+  "publishedTimestamp": 1686420334,
+  "views": 1267,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/clVSW3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

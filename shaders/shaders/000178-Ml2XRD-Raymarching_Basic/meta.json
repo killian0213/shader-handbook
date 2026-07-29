@@ -1,0 +1,28 @@
+{
+  "id": "Ml2XRD",
+  "name": "Raymarching Basic",
+  "author": "gyabo",
+  "description": "basic",
+  "tags": [
+    "raymarching",
+    "cineshader"
+  ],
+  "publishedAt": "2015-09-14T14:18:32.000Z",
+  "publishedTimestamp": 1442240312,
+  "views": 377434,
+  "likes": 178,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Ml2XRD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "fd33zn",
+  "name": "Saturday Torus",
+  "author": "mrange",
+  "description": "License CC0: Saturday Torus\nInspired by: https://www.istockphoto.com/photo/black-and-white-stripes-projection-on-torus-gm488221403-39181884\n",
+  "tags": [
+    "torus",
+    "bw"
+  ],
+  "publishedAt": "2021-08-14T13:49:10.000Z",
+  "publishedTimestamp": 1628948950,
+  "views": 5311,
+  "likes": 111,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/fd33zn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

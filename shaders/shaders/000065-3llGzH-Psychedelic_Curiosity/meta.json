@@ -1,0 +1,33 @@
+{
+  "id": "3llGzH",
+  "name": "Psychedelic Curiosity",
+  "author": "Vovosunt",
+  "description": "Click for a stare.\nAs per usual mashing up functions till they look like something, no optimization.",
+  "tags": [
+    "2d",
+    "eyes"
+  ],
+  "publishedAt": "2019-04-19T13:47:08.000Z",
+  "publishedTimestamp": 1555681628,
+  "views": 2732,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3llGzH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "tfd3Wf",
+  "name": "Faux Hand Painted Voronoi",
+  "author": "Shane",
+  "description": "An attempt to render a common geometric image in a hand painted style.",
+  "tags": [
+    "voronoi",
+    "rocks",
+    "paint",
+    "hand",
+    "art",
+    "curvature"
+  ],
+  "publishedAt": "2025-05-31T14:30:13.000Z",
+  "publishedTimestamp": 1748701813,
+  "views": 687,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tfd3Wf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

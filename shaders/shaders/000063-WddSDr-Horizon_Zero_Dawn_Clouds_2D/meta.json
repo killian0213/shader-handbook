@@ -1,0 +1,38 @@
+{
+  "id": "WddSDr",
+  "name": "Horizon Zero Dawn Clouds 2D",
+  "author": "piyushslayer",
+  "description": "2D cloudscapes modeled after the clouds in Horizon Zero Dawn (see code description for more details). The lighting is just a fake 2d ray marched uv offset and is no way physically based, but still kinda looks better than having no lighting at all. ",
+  "tags": [
+    "noise",
+    "clouds",
+    "fbm",
+    "perlin",
+    "curl",
+    "worley",
+    "horizon"
+  ],
+  "publishedAt": "2019-11-09T21:40:26.000Z",
+  "publishedTimestamp": 1573335626,
+  "views": 5286,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WddSDr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "Mt2XDc",
+  "name": "tritree",
+  "author": "FabriceNeyret2",
+  "description": "the tri-tree variant of quad-tree [url]https://www.shadertoy.com/view/lljSDy[/url]\nindeed, this is another kind of 4trees ;-)\n(NB: subdivision if the object intersect the node bounding sphere).",
+  "tags": [
+    "triangle",
+    "short",
+    "hexa",
+    "quadtree",
+    "tritree",
+    "3tree"
+  ],
+  "publishedAt": "2015-11-09T19:05:36.000Z",
+  "publishedTimestamp": 1447095936,
+  "views": 4180,
+  "likes": 62,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mt2XDc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

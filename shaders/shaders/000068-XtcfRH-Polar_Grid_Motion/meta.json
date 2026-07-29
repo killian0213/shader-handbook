@@ -1,0 +1,38 @@
+{
+  "id": "XtcfRH",
+  "name": "Polar Grid Motion",
+  "author": "Shane",
+  "description": "Utilizing a repeat polar grid to plot objects moving along a transcendental rose curve path.",
+  "tags": [
+    "grid",
+    "particles",
+    "curve",
+    "motion",
+    "polar",
+    "rose",
+    "rosace"
+  ],
+  "publishedAt": "2018-10-04T13:53:05.000Z",
+  "publishedTimestamp": 1538661185,
+  "views": 3383,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtcfRH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

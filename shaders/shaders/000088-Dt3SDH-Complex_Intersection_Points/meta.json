@@ -1,0 +1,41 @@
+{
+  "id": "Dt3SDH",
+  "name": "Complex Intersection Points",
+  "author": "iq",
+  "description": "Shader for [url]https://www.youtube.com/watch?v=tfLku5IjUzE[/url] (cosmetics removed). A ray always intersect a sphere, if one is willing to take complex coordinates for the intersection points. This shader shows where these complex intersections are.",
+  "tags": [
+    "2d",
+    "3d",
+    "raytracing",
+    "math",
+    "sphere",
+    "mathematics",
+    "intersection",
+    "complex",
+    "maths",
+    "solutions"
+  ],
+  "publishedAt": "2023-06-06T07:02:34.000Z",
+  "publishedTimestamp": 1686034954,
+  "views": 3081,
+  "likes": 88,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Dt3SDH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

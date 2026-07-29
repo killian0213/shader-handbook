@@ -1,0 +1,33 @@
+{
+  "id": "4sc3z2",
+  "name": "Noise Lab (3D)",
+  "author": "candycat",
+  "description": "try to fake http://www.noisemachine.com/talk1/19.html in 3D.",
+  "tags": [
+    "perlin",
+    "simplex"
+  ],
+  "publishedAt": "2015-12-22T07:57:22.000Z",
+  "publishedTimestamp": 1450771042,
+  "views": 18307,
+  "likes": 185,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sc3z2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

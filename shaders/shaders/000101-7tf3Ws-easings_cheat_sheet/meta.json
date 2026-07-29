@@ -1,0 +1,40 @@
+{
+  "id": "7tf3Ws",
+  "name": "easings_cheat_sheet",
+  "author": "skaplun",
+  "description": "UPD: Fixed the plot appearance. Plot based on @Flyguy's 'Implicit Plotter'. \nThe functions itself is taken from easings.net",
+  "tags": [
+    "2d",
+    "animation"
+  ],
+  "publishedAt": "2021-06-15T11:45:20.000Z",
+  "publishedTimestamp": 1623757520,
+  "views": 1764,
+  "likes": 101,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7tf3Ws",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

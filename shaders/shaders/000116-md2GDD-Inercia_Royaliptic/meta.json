@@ -1,0 +1,48 @@
+{
+  "id": "md2GDD",
+  "name": "Inercia Royaliptic",
+  "author": "leon",
+  "description": "Bouncing for the Inercia Shader Royale 2022",
+  "tags": [
+    "inercia"
+  ],
+  "publishedAt": "2022-11-05T10:21:59.000Z",
+  "publishedTimestamp": 1667643719,
+  "views": 2825,
+  "likes": 116,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/md2GDD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XljSWh",
+          "filepath": "https://soundcloud.com/diffty/dj-set-dnb-footwork-eclipse-sur-la-canopee-2017-06-03",
+          "previewfilepath": "https://soundcloud.com/diffty/dj-set-dnb-footwork-eclipse-sur-la-canopee-2017-06-03",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

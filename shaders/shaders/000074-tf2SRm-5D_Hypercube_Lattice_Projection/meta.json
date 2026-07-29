@@ -1,0 +1,41 @@
+{
+  "id": "tf2SRm",
+  "name": "5D Hypercube Lattice Projection",
+  "author": "Shane",
+  "description": "Slicing a plane through one layer of a rotating 5D hypercube lattice, then projecting the connected points of the visible faces onto the plane to make an animated  rhomboid pattern that resembles stacked polyhedrons.",
+  "tags": [
+    "quasicrystal",
+    "cube",
+    "projection",
+    "4d",
+    "hypercube",
+    "lattice",
+    "aperiodic",
+    "5d",
+    "beenker",
+    "amman"
+  ],
+  "publishedAt": "2025-04-03T14:52:06.000Z",
+  "publishedTimestamp": 1743691926,
+  "views": 637,
+  "likes": 74,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tf2SRm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

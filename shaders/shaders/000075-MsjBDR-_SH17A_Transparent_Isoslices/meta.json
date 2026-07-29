@@ -1,0 +1,35 @@
+{
+  "id": "MsjBDR",
+  "name": "[SH17A] Transparent Isoslices",
+  "author": "Shane",
+  "description": "A transparent organic field partitioned horizontally into 2D isosurface slices.",
+  "tags": [
+    "transparency",
+    "code",
+    "small",
+    "tweet"
+  ],
+  "publishedAt": "2017-07-15T16:22:28.000Z",
+  "publishedTimestamp": 1500135748,
+  "views": 2780,
+  "likes": 75,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsjBDR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

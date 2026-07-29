@@ -1,0 +1,35 @@
+{
+  "id": "3tB3z3",
+  "name": "Hilbert R1 Blue Noise",
+  "author": "paniq",
+  "description": "mapping each pixel to a hilbert curve index, then taking a value from the Roberts R1 quasirandom sequence for it.",
+  "tags": [
+    "noise",
+    "blue",
+    "hilbert",
+    "quasirandom"
+  ],
+  "publishedAt": "2019-06-12T22:56:11.000Z",
+  "publishedTimestamp": 1560380171,
+  "views": 5738,
+  "likes": 94,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3tB3z3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "XdX3WN",
+  "name": "Plasma Triangle",
+  "author": "ElusivePete",
+  "description": "3 points of a glowing triangle orbit round each other. Sine waves with various coefficients define the orbits. The links are rendered by using dot products to determine how close a given fragment is to the edge of the triangle.",
+  "tags": [
+    "pseudo3d",
+    "additiveblending"
+  ],
+  "publishedAt": "2013-05-29T09:07:19.000Z",
+  "publishedTimestamp": 1369818439,
+  "views": 12971,
+  "likes": 79,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdX3WN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdXGzn",
+          "filepath": "/media/a/3083c722c0c738cad0f468383167a0d246f91af2bfa373e9c5c094fb8c8413e0.png",
+          "previewfilepath": "/media/ap/3083c722c0c738cad0f468383167a0d246f91af2bfa373e9c5c094fb8c8413e0.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

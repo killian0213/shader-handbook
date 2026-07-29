@@ -1,0 +1,41 @@
+{
+  "id": "3d3cR2",
+  "name": "Fantasy World Map",
+  "author": "mhnewman",
+  "description": "Let's go exploring!",
+  "tags": [
+    "procedural",
+    "2d",
+    "map",
+    "mountains",
+    "paper",
+    "town",
+    "world",
+    "fantasy",
+    "forrest",
+    "worldbuilding"
+  ],
+  "publishedAt": "2020-09-27T21:56:09.000Z",
+  "publishedTimestamp": 1601243769,
+  "views": 2437,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3d3cR2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

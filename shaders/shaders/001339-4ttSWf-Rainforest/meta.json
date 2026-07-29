@@ -1,0 +1,79 @@
+{
+  "id": "4ttSWf",
+  "name": "Rainforest",
+  "author": "iq",
+  "description": "Another terrain, with cheap trees made of ellipsoids and noise. It computes analytic normals for the terrain and clouds. The art composed to camera as usual. Making-of Tutorial: [url]https://www.youtube.com/watch?v=BFld4EBO2RE[/url]",
+  "tags": [
+    "procedural",
+    "3d",
+    "raymarching",
+    "reprojection"
+  ],
+  "publishedAt": "2016-12-22T05:36:26.000Z",
+  "publishedTimestamp": 1482384986,
+  "views": 448148,
+  "likes": 1339,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4ttSWf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

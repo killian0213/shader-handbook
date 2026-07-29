@@ -1,0 +1,43 @@
+{
+  "id": "7stGWj",
+  "name": "3D GLOW TUTORIAL",
+  "author": "alro",
+  "description": "How to render glow in a ray marched scene.",
+  "tags": [
+    "3d",
+    "sdf",
+    "tutorial",
+    "light",
+    "glow"
+  ],
+  "publishedAt": "2021-09-03T13:29:16.000Z",
+  "publishedTimestamp": 1630675756,
+  "views": 2865,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7stGWj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

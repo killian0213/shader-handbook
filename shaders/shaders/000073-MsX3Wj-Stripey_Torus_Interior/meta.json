@@ -1,0 +1,32 @@
+{
+  "id": "MsX3Wj",
+  "name": "Stripey Torus Interior",
+  "author": "fb39ca4",
+  "description": "Just like the GIF many of us have seen.",
+  "tags": [
+    "raymarching"
+  ],
+  "publishedAt": "2013-09-15T16:30:26.000Z",
+  "publishedTimestamp": 1379262626,
+  "views": 5867,
+  "likes": 73,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsX3Wj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

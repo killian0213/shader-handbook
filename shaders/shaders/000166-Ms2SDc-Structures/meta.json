@@ -1,0 +1,27 @@
+{
+  "id": "Ms2SDc",
+  "name": "Structures",
+  "author": "rez",
+  "description": "my very first raymarching scene!\n100% try/error/repeat code, it was very fun to do and finally I ended up with something (I hope) not so bad :3\n\"original\" version (with tons of post-process) here: http://www.pouet.net/prod.php?which=59105",
+  "tags": [
+    "raymarching"
+  ],
+  "publishedAt": "2014-11-24T17:54:23.000Z",
+  "publishedTimestamp": 1416851663,
+  "views": 44331,
+  "likes": 166,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Ms2SDc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

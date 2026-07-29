@@ -1,0 +1,65 @@
+{
+  "id": "DtBGWW",
+  "name": "Rough Seas Porthole",
+  "author": "Dave_Hoskins",
+  "description": "Used my Rough Seas shader and added a cabin porthole, underwater effects, foam and distortion.\nIncludes GPU Audio - rewind ⏪ the shader if it's not playing.\nThe light dims when underwater, to give the impression of other portholes.\n",
+  "tags": [
+    "3d",
+    "waves",
+    "raymarch",
+    "sound",
+    "sea",
+    "water",
+    "ocean",
+    "foam",
+    "rough",
+    "spray",
+    "porthole"
+  ],
+  "publishedAt": "2023-01-11T20:13:13.000Z",
+  "publishedTimestamp": 1673467993,
+  "views": 2540,
+  "likes": 121,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/DtBGWW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsfGRn",
+          "filepath": "/media/a/1f7dca9c22f324751f2a5a59c9b181dfe3b5564a04b724c657732d0bf09c99db.jpg",
+          "previewfilepath": "/media/ap/1f7dca9c22f324751f2a5a59c9b181dfe3b5564a04b724c657732d0bf09c99db.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

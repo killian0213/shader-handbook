@@ -1,0 +1,33 @@
+{
+  "id": "ltyGRD",
+  "name": "Animated Marching Visualization",
+  "author": "lara",
+  "description": "Choose an angle with the mouse and reset the time.\nOne step takes 2 seconds.\n\nThere is also an instantaneous and coloured visualization by [url=https://www.shadertoy.com/user/paniq]paniq[/url]: [url=https://www.shadertoy.com/view/lslXD8]lslXD8[/url]",
+  "tags": [
+    "raymarching",
+    "visualization"
+  ],
+  "publishedAt": "2016-09-10T01:13:32.000Z",
+  "publishedTimestamp": 1473470012,
+  "views": 14737,
+  "likes": 67,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltyGRD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

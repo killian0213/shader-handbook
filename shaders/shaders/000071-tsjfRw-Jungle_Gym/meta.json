@@ -1,0 +1,32 @@
+{
+  "id": "tsjfRw",
+  "name": "Jungle Gym",
+  "author": "blackle",
+  "description": "domain repetition with a twist: some of the domains are empty!",
+  "tags": [
+    "sdf"
+  ],
+  "publishedAt": "2020-05-17T22:24:19.000Z",
+  "publishedTimestamp": 1589754259,
+  "views": 1389,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tsjfRw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

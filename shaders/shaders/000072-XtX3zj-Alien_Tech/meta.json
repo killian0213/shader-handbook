@@ -1,0 +1,33 @@
+{
+  "id": "XtX3zj",
+  "name": "Alien Tech",
+  "author": "Kali",
+  "description": "Someone at Fractal Forums suggested that the word \\\"alien\\\" should be banned from fractal art, but I couldn\\'t resist :).  No rays, just light shading from normals, plane distortion and orbit trap for the yellow lights (and 3x antialiasing)",
+  "tags": [
+    "2d",
+    "3d"
+  ],
+  "publishedAt": "2013-09-19T19:57:20.000Z",
+  "publishedTimestamp": 1379620640,
+  "views": 4093,
+  "likes": 72,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtX3zj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

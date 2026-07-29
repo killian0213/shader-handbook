@@ -1,0 +1,36 @@
+{
+  "id": "MdfBzl",
+  "name": "ice and fire",
+  "author": "mattz",
+  "description": "I've been seeing lots of trendy triangle-based backgrounds and wallpapers over the past 2 years, and I never saw a Shadertoy version, so here's my take. Next step: terrain marching a similar pattern...",
+  "tags": [
+    "2d",
+    "triangles",
+    "soothing",
+    "triangulation",
+    "fakedelaunay"
+  ],
+  "publishedAt": "2017-06-15T18:07:49.000Z",
+  "publishedTimestamp": 1497550069,
+  "views": 13535,
+  "likes": 174,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdfBzl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

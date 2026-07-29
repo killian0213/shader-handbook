@@ -1,0 +1,45 @@
+{
+  "id": "lXlyRn",
+  "name": "Faux Spiral Lattice",
+  "author": "Shane",
+  "description": "Using a triangle grid and a Mobius spiral transformation to create an impossible geometry style faux 3D lattice.",
+  "tags": [
+    "grid",
+    "triangle",
+    "spiral",
+    "mobius",
+    "geometry",
+    "lattice",
+    "impossible"
+  ],
+  "publishedAt": "2024-10-04T14:38:02.000Z",
+  "publishedTimestamp": 1728052682,
+  "views": 852,
+  "likes": 82,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lXlyRn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

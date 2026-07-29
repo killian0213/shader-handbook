@@ -1,0 +1,37 @@
+{
+  "id": "wtXfRH",
+  "name": "Bandlimited Synthesis 2",
+  "author": "iq",
+  "description": "A way to prevent aliasing of cosine functions (the color palette in this case) by analytically integrating them. Move the mouse to compare naive versus filtered cos(x). More info [url]https://iquilezles.org/articles/bandlimiting/bandlimiting.htm[/url]",
+  "tags": [
+    "2d",
+    "cos",
+    "filtering",
+    "lod",
+    "frequency",
+    "bandlimited"
+  ],
+  "publishedAt": "2020-07-28T20:43:02.000Z",
+  "publishedTimestamp": 1595968982,
+  "views": 4371,
+  "likes": 103,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wtXfRH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

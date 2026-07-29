@@ -1,0 +1,38 @@
+{
+  "id": "XtfyDX",
+  "name": "Square Truchet Flow",
+  "author": "Shane",
+  "description": "Animating some flow lines on a square Truchet pattern.",
+  "tags": [
+    "animation",
+    "square",
+    "truchet",
+    "flow",
+    "pattern",
+    "polar",
+    "tile"
+  ],
+  "publishedAt": "2017-09-28T13:48:46.000Z",
+  "publishedTimestamp": 1506606526,
+  "views": 2603,
+  "likes": 88,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtfyDX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ll3GRM",
+  "name": "Rounded Voronoi Borders",
+  "author": "Shane",
+  "description": "Just playing around with one of the many interesting snippets that Fabrice Neyret has magically managed to conjure up. :)",
+  "tags": [
+    "voronoi",
+    "bump",
+    "cell",
+    "border",
+    "trabeculae"
+  ],
+  "publishedAt": "2016-09-03T06:39:56.000Z",
+  "publishedTimestamp": 1472884796,
+  "views": 8301,
+  "likes": 163,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ll3GRM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "llfyW7",
+  "name": "Mushroom Cloud",
+  "author": "TekF",
+  "description": "More experiments with smoke animation.",
+  "tags": [
+    "raymarching",
+    "volumetric",
+    "flowmapping"
+  ],
+  "publishedAt": "2017-09-10T19:05:05.000Z",
+  "publishedTimestamp": 1505070305,
+  "views": 3729,
+  "likes": 73,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llfyW7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sfGRr",
+          "filepath": "/media/a/27012b4eadd0c3ce12498b867058e4f717ce79e10a99568cca461682d84a4b04.bin",
+          "previewfilepath": "/media/ap/27012b4eadd0c3ce12498b867058e4f717ce79e10a99568cca461682d84a4b04.bin",
+          "type": "volume",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

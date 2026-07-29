@@ -1,0 +1,36 @@
+{
+  "id": "3XXSDB",
+  "name": "Angel [305]",
+  "author": "Xor",
+  "description": "An experiment based on my [url=https://www.shadertoy.com/view/3XXSWS]\"3D Fire\"[/url]\n",
+  "tags": [
+    "fire",
+    "glow",
+    "twist",
+    "tornado",
+    "golf"
+  ],
+  "publishedAt": "2025-04-23T18:41:24.000Z",
+  "publishedTimestamp": 1745433684,
+  "views": 1808,
+  "likes": 96,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3XXSDB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

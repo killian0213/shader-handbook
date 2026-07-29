@@ -1,0 +1,44 @@
+{
+  "id": "4tX3Rj",
+  "name": "Britney's Spaceship",
+  "author": "Kali",
+  "description": "Amazing Surface fractal in space + Britney Spears. Kind of surreal mess. Mouse enabled.",
+  "tags": [
+    "raymarching",
+    "fractal"
+  ],
+  "publishedAt": "2015-02-06T00:37:34.000Z",
+  "publishedTimestamp": 1423183054,
+  "views": 5777,
+  "likes": 139,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tX3Rj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xdf3Rn",
+          "filepath": "/media/a/e81e818ac76a8983d746784b423178ee9f6cdcdf7f8e8d719341a6fe2d2ab303.webm",
+          "previewfilepath": "/media/ap/e81e818ac76a8983d746784b423178ee9f6cdcdf7f8e8d719341a6fe2d2ab303.webm",
+          "type": "video",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

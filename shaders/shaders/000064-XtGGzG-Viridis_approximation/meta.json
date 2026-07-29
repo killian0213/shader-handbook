@@ -1,0 +1,37 @@
+{
+  "id": "XtGGzG",
+  "name": "Viridis approximation",
+  "author": "blackjero",
+  "description": "Applied polynomial regression to viridis color palettes (for heatmaps, data visualization etc) so I could use them in shaders without lut. Please check the the links in code for credits and reference material.",
+  "tags": [
+    "color",
+    "palette",
+    "polynomial",
+    "heatmap",
+    "viridis",
+    "regression"
+  ],
+  "publishedAt": "2016-09-28T12:57:07.000Z",
+  "publishedTimestamp": 1475067427,
+  "views": 4085,
+  "likes": 64,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtGGzG",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

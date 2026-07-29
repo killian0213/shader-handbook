@@ -1,0 +1,49 @@
+{
+  "id": "4t2cR1",
+  "name": "♫ Sailing Beyond - Hyper Tunnel",
+  "author": "patu",
+  "description": "This is the aggressive version of tunnel from my PC intro \"Sailing Beyond\".\nMusic used here is \"Xara\" by Effect (https://soundcloud.com/neurofunksocietyofpoland/effect-xara-clip)\n",
+  "tags": [
+    "tunnel",
+    "demoscene"
+  ],
+  "publishedAt": "2019-04-08T19:13:10.000Z",
+  "publishedTimestamp": 1554750790,
+  "views": 18280,
+  "likes": 183,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4t2cR1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "llf3D7",
+          "filepath": "https://soundcloud.com/neurofunksocietyofpoland/effect-xara-clip",
+          "previewfilepath": "https://soundcloud.com/neurofunksocietyofpoland/effect-xara-clip",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

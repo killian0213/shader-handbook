@@ -1,0 +1,40 @@
+{
+  "id": "mtyGWy",
+  "name": "Shader Art Coding Introduction",
+  "author": "kishimisu",
+  "description": "[url]https://youtu.be/f4s1h2YETNY[/url]",
+  "tags": [
+    "fractal",
+    "sdf",
+    "tutorial",
+    "intro",
+    "repetition",
+    "code",
+    "youtube",
+    "tuto",
+    "creative"
+  ],
+  "publishedAt": "2023-05-20T08:49:00.000Z",
+  "publishedTimestamp": 1684572540,
+  "views": 169032,
+  "likes": 1063,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/mtyGWy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

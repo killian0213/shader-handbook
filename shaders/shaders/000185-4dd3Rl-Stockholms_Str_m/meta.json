@@ -1,0 +1,34 @@
+{
+  "id": "4dd3Rl",
+  "name": "Stockholms Ström",
+  "author": "trapcode",
+  "description": "Attempt to recreate the water in Stockholms Ström (\"ström\" means current - it's a chaotic patch of water)",
+  "tags": [
+    "fractal",
+    "noise",
+    "water"
+  ],
+  "publishedAt": "2016-01-02T21:47:21.000Z",
+  "publishedTimestamp": 1451771241,
+  "views": 16993,
+  "likes": 185,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 1,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dd3Rl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

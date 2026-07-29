@@ -1,0 +1,33 @@
+{
+  "id": "MsGczV",
+  "name": "Planetary gears",
+  "author": "AntoineC",
+  "description": "Simple animation using a gear polar function discovered mostly by chance. ",
+  "tags": [
+    "2d",
+    "gear"
+  ],
+  "publishedAt": "2018-04-02T13:49:07.000Z",
+  "publishedTimestamp": 1522676947,
+  "views": 16594,
+  "likes": 152,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsGczV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

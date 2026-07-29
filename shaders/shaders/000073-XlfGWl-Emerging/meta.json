@@ -1,0 +1,28 @@
+{
+  "id": "XlfGWl",
+  "name": "Emerging",
+  "author": "Kali",
+  "description": "An emerging fractal tower. You can use the mouse. Or not.",
+  "tags": [
+    "fractal",
+    "tower"
+  ],
+  "publishedAt": "2015-03-10T10:17:43.000Z",
+  "publishedTimestamp": 1425982663,
+  "views": 2190,
+  "likes": 73,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlfGWl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

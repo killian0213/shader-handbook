@@ -1,0 +1,103 @@
+{
+  "id": "lldyWn",
+  "name": "[SH18] BabyToy",
+  "author": "BigWIngs",
+  "description": "My entry for the 2018 ShaderToy competition. Mouse X&Y = rotate & light See comments for details.",
+  "tags": [
+    "baby",
+    "human",
+    "boy",
+    "sh18",
+    "fetus",
+    "womb"
+  ],
+  "publishedAt": "2018-08-08T03:00:41.000Z",
+  "publishedTimestamp": 1533697241,
+  "views": 6133,
+  "likes": 149,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 96,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lldyWn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "Ms2SWy",
+          "filepath": "https://soundcloud.com/thyveils/mountain-and-cloud",
+          "previewfilepath": "https://soundcloud.com/thyveils/mountain-and-cloud",
+          "type": "musicstream",
+          "channel": 2,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "WsffRS",
+  "name": "Artifact at Sea",
+  "author": "samlo",
+  "description": "Wrote this piece on and off over the past two weeks to get back into raymarching :) Water inspired by the sum of sines method in Very fast procedural ocean by afl_ex. It has some continuity bugs, but I'm quite pleased with the result 🌊\n",
+  "tags": [
+    "raymarch",
+    "sdf",
+    "water",
+    "ocean",
+    "glow",
+    "night"
+  ],
+  "publishedAt": "2020-05-02T17:49:52.000Z",
+  "publishedTimestamp": 1588441792,
+  "views": 3161,
+  "likes": 108,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WsffRS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "ltXSDB",
+  "name": "Bezier - Signed Distance",
+  "author": "ajs15822",
+  "description": "Analytical signed distance to a quadratic bezier curve. Click and drag to move the center control point.",
+  "tags": [
+    "2d",
+    "bezier",
+    "distance"
+  ],
+  "publishedAt": "2015-08-12T01:02:02.000Z",
+  "publishedTimestamp": 1439341322,
+  "views": 18175,
+  "likes": 166,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltXSDB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

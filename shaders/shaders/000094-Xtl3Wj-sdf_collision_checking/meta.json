@@ -1,0 +1,30 @@
+{
+  "id": "Xtl3Wj",
+  "name": "sdf collision checking",
+  "author": "mattz",
+  "description": "Playing with ideas for collision checking. Background cycles through 3 different signed distance fields: dist to A, dist to B, and max(dA, dB) Note max(dA,dB) is only negative when shapes collide. Black dots are closest features on shapes and min of max.",
+  "tags": [
+    "sdf",
+    "distance",
+    "field",
+    "signed"
+  ],
+  "publishedAt": "2015-03-18T21:54:39.000Z",
+  "publishedTimestamp": 1426715679,
+  "views": 5828,
+  "likes": 94,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xtl3Wj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

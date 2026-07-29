@@ -1,0 +1,50 @@
+{
+  "id": "XdtGDj",
+  "name": "Diamond test",
+  "author": "TambakoJaguar",
+  "description": "I tried to simulate a diamond with brilliant cut. Use the mouse to rotate it\nYou can increase the max number of total reflections (line 38), enable color dispersion (line 35) or enable antialiasing (line 54), but be careful!\nComments&help welcome as usual",
+  "tags": [
+    "raymarching",
+    "sphere",
+    "facets"
+  ],
+  "publishedAt": "2016-01-13T23:02:29.000Z",
+  "publishedTimestamp": 1452726149,
+  "views": 8279,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdtGDj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdX3zn",
+          "filepath": "/media/a/488bd40303a2e2b9a71987e48c66ef41f5e937174bf316d3ed0e86410784b919.jpg",
+          "previewfilepath": "/media/ap/488bd40303a2e2b9a71987e48c66ef41f5e937174bf316d3ed0e86410784b919.jpg",
+          "type": "cubemap",
+          "channel": 2,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "7stGRj",
+  "name": "Dune (Sand Worm)",
+  "author": "dean_the_coder",
+  "description": "Anyone else looking forward to the new Dune movie?\nThe cycle lasts 30 seconds, if you can wait that long.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "dune",
+    "movie",
+    "cineshader"
+  ],
+  "publishedAt": "2021-08-29T13:58:39.000Z",
+  "publishedTimestamp": 1630245519,
+  "views": 11181,
+  "likes": 61,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 1,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7stGRj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

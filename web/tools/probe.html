@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>probe</title></head>
+<body>
+<div id="out">running…</div>
+<script src="../js/md.js"></script>
+<script src="../js/glsl-lib.js"></script>
+<script src="../js/runtime.js"></script>
+<script>
+var lines = [];
+function log(s) { lines.push(s); document.getElementById('out').textContent = lines.join('\n'); }
+try {
+  var c = document.createElement('canvas');
+  var gl = c.getContext('webgl2');
+  log('webgl2: ' + (gl ? 'YES ' + gl.getParameter(gl.VERSION) : 'NO'));
+  log('Runtime.supported: ' + Runtime.supported());
+  log('IntersectionObserver: ' + (typeof IntersectionObserver));
+
+  var code = 'float sdCircle(vec2 p, float r)\n{\n    return length(p) - r;\n}';
+  var plan = GLSLLib.plan(code, '', null);
+  log('plan.kind: ' + plan.kind + '  picked: ' + plan.picked);
+  var r = Runtime.compile(plan.candidates[0].src);
+  log('compile: ' + (r.ok ? 'OK' : 'FAIL ' + r.log));
+
+  var frag = 'float d = length(uv) - 0.4;\ncol = vec3(smoothstep(0.01, 0.0, d));';
+  var p2 = GLSLLib.plan(frag, 'glsl-frag', null);
+  var r2 = Runtime.compile(p2.candidates[0].src);
+  log('fragment compile: ' + (r2.ok ? 'OK' : 'FAIL ' + r2.log));
+
+  // Draw a frame and read back a pixel to prove the blit path works.
+  var target = document.createElement('canvas');
+  target.width = 120; target.height = 80;
+  target.style.width = '120px'; target.style.height = '80px';
+  document.body.appendChild(target);
+  var pl = new Runtime.Player(target);
+  var s = pl.setSource(plan.candidates[0].src, code);
+  log('player.setSource: ' + (s.ok ? 'OK' : 'FAIL ' + s.log));
+  pl.visible = true; pl.play();
+  pl.render(0.016);
+  var px = target.getContext('2d').getImageData(60, 40, 1, 1).data;
+  log('center pixel: ' + px[0] + ',' + px[1] + ',' + px[2]);
+  var corner = target.getContext('2d').getImageData(3, 3, 1, 1).data;
+  log('corner pixel: ' + corner[0] + ',' + corner[1] + ',' + corner[2]);
+} catch (e) {
+  log('EXCEPTION: ' + e.message + '\n' + e.stack);
+}
+</script>
+</body></html>

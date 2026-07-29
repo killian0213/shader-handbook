@@ -1,0 +1,33 @@
+{
+  "id": "XlKSDR",
+  "name": "Physically-based SDF",
+  "author": "romainguy",
+  "description": "Signed distance fields, SH-indirect lighting, Cook-Torrance specular BRDF (GGX NDF/Height-correlated Smith visibility term/Schlick Fresnel), Burley diffuse BRDF (\"Disney\"), approximated ACES tone-mapping, fog",
+  "tags": [
+    "sdf",
+    "pbr"
+  ],
+  "publishedAt": "2017-01-08T06:06:59.000Z",
+  "publishedTimestamp": 1483855619,
+  "views": 14797,
+  "likes": 218,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlKSDR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

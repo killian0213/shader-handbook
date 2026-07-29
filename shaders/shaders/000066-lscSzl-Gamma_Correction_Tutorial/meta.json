@@ -1,0 +1,34 @@
+{
+  "id": "lscSzl",
+  "name": "Gamma Correction Tutorial",
+  "author": "finalman",
+  "description": "Right part of screen is correctly converted to sRGB before outputting and left part is not. More info at the top of the shader.",
+  "tags": [
+    "tutorial",
+    "gamma",
+    "srgb"
+  ],
+  "publishedAt": "2016-04-16T17:12:40.000Z",
+  "publishedTimestamp": 1460826760,
+  "views": 7581,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lscSzl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

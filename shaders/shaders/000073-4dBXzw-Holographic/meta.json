@@ -1,0 +1,51 @@
+{
+  "id": "4dBXzw",
+  "name": "Holographic",
+  "author": "TDM",
+  "description": "Inspired by Johnny Lee VR work. 3D effect on flat surface.",
+  "tags": [
+    "projection",
+    "table",
+    "holographic",
+    "kinect"
+  ],
+  "publishedAt": "2014-09-10T13:54:36.000Z",
+  "publishedTimestamp": 1410357276,
+  "views": 3951,
+  "likes": 73,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dBXzw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsX3Rn",
+          "filepath": "/media/a/92d7758c402f0927011ca8d0a7e40251439fba3a1dac26f5b8b62026323501aa.jpg",
+          "previewfilepath": "/media/ap/92d7758c402f0927011ca8d0a7e40251439fba3a1dac26f5b8b62026323501aa.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

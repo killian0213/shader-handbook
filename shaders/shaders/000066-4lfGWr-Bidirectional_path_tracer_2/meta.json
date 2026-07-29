@@ -1,0 +1,36 @@
+{
+  "id": "4lfGWr",
+  "name": "Bidirectional path tracer 2",
+  "author": "reinder",
+  "description": "My second try of creating a bidirectional path tracer. I really should read those articles :( (all weights of the paths are guessed)\nThe shader shows a scene with indirect lighting, using a bidirectional path tracer and a classical path tracer.",
+  "tags": [
+    "lighting",
+    "indirect",
+    "tracer",
+    "path",
+    "bidirectional"
+  ],
+  "publishedAt": "2015-01-06T16:50:49.000Z",
+  "publishedTimestamp": 1420563049,
+  "views": 10606,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4lfGWr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

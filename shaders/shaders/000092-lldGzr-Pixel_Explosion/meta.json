@@ -1,0 +1,34 @@
+{
+  "id": "lldGzr",
+  "name": "Pixel Explosion",
+  "author": "Leukbaars",
+  "description": "improved version of my fireworks. Better spread, added gravity and flicker\nTo be used as retro effect shader.\n",
+  "tags": [
+    "explosion",
+    "pixel",
+    "fireworks"
+  ],
+  "publishedAt": "2016-07-06T04:39:09.000Z",
+  "publishedTimestamp": 1467779949,
+  "views": 4237,
+  "likes": 92,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lldGzr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

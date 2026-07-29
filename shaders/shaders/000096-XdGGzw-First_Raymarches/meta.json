@@ -1,0 +1,33 @@
+{
+  "id": "XdGGzw",
+  "name": "First Raymarches",
+  "author": "cacheflowe",
+  "description": "My first real attempt at drawing with raymarching functions. Thanks to everybody who helps beginners like me understand this stuff :)",
+  "tags": [
+    "raymarching",
+    "hexagons"
+  ],
+  "publishedAt": "2016-01-24T02:33:57.000Z",
+  "publishedTimestamp": 1453602837,
+  "views": 12242,
+  "likes": 96,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdGGzw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

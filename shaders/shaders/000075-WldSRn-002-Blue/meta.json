@@ -1,0 +1,32 @@
+{
+  "id": "WldSRn",
+  "name": "002-Blue",
+  "author": "haquxx",
+  "description": "Raymarching",
+  "tags": [
+    "cineshader"
+  ],
+  "publishedAt": "2020-01-29T09:04:22.000Z",
+  "publishedTimestamp": 1580288662,
+  "views": 65656,
+  "likes": 75,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WldSRn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

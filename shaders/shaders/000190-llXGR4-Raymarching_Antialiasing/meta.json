@@ -1,0 +1,38 @@
+{
+  "id": "llXGR4",
+  "name": "Raymarching Antialiasing",
+  "author": "iq",
+  "description": "More worms like in [url=https://www.shadertoy.com/view/XsjXR1]XsjXR1[/url], but edge-antialiased (more or less)",
+  "tags": [
+    "procedural",
+    "3d",
+    "raymarching",
+    "distancefield",
+    "antialiasing",
+    "antialias",
+    "conetracing"
+  ],
+  "publishedAt": "2014-12-19T07:50:38.000Z",
+  "publishedTimestamp": 1418975438,
+  "views": 18727,
+  "likes": 190,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llXGR4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

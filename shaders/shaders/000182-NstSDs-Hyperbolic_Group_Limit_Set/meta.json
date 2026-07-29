@@ -1,0 +1,35 @@
+{
+  "id": "NstSDs",
+  "name": "Hyperbolic Group Limit Set",
+  "author": "neozhaoliang",
+  "description": "old version of https://www.shadertoy.com/view/WdGBz3",
+  "tags": [
+    "3d",
+    "tiling",
+    "hyperbolic",
+    "limitset"
+  ],
+  "publishedAt": "2021-10-14T01:51:18.000Z",
+  "publishedTimestamp": 1634176278,
+  "views": 6480,
+  "likes": 182,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/NstSDs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

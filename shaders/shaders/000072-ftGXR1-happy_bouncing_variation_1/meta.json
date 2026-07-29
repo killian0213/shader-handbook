@@ -1,0 +1,40 @@
+{
+  "id": "ftGXR1",
+  "name": "happy bouncing variation 1",
+  "author": "leon",
+  "description": "shader about boucing animation, space transformation, easing functions, funny shape and colorful vibes.",
+  "tags": [
+    "colorful",
+    "animation"
+  ],
+  "publishedAt": "2021-12-22T00:23:35.000Z",
+  "publishedTimestamp": 1640132615,
+  "views": 4745,
+  "likes": 72,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ftGXR1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

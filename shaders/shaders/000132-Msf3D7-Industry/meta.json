@@ -1,0 +1,30 @@
+{
+  "id": "Msf3D7",
+  "name": "Industry",
+  "author": "srtuss",
+  "description": "Beeing creative in 2D. :)",
+  "tags": [
+    "2d",
+    "voronoi",
+    "mechanic",
+    "technology"
+  ],
+  "publishedAt": "2013-07-06T11:52:00.000Z",
+  "publishedTimestamp": 1373111520,
+  "views": 4422,
+  "likes": 132,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Msf3D7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

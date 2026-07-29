@@ -1,0 +1,50 @@
+{
+  "id": "DlVcW1",
+  "name": "Smooth-minimum Bounds",
+  "author": "iq",
+  "description": "Analytical bounding volumes expansion (blue) of primitive SDFs so that they can perfectly bound their smooth-union (white). Red background where the the smooth-union is imperfect. Only \"Circular\" has local support at the expense of breaking ramyarchers.",
+  "tags": [
+    "2d",
+    "sdf",
+    "smin"
+  ],
+  "publishedAt": "2024-01-18T22:36:42.000Z",
+  "publishedTimestamp": 1705617402,
+  "views": 4302,
+  "likes": 60,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/DlVcW1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzr",
+          "filepath": "/media/a/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "previewfilepath": "/media/ap/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

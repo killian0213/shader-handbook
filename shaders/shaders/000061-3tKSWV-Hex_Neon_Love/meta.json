@@ -1,0 +1,38 @@
+{
+  "id": "3tKSWV",
+  "name": "Hex Neon Love",
+  "author": "tutmann",
+  "description": "Mix of https://www.shadertoy.com/view/WdK3Dz and https://www.shadertoy.com/view/wtdSzX",
+  "tags": [
+    "2d",
+    "bezier",
+    "heart",
+    "glow",
+    "curve",
+    "neon",
+    "hexagonalgrid"
+  ],
+  "publishedAt": "2020-03-07T23:18:08.000Z",
+  "publishedTimestamp": 1583623088,
+  "views": 2447,
+  "likes": 61,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3tKSWV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

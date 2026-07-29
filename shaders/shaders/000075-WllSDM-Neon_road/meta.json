@@ -1,0 +1,35 @@
+{
+  "id": "WllSDM",
+  "name": "Neon road",
+  "author": "kaneta",
+  "description": "inspired by https://www.reddit.com/r/IndieDev/comments/9wpia9/speed_boosts_breaking_space_time/",
+  "tags": [
+    "3d",
+    "volume",
+    "raymarch",
+    "glow"
+  ],
+  "publishedAt": "2019-07-15T16:00:17.000Z",
+  "publishedTimestamp": 1563206417,
+  "views": 5269,
+  "likes": 75,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WllSDM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

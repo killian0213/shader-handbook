@@ -1,0 +1,49 @@
+{
+  "id": "mlBSWc",
+  "name": "Colorful underwater bubbles II",
+  "author": "mrange",
+  "description": "CCO: Colorful underwater bubbles II\nRecoloring of earlier shader + spherical shading\n",
+  "tags": [
+    "2d",
+    "bubbles"
+  ],
+  "publishedAt": "2023-02-17T21:03:59.000Z",
+  "publishedTimestamp": 1676667839,
+  "views": 16567,
+  "likes": 97,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/mlBSWc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4ljSW3",
+          "filepath": "https://soundcloud.com/carbonbasedlifeforms/photosynthesis?si=bee7218328e849c29c9e6564e2de9c2d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "previewfilepath": "https://soundcloud.com/carbonbasedlifeforms/photosynthesis?si=bee7218328e849c29c9e6564e2de9c2d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

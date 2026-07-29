@@ -1,0 +1,69 @@
+{
+  "id": "lsl3W2",
+  "name": "Julia - Quaternion 2",
+  "author": "iq",
+  "description": "A cubic Julia set f(z) = z^3 + c, in quaternion space. I used the regular Hubbard-Douady potential based distance estimator d(z) = 0.5·log|z|·|z|/|dz| for the marcher, orbit traps for coloring, and a compact way to rise a quaterion to the cube power.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "fractal",
+    "julia",
+    "distance",
+    "quaternion",
+    "cubic"
+  ],
+  "publishedAt": "2013-09-24T01:34:11.000Z",
+  "publishedTimestamp": 1379986451,
+  "views": 10273,
+  "likes": 78,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsl3W2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdX3zn",
+          "filepath": "/media/a/488bd40303a2e2b9a71987e48c66ef41f5e937174bf316d3ed0e86410784b919.jpg",
+          "previewfilepath": "/media/ap/488bd40303a2e2b9a71987e48c66ef41f5e937174bf316d3ed0e86410784b919.jpg",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

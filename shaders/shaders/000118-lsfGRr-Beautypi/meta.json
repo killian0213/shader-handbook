@@ -1,0 +1,34 @@
+{
+  "id": "lsfGRr",
+  "name": "Beautypi",
+  "author": "iq",
+  "description": "The logo of Beautypi :)\n\nYou can see the steps on the creation process here: https://www.youtube.com/watch?v=emjuqqyq_qc",
+  "tags": [
+    "procedural",
+    "2d",
+    "eye"
+  ],
+  "publishedAt": "2013-02-10T04:50:12.000Z",
+  "publishedTimestamp": 1360471812,
+  "views": 8487,
+  "likes": 118,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsfGRr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

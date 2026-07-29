@@ -1,0 +1,41 @@
+// Buffer C (buffer) — Everything's A Caustic by wyatt
+// https://www.shadertoy.com/view/WdBGDm
+
+vec2 R;
+#define D 5
+float ln (vec3 p, vec3 a, vec3 b) {return length(p-a-(b-a)*dot(p-a,b-a)/dot(b-a,b-a));}
+vec4 A (vec2 U) {return texture(iChannel0,U/R);}
+vec4 B (vec2 U) {return texture(iChannel1,U/R);}
+vec4 C (vec2 U) {return texture(iChannel2,U/R);}
+float dI (vec2 U, vec3 me, vec3 light, float mu) {
+	vec3 r = vec3(U,100);
+   	vec3 n = normalize(vec3(B(r.xy).zw,mu));
+    vec3 li = reflect((r-light),n);
+    float len = ln(me,r,li);
+    return 2.5*exp(-1.7*len);
+}
+float I (vec2 U, vec3 me, vec3 light, float mu) {
+	float intensity = 0.;
+    
+    for (int x = -D; x <= D; x++)
+    for (int y = -D; y <= D; y++)
+	intensity += dI(U+vec2(x,y),me,light,0.1*mu);
+    return intensity;
+}
+vec3 S (vec2 U, vec3 me, vec3 light, float mu) {
+    return I (U,me,light,mu)*vec3(exp(-(mu-0.5)*(mu-0.5)),exp(-(mu-1.0)*(mu-1.0)),exp(-(mu-1.4)*(mu-1.4)));
+}
+void mainImage( out vec4 Q, in vec2 U)
+{
+   	R = iResolution.xy;
+    vec3 light = vec3(0.5*R,1e5);
+    vec3 me    = vec3(U,0);
+
+    vec3 c = vec3(0);
+    for (float mu = .4; mu <= 1.6; mu+=.4) 
+        c += S(U,me,light,mu);
+   	Q = vec4(0.03*c,1);
+    if (R.x >= 800.) Q = mix(Q,C(U),.5);
+    
+	
+}

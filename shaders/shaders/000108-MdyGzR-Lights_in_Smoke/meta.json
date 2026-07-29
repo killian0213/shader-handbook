@@ -1,0 +1,30 @@
+{
+  "id": "MdyGzR",
+  "name": "Lights in Smoke",
+  "author": "ehj1",
+  "description": "Glowing balls of light illuminating smoke.",
+  "tags": [
+    "clouds",
+    "glow",
+    "smoke",
+    "lights"
+  ],
+  "publishedAt": "2016-01-16T06:47:47.000Z",
+  "publishedTimestamp": 1452926867,
+  "views": 19651,
+  "likes": 108,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdyGzR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

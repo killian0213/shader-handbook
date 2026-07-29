@@ -1,0 +1,59 @@
+{
+  "id": "3tyGRz",
+  "name": "Marakami Galaxy",
+  "author": "PixelPhil",
+  "description": "Based on Takashi Murakami spherical flower balls, with a planetary twist.\nInvolves an elaborate sphere mapping to tile pattern with minimal distortion and analitical (non-SDF-based) ray casting.\n\nMusic : Flower Dance - DJ Okawari\n",
+  "tags": [
+    "sphere",
+    "flower",
+    "mapping",
+    "tracing",
+    "planets"
+  ],
+  "publishedAt": "2020-01-12T21:57:36.000Z",
+  "publishedTimestamp": 1578866256,
+  "views": 4673,
+  "likes": 75,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3tyGRz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "MlB3Rh",
+          "filepath": "https://soundcloud.com/nhan-y-doanh/flower-dance-dj-okawari",
+          "previewfilepath": "https://soundcloud.com/nhan-y-doanh/flower-dance-dj-okawari",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

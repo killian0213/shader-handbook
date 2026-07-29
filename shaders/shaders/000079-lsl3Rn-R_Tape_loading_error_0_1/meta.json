@@ -1,0 +1,45 @@
+{
+  "id": "lsl3Rn",
+  "name": "R Tape loading error, 0:1",
+  "author": "P_Malin",
+  "description": "ZX Spectrum loading sequence fragment shader",
+  "tags": [
+    "retro",
+    "spectrum"
+  ],
+  "publishedAt": "2013-02-25T20:54:50.000Z",
+  "publishedTimestamp": 1361825690,
+  "views": 9033,
+  "likes": 79,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsl3Rn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "XsfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

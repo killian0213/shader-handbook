@@ -1,0 +1,47 @@
+{
+  "id": "XlSSzV",
+  "name": "Another Cloudy Tunnel 2",
+  "author": "aiekick",
+  "description": "Variation more cloudy of my https://www.shadertoy.com/view/4lSXRK\nyou can modify cloudy precision with mouse y axis",
+  "tags": [
+    "3d",
+    "raymarching",
+    "tunnel",
+    "cloud",
+    "cloudy"
+  ],
+  "publishedAt": "2015-10-14T12:48:56.000Z",
+  "publishedTimestamp": 1444826936,
+  "views": 27057,
+  "likes": 139,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlSSzV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

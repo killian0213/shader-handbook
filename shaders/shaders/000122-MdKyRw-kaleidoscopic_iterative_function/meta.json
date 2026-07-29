@@ -1,0 +1,33 @@
+{
+  "id": "MdKyRw",
+  "name": "kaleidoscopic iterative function",
+  "author": "wyatt",
+  "description": "many thanks to iq and his tutorials ",
+  "tags": [
+    "raymarching",
+    "kifs"
+  ],
+  "publishedAt": "2018-03-19T21:09:02.000Z",
+  "publishedTimestamp": 1521493742,
+  "views": 7185,
+  "likes": 122,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdKyRw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

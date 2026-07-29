@@ -1,0 +1,53 @@
+{
+  "id": "MdXXW2",
+  "name": "sound - digital ambience",
+  "author": "srtuss",
+  "description": "i tried to rebuild the technique that creates the ambience sounds in my game project. it's based on additive synthesis. go ahead and \"listen\" to various textures :)",
+  "tags": [
+    "sound",
+    "additive",
+    "synthesis",
+    "creepy"
+  ],
+  "publishedAt": "2014-07-31T18:47:51.000Z",
+  "publishedTimestamp": 1406832471,
+  "views": 4584,
+  "likes": 104,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdXXW2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "sound",
+      "name": "",
+      "file": "sound.glsl",
+      "inputs": [
+        {
+          "id": "4dX3Rn",
+          "filepath": "/media/a/bd6464771e47eed832c5eb2cd85cdc0bfc697786b903bfd30f890f9d4fc36657.jpg",
+          "previewfilepath": "/media/ap/bd6464771e47eed832c5eb2cd85cdc0bfc697786b903bfd30f890f9d4fc36657.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

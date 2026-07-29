@@ -1,0 +1,37 @@
+{
+  "id": "XtBXDz",
+  "name": "Atmosphere system test",
+  "author": "valentingalea",
+  "description": "test of realistically modeling the atmosphere.\n\nuse mouse to switch perspective",
+  "tags": [
+    "sky",
+    "volumetric",
+    "scattering",
+    "atmosphere",
+    "rayleigh",
+    "mie"
+  ],
+  "publishedAt": "2015-09-27T15:25:33.000Z",
+  "publishedTimestamp": 1443367533,
+  "views": 23227,
+  "likes": 187,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtBXDz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

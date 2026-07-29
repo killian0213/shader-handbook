@@ -1,0 +1,34 @@
+{
+  "id": "lsB3zD",
+  "name": "Doom 2",
+  "author": "reinder",
+  "description": "Reconstructing the first level of Doom 2 in a shader. This is, just like my shader 'Wolfenstein' ([url]https://www.shadertoy.com/view/4sfGWX[/url]), an experiment to reconstruct some well-known textures in a textureless shader.",
+  "tags": [
+    "procedural",
+    "textures",
+    "doom2"
+  ],
+  "publishedAt": "2013-11-17T19:26:51.000Z",
+  "publishedTimestamp": 1384716411,
+  "views": 16861,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsB3zD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

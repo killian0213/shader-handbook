@@ -1,0 +1,33 @@
+{
+  "id": "DtBSRh",
+  "name": "Colorful star travelling",
+  "author": "mrange",
+  "description": "CC0: Colorful star travelling\nnspired by Xor's colorful tweet:\nhttps://twitter.com/XorDev/status/1621603585996775430?s=20&t=omyxMpuu2nELIw6_AEi72A\n",
+  "tags": [
+    "colors",
+    "stars"
+  ],
+  "publishedAt": "2023-02-05T19:40:55.000Z",
+  "publishedTimestamp": 1675626055,
+  "views": 2522,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/DtBSRh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

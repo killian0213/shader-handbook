@@ -1,0 +1,33 @@
+{
+  "id": "llsXD2",
+  "name": "Seascape Documented",
+  "author": "bteitler",
+  "description": " \"Seascape\" by Alexander Alekseev with added documentation by me (prefixed with \"bteitler\").  Meant to help myself learn and help others understand what's going on.  Original here:\nhttps://www.shadertoy.com/view/Ms2SD1",
+  "tags": [
+    "procedural",
+    "noise",
+    "waves",
+    "sea",
+    "water",
+    "learning",
+    "subsurface"
+  ],
+  "publishedAt": "2015-08-19T13:24:26.000Z",
+  "publishedTimestamp": 1439990666,
+  "views": 8480,
+  "likes": 105,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llsXD2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

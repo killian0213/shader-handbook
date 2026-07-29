@@ -1,0 +1,36 @@
+{
+  "id": "4scBWN",
+  "name": "Humanoid Silhouettes",
+  "author": "TekF",
+  "description": "Scaramouche, scaramouche, can you do the fandango?",
+  "tags": [
+    "2d",
+    "sdf",
+    "human",
+    "figure",
+    "people"
+  ],
+  "publishedAt": "2018-05-02T19:55:47.000Z",
+  "publishedTimestamp": 1525290947,
+  "views": 2692,
+  "likes": 62,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4scBWN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

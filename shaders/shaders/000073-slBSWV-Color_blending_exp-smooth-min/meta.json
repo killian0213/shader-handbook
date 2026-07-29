@@ -1,0 +1,37 @@
+{
+  "id": "slBSWV",
+  "name": "Color blending exp-smooth-min",
+  "author": "iq",
+  "description": "Shows one possible way to blend materials when using exponential-smooth-blend to merge SDF primitives together.",
+  "tags": [
+    "2d",
+    "sdf",
+    "smooth",
+    "smin",
+    "smoothmin",
+    "exponential"
+  ],
+  "publishedAt": "2021-08-10T19:13:52.000Z",
+  "publishedTimestamp": 1628622832,
+  "views": 2406,
+  "likes": 73,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/slBSWV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

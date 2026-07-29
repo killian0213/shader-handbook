@@ -1,0 +1,27 @@
+{
+  "id": "XlfGzH",
+  "name": "The evolution of motion",
+  "author": "xTr1m",
+  "description": "This is a prototype for the PC 8k \"The evolution of motion\" by Alcatraz, ranked 3rd at the Revision 2015 PC 8k compo.\nLink: http://www.pouet.net/prod.php?which=65381",
+  "tags": [
+    "prototype"
+  ],
+  "publishedAt": "2014-12-11T21:39:44.000Z",
+  "publishedTimestamp": 1418333984,
+  "views": 9128,
+  "likes": 76,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlfGzH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

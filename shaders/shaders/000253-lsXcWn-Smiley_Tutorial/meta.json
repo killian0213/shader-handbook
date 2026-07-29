@@ -1,0 +1,36 @@
+{
+  "id": "lsXcWn",
+  "name": "Smiley Tutorial",
+  "author": "BigWIngs",
+  "description": "This is a smiley I did as part of a tutorial on YouTube. Use the mouse to look around! Hope you like it!\n[url]https://www.youtube.com/watch?v=ZlNnrpM0TRg[/url]\n",
+  "tags": [
+    "2d",
+    "tutorial",
+    "cartoon",
+    "animated",
+    "smiley"
+  ],
+  "publishedAt": "2017-02-23T02:18:52.000Z",
+  "publishedTimestamp": 1487816332,
+  "views": 13562,
+  "likes": 253,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsXcWn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

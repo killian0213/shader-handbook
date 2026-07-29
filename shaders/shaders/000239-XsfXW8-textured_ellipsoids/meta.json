@@ -1,0 +1,50 @@
+{
+  "id": "XsfXW8",
+  "name": "textured ellipsoids",
+  "author": "FabriceNeyret2",
+  "description": "S: toggles sky  SPACE: decompos\n \nIn Siggraph'85, Gardner proposed a smart way to fake hypertextures with simple ellipsoids.\nThe secret is to have transparency (or the density noise) vanishing at silhouettes, i.e., view-dep (e.g. based on dot(N,Eye) ).",
+  "tags": [
+    "procedural",
+    "noise",
+    "cloud"
+  ],
+  "publishedAt": "2014-05-11T18:25:42.000Z",
+  "publishedTimestamp": 1399832742,
+  "views": 13573,
+  "likes": 239,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 16,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsfXW8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRr",
+          "filepath": "/presets/tex00.jpg",
+          "previewfilepath": "/presets/tex00.jpg",
+          "type": "keyboard",
+          "channel": 2,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

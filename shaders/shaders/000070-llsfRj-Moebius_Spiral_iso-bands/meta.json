@@ -1,0 +1,39 @@
+{
+  "id": "llsfRj",
+  "name": "Moebius Spiral iso-bands",
+  "author": "FabriceNeyret2",
+  "description": "Application of screenspace balanced isolines in procedural transforms\nLine #65: uncomment for round.\n\nIlusion: lines keeps undistorted despite the stretching. ;-)",
+  "tags": [
+    "spiral",
+    "mobius",
+    "illusion",
+    "complex",
+    "screenspace",
+    "tuto",
+    "weave",
+    "balanced"
+  ],
+  "publishedAt": "2017-12-06T09:03:39.000Z",
+  "publishedTimestamp": 1512551019,
+  "views": 2875,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llsfRj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

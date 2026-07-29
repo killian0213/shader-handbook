@@ -1,0 +1,37 @@
+{
+  "id": "WdVfRc",
+  "name": "M-O (from Wall-E)",
+  "author": "dean_the_coder",
+  "description": "Anyone remember 'M-O' from Pixar's 'Wall-E' movie?  Here's my tribute to that little chap.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "pixar",
+    "movie",
+    "cineshader",
+    "walle"
+  ],
+  "publishedAt": "2020-12-16T20:39:59.000Z",
+  "publishedTimestamp": 1608151199,
+  "views": 40679,
+  "likes": 161,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WdVfRc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "4sS3WV",
+  "name": "Infinite KIFS Zoom",
+  "author": "andyalias",
+  "description": "Infinite zoom into a Kaleidoscopic IFS fractal... Or is it?",
+  "tags": [
+    "zoom",
+    "kifs"
+  ],
+  "publishedAt": "2014-03-17T10:25:46.000Z",
+  "publishedTimestamp": 1395051946,
+  "views": 2956,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sS3WV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

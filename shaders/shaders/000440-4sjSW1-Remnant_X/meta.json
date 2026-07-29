@@ -1,0 +1,65 @@
+{
+  "id": "4sjSW1",
+  "name": "Remnant X",
+  "author": "Dave_Hoskins",
+  "description": "Binary subdivision finds the surface really well with this fractal. Two light sources with shadows, and near surface glows. MOUSE X TO TIME WARP",
+  "tags": [
+    "3d",
+    "fractal",
+    "raymarch",
+    "sound",
+    "music",
+    "remnant"
+  ],
+  "publishedAt": "2014-09-23T20:47:28.000Z",
+  "publishedTimestamp": 1411505248,
+  "views": 57633,
+  "likes": 440,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sjSW1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "XsfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

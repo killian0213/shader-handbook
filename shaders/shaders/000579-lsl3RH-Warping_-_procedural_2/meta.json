@@ -1,0 +1,29 @@
+{
+  "id": "lsl3RH",
+  "name": "Warping - procedural 2",
+  "author": "iq",
+  "description": "Warp. Tutorial here: https://iquilezles.org/articles/warp",
+  "tags": [
+    "procedural",
+    "2d",
+    "fbm"
+  ],
+  "publishedAt": "2013-04-10T17:42:27.000Z",
+  "publishedTimestamp": 1365615747,
+  "views": 230966,
+  "likes": 579,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsl3RH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

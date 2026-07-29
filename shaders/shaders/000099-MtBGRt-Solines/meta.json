@@ -1,0 +1,62 @@
+{
+  "id": "MtBGRt",
+  "name": "Solines",
+  "author": "poljere",
+  "description": "One more reactive shader in my little collection, in this case just playing around with color and simple shapes.\n * Yellow Manipus [url]https://www.shadertoy.com/view/ltB3RK[/url]\n * Twisted Rings [url]https://www.shadertoy.com/view/Xtj3DW[/url]",
+  "tags": [
+    "2d",
+    "sound",
+    "music",
+    "audio",
+    "microphone"
+  ],
+  "publishedAt": "2015-06-19T03:44:12.000Z",
+  "publishedTimestamp": 1434685452,
+  "views": 16989,
+  "likes": 99,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 4,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MtBGRt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XdXGRr",
+          "filepath": "/presets/mic.png",
+          "previewfilepath": "/presets/mic.png",
+          "type": "mic",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

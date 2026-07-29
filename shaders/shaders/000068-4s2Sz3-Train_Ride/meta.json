@@ -1,0 +1,34 @@
+{
+  "id": "4s2Sz3",
+  "name": "Train Ride",
+  "author": "dr2",
+  "description": "Take a long trip through the mountains and enjoy the view.",
+  "tags": [
+    "raymarching",
+    "landscape",
+    "railway"
+  ],
+  "publishedAt": "2014-10-27T12:13:52.000Z",
+  "publishedTimestamp": 1414412032,
+  "views": 9012,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4s2Sz3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

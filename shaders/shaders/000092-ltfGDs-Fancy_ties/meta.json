@@ -1,0 +1,36 @@
+{
+  "id": "ltfGDs",
+  "name": "Fancy ties",
+  "author": "nimitz",
+  "description": "Sorry about the flares, JJ made me do it.\nI feel it's missing sound now.. ",
+  "tags": [
+    "procedural",
+    "3d",
+    "raymarching",
+    "folding",
+    "flares"
+  ],
+  "publishedAt": "2015-04-08T01:12:11.000Z",
+  "publishedTimestamp": 1428455531,
+  "views": 15045,
+  "likes": 92,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltfGDs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "MdfXW2",
+  "name": "Music toolbox",
+  "author": "nimitz",
+  "description": "Playing with the new audio feature (make sure to turn your speakers on :) ).\n\nTrying to make composing straight in the shader more intuitive. Mostly based around the idea of a versatile sequencer which can be used for both modulating and sequencing.",
+  "tags": [
+    "music",
+    "audio",
+    "utility"
+  ],
+  "publishedAt": "2014-08-01T21:15:16.000Z",
+  "publishedTimestamp": 1406927716,
+  "views": 4569,
+  "likes": 94,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdfXW2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "XsfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

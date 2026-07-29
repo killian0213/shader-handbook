@@ -1,0 +1,54 @@
+{
+  "id": "ldjyzc",
+  "name": "Mountain Path",
+  "author": "Shane",
+  "description": "A path running through some dry rocky terrain. Rendered in a pseudo low-poly style.",
+  "tags": [
+    "raymarching",
+    "terrain",
+    "bump",
+    "cellular",
+    "lowpoly",
+    "path",
+    "stairs"
+  ],
+  "publishedAt": "2017-05-01T14:21:50.000Z",
+  "publishedTimestamp": 1493648510,
+  "views": 9352,
+  "likes": 84,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldjyzc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3Rr",
+          "filepath": "/media/a/79520a3d3a0f4d3caa440802ef4362e99d54e12b1392973e4ea321840970a88a.jpg",
+          "previewfilepath": "/media/ap/79520a3d3a0f4d3caa440802ef4362e99d54e12b1392973e4ea321840970a88a.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "wtf3RM",
+  "name": "ᴇ  s  ᴄ  ʜ  ᴇ  ʀ  ᴡ  ᴀ  ᴠ  ᴇ",
+  "author": "tdhooper",
+  "description": "4k exe graphics entry for Revision 2019.\n\nI was really struggling with modelling this until I had a look at [url=https://www.shadertoy.com/view/MltcDB]Ink Drawing[/url] by lnae. I also cheated a bit by 'tracing' a polygon model from Daz 3D.",
+  "tags": [
+    "escher",
+    "helix",
+    "vaporwave"
+  ],
+  "publishedAt": "2019-04-21T15:49:01.000Z",
+  "publishedTimestamp": 1555861741,
+  "views": 5355,
+  "likes": 141,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wtf3RM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buf A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

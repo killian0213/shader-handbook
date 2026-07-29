@@ -1,0 +1,83 @@
+{
+  "id": "XdSGDc",
+  "name": "Rainy London",
+  "author": "Dave_Hoskins",
+  "description": "Thanks to P_Malin for doing the model locations. I've re-used quite a lot of that code to start this, and added some furniture.\nUses rain sheets that catch the light sources, note the orange rain when near the bollard. Plus distance blurring of texture.",
+  "tags": [
+    "3d",
+    "raymarch",
+    "rain",
+    "rainylondon",
+    "soundcloud",
+    "raining"
+  ],
+  "publishedAt": "2014-03-06T16:52:08.000Z",
+  "publishedTimestamp": 1394124728,
+  "views": 14835,
+  "likes": 125,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdSGDc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dfGRn",
+          "filepath": "/media/a/8de3a3924cb95bd0e95a443fff0326c869f9d4979cd1d5b6e94e2a01f5be53e9.jpg",
+          "previewfilepath": "/media/ap/8de3a3924cb95bd0e95a443fff0326c869f9d4979cd1d5b6e94e2a01f5be53e9.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 3,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "Ms33DM",
+          "filepath": "https://soundcloud.com/j_lofi/rainy-night-in-london",
+          "previewfilepath": "https://soundcloud.com/j_lofi/rainy-night-in-london",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

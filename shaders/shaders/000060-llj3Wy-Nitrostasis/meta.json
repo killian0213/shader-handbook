@@ -1,0 +1,50 @@
+{
+  "id": "llj3Wy",
+  "name": "Nitrostasis",
+  "author": "otaviogood",
+  "description": "Ray marching some noise with a (1/distance) march count glow. I had to do a stochastic sampling look to get rid of banding from 1/distance, but I think it worked.",
+  "tags": [
+    "volume",
+    "clouds",
+    "fire"
+  ],
+  "publishedAt": "2015-05-22T06:49:26.000Z",
+  "publishedTimestamp": 1432277366,
+  "views": 8101,
+  "likes": 60,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llj3Wy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "ttKGDt",
+  "name": "Phantom Star for CineShader",
+  "author": "kasari39",
+  "description": "https://cineshader.com/view/ttKGDt",
+  "tags": [
+    "raymarching",
+    "ifs",
+    "phantommode"
+  ],
+  "publishedAt": "2020-01-28T13:52:56.000Z",
+  "publishedTimestamp": 1580219576,
+  "views": 391422,
+  "likes": 444,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ttKGDt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

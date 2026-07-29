@@ -1,0 +1,33 @@
+{
+  "id": "DsX3Rj",
+  "name": "Graphic Design Experiment 1",
+  "author": "yasuo",
+  "description": "Graphic Design Experiment 1",
+  "tags": [
+    "graphicdesign",
+    "cineshader"
+  ],
+  "publishedAt": "2022-10-21T16:26:52.000Z",
+  "publishedTimestamp": 1666369612,
+  "views": 5250,
+  "likes": 75,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/DsX3Rj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

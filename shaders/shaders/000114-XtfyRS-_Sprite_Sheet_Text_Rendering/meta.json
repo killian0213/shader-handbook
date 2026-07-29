@@ -1,0 +1,55 @@
+{
+  "id": "XtfyRS",
+  "name": "\"Sprite Sheet\" Text Rendering",
+  "author": "knarkowicz",
+  "description": "Example how to efficiently render large blocks of text.\nEncoder is available on GitHub: https://github.com/knarkowicz/ShadertoyText",
+  "tags": [
+    "example",
+    "tutorial",
+    "text",
+    "sprite",
+    "block",
+    "tile",
+    "encoding",
+    "sheet"
+  ],
+  "publishedAt": "2017-09-12T19:19:16.000Z",
+  "publishedTimestamp": 1505243956,
+  "views": 7080,
+  "likes": 114,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtfyRS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzr",
+          "filepath": "/media/a/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "previewfilepath": "/media/ap/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

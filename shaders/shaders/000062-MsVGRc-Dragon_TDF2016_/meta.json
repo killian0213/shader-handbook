@@ -1,0 +1,33 @@
+{
+  "id": "MsVGRc",
+  "name": "Dragon [TDF2016]",
+  "author": "gaz",
+  "description": "GLSL Graphics for Tokyo Demo Fest 2016",
+  "tags": [
+    "raymarching",
+    "modeling"
+  ],
+  "publishedAt": "2016-02-21T15:21:14.000Z",
+  "publishedTimestamp": 1456068074,
+  "views": 14913,
+  "likes": 62,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsVGRc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

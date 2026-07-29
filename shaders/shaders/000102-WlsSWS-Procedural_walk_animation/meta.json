@@ -1,0 +1,51 @@
+{
+  "id": "WlsSWS",
+  "name": "Procedural walk animation",
+  "author": "TLC123",
+  "description": "Now I have to catch my bouncy head.\nMy head is like a ball \nand I lost it in a fall.\nIf I only could catch my bouncy head",
+  "tags": [
+    "3d",
+    "animation",
+    "walkcycle",
+    "footsteps"
+  ],
+  "publishedAt": "2019-07-26T04:45:22.000Z",
+  "publishedTimestamp": 1564116322,
+  "views": 2070,
+  "likes": 102,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WlsSWS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Mll3zX",
+          "filepath": "https://soundcloud.com/clynos2/funny-melody",
+          "previewfilepath": "https://soundcloud.com/clynos2/funny-melody",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

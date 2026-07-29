@@ -1,0 +1,35 @@
+{
+  "id": "wstcRH",
+  "name": "PBR Glint",
+  "author": "xavierchermain",
+  "description": "Shadertoy implementation of Procedural Physically based BRDF for Real-Time Rendering of Glints\nXavier Chermain (ICUBE), Basile Sauvage (ICUBE), Jean-Michel Dishler (ICUBE) and Carsten Dachsbacher (KIT)\nAccepted for Pacific Graphic 2020 and CGF",
+  "tags": [
+    "procedural",
+    "brdf",
+    "microfacet",
+    "glint"
+  ],
+  "publishedAt": "2020-09-18T12:51:50.000Z",
+  "publishedTimestamp": 1600433510,
+  "views": 5356,
+  "likes": 83,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wstcRH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

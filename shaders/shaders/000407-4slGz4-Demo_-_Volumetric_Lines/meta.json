@@ -1,0 +1,49 @@
+{
+  "id": "4slGz4",
+  "name": "Demo - Volumetric Lines",
+  "author": "iq",
+  "description": "Volumetric lines, with a bit of (quickly made) synchronization to JosSs' track.",
+  "tags": [
+    "3d",
+    "sound",
+    "reactive",
+    "music",
+    "demoscene",
+    "volumetric",
+    "demo"
+  ],
+  "publishedAt": "2013-03-23T02:31:38.000Z",
+  "publishedTimestamp": 1364005898,
+  "views": 52518,
+  "likes": 407,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4slGz4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdfGzn",
+          "filepath": "/media/a/894a09f482fb9b2822c093630fc37f0ce6cfec02b652e4e341323e4b6e4a4543.mp3",
+          "previewfilepath": "/media/ap/894a09f482fb9b2822c093630fc37f0ce6cfec02b652e4e341323e4b6e4a4543.mp3",
+          "type": "music",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

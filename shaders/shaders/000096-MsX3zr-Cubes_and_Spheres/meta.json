@@ -1,0 +1,30 @@
+{
+  "id": "MsX3zr",
+  "name": "Cubes and Spheres",
+  "author": "PauloFalcao",
+  "description": "Raymarching a field of cubes that morph into spheres.\nUse mouse to change camera position.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "distancefield",
+    "mouse"
+  ],
+  "publishedAt": "2013-02-16T00:53:29.000Z",
+  "publishedTimestamp": 1360976009,
+  "views": 15695,
+  "likes": 96,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsX3zr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

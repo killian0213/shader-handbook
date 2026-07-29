@@ -1,0 +1,33 @@
+{
+  "id": "XstfzB",
+  "name": "Disco tunnel",
+  "author": "WAHa_06x36",
+  "description": "A fabulous tunnel. Good for staring at.",
+  "tags": [
+    "tunnel",
+    "sensoryoverload"
+  ],
+  "publishedAt": "2018-05-08T09:47:36.000Z",
+  "publishedTimestamp": 1525772856,
+  "views": 27920,
+  "likes": 90,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XstfzB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

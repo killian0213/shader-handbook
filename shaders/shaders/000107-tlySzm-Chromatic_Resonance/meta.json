@@ -1,0 +1,53 @@
+{
+  "id": "tlySzm",
+  "name": "Chromatic Resonance",
+  "author": "PixelPhil",
+  "description": "A quick experiment with colors and music.\n\nMusic : Lightning Moment - DJ Okawari (feat. fox capture plan)",
+  "tags": [
+    "spectrum",
+    "visualization",
+    "music",
+    "colors",
+    "vj",
+    "sines"
+  ],
+  "publishedAt": "2020-02-22T23:08:42.000Z",
+  "publishedTimestamp": 1582412922,
+  "views": 7550,
+  "likes": 107,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tlySzm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XtSGRw",
+          "filepath": "https://soundcloud.com/brella-n-i/lightning-moment-feat-fox",
+          "previewfilepath": "https://soundcloud.com/brella-n-i/lightning-moment-feat-fox",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

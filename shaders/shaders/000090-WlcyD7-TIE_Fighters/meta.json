@@ -1,0 +1,38 @@
+{
+  "id": "WlcyD7",
+  "name": "TIE Fighters",
+  "author": "dean_the_coder",
+  "description": "It was a fine line between creating a scene with\nTIE Fighters or X-Wings. TIE Fighters won.\n\nScene duration: 40 secs",
+  "tags": [
+    "3d",
+    "raymarching",
+    "snow",
+    "starwars",
+    "disney",
+    "movie",
+    "cineshader"
+  ],
+  "publishedAt": "2020-12-28T19:56:01.000Z",
+  "publishedTimestamp": 1609185361,
+  "views": 39190,
+  "likes": 90,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WlcyD7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

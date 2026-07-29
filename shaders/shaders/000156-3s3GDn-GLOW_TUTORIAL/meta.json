@@ -1,0 +1,41 @@
+{
+  "id": "3s3GDn",
+  "name": "GLOW TUTORIAL",
+  "author": "alro",
+  "description": "A simple glow effect and how to control it.\n\nSee [url]https://www.desmos.com/calculator/eecd6kmwy9[/url] for an illustration as mentioned in the code\n\nSee also P_Malin's comment below and [url]https://www.desmos.com/calculator/f14x5a9lsb[/url]",
+  "tags": [
+    "tutorial",
+    "bloom",
+    "glow"
+  ],
+  "publishedAt": "2019-09-10T21:17:38.000Z",
+  "publishedTimestamp": 1568150258,
+  "views": 21145,
+  "likes": 156,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3s3GDn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

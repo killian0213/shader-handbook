@@ -1,0 +1,38 @@
+{
+  "id": "dtSfDD",
+  "name": "Gaussian Splatting 3",
+  "author": "iq",
+  "description": "500 gaussian splats, 4000 bytes (before compression)",
+  "tags": [
+    "2d",
+    "compression",
+    "image",
+    "gaussian",
+    "fitting",
+    "splatting",
+    "gaussiansplatting"
+  ],
+  "publishedAt": "2023-09-07T08:00:44.000Z",
+  "publishedTimestamp": 1694073644,
+  "views": 15498,
+  "likes": 164,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/dtSfDD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

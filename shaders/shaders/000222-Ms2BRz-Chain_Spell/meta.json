@@ -1,0 +1,35 @@
+{
+  "id": "Ms2BRz",
+  "name": "Chain Spell",
+  "author": "leon",
+  "description": "Raymarching sketch about magic. I've started with the three turning spells, then a broken chain and finally a storm trapped in a sphere.  \nUse mouse to move camera.",
+  "tags": [
+    "raymarching",
+    "magic",
+    "chain",
+    "spell"
+  ],
+  "publishedAt": "2017-07-12T00:50:18.000Z",
+  "publishedTimestamp": 1499820618,
+  "views": 12931,
+  "likes": 222,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Ms2BRz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

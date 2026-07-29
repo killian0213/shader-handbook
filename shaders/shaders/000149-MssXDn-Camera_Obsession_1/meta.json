@@ -1,0 +1,36 @@
+{
+  "id": "MssXDn",
+  "name": "Camera Obsession #1",
+  "author": "WAHa_06x36",
+  "description": "Playing around with camera calculations of varying levels of accuracy. Circles of confusion and totally fake diffraction stars for point lights.",
+  "tags": [
+    "bokeh",
+    "camera",
+    "particles",
+    "stars",
+    "rainbow"
+  ],
+  "publishedAt": "2014-05-07T23:30:47.000Z",
+  "publishedTimestamp": 1399505447,
+  "views": 13795,
+  "likes": 149,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MssXDn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

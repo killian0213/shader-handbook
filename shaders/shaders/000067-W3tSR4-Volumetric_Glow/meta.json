@@ -1,0 +1,34 @@
+{
+  "id": "W3tSR4",
+  "name": "Volumetric: Glow",
+  "author": "Xor",
+  "description": "A lighting demo built for my tutorial on volumetric raymarching",
+  "tags": [
+    "tutorial",
+    "volumetric",
+    "raymarcher"
+  ],
+  "publishedAt": "2025-08-23T02:15:16.000Z",
+  "publishedTimestamp": 1755915316,
+  "views": 1402,
+  "likes": 67,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/W3tSR4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

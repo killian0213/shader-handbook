@@ -1,0 +1,35 @@
+{
+  "id": "tct3Rf",
+  "name": "Laser Dance [272]",
+  "author": "Xor",
+  "description": "[url]https://x.com/XorDev/status/1923037860485075114[/url]",
+  "tags": [
+    "color",
+    "abstract",
+    "glow",
+    "golf"
+  ],
+  "publishedAt": "2025-05-15T17:11:27.000Z",
+  "publishedTimestamp": 1747329087,
+  "views": 1587,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tct3Rf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

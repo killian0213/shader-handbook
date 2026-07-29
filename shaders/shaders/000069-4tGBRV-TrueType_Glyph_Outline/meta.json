@@ -1,0 +1,35 @@
+{
+  "id": "4tGBRV",
+  "name": "TrueType Glyph Outline",
+  "author": "glk7",
+  "description": "TrueType glyph outline rendering. The glyph  function renders the outline of a lower case g extracted using the freetype library (www.freetype.org) from the Computer Modern Roman Serif font.  ",
+  "tags": [
+    "bezier",
+    "glyph",
+    "truetype",
+    "ttf"
+  ],
+  "publishedAt": "2018-11-26T17:56:18.000Z",
+  "publishedTimestamp": 1543254978,
+  "views": 2989,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tGBRV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

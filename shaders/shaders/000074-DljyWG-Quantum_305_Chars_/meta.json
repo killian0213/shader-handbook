@@ -1,0 +1,35 @@
+{
+  "id": "DljyWG",
+  "name": "Quantum [305 Chars]",
+  "author": "Xor",
+  "description": "I was inspired by the works of [url=https://twitter.com/HAL09999]@HAL09999[/url].\nCan you guys help me get this under 300 chars?",
+  "tags": [
+    "3d",
+    "sphere",
+    "glow",
+    "golf"
+  ],
+  "publishedAt": "2023-08-16T22:20:16.000Z",
+  "publishedTimestamp": 1692224416,
+  "views": 1603,
+  "likes": 74,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/DljyWG",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

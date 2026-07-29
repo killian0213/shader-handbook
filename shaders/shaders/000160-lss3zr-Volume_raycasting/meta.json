@@ -1,0 +1,30 @@
+{
+  "id": "lss3zr",
+  "name": "Volume raycasting",
+  "author": "XT95",
+  "description": "Simple raycasting into a cloud with one pass of light scattering.",
+  "tags": [
+    "3d",
+    "raycasting",
+    "lightscattering",
+    "cloud"
+  ],
+  "publishedAt": "2013-02-27T19:29:36.000Z",
+  "publishedTimestamp": 1361993376,
+  "views": 15616,
+  "likes": 160,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lss3zr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

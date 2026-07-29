@@ -1,0 +1,53 @@
+{
+  "id": "ldBSDd",
+  "name": "Wind of change",
+  "author": "FatumR",
+  "description": "Background reacts on the song.",
+  "tags": [
+    "procedural",
+    "2d",
+    "noise",
+    "fractals",
+    "smoke",
+    "wind"
+  ],
+  "publishedAt": "2014-11-28T11:09:00.000Z",
+  "publishedTimestamp": 1417172940,
+  "views": 4445,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldBSDd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "ld23Dm",
+          "filepath": "https://soundcloud.com/user7393752/scorpions-wind-of-change",
+          "previewfilepath": "https://soundcloud.com/user7393752/scorpions-wind-of-change",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "4tdSDX",
+  "name": "Iceberg",
+  "author": "otaviogood",
+  "description": "I had a lot of trouble getting the snow to look right. It's good enough, but it could still be better.",
+  "tags": [
+    "iceberg"
+  ],
+  "publishedAt": "2017-01-06T06:34:21.000Z",
+  "publishedTimestamp": 1483684461,
+  "views": 7564,
+  "likes": 82,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tdSDX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

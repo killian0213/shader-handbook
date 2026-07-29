@@ -1,0 +1,35 @@
+{
+  "id": "mdKXWh",
+  "name": "crossbars 2",
+  "author": "FabriceNeyret2",
+  "description": "inspiration: https://twitter.com/pickover/status/1644864126462599169",
+  "tags": [
+    "2d",
+    "2tweets",
+    "short",
+    "reproduction"
+  ],
+  "publishedAt": "2023-04-10T07:17:22.000Z",
+  "publishedTimestamp": 1681111042,
+  "views": 2051,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/mdKXWh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

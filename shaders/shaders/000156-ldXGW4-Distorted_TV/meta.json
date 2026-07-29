@@ -1,0 +1,51 @@
+{
+  "id": "ldXGW4",
+  "name": "Distorted TV",
+  "author": "ehj1",
+  "description": "Horizontal wiggle distortion effect combined with, static, vertical movement, scanlines and an rgb offset.\n\nUpdated from the last version to add static and vertical movement.",
+  "tags": [
+    "noise",
+    "distortion",
+    "perlin",
+    "scanlines",
+    "tv",
+    "crt",
+    "monitor",
+    "static",
+    "analog"
+  ],
+  "publishedAt": "2013-06-08T05:35:30.000Z",
+  "publishedTimestamp": 1370669730,
+  "views": 23512,
+  "likes": 156,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldXGW4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4df3zn",
+          "filepath": "/media/a/3405e48f74815c7baa49133bdc835142948381fbe003ad2f12f5087715731153.ogv",
+          "previewfilepath": "/media/ap/3405e48f74815c7baa49133bdc835142948381fbe003ad2f12f5087715731153.ogv",
+          "type": "video",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

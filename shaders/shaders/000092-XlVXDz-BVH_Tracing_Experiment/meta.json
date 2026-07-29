@@ -1,0 +1,38 @@
+{
+  "id": "XlVXDz",
+  "name": "BVH Tracing Experiment",
+  "author": "stubbe",
+  "description": "Speeding up triangle raytracing with a hardcoded Bounding Volume Hierarchy.\nEncoding the BV tree in the Abstract Syntax Tree of the source code :)\nThe tracing would be fast enough for larger models to be feasable, if the compiler didn't start choking :/",
+  "tags": [
+    "triangle",
+    "intersection",
+    "bvh",
+    "mesh",
+    "plucker",
+    "bunny",
+    "stanford"
+  ],
+  "publishedAt": "2017-01-12T22:19:20.000Z",
+  "publishedTimestamp": 1484259560,
+  "views": 7433,
+  "likes": 92,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlVXDz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

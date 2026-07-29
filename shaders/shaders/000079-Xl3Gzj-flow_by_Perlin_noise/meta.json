@@ -1,0 +1,39 @@
+{
+  "id": "Xl3Gzj",
+  "name": "flow by Perlin noise",
+  "author": "FabriceNeyret2",
+  "description": "divergence-free flow from Perlin noise.\n( NB: time evolution is not physically correct: better change slowly )\nNote that you can combine flow fields; e.g. a coarse river flow + flownoise with translation.",
+  "tags": [
+    "noise",
+    "perlin",
+    "fluid",
+    "flow",
+    "curlnoise",
+    "incompressible",
+    "stream",
+    "divergencefree"
+  ],
+  "publishedAt": "2016-08-02T14:10:05.000Z",
+  "publishedTimestamp": 1470147005,
+  "views": 5422,
+  "likes": 79,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xl3Gzj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

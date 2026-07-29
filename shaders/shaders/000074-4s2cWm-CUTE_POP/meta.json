@@ -1,0 +1,35 @@
+{
+  "id": "4s2cWm",
+  "name": "CUTE & POP",
+  "author": "WAHa_06x36",
+  "description": "An early version of an effect from SVatG's demo \"Soap Washing Itself\".",
+  "tags": [
+    "cute",
+    "tunnel",
+    "pop",
+    "fabric"
+  ],
+  "publishedAt": "2017-04-17T00:47:50.000Z",
+  "publishedTimestamp": 1492390070,
+  "views": 1468,
+  "likes": 74,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4s2cWm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

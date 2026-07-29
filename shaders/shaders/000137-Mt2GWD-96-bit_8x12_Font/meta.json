@@ -1,0 +1,36 @@
+{
+  "id": "Mt2GWD",
+  "name": "96-bit 8x12 Font",
+  "author": "Flyguy",
+  "description": "Testing a higher resolution font which uses 24 bits of \"integer\" precision for each component which seems to be the maximum without losing information.",
+  "tags": [
+    "text",
+    "font",
+    "digit",
+    "character",
+    "bits"
+  ],
+  "publishedAt": "2015-04-16T21:07:19.000Z",
+  "publishedTimestamp": 1429218439,
+  "views": 8918,
+  "likes": 137,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mt2GWD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

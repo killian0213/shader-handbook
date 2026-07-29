@@ -1,0 +1,35 @@
+{
+  "id": "XtBfzz",
+  "name": "Filtered grid (box, 2D)",
+  "author": "iq",
+  "description": "Analytically antialiased grid. Left, naive grid pattern. Right, analytically filtered (NO supersampling and NO mipmapping involved). More info: [url]http://iquilezles.org/articles/filterableprocedurals[/ur",
+  "tags": [
+    "procedural",
+    "2d",
+    "grid",
+    "filter"
+  ],
+  "publishedAt": "2017-12-25T05:25:25.000Z",
+  "publishedTimestamp": 1514179525,
+  "views": 16366,
+  "likes": 159,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtBfzz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

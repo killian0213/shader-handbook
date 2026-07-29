@@ -1,0 +1,54 @@
+{
+  "id": "llycW1",
+  "name": "Storm !",
+  "author": "hamtarodeluxe",
+  "description": "Tried to light some raymarched volume. Dit not follow any precise formula but my feeling for the transmission computation, so code might look unusual for that :)",
+  "tags": [
+    "raymarching",
+    "volume",
+    "cloud",
+    "lighting",
+    "sky",
+    "smoke",
+    "storm"
+  ],
+  "publishedAt": "2018-09-04T23:11:13.000Z",
+  "publishedTimestamp": 1536102673,
+  "views": 2819,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llycW1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sfGRr",
+          "filepath": "/media/a/27012b4eadd0c3ce12498b867058e4f717ce79e10a99568cca461682d84a4b04.bin",
+          "previewfilepath": "/media/ap/27012b4eadd0c3ce12498b867058e4f717ce79e10a99568cca461682d84a4b04.bin",
+          "type": "volume",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

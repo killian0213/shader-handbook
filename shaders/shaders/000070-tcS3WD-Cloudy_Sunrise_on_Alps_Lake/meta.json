@@ -1,0 +1,44 @@
+{
+  "id": "tcS3WD",
+  "name": "Cloudy Sunrise on Alps Lake",
+  "author": "lerrain",
+  "description": "the seashore and islands at the foot of the snowy mountains\nrealistic rendering, including daytime, sunrise and sunset\n\nno anti-noise. High-resolution 4K monitors is better, but very slow :(\nrecorded video: https://www.bilibili.com/video/BV1FdAWeeEXy\n",
+  "tags": [
+    "sea",
+    "sunset",
+    "cloud",
+    "water",
+    "raytrace",
+    "mountains",
+    "snow",
+    "island",
+    "seashore",
+    "sunrise",
+    "rock",
+    "daytime",
+    "peak"
+  ],
+  "publishedAt": "2025-02-20T16:34:21.000Z",
+  "publishedTimestamp": 1740069261,
+  "views": 2534,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tcS3WD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "stcXRs",
+  "name": "20211215_The intended one",
+  "author": "0b5vr",
+  "description": "of my TDF2021 Shader Showdown Quarterfinals\nCoded in 25 (+α) minutes.\n\nStream: https://youtu.be/7L-yWGsUI2o?t=6287\n",
+  "tags": [
+    "3d",
+    "pathtracing",
+    "quadtree"
+  ],
+  "publishedAt": "2021-12-15T14:30:20.000Z",
+  "publishedTimestamp": 1639578620,
+  "views": 1311,
+  "likes": 72,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/stcXRs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

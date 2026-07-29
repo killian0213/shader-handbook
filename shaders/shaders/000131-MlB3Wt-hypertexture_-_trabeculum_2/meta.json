@@ -1,0 +1,31 @@
+{
+  "id": "MlB3Wt",
+  "name": "hypertexture - trabeculum 2",
+  "author": "FabriceNeyret2",
+  "description": "Trabeculum pattern. (camera follow mouse).\n\n( a variant from https://www.shadertoy.com/view/ltj3Dc )",
+  "tags": [
+    "procedural",
+    "noise",
+    "perlin",
+    "hypertexture",
+    "trabeculum"
+  ],
+  "publishedAt": "2015-06-05T13:28:27.000Z",
+  "publishedTimestamp": 1433510907,
+  "views": 7595,
+  "likes": 131,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MlB3Wt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

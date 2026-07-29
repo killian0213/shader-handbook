@@ -1,0 +1,41 @@
+{
+  "id": "MlyGzW",
+  "name": "Light Circles",
+  "author": "Deefunct",
+  "description": "Sun/Moon",
+  "tags": [
+    "2d",
+    "simple",
+    "sun",
+    "beginner",
+    "light",
+    "circle",
+    "glow",
+    "moon",
+    "eclipse",
+    "halo"
+  ],
+  "publishedAt": "2016-09-09T17:07:44.000Z",
+  "publishedTimestamp": 1473440864,
+  "views": 7046,
+  "likes": 115,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MlyGzW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

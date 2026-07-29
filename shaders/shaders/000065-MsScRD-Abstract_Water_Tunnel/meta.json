@@ -1,0 +1,53 @@
+{
+  "id": "MsScRD",
+  "name": "Abstract Water Tunnel",
+  "author": "Shane",
+  "description": "An abstract representation of some shallow water flowing through a subterranean tunnel.",
+  "tags": [
+    "raymarching",
+    "reflection",
+    "tunnel",
+    "refraction",
+    "water",
+    "abstract"
+  ],
+  "publishedAt": "2017-04-03T12:47:20.000Z",
+  "publishedTimestamp": 1491223640,
+  "views": 5344,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsScRD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGRn",
+          "filepath": "/media/a/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "previewfilepath": "/media/ap/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "7ds3zB",
+  "name": "Sphere of cubes",
+  "author": "henryseg",
+  "description": "See https://youtu.be/A2IAyXc0LuE and https://youtu.be/yrDbD90HXyo for videos on why there appear to be circles all over the sphere.\n\nDerived from BrunoLevy's RayTracing tutorial - step 1, shadertoy.com/view/wdfXR4\n\n\n",
+  "tags": [
+    "raytracing"
+  ],
+  "publishedAt": "2021-03-20T01:03:32.000Z",
+  "publishedTimestamp": 1616202212,
+  "views": 53568,
+  "likes": 130,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7ds3zB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "MdsGDH",
+  "name": "Polychora (4D)",
+  "author": "Syntopia",
+  "description": "This is a depiction of 4D Polychora, stereographically projected to 3D dimensions. \n*All the math (and original Fragmentaruim code) was created by the always brilliant Knighty.*\n*The postfx stuff was shamelessly ripped from jmpep's 'Old Video' shadertoy*\n",
+  "tags": [
+    "4d",
+    "polychora",
+    "knighty"
+  ],
+  "publishedAt": "2013-05-24T23:00:31.000Z",
+  "publishedTimestamp": 1369436431,
+  "views": 14207,
+  "likes": 106,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdsGDH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

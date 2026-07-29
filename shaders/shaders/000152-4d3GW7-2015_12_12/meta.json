@@ -1,0 +1,31 @@
+{
+  "id": "4d3GW7",
+  "name": "2015/12/12",
+  "author": "hughsk",
+  "description": "Experimenting with refraction â€” still some room for improving accuracy/aesthetics but happy with it so far :)",
+  "tags": [
+    "grid",
+    "sdf",
+    "refraction",
+    "color",
+    "refract"
+  ],
+  "publishedAt": "2015-12-12T03:54:23.000Z",
+  "publishedTimestamp": 1449892463,
+  "views": 19904,
+  "likes": 152,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4d3GW7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

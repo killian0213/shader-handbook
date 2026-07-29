@@ -1,0 +1,34 @@
+{
+  "id": "3tX3R4",
+  "name": "Hologram Boxes",
+  "author": "kaneta",
+  "description": "Like SF",
+  "tags": [
+    "3d",
+    "raymarching",
+    "hologram"
+  ],
+  "publishedAt": "2019-04-19T17:39:11.000Z",
+  "publishedTimestamp": 1555695551,
+  "views": 9970,
+  "likes": 204,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3tX3R4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

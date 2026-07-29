@@ -1,0 +1,33 @@
+{
+  "id": "Xs33R2",
+  "name": "Magic Particles V2",
+  "author": "TambakoJaguar",
+  "description": "A new version of my Magic Particles.\nSpeed and stability are improved, but if you still have difficulties, please give me your browser and OS, maybe GPU model as well. Thanks!\n\nAny idea to optimize the code is also welcome.",
+  "tags": [
+    "2d",
+    "colors",
+    "random",
+    "star",
+    "particles",
+    "sinus",
+    "movement"
+  ],
+  "publishedAt": "2015-12-21T20:19:58.000Z",
+  "publishedTimestamp": 1450729198,
+  "views": 3470,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xs33R2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

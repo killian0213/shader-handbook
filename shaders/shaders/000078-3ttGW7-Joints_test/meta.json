@@ -1,0 +1,36 @@
+{
+  "id": "3ttGW7",
+  "name": "Joints test",
+  "author": "iq",
+  "description": "Testing sdJoint3D [url]https://www.shadertoy.com/view/3ld3DM[/url] . Similar to [url]https://www.shadertoy.com/view/wlj3zV[/url] but with full UVW coords, for 2D and 3D texturing. Triggered by dr2's test [url]https://www.shadertoy.com/view/3l3GD7[/url]",
+  "tags": [
+    "3d",
+    "animation",
+    "joint",
+    "run",
+    "body"
+  ],
+  "publishedAt": "2019-12-17T13:00:59.000Z",
+  "publishedTimestamp": 1576587659,
+  "views": 3753,
+  "likes": 78,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3ttGW7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

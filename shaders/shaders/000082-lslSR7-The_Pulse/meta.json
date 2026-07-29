@@ -1,0 +1,29 @@
+{
+  "id": "lslSR7",
+  "name": "The Pulse",
+  "author": "gleurop",
+  "description": "A recreation of this gif: http://i.imgur.com/a6Sknp8.jpg. Cross your eyes until adjacent circles line up for a neat effect.",
+  "tags": [
+    "procedural",
+    "2d",
+    "sacedgeometry"
+  ],
+  "publishedAt": "2014-04-27T23:58:11.000Z",
+  "publishedTimestamp": 1398643091,
+  "views": 4074,
+  "likes": 82,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lslSR7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

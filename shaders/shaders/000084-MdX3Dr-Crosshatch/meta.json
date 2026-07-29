@@ -1,0 +1,45 @@
+{
+  "id": "MdX3Dr",
+  "name": "Crosshatch",
+  "author": "doomedbunnies",
+  "description": "A simple crosshatching filter combined with edge detection to form a quick and dirty appearance of a pencil sketch.",
+  "tags": [
+    "simple",
+    "crosshatch",
+    "edgedetect"
+  ],
+  "publishedAt": "2013-04-30T04:42:56.000Z",
+  "publishedTimestamp": 1367296976,
+  "views": 6509,
+  "likes": 84,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdX3Dr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sX3Rn",
+          "filepath": "/media/a/c3a071ecf273428bc72fc72b2dd972671de8da420a2d4f917b75d20e1c24b34c.ogv",
+          "previewfilepath": "/media/ap/c3a071ecf273428bc72fc72b2dd972671de8da420a2d4f917b75d20e1c24b34c.ogv",
+          "type": "video",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

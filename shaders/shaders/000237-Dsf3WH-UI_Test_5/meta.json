@@ -1,0 +1,33 @@
+{
+  "id": "Dsf3WH",
+  "name": "UI Test 5",
+  "author": "yasuo",
+  "description": "3D ring UI component",
+  "tags": [
+    "ui",
+    "cineshader"
+  ],
+  "publishedAt": "2022-10-17T18:30:22.000Z",
+  "publishedTimestamp": 1666031422,
+  "views": 14832,
+  "likes": 237,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Dsf3WH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "Mds3zn",
+  "name": "Chromatic Aberration",
+  "author": "NickWest",
+  "description": "Some kind of camera/transmission interference",
+  "tags": [
+    "posteffect"
+  ],
+  "publishedAt": "2013-02-26T15:23:30.000Z",
+  "publishedTimestamp": 1361892210,
+  "views": 20291,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mds3zn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sX3Rn",
+          "filepath": "/media/a/c3a071ecf273428bc72fc72b2dd972671de8da420a2d4f917b75d20e1c24b34c.ogv",
+          "previewfilepath": "/media/ap/c3a071ecf273428bc72fc72b2dd972671de8da420a2d4f917b75d20e1c24b34c.ogv",
+          "type": "video",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

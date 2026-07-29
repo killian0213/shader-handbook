@@ -1,0 +1,35 @@
+{
+  "id": "sfsSDs",
+  "name": "Morphing Abstract",
+  "author": "Frostbyte_",
+  "description": "Only 10 ray march steps!",
+  "tags": [
+    "noise",
+    "simple",
+    "raymarch",
+    "gyroid"
+  ],
+  "publishedAt": "2026-07-06T14:23:42.000Z",
+  "publishedTimestamp": 1783347822,
+  "views": 1331,
+  "likes": 64,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/sfsSDs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

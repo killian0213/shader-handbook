@@ -1,0 +1,33 @@
+{
+  "id": "lsKcDD",
+  "name": "Soft Shadow Variation",
+  "author": "iq",
+  "description": "Testing Sebastian Aaltonen's soft shadow improvement. Go to line 54 to compare with the traditional technique for soft shadows. It's very cheap and improves shadows a lot!",
+  "tags": [
+    "3d",
+    "raymarching"
+  ],
+  "publishedAt": "2018-03-27T05:53:22.000Z",
+  "publishedTimestamp": 1522130002,
+  "views": 29215,
+  "likes": 236,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsKcDD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

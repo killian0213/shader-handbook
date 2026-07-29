@@ -1,0 +1,30 @@
+{
+  "id": "Mll3zj",
+  "name": "Star Nest Retro",
+  "author": "Loadus",
+  "description": "Modified the original posted by Kali to add some retro sparkle into it. ^.^\n\nAlso demonstrating the use of the S -shaped contrast in practice. Rendering the stuff with a very wide dynamic range and then compressing it.",
+  "tags": [
+    "fractal",
+    "space",
+    "volumetric",
+    "stars"
+  ],
+  "publishedAt": "2015-02-09T16:07:09.000Z",
+  "publishedTimestamp": 1423498029,
+  "views": 5648,
+  "likes": 85,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mll3zj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

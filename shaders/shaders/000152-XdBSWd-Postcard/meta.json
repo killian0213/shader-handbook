@@ -1,0 +1,46 @@
+{
+  "id": "XdBSWd",
+  "name": "Postcard",
+  "author": "nimitz",
+  "description": "Time is sped up to allow the dynamic nature of the clouds to be seen.  Mouse enabled.",
+  "tags": [
+    "2d",
+    "clouds",
+    "aa",
+    "technique"
+  ],
+  "publishedAt": "2014-11-26T00:21:11.000Z",
+  "publishedTimestamp": 1416961271,
+  "views": 9503,
+  "likes": 152,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdBSWd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

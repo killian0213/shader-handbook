@@ -1,0 +1,80 @@
+{
+  "id": "7ljXWt",
+  "name": "Abstract Truchet Inversion ",
+  "author": "byt3_m3chanic",
+  "description": "Just taking a play day and pushing out some i've been kicking around - concept from older shader. Two woven truchet tile patterns, with some glow effects. Using buffer tab to feed in color for Fog to get trail effect.",
+  "tags": [
+    "raymarching",
+    "glow",
+    "truchet",
+    "inversion",
+    "design"
+  ],
+  "publishedAt": "2021-08-14T23:59:47.000Z",
+  "publishedTimestamp": 1628985587,
+  "views": 5792,
+  "likes": 93,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7ljXWt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

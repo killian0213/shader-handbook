@@ -1,0 +1,35 @@
+{
+  "id": "ltXczj",
+  "name": "Plasma Waves",
+  "author": "scarletshark",
+  "description": "I was inspired by my PC wallpaper (https://goo.gl/T12YEj), and the PS3 / PS4 animated wallpaper.  Just wanted to make a fun, flowy mess of vector lines!",
+  "tags": [
+    "2d",
+    "antialiasing",
+    "aa",
+    "fourier"
+  ],
+  "publishedAt": "2017-09-15T15:00:09.000Z",
+  "publishedTimestamp": 1505487609,
+  "views": 11682,
+  "likes": 163,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltXczj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

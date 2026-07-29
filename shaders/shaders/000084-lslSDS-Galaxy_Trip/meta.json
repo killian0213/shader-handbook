@@ -1,0 +1,31 @@
+{
+  "id": "lslSDS",
+  "name": "Galaxy Trip",
+  "author": "xbe",
+  "description": "Remix of the Start Tunnel shader by P_Malin adding background nebulea and different stars colors. May still need to modify stars shapes for something less regular.",
+  "tags": [
+    "3d",
+    "galaxy",
+    "warp",
+    "starfield",
+    "nebulae"
+  ],
+  "publishedAt": "2014-07-28T14:58:01.000Z",
+  "publishedTimestamp": 1406559481,
+  "views": 12696,
+  "likes": 84,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lslSDS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "lsG3D3",
+  "name": "Another Marble",
+  "author": "KylBlz",
+  "description": "Saw this posted by Guil /MtX3Ws and had to personalize it a bit. This shader has been passed around a bit to say the least.",
+  "tags": [
+    "procedural",
+    "3d",
+    "fractal"
+  ],
+  "publishedAt": "2016-02-28T20:43:56.000Z",
+  "publishedTimestamp": 1456692236,
+  "views": 1940,
+  "likes": 67,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsG3D3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdX3zn",
+          "filepath": "/media/a/488bd40303a2e2b9a71987e48c66ef41f5e937174bf316d3ed0e86410784b919.jpg",
+          "previewfilepath": "/media/ap/488bd40303a2e2b9a71987e48c66ef41f5e937174bf316d3ed0e86410784b919.jpg",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

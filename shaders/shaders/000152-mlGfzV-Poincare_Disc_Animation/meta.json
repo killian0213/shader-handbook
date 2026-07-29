@@ -1,0 +1,35 @@
+{
+  "id": "mlGfzV",
+  "name": "Poincare Disc Animation",
+  "author": "Shane",
+  "description": "A CSG polygon driven Poincare tiling with an animated pattern overlay.",
+  "tags": [
+    "csg",
+    "tile",
+    "hyperbolic",
+    "poincare"
+  ],
+  "publishedAt": "2023-12-11T13:14:56.000Z",
+  "publishedTimestamp": 1702300496,
+  "views": 3243,
+  "likes": 152,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/mlGfzV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

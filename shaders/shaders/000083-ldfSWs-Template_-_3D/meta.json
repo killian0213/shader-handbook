@@ -1,0 +1,34 @@
+{
+  "id": "ldfSWs",
+  "name": "Template - 3D",
+  "author": "iq",
+  "description": "A basic example for an SDF renderer. It does not do soft blending, domain repetition, symmetries, mixing materials, PBR or global illumination. It only implements the very very basics.",
+  "tags": [
+    "3d"
+  ],
+  "publishedAt": "2014-08-12T18:02:55.000Z",
+  "publishedTimestamp": 1407866575,
+  "views": 5729,
+  "likes": 83,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldfSWs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

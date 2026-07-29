@@ -1,0 +1,44 @@
+{
+  "id": "DsBczR",
+  "name": "Flowing Wires [471 chars]",
+  "author": "kishimisu",
+  "description": "Inspired by @byte_mechanic's various Year of Truchet experiments.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "ray",
+    "light",
+    "marching",
+    "space",
+    "repetition",
+    "bloom",
+    "truchet",
+    "infinite",
+    "neon",
+    "short",
+    "golf"
+  ],
+  "publishedAt": "2023-06-21T09:42:13.000Z",
+  "publishedTimestamp": 1687340533,
+  "views": 6433,
+  "likes": 97,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/DsBczR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

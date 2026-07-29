@@ -1,0 +1,39 @@
+{
+  "id": "llByzz",
+  "name": "Hexagonal Truchet Weaving",
+  "author": "BigWIngs",
+  "description": "See code for details. Hope you like!",
+  "tags": [
+    "2d",
+    "hexagon",
+    "truchet",
+    "pattern",
+    "knot",
+    "hexagonal",
+    "weave",
+    "celtic"
+  ],
+  "publishedAt": "2017-10-04T23:36:33.000Z",
+  "publishedTimestamp": 1507160193,
+  "views": 3705,
+  "likes": 106,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llByzz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

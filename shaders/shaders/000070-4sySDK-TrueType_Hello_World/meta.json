@@ -1,0 +1,37 @@
+{
+  "id": "4sySDK",
+  "name": "TrueType Hello World",
+  "author": "NinjaKoala",
+  "description": "A rendering of the DejaVu fonts Serif or Sans with an approximated distance field to a quadratic bezier curve and convex polygon distance field.\n\nYou can zoom around with the mouse",
+  "tags": [
+    "2d",
+    "distancefield",
+    "bezier",
+    "helloworld",
+    "font",
+    "truetype"
+  ],
+  "publishedAt": "2016-06-21T12:59:23.000Z",
+  "publishedTimestamp": 1466513963,
+  "views": 6260,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sySDK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

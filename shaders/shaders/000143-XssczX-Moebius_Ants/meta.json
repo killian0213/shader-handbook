@@ -1,0 +1,38 @@
+{
+  "id": "XssczX",
+  "name": "Moebius Ants",
+  "author": "Klems",
+  "description": "Loosely inspired by an Escher sketch. I had a nice anti-aliasing going on at some point (see line 428) but it was too expensive for this shader. Click the screen to rotate the camera!",
+  "tags": [
+    "3d",
+    "raymarch",
+    "escher",
+    "toon",
+    "insect",
+    "leg",
+    "reproduction"
+  ],
+  "publishedAt": "2017-03-10T12:57:22.000Z",
+  "publishedTimestamp": 1489150642,
+  "views": 6623,
+  "likes": 143,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XssczX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

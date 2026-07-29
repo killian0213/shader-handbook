@@ -1,0 +1,44 @@
+{
+  "id": "4sXGzn",
+  "name": "Deform - holes",
+  "author": "iq",
+  "description": "A simple 2D plane deformation driven by the mouse (more info here: https://iquilezles.org/articles/deform/deform.htm)",
+  "tags": [
+    "2d",
+    "planedeformation"
+  ],
+  "publishedAt": "2013-01-14T00:56:21.000Z",
+  "publishedTimestamp": 1358124981,
+  "views": 9771,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sXGzn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdfGRn",
+          "filepath": "/media/a/e6e5631ce1237ae4c05b3563eda686400a401df4548d0f9fad40ecac1659c46c.jpg",
+          "previewfilepath": "/media/ap/e6e5631ce1237ae4c05b3563eda686400a401df4548d0f9fad40ecac1659c46c.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

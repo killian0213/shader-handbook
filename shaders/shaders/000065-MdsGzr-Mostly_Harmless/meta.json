@@ -1,0 +1,48 @@
+{
+  "id": "MdsGzr",
+  "name": "Mostly Harmless",
+  "author": "P_Malin",
+  "description": "More 8bit era fun. A Cobra Mk III from Elite with chunky rasterization.\n(used with permission by Frontier Developments)\nClick in window to override rotation.\n",
+  "tags": [
+    "3d",
+    "rasterizer",
+    "retro",
+    "wireframe",
+    "line"
+  ],
+  "publishedAt": "2013-03-01T12:57:24.000Z",
+  "publishedTimestamp": 1362142644,
+  "views": 5647,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdsGzr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "XsfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

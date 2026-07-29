@@ -1,0 +1,35 @@
+{
+  "id": "ll2SRy",
+  "name": "Transparent Cube Field",
+  "author": "Shane",
+  "description": "Some simple code to produce a relatively cheap, transparent cube field.",
+  "tags": [
+    "transparency",
+    "cube",
+    "volumetric",
+    "field"
+  ],
+  "publishedAt": "2015-10-13T14:41:59.000Z",
+  "publishedTimestamp": 1444747319,
+  "views": 23139,
+  "likes": 217,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ll2SRy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

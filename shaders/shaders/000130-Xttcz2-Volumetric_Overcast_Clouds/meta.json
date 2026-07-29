@@ -1,0 +1,35 @@
+{
+  "id": "Xttcz2",
+  "name": "Volumetric Overcast Clouds",
+  "author": "valentingalea",
+  "description": "Volumetric Clouds Experiment - more info: https://github.com/valentingalea/shaderbox",
+  "tags": [
+    "clouds",
+    "sky",
+    "volumetric",
+    "atmosphere"
+  ],
+  "publishedAt": "2018-08-02T23:21:58.000Z",
+  "publishedTimestamp": 1533252118,
+  "views": 11489,
+  "likes": 130,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xttcz2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

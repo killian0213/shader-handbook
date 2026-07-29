@@ -1,0 +1,62 @@
+{
+  "id": "7tKGRc",
+  "name": "Straight Flagstone Tiles",
+  "author": "gelami",
+  "description": "Flagstone/Asymmetric tiling with tile IDs, sizes, and UVs.\n\nFor a 3D raytraced version: https://www.shadertoy.com/view/cltGRl",
+  "tags": [
+    "grid",
+    "rectangle",
+    "tiling",
+    "bricks",
+    "bricks",
+    "tiles",
+    "asymmetric",
+    "flagstone"
+  ],
+  "publishedAt": "2021-12-03T06:55:31.000Z",
+  "publishedTimestamp": 1638514531,
+  "views": 6862,
+  "likes": 148,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7tKGRc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dX3Rn",
+          "filepath": "/media/a/bd6464771e47eed832c5eb2cd85cdc0bfc697786b903bfd30f890f9d4fc36657.jpg",
+          "previewfilepath": "/media/ap/bd6464771e47eed832c5eb2cd85cdc0bfc697786b903bfd30f890f9d4fc36657.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "tffSDr",
+  "name": "iridescent fibers",
+  "author": "evesira",
+  "description": "iridescent fibers",
+  "tags": [
+    "waves",
+    "color",
+    "rainbow"
+  ],
+  "publishedAt": "2025-02-28T23:09:41.000Z",
+  "publishedTimestamp": 1740784181,
+  "views": 5191,
+  "likes": 108,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tffSDr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

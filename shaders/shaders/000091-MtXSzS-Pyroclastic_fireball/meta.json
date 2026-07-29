@@ -1,0 +1,35 @@
+{
+  "id": "MtXSzS",
+  "name": "Pyroclastic fireball",
+  "author": "Duke",
+  "description": "Fireball",
+  "tags": [
+    "sun",
+    "fireball",
+    "redgiant",
+    "pyroclastic"
+  ],
+  "publishedAt": "2015-07-21T17:10:46.000Z",
+  "publishedTimestamp": 1437498646,
+  "views": 8481,
+  "likes": 91,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MtXSzS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

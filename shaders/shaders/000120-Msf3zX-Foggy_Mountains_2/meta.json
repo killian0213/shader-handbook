@@ -1,0 +1,49 @@
+{
+  "id": "Msf3zX",
+  "name": "Foggy Mountains 2",
+  "author": "ztri",
+  "description": "Moutains with timelapse style clouds and fog. Use mouse to control the clouds & camera.",
+  "tags": [
+    "raycasting",
+    "3dnoise"
+  ],
+  "publishedAt": "2013-08-10T22:40:19.000Z",
+  "publishedTimestamp": 1376174419,
+  "views": 12234,
+  "likes": 120,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Msf3zX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sf3Rn",
+          "filepath": "/media/a/0a40562379b63dfb89227e6d172f39fdce9022cba76623f1054a2c83d6c0ba5d.png",
+          "previewfilepath": "/media/ap/0a40562379b63dfb89227e6d172f39fdce9022cba76623f1054a2c83d6c0ba5d.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

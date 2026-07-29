@@ -1,0 +1,43 @@
+{
+  "id": "XlGcRh",
+  "name": "Hash Functions for GPU Rendering",
+  "author": "markjarzynski",
+  "description": "Comparing different hash functions for GPU Rendering.\nSee the full paper at: http://www.jcgt.org/published/0009/03/02/\nWatch our presentation at I3D 2021, 20 April 2021. https://www.youtube.com/watch?v=dwi5qJ6oPjE&t=7958s",
+  "tags": [
+    "random",
+    "hash",
+    "rng",
+    "pcg3d",
+    "pcg4d"
+  ],
+  "publishedAt": "2018-08-30T15:42:33.000Z",
+  "publishedTimestamp": 1535643753,
+  "views": 25559,
+  "likes": 261,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlGcRh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

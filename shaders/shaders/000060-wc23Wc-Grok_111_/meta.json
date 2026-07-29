@@ -1,0 +1,34 @@
+{
+  "id": "wc23Wc",
+  "name": "Grok [111]",
+  "author": "Xor",
+  "description": "Shared by Musk!",
+  "tags": [
+    "space",
+    "blackhole",
+    "golf"
+  ],
+  "publishedAt": "2025-02-25T17:14:06.000Z",
+  "publishedTimestamp": 1740503646,
+  "views": 1590,
+  "likes": 60,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wc23Wc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

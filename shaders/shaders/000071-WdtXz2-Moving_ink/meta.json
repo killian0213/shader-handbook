@@ -1,0 +1,41 @@
+{
+  "id": "WdtXz2",
+  "name": "Moving ink",
+  "author": "jaszunio15",
+  "description": "Just learning 2D sdfs :)",
+  "tags": [
+    "2d",
+    "sdf",
+    "ink"
+  ],
+  "publishedAt": "2020-01-10T11:06:25.000Z",
+  "publishedTimestamp": 1578654385,
+  "views": 2631,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WdtXz2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

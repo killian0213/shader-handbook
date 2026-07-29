@@ -1,0 +1,33 @@
+{
+  "id": "3sd3Rs",
+  "name": "Noise - Basic - 1D",
+  "author": "iq",
+  "description": "This is a 1D noise that uses a single random number/hash per invocation, instead of two like regular value and gradient noises do. This means no neighboring information is needed in order to preserve continuity.",
+  "tags": [
+    "noise",
+    "1d"
+  ],
+  "publishedAt": "2019-10-07T04:24:59.000Z",
+  "publishedTimestamp": 1570422299,
+  "views": 7471,
+  "likes": 101,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3sd3Rs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

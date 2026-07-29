@@ -1,0 +1,35 @@
+{
+  "id": "llVXRd",
+  "name": "Geodesic tiling",
+  "author": "tdhooper",
+  "description": "Distributing points on a sphere, without the bunching at the poles you get from spherical coordinates.\n\nMinimal version of the technique: [url]https://www.shadertoy.com/view/llGXWc[/url]",
+  "tags": [
+    "sphere",
+    "hexagon",
+    "tile",
+    "geodesic"
+  ],
+  "publishedAt": "2017-01-27T18:35:33.000Z",
+  "publishedTimestamp": 1485542133,
+  "views": 39063,
+  "likes": 480,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llVXRd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

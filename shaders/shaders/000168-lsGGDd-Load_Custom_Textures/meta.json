@@ -1,0 +1,34 @@
+{
+  "id": "lsGGDd",
+  "name": "Load Custom Textures",
+  "author": "AntoineC",
+  "description": "A simple method to load custom image textures in Shadertoy. Read the instructions in the code. Let me know in the comments if it works on your system and browser...",
+  "tags": [
+    "texture",
+    "earth",
+    "hack"
+  ],
+  "publishedAt": "2016-03-06T00:42:20.000Z",
+  "publishedTimestamp": 1457224940,
+  "views": 21394,
+  "likes": 168,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsGGDd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "XsjGDt",
+  "name": "A Simple Circle",
+  "author": "jonobr1",
+  "description": "A function to draw a simple circle based on coordinates and radius.",
+  "tags": [
+    "2d",
+    "geometry"
+  ],
+  "publishedAt": "2014-03-19T18:52:59.000Z",
+  "publishedTimestamp": 1395255179,
+  "views": 44081,
+  "likes": 109,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsjGDt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

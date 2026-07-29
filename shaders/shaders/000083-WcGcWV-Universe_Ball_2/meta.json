@@ -1,0 +1,33 @@
+{
+  "id": "WcGcWV",
+  "name": "Universe Ball 2",
+  "author": "diatribes",
+  "description": "Universe Ball 2",
+  "tags": [
+    "raymarch",
+    "abstract"
+  ],
+  "publishedAt": "2025-12-08T14:53:45.000Z",
+  "publishedTimestamp": 1765205625,
+  "views": 2061,
+  "likes": 83,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WcGcWV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

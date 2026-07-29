@@ -1,0 +1,44 @@
+{
+  "id": "3d3yRj",
+  "name": "Simple Water Caustic Pattern",
+  "author": "jaybird",
+  "description": "Sample simplex noise -> offset by gradient -> sample noise again -> offset by gradient -> sample noise again\n\nBased on https://www.shadertoy.com/view/Ws23RD\n\nAnother version here: https://www.shadertoy.com/view/ssfBDf",
+  "tags": [
+    "noise",
+    "water",
+    "simplex",
+    "simplexnoise",
+    "caustic",
+    "watercaustic"
+  ],
+  "publishedAt": "2020-09-27T18:10:14.000Z",
+  "publishedTimestamp": 1601230214,
+  "views": 4617,
+  "likes": 97,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3d3yRj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "XllGW4",
+  "name": "HOWTO: Ray Marching",
+  "author": "MichaelPohoreski",
+  "description": "A mini tutorial on How To get started with Ray Marching with zero experience.\nThe NeHe, er, PoHo of Ray Marching Tutorials. :-)\n    0.49 Fix uncomment for AUTO_ROTATE",
+  "tags": [
+    "3d",
+    "raymarching",
+    "tutorial",
+    "howto"
+  ],
+  "publishedAt": "2015-01-24T05:58:19.000Z",
+  "publishedTimestamp": 1422079099,
+  "views": 26199,
+  "likes": 317,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XllGW4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsX3zn",
+          "filepath": "/media/a/94284d43be78f00eb6b298e6d78656a1b34e2b91b34940d02f1ca8b22310e8a0.png",
+          "previewfilepath": "/media/ap/94284d43be78f00eb6b298e6d78656a1b34e2b91b34940d02f1ca8b22310e8a0.png",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

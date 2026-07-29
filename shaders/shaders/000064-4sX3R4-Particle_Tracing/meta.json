@@ -1,0 +1,33 @@
+{
+  "id": "4sX3R4",
+  "name": "Particle Tracing",
+  "author": "fizzer",
+  "description": "This shader renders a large number of particles by traversing a uniform grid and projecting the centerpoint of each grid cell. This projection is then used as the origin for a particle sprite.",
+  "tags": [
+    "raytracing",
+    "particles"
+  ],
+  "publishedAt": "2013-03-12T21:24:37.000Z",
+  "publishedTimestamp": 1363123477,
+  "views": 2726,
+  "likes": 64,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sX3R4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

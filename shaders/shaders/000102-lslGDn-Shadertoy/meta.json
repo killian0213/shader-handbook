@@ -1,0 +1,47 @@
+{
+  "id": "lslGDn",
+  "name": "Shadertoy",
+  "author": "P_Malin",
+  "description": "I like shadertoy.",
+  "tags": [
+    "2d",
+    "text",
+    "font",
+    "shadertoy",
+    "curve"
+  ],
+  "publishedAt": "2013-05-16T21:59:47.000Z",
+  "publishedTimestamp": 1368741587,
+  "views": 8347,
+  "likes": 102,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lslGDn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsfGRn",
+          "filepath": "/media/a/1f7dca9c22f324751f2a5a59c9b181dfe3b5564a04b724c657732d0bf09c99db.jpg",
+          "previewfilepath": "/media/ap/1f7dca9c22f324751f2a5a59c9b181dfe3b5564a04b724c657732d0bf09c99db.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

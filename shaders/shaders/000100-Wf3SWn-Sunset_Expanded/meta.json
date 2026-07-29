@@ -1,0 +1,34 @@
+{
+  "id": "Wf3SWn",
+  "name": "Sunset Expanded",
+  "author": "Xor",
+  "description": "Based on my [url=https://x.com/XorDev/status/1918764164153049480]tweet shader[/url]\n    ",
+  "tags": [
+    "clouds",
+    "golf",
+    "300"
+  ],
+  "publishedAt": "2025-06-03T18:36:14.000Z",
+  "publishedTimestamp": 1748975774,
+  "views": 3064,
+  "likes": 100,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Wf3SWn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

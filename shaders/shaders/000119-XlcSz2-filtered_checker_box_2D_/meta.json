@@ -1,0 +1,35 @@
+{
+  "id": "XlcSz2",
+  "name": "filtered checker (box, 2D)",
+  "author": "iq",
+  "description": "A cheap analytical approximation to a filtered checkerboard pattern. Mostly copy and pasted from [url]http://http.developer.nvidia.com/GPUGems/gpugems_ch25.html[/url]. See also [url]https://www.shadertoy.com/view/MdjGR1[/url]. Move mouse.",
+  "tags": [
+    "procedural",
+    "2d",
+    "filter",
+    "checker"
+  ],
+  "publishedAt": "2016-11-30T03:01:46.000Z",
+  "publishedTimestamp": 1480474906,
+  "views": 10114,
+  "likes": 119,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlcSz2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

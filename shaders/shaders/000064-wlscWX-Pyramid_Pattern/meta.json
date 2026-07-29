@@ -1,0 +1,35 @@
+{
+  "id": "wlscWX",
+  "name": "Pyramid Pattern",
+  "author": "Shane",
+  "description": "An offset grid of square-based pyramids whose tips have been offset according to an underlying directional noise field. The faux lighting is provided via bump mapping. No raymarching was harmed during the making of this example. :)",
+  "tags": [
+    "square",
+    "bump",
+    "pattern",
+    "pyramid"
+  ],
+  "publishedAt": "2020-06-29T12:23:46.000Z",
+  "publishedTimestamp": 1593433426,
+  "views": 2089,
+  "likes": 64,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wlscWX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

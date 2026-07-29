@@ -1,0 +1,60 @@
+{
+  "id": "wt33RN",
+  "name": "[TWITCH] Refracted brutalism",
+  "author": "evvvvil",
+  "description": "\"Refracted brutalism\" result of a 2.5h improv live coding session on Twitch\nMAJOR THANKX go to: LJ, Crundle and Alkama for the hive mind and help with schlick-fresneled refracted reflections and size coded shadows.\nhttps://www.twitch.tv/evvvvil_",
+  "tags": [
+    "clouds",
+    "refraction",
+    "demoscene",
+    "light",
+    "shadows",
+    "reflections",
+    "fresnel",
+    "point",
+    "architecture",
+    "brutalism",
+    "twitch",
+    "improv",
+    "brutalist"
+  ],
+  "publishedAt": "2019-12-08T12:41:44.000Z",
+  "publishedTimestamp": 1575808904,
+  "views": 2967,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wt33RN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

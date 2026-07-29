@@ -1,0 +1,33 @@
+{
+  "id": "dlycDt",
+  "name": "Dutch Windmill [173 Chars]",
+  "author": "SnoopethDuckDuck",
+  "description": "just fiddling without thinking, golfing always welcome :)",
+  "tags": [
+    "golf",
+    "dutchcolors"
+  ],
+  "publishedAt": "2023-11-24T01:20:14.000Z",
+  "publishedTimestamp": 1700788814,
+  "views": 645,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/dlycDt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

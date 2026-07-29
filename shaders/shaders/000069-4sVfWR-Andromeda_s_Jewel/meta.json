@@ -1,0 +1,34 @@
+{
+  "id": "4sVfWR",
+  "name": "Andromeda's Jewel",
+  "author": "wyatt",
+  "description": "got inspired by trirop's awesome shader(s) https://www.shadertoy.com/view/MsScWD\nI didnt use Runge-Kutta integration because im just not that fancy\nI think i nailed the colors (happy accident), but not the lighting or the stars",
+  "tags": [
+    "fluid",
+    "planet",
+    "gas"
+  ],
+  "publishedAt": "2018-06-06T21:28:26.000Z",
+  "publishedTimestamp": 1528320506,
+  "views": 2974,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sVfWR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "MsXGRf",
+  "name": "Flames",
+  "author": "iq",
+  "description": "Toying with volumetric noise and inversion of space.",
+  "tags": [
+    "procedural",
+    "3d",
+    "raymarching",
+    "volumetric"
+  ],
+  "publishedAt": "2013-08-03T20:07:29.000Z",
+  "publishedTimestamp": 1375560449,
+  "views": 39948,
+  "likes": 229,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsXGRf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

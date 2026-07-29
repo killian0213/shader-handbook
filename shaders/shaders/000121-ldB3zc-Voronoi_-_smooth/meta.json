@@ -1,0 +1,35 @@
+{
+  "id": "ldB3zc",
+  "name": "Voronoi - smooth",
+  "author": "iq",
+  "description": "Smooth Voronoi - avoiding aliasing, by replacing the usual min() function, which is discontinuous, with a smooth version. That can help preventing some aliasing, and also provides with more artistic control of the final procedural textures/models.",
+  "tags": [
+    "2d",
+    "voronoi",
+    "worley",
+    "smooth"
+  ],
+  "publishedAt": "2014-02-05T23:09:35.000Z",
+  "publishedTimestamp": 1391641775,
+  "views": 14575,
+  "likes": 121,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldB3zc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

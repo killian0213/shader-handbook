@@ -1,0 +1,80 @@
+{
+  "id": "ts2cWD",
+  "name": "Waterfall - Procedural GFX",
+  "author": "NuSan",
+  "description": "Procural image made for Revision 2020 4k Excutable Graphics competition\nIt's a direct reference to M.C. Escher's \"Waterfall\" with an awesome impossible geometry.\nhttps://www.pouet.net/prod.php?which=85268",
+  "tags": [
+    "pathtrace",
+    "escher",
+    "toon",
+    "proceduralgraphics",
+    "reproduction"
+  ],
+  "publishedAt": "2020-04-12T16:11:20.000Z",
+  "publishedTimestamp": 1586707880,
+  "views": 7506,
+  "likes": 181,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ts2cWD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

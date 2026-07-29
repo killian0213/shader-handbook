@@ -1,0 +1,27 @@
+{
+  "id": "4ljGDd",
+  "name": "Magic Fractal",
+  "author": "dgreensp",
+  "description": "Experiment with this beautiful, cheap-to-compute fractal.  Inspired by Kali's \"Star Nest\".",
+  "tags": [
+    "fractal"
+  ],
+  "publishedAt": "2015-06-07T18:50:45.000Z",
+  "publishedTimestamp": 1433703045,
+  "views": 4417,
+  "likes": 64,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4ljGDd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

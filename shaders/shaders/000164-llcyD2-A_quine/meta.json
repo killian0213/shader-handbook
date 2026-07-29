@@ -1,0 +1,34 @@
+{
+  "id": "llcyD2",
+  "name": "A quine",
+  "author": "reinder",
+  "description": "This is [url=https://www.shadertoy.com/view/Ml3SWj]done[/url] [url=https://www.shadertoy.com/view/Mlj3zR]before[/url] and my code is not the most [url=https://www.shadertoy.com/view/MlGcRz]optimised[/url], but it is nice to write your own quine!",
+  "tags": [
+    "text",
+    "font",
+    "quine"
+  ],
+  "publishedAt": "2018-08-12T15:52:36.000Z",
+  "publishedTimestamp": 1534089156,
+  "views": 25404,
+  "likes": 164,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llcyD2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

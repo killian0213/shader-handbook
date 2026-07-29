@@ -1,0 +1,49 @@
+{
+  "id": "mslfR2",
+  "name": "More \"cubes\" for the cube lovers",
+  "author": "mrange",
+  "description": "CC0: More \"cubes\" for the cube lovers\n  Tinkering around with glow effects and one bounce reflections\n  Produced a few interesting \"cubes\" that some might enjoy.\n",
+  "tags": [
+    "3d",
+    "cubes"
+  ],
+  "publishedAt": "2023-07-10T07:41:59.000Z",
+  "publishedTimestamp": 1688974919,
+  "views": 11955,
+  "likes": 146,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/mslfR2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dfGzn",
+          "filepath": "/media/a/ec8a6ea755d34600547a5353f21f0a453f9f55ff95514383b2d80b8d71283eda.mp3",
+          "previewfilepath": "/media/ap/ec8a6ea755d34600547a5353f21f0a453f9f55ff95514383b2d80b8d71283eda.mp3",
+          "type": "music",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

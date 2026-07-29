@@ -1,0 +1,34 @@
+{
+  "id": "MdcXzn",
+  "name": "Geomechanical",
+  "author": "Bers",
+  "description": "Generative, smooth edged hexagonal prism primitive, shaded with arithmetic PBR Lights.",
+  "tags": [
+    "distancefield",
+    "hexagon",
+    "pbr"
+  ],
+  "publishedAt": "2016-03-06T23:51:51.000Z",
+  "publishedTimestamp": 1457308311,
+  "views": 15526,
+  "likes": 193,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdcXzn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

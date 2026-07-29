@@ -1,0 +1,52 @@
+{
+  "id": "XsXBDX",
+  "name": "Trip in Tron 3",
+  "author": "ocb",
+  "description": "Just for fun, a TRON cover for \"Boreal Spring\" shader: [/url]https://www.shadertoy.com/view/ldXBRH[/url]\n\nUse mouse to look around.",
+  "tags": [
+    "raytracing",
+    "grid",
+    "tron",
+    "aurora",
+    "raymarcing"
+  ],
+  "publishedAt": "2017-06-25T12:29:07.000Z",
+  "publishedTimestamp": 1498393747,
+  "views": 7350,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsXBDX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "MsBXzK",
+          "filepath": "https://soundcloud.com/andrewgavrilets/01-carbon-based-lifeforms",
+          "previewfilepath": "https://soundcloud.com/andrewgavrilets/01-carbon-based-lifeforms",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

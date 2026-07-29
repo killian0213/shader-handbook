@@ -1,0 +1,37 @@
+{
+  "id": "4sSSWz",
+  "name": "starDust",
+  "author": "and",
+  "description": "An attempt to make demoscene production in Shadertoy",
+  "tags": [
+    "sound",
+    "intro",
+    "demoscene",
+    "303"
+  ],
+  "publishedAt": "2014-09-15T02:14:01.000Z",
+  "publishedTimestamp": 1410747241,
+  "views": 17837,
+  "likes": 222,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sSSWz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

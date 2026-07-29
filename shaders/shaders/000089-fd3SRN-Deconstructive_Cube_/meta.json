@@ -1,0 +1,36 @@
+{
+  "id": "fd3SRN",
+  "name": "Deconstructive Cube ",
+  "author": "Tater",
+  "description": "You can turn on shadows if you have extra fps. ",
+  "tags": [
+    "3d",
+    "raymarching",
+    "cubes",
+    "subdivision",
+    "subdivide"
+  ],
+  "publishedAt": "2021-09-27T06:43:56.000Z",
+  "publishedTimestamp": 1632725036,
+  "views": 1623,
+  "likes": 89,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/fd3SRN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

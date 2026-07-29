@@ -1,0 +1,31 @@
+{
+  "id": "4t2SDh",
+  "name": "A faster triangle noise",
+  "author": "TomF",
+  "description": "A modification of https://www.shadertoy.com/view/4ssXRX, adding a second way to do triangle noise that only does a single RNG call. Whether it's actually *faster* depends on your chosen RNG function.",
+  "tags": [
+    "noise",
+    "random",
+    "rnd",
+    "distribution",
+    "trianglenoise"
+  ],
+  "publishedAt": "2015-09-27T00:19:03.000Z",
+  "publishedTimestamp": 1443313143,
+  "views": 11936,
+  "likes": 131,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4t2SDh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

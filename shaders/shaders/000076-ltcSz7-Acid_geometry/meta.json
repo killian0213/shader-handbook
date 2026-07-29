@@ -1,0 +1,36 @@
+{
+  "id": "ltcSz7",
+  "name": "Acid geometry",
+  "author": "xorxor",
+  "description": "Animgif remake of davidope's work\nhttp://dvdp.tumblr.com/post/96924050968/testing-toon-shaders-for-an-illustration-project\n\nStill learning distance field modelling and animation.\n",
+  "tags": [
+    "raymarching",
+    "cartoon",
+    "npr",
+    "codevember",
+    "dvdp"
+  ],
+  "publishedAt": "2016-11-09T15:12:54.000Z",
+  "publishedTimestamp": 1478704374,
+  "views": 3241,
+  "likes": 76,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltcSz7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

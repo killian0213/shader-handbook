@@ -1,0 +1,47 @@
+{
+  "id": "cl3GWr",
+  "name": "simple lighting model",
+  "author": "Poisson",
+  "description": "A simple lighting model.\nFeatures: lambert, phong, blinn phong, ggx brdf, roughness, schlick fresnel, ior",
+  "tags": [
+    "3d",
+    "raytracing",
+    "reflection",
+    "raytracer",
+    "ray",
+    "d",
+    "lighting",
+    "light",
+    "sphere",
+    "antialiasing",
+    "specular",
+    "lambert",
+    "aa",
+    "model",
+    "diffuse",
+    "pbr"
+  ],
+  "publishedAt": "2023-04-23T13:03:35.000Z",
+  "publishedTimestamp": 1682255015,
+  "views": 1545,
+  "likes": 74,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/cl3GWr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

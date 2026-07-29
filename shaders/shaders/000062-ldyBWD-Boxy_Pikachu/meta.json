@@ -1,0 +1,34 @@
+{
+  "id": "ldyBWD",
+  "name": "Boxy Pikachu",
+  "author": "fizzer",
+  "description": "A fanart recreation of the new boxy Pikachu design from the Nintendo game Pokémon Quest.\nIt turns out Pokémon are easy to make with SDFs when they are made of boxes!",
+  "tags": [
+    "nintendo",
+    "pikachu",
+    "boxy"
+  ],
+  "publishedAt": "2018-06-12T21:51:22.000Z",
+  "publishedTimestamp": 1528840282,
+  "views": 3135,
+  "likes": 62,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldyBWD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

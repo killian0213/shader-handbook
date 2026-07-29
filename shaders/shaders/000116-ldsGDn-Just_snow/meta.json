@@ -1,0 +1,28 @@
+{
+  "id": "ldsGDn",
+  "name": "Just snow",
+  "author": "baldand",
+  "description": "Simple (but not cheap) snow made from multiple parallax layers with randomly positioned flakes and directions. \nAlso includes a DoF effect. Pan around with mouse.",
+  "tags": [
+    "2d",
+    "parallax"
+  ],
+  "publishedAt": "2013-05-06T20:47:41.000Z",
+  "publishedTimestamp": 1367873261,
+  "views": 14029,
+  "likes": 116,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldsGDn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

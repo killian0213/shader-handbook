@@ -1,0 +1,77 @@
+{
+  "id": "MdG3RD",
+  "name": "Blue Dream",
+  "author": "Passion",
+  "description": "Testing out the new back-buffer/multipass rendering feature. Reference: https://medium.com/community-play-3d/god-rays-whats-that-5a67f26aeac2#.g4qq9i1rk - Also used some code from the user/member 'Dila' in the raymarcher.",
+  "tags": [
+    "raymarch",
+    "godrays",
+    "postprocess"
+  ],
+  "publishedAt": "2016-01-22T04:42:40.000Z",
+  "publishedTimestamp": 1453437760,
+  "views": 7584,
+  "likes": 82,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 96,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdG3RD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dfGW8",
+          "filepath": "https://soundcloud.com/devolverdigital/el-huervo-feat-shelby-cinca",
+          "previewfilepath": "https://soundcloud.com/devolverdigital/el-huervo-feat-shelby-cinca",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buf A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

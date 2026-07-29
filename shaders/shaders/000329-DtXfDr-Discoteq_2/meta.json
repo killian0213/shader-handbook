@@ -1,0 +1,37 @@
+{
+  "id": "DtXfDr",
+  "name": "Discoteq 2",
+  "author": "supah",
+  "description": "Discoteq 2",
+  "tags": [
+    "blur",
+    "lines",
+    "smoothstep",
+    "sinusoidal",
+    "beautiful",
+    "discoteque"
+  ],
+  "publishedAt": "2023-08-23T10:42:47.000Z",
+  "publishedTimestamp": 1692787367,
+  "views": 15138,
+  "likes": 329,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/DtXfDr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

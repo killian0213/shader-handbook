@@ -1,0 +1,54 @@
+{
+  "id": "4tc3zf",
+  "name": "Galvanize",
+  "author": "Virgill",
+  "description": "Gallvanize / Alcatraz \nJochen \"Virgill\" Feldkoetter\nIntro for Nordlicht demoparty 2014      Shadertoy version\nhttps://www.youtube.com/watch?v=z5cFJryE_fc",
+  "tags": [
+    "raymarching",
+    "reflection",
+    "intro",
+    "mandelbulb",
+    "demoscene",
+    "menger",
+    "kalibox"
+  ],
+  "publishedAt": "2016-08-06T10:43:08.000Z",
+  "publishedTimestamp": 1470480188,
+  "views": 9391,
+  "likes": 92,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tc3zf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sj3Rh",
+          "filepath": "https://soundcloud.com/virgill/galvanize-soundtrack",
+          "previewfilepath": "https://soundcloud.com/virgill/galvanize-soundtrack",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ddjcWh",
+  "name": "Sunday morning random results",
+  "author": "mrange",
+  "description": "CC0: Sunday morning random results\nTinkering around on sunday morning\n",
+  "tags": [
+    "kaleidoscope"
+  ],
+  "publishedAt": "2023-06-25T07:47:50.000Z",
+  "publishedTimestamp": 1687679270,
+  "views": 2483,
+  "likes": 110,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ddjcWh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

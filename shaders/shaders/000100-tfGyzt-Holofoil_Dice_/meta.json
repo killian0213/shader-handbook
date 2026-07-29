@@ -1,0 +1,40 @@
+{
+  "id": "tfGyzt",
+  "name": "Holofoil Dice 🎲 ✨",
+  "author": "Jaenam",
+  "description": "Finally found a way to render holofoil textures. Iridescent material with etched facets.\n\nYou can also use mouse control.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "texture",
+    "dice",
+    "holographic",
+    "iridescence",
+    "short",
+    "foil",
+    "holofoil"
+  ],
+  "publishedAt": "2025-12-07T13:03:16.000Z",
+  "publishedTimestamp": 1765112596,
+  "views": 2138,
+  "likes": 100,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tfGyzt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

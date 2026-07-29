@@ -1,0 +1,36 @@
+{
+  "id": "MljSRD",
+  "name": "Ray Marching Experiment n°33bis",
+  "author": "aiekick",
+  "description": "Another arrangement",
+  "tags": [
+    "ray",
+    "experiment",
+    "marching",
+    "33",
+    "bis"
+  ],
+  "publishedAt": "2015-09-14T00:12:55.000Z",
+  "publishedTimestamp": 1442189575,
+  "views": 7141,
+  "likes": 89,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MljSRD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

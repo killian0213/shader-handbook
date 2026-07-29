@@ -1,0 +1,42 @@
+{
+  "id": "ttlGDf",
+  "name": "WARP",
+  "author": "alro",
+  "description": "Position distortion with sin/cos",
+  "tags": [
+    "distort",
+    "sin",
+    "cos",
+    "warp"
+  ],
+  "publishedAt": "2019-05-15T19:19:14.000Z",
+  "publishedTimestamp": 1557947954,
+  "views": 3917,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ttlGDf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

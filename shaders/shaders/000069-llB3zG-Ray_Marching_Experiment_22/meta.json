@@ -1,0 +1,46 @@
+{
+  "id": "llB3zG",
+  "name": "Ray Marching Experiment 22",
+  "author": "aiekick",
+  "description": "Pattern based on IQ shader https://www.shadertoy.com/view/Xd2GR3 \nThanks to public_int_i/ethan for godray adding\nuse mouse y to change pattern and use mouse x to change camera distance",
+  "tags": [
+    "ray",
+    "experiment",
+    "marching",
+    "22"
+  ],
+  "publishedAt": "2015-04-24T12:59:53.000Z",
+  "publishedTimestamp": 1429880393,
+  "views": 10349,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llB3zG",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsfGzn",
+          "filepath": "/media/a/585f9546c092f53ded45332b343144396c0b2d70d9965f585ebc172080d8aa58.jpg",
+          "previewfilepath": "/media/ap/585f9546c092f53ded45332b343144396c0b2d70d9965f585ebc172080d8aa58.jpg",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

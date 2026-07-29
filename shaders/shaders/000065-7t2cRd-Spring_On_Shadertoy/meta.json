@@ -1,0 +1,36 @@
+{
+  "id": "7t2cRd",
+  "name": "Spring On Shadertoy",
+  "author": "sylvain69780",
+  "description": "The flowers are blooming on Shadertoy !",
+  "tags": [
+    "folding",
+    "icosahedron",
+    "symmetry",
+    "spring",
+    "flowers"
+  ],
+  "publishedAt": "2022-04-16T21:33:37.000Z",
+  "publishedTimestamp": 1650144817,
+  "views": 839,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7t2cRd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

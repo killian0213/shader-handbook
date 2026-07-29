@@ -1,0 +1,36 @@
+{
+  "id": "mdy3R1",
+  "name": "Procedural Wood texture",
+  "author": "dean_the_coder",
+  "description": "I spent some time working on some noise functions and then used them to make a wood texture. I'd never used musgrave noise before - Looks very cool.\nI've tried to keep the code size down - Let me know if you find this useful!",
+  "tags": [
+    "procedural",
+    "texture",
+    "wood",
+    "material",
+    "nature"
+  ],
+  "publishedAt": "2023-03-07T10:04:34.000Z",
+  "publishedTimestamp": 1678183474,
+  "views": 3198,
+  "likes": 75,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/mdy3R1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

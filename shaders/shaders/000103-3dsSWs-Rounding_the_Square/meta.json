@@ -1,0 +1,51 @@
+{
+  "id": "3dsSWs",
+  "name": "Rounding the Square",
+  "author": "iq",
+  "description": "Mapping the unit square into the unit disk, shown as a mesh here. I found [url=https://arxiv.org/ftp/arxiv/papers/1509/1509.06344.pdf]this paper[/url] and simplified their maths into v = maxcomp(abs(v))*normalize(v). Colors show amount of displacement.",
+  "tags": [
+    "2d",
+    "circle",
+    "map",
+    "square"
+  ],
+  "publishedAt": "2019-03-14T09:37:48.000Z",
+  "publishedTimestamp": 1552556268,
+  "views": 6074,
+  "likes": 103,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3dsSWs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dfGRn",
+          "filepath": "/media/a/8de3a3924cb95bd0e95a443fff0326c869f9d4979cd1d5b6e94e2a01f5be53e9.jpg",
+          "previewfilepath": "/media/ap/8de3a3924cb95bd0e95a443fff0326c869f9d4979cd1d5b6e94e2a01f5be53e9.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

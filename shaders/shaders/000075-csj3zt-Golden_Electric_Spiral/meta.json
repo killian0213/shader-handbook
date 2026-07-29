@@ -1,0 +1,32 @@
+{
+  "id": "csj3zt",
+  "name": "Golden Electric Spiral",
+  "author": "SnoopethDuckDuck",
+  "description": "wanted to use vec2(d1,d2)/(d1+d2) as co-ords then played around with things",
+  "tags": [
+    "spiral"
+  ],
+  "publishedAt": "2022-11-09T20:57:44.000Z",
+  "publishedTimestamp": 1668027464,
+  "views": 5244,
+  "likes": 75,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/csj3zt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

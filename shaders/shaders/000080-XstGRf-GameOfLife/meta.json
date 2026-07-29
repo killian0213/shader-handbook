@@ -1,0 +1,82 @@
+{
+  "id": "XstGRf",
+  "name": "GameOfLife",
+  "author": "iq",
+  "description": "Conway's Game of Life [url]https://iquilezles.org/articles/gameoflife[/url]. Buffer A contains the world and it reads/writes to itself to perform the simulation. I implemented 3 variants",
+  "tags": [
+    "2d",
+    "simulation",
+    "automata",
+    "life",
+    "conway",
+    "gameoflife",
+    "multipass"
+  ],
+  "publishedAt": "2016-01-02T08:43:43.000Z",
+  "publishedTimestamp": 1451724223,
+  "views": 9503,
+  "likes": 80,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XstGRf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

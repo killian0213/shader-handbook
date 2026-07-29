@@ -1,0 +1,70 @@
+{
+  "id": "4tVcWR",
+  "name": "Ohanami Stipple",
+  "author": "fizzer",
+  "description": "This is a port of the code from the \"Ohanami\" 4kb demo: https://www.pouet.net/prod.php?which=71888\nThe code has been left in the minified state, mostly because I don't have the un-minified version of the code anymore. :)\nUse mouse Y to change camera tilt.",
+  "tags": [
+    "tree",
+    "paint",
+    "pointilism",
+    "blossom"
+  ],
+  "publishedAt": "2018-08-31T23:15:35.000Z",
+  "publishedTimestamp": 1535757335,
+  "views": 2862,
+  "likes": 127,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tVcWR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

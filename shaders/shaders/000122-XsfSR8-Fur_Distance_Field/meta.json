@@ -1,0 +1,50 @@
+{
+  "id": "XsfSR8",
+  "name": "Fur Distance Field",
+  "author": "hat",
+  "description": "Based on (www.shadertoy.com/view/XsfGWN),  I wanted to implement fur on a more generic distance field, The idea is to apply the deformations from the distance field to the fur density in the radial direction, and the shading from the original field.",
+  "tags": [
+    "raymarching",
+    "distancefield",
+    "fur"
+  ],
+  "publishedAt": "2014-03-31T17:12:15.000Z",
+  "publishedTimestamp": 1396285935,
+  "views": 10148,
+  "likes": 122,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsfSR8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

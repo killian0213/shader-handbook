@@ -1,0 +1,39 @@
+{
+  "id": "tljyRR",
+  "name": "Hyperbolic Poincare Weave",
+  "author": "Shane",
+  "description": "A hyperbolic Poincare double sided Truchet weave that draws inspiration from Escher's Snake print and Mattz's \"Hyperbolic Truchet tiles\" example.",
+  "tags": [
+    "escher",
+    "truchet",
+    "geometry",
+    "tile",
+    "art",
+    "hyperbolic",
+    "poincare",
+    "weave"
+  ],
+  "publishedAt": "2020-07-13T14:47:36.000Z",
+  "publishedTimestamp": 1594651656,
+  "views": 3041,
+  "likes": 146,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tljyRR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

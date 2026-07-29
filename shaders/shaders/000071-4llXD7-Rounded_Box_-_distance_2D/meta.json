@@ -1,0 +1,36 @@
+{
+  "id": "4llXD7",
+  "name": "Rounded Box - distance 2D",
+  "author": "iq",
+  "description": "SIGNED distance to a rounded box. Video tutorials explaining how it works: [url]https://www.youtube.com/watch?v=62-pRVZuS5c[/url] and [url]https://www.youtube.com/watch?v=s5NGeUV2EyU[/url]",
+  "tags": [
+    "2d",
+    "sdf",
+    "distance",
+    "box",
+    "signed"
+  ],
+  "publishedAt": "2015-07-18T05:24:14.000Z",
+  "publishedTimestamp": 1437197054,
+  "views": 31012,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4llXD7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

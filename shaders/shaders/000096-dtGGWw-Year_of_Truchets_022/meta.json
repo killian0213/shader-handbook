@@ -1,0 +1,63 @@
+{
+  "id": "dtGGWw",
+  "name": "Year of Truchets #022",
+  "author": "byt3_m3chanic",
+  "description": "All year long I'm going to just focus on truchet tiles and the likes!\n",
+  "tags": [
+    "raymarching",
+    "tv",
+    "truchet",
+    "inversion"
+  ],
+  "publishedAt": "2023-05-21T00:02:01.000Z",
+  "publishedTimestamp": 1684627321,
+  "views": 3906,
+  "likes": 96,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/dtGGWw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

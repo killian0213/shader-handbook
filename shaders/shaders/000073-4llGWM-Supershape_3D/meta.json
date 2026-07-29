@@ -1,0 +1,29 @@
+{
+  "id": "4llGWM",
+  "name": "Supershape 3D",
+  "author": "eiffie",
+  "description": "I just wanted to see what it looks like but actually this method works ok-ish. If anyone knows of a DE for these things let me know - or if you spot improvements!!",
+  "tags": [
+    "3d",
+    "superformula",
+    "supershape"
+  ],
+  "publishedAt": "2015-01-28T15:14:31.000Z",
+  "publishedTimestamp": 1422458071,
+  "views": 5647,
+  "likes": 73,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4llGWM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

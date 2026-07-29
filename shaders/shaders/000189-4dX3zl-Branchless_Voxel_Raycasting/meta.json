@@ -1,0 +1,35 @@
+{
+  "id": "4dX3zl",
+  "name": "Branchless Voxel Raycasting",
+  "author": "fb39ca4",
+  "description": "Typical DDA algorithms used for voxel traversal use if statements to decide which axis to advance the ray along.  I have devised a modification that eliminates most of them, increasing the performance on GPUs, which do not cope well with branching code.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "raycasting",
+    "voxel"
+  ],
+  "publishedAt": "2013-08-12T22:55:25.000Z",
+  "publishedTimestamp": 1376348125,
+  "views": 44511,
+  "likes": 189,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dX3zl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

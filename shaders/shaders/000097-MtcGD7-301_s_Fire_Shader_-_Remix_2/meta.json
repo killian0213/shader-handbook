@@ -1,0 +1,34 @@
+{
+  "id": "MtcGD7",
+  "name": "301's Fire Shader - Remix 2",
+  "author": "CaliCoastReplay",
+  "description": "A big thank you to \tFabriceNeyret2  who told me how to achieve this more vivid look!  Positively conflagarative!  Try it in fire rain config!\n\nRemix 1 here:  https://www.shadertoy.com/view/llc3DM\nOriginal here:  \nhttps://www.shadertoy.com/view/XsXXRN",
+  "tags": [
+    "flame",
+    "fire",
+    "blaze"
+  ],
+  "publishedAt": "2016-07-27T07:21:22.000Z",
+  "publishedTimestamp": 1469604082,
+  "views": 11432,
+  "likes": 97,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MtcGD7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

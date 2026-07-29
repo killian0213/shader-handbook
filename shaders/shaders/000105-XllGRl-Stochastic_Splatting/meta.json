@@ -1,0 +1,55 @@
+{
+  "id": "XllGRl",
+  "name": "Stochastic Splatting",
+  "author": "iq",
+  "description": "Stochastic sampling a point cloud. A points cloud is generated per pixel, and the points are projected into screen space. A z/depth buffer mechanism resolves visibility, and then shading happens in a deferred manner.",
+  "tags": [
+    "3d",
+    "pointcloud",
+    "projection",
+    "rasterization",
+    "points",
+    "splat",
+    "stochastic",
+    "splatting"
+  ],
+  "publishedAt": "2015-02-19T00:55:27.000Z",
+  "publishedTimestamp": 1424307327,
+  "views": 8956,
+  "likes": 105,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XllGRl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsXGRn",
+          "filepath": "/media/a/cd4c518bc6ef165c39d4405b347b51ba40f8d7a065ab0e8d2e4f422cbc1e8a43.jpg",
+          "previewfilepath": "/media/ap/cd4c518bc6ef165c39d4405b347b51ba40f8d7a065ab0e8d2e4f422cbc1e8a43.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

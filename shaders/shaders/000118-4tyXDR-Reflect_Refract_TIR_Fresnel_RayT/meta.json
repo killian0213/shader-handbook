@@ -1,0 +1,52 @@
+{
+  "id": "4tyXDR",
+  "name": "Reflect Refract TIR Fresnel RayT",
+  "author": "demofox",
+  "description": "A raytracer to go along with a blog post about reflection, refraction, total internal reflection and fresnel.\nDrag mouse for orbit camera.\nPlay with #define parameters.\nhttp://blog.demofox.org/2017/01/09/raytracing-reflection-refraction-fresnel-total-inte",
+  "tags": [
+    "reflection",
+    "refraction",
+    "raytrace",
+    "fresnel",
+    "tir"
+  ],
+  "publishedAt": "2017-01-08T05:05:59.000Z",
+  "publishedTimestamp": 1483851959,
+  "views": 12199,
+  "likes": 118,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tyXDR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdX3zn",
+          "filepath": "/media/a/488bd40303a2e2b9a71987e48c66ef41f5e937174bf316d3ed0e86410784b919.jpg",
+          "previewfilepath": "/media/ap/488bd40303a2e2b9a71987e48c66ef41f5e937174bf316d3ed0e86410784b919.jpg",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

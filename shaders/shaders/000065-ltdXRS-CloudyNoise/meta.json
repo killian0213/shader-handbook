@@ -1,0 +1,33 @@
+{
+  "id": "ltdXRS",
+  "name": "CloudyNoise",
+  "author": "kuvkar",
+  "description": "tinkering some noise that might work for clouds etc.",
+  "tags": [
+    "noise",
+    "clouds"
+  ],
+  "publishedAt": "2016-11-28T22:07:50.000Z",
+  "publishedTimestamp": 1480370870,
+  "views": 4441,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltdXRS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "scS3Wm",
+  "name": "Hyperkart",
+  "author": "diatribes",
+  "description": "Hyperkart",
+  "tags": [
+    "tunnel",
+    "raymarch"
+  ],
+  "publishedAt": "2026-03-22T02:08:45.000Z",
+  "publishedTimestamp": 1774145325,
+  "views": 6734,
+  "likes": 94,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/scS3Wm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "tt2XzG",
+  "name": "Sphere Gears",
+  "author": "iq",
+  "description": "Originally based on [url]https://www.shadertoy.com/view/XlVcWz[/url], but much more optimized and remade. LIVE coding tutorial on it here: [url]https://www.youtube.com/watch?v=sl9x19EnKng[/url]",
+  "tags": [
+    "3d",
+    "raymarching",
+    "gears",
+    "sdf",
+    "motionblur"
+  ],
+  "publishedAt": "2019-08-20T22:20:23.000Z",
+  "publishedTimestamp": 1566339623,
+  "views": 30130,
+  "likes": 292,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tt2XzG",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGRn",
+          "filepath": "/media/a/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "previewfilepath": "/media/ap/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

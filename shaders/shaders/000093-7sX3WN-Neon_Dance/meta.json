@@ -1,0 +1,49 @@
+{
+  "id": "7sX3WN",
+  "name": "Neon Dance",
+  "author": "Kali",
+  "description": "Raymarching a heightmap with fixed steps and binary search. 2D Mandelbox fractal variation used for animated coloring.",
+  "tags": [
+    "fractal",
+    "terrain"
+  ],
+  "publishedAt": "2021-03-17T01:28:42.000Z",
+  "publishedTimestamp": 1615944522,
+  "views": 5793,
+  "likes": 93,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7sX3WN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "ftjyDK",
+  "name": "Sparkly Things",
+  "author": "oneshade",
+  "description": ".",
+  "tags": [
+    "star",
+    "lights",
+    "sparkle"
+  ],
+  "publishedAt": "2022-04-18T05:28:06.000Z",
+  "publishedTimestamp": 1650259686,
+  "views": 2237,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ftjyDK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

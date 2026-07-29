@@ -1,0 +1,33 @@
+{
+  "id": "3sGfD3",
+  "name": "Spiral Riders",
+  "author": "Kali",
+  "description": "Animated orbit traps, fractal formula: z=(z+1/z-c)*scale*rotation",
+  "tags": [
+    "2d",
+    "fractal"
+  ],
+  "publishedAt": "2020-12-15T15:02:12.000Z",
+  "publishedTimestamp": 1608044532,
+  "views": 2382,
+  "likes": 94,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3sGfD3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

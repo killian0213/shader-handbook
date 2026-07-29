@@ -1,0 +1,34 @@
+{
+  "id": "st3BDf",
+  "name": "Truchet Trip",
+  "author": "BigWIngs",
+  "description": "What you get when you weave two quad truchet layers. ",
+  "tags": [
+    "truchet",
+    "quad",
+    "weave"
+  ],
+  "publishedAt": "2022-09-21T03:29:14.000Z",
+  "publishedTimestamp": 1663730954,
+  "views": 1024,
+  "likes": 62,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/st3BDf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

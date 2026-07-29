@@ -1,0 +1,36 @@
+{
+  "id": "MslSDN",
+  "name": "Morphing",
+  "author": "iapafoto",
+  "description": "[Mouse available]\n3D morphing between 2 distance fields is just a \"mix\" between the distances of the 2 scenes  :) (possible to extend it to colors of course).",
+  "tags": [
+    "distancefield",
+    "bezier",
+    "hsv",
+    "teapot",
+    "morphing"
+  ],
+  "publishedAt": "2014-06-01T15:22:38.000Z",
+  "publishedTimestamp": 1401636158,
+  "views": 9597,
+  "likes": 101,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MslSDN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

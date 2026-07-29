@@ -1,0 +1,35 @@
+{
+  "id": "sXfGWj",
+  "name": "Goldeen",
+  "author": "noztol",
+  "description": "This is Goldeen another Pokémon in my series to do a shader for every Pokémon. ",
+  "tags": [
+    "fish",
+    "pokemon",
+    "swim",
+    "goldeen"
+  ],
+  "publishedAt": "2026-05-14T03:13:55.000Z",
+  "publishedTimestamp": 1778728435,
+  "views": 4504,
+  "likes": 62,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/sXfGWj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "4tjBRz",
+  "name": "Shiny spheres",
+  "author": "iq",
+  "description": "Experimenting with this rendering algorithm, in at attempt to get perfectly antialiased pixels without performing any supersampling. The point being, it should look smooth and [b]also[/b] run fast in all machines. I hope!",
+  "tags": [
+    "3d",
+    "antialiasing",
+    "spheres",
+    "filtering",
+    "analytiv"
+  ],
+  "publishedAt": "2017-12-27T06:58:40.000Z",
+  "publishedTimestamp": 1514357920,
+  "views": 7047,
+  "likes": 106,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tjBRz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGRr",
+          "filepath": "/media/a/48e2d9ef22ca6673330b8c38a260c87694d2bbc94c19fec9dfa4a1222c364a99.mp3",
+          "previewfilepath": "/media/ap/48e2d9ef22ca6673330b8c38a260c87694d2bbc94c19fec9dfa4a1222c364a99.mp3",
+          "type": "music",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

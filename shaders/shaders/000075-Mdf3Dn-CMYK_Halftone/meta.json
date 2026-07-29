@@ -1,0 +1,50 @@
+{
+  "id": "Mdf3Dn",
+  "name": "CMYK Halftone",
+  "author": "tsone",
+  "description": "CMYK halftone shader. Use mouse to scale and rotate halftone pattern. View in full screen for best result.",
+  "tags": [
+    "post",
+    "halftone",
+    "cmyk"
+  ],
+  "publishedAt": "2013-05-03T08:23:41.000Z",
+  "publishedTimestamp": 1367569421,
+  "views": 7303,
+  "likes": 75,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mdf3Dn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sX3Rn",
+          "filepath": "/media/a/c3a071ecf273428bc72fc72b2dd972671de8da420a2d4f917b75d20e1c24b34c.ogv",
+          "previewfilepath": "/media/ap/c3a071ecf273428bc72fc72b2dd972671de8da420a2d4f917b75d20e1c24b34c.ogv",
+          "type": "video",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

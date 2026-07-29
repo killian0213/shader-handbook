@@ -1,0 +1,54 @@
+{
+  "id": "slfSzS",
+  "name": "Sitting By The Window",
+  "author": "Katur",
+  "description": "And dreaming of everything",
+  "tags": [
+    "refraction",
+    "blur",
+    "normals",
+    "rain",
+    "webcam",
+    "window",
+    "raindrop"
+  ],
+  "publishedAt": "2021-07-10T15:41:12.000Z",
+  "publishedTimestamp": 1625931672,
+  "views": 6150,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 2,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/slfSzS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sf3zn",
+          "filepath": "/presets/webcam.png",
+          "previewfilepath": "/presets/webcam.png",
+          "type": "webcam",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

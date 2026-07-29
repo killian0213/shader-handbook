@@ -1,0 +1,14 @@
+# Local / heavy / generated — not needed on the public site
+analysis/
+shots/
+web/tools/_shot/
+web/tools/*.png
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+.env
+.env.*

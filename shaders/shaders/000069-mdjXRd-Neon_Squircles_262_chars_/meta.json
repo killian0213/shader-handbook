@@ -1,0 +1,36 @@
+{
+  "id": "mdjXRd",
+  "name": "Neon Squircles [262 chars]",
+  "author": "kishimisu",
+  "description": "Squircles are a mix between a square and a circle.\nSuper simple to do in shaders : length(u) is a circle, length(u*u) is a squircle.",
+  "tags": [
+    "animation",
+    "code",
+    "squircle",
+    "golf",
+    "golfing"
+  ],
+  "publishedAt": "2022-12-11T13:01:15.000Z",
+  "publishedTimestamp": 1670763675,
+  "views": 2669,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/mdjXRd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

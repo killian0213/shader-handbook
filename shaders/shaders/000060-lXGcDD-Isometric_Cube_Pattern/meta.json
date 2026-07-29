@@ -1,0 +1,35 @@
+{
+  "id": "lXGcDD",
+  "name": "Isometric Cube Pattern",
+  "author": "Shane",
+  "description": "Producing a common hexagonal design by constructing an isometric camera then rendering a simple block pattern onto the faces of a cube.",
+  "tags": [
+    "raymarching",
+    "cube",
+    "animation",
+    "isometric"
+  ],
+  "publishedAt": "2025-01-07T14:13:13.000Z",
+  "publishedTimestamp": 1736259193,
+  "views": 724,
+  "likes": 60,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lXGcDD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

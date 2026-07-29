@@ -1,0 +1,33 @@
+{
+  "id": "4tlSzl",
+  "name": "Combustible Voronoi",
+  "author": "Shane",
+  "description": "The effect itself is nothing new or exciting, just some moving 3D Voronoi layering. However, the fire palette might prove useful to some.",
+  "tags": [
+    "voronoi",
+    "fire"
+  ],
+  "publishedAt": "2015-08-18T13:00:48.000Z",
+  "publishedTimestamp": 1439902848,
+  "views": 23530,
+  "likes": 236,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tlSzl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ltcXRf",
+  "name": "Exploding Star.",
+  "author": "slembcke",
+  "description": "Hacking on Duke's Dusty Nebula 4: https://www.shadertoy.com/view/MsVXWW\n\nI wanted to experiment with changing the raymarching scheme a bit. Ended up adding a star, and making it more explodey. Might try adding self occlusion next.",
+  "tags": [
+    "nebula"
+  ],
+  "publishedAt": "2016-12-04T03:41:50.000Z",
+  "publishedTimestamp": 1480822910,
+  "views": 2003,
+  "likes": 77,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltcXRf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

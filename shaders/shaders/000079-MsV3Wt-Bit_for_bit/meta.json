@@ -1,0 +1,38 @@
+{
+  "id": "MsV3Wt",
+  "name": "Bit for bit",
+  "author": "anastadunbar",
+  "description": "Original animation by Dave Whyte http://bit.ly/1p6Od43. Ulam spiral function from http://glslsandbox.com/e#30868.0. Was really fast to copy.",
+  "tags": [
+    "2d",
+    "simple",
+    "loop",
+    "trippy",
+    "hypnotizing",
+    "squares",
+    "gif"
+  ],
+  "publishedAt": "2016-03-05T13:25:26.000Z",
+  "publishedTimestamp": 1457184326,
+  "views": 1914,
+  "likes": 79,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsV3Wt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "lsfGDB",
+  "name": "CoordSys - intersection",
+  "author": "iq",
+  "description": "Spinning disks",
+  "tags": [
+    "3d",
+    "raytracing",
+    "intersection",
+    "disk"
+  ],
+  "publishedAt": "2013-09-04T06:46:56.000Z",
+  "publishedTimestamp": 1378277216,
+  "views": 29202,
+  "likes": 138,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsfGDB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "3lXXWX",
+  "name": "Rave Sickness - Oropendola VIZU",
+  "author": "ttoinou",
+  "description": "[url=https://youtu.be/XYrRWPAB_o4]Youtube Render[/url]\n[url=https://soundcloud.com/bigmamashouse/rave-sickness-oropendola-stig ]Music on Soundcloud[/url]\n[url=https://www.shadertoy.com/view/XsSfWm ]Previous Shader[/url]",
+  "tags": [
+    "triangle",
+    "music",
+    "conway",
+    "clip",
+    "track",
+    "pinwheel",
+    "vizu",
+    "musicclip",
+    "musicclip"
+  ],
+  "publishedAt": "2019-07-29T16:40:41.000Z",
+  "publishedTimestamp": 1564418441,
+  "views": 6444,
+  "likes": 101,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 96,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3lXXWX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "MlX3Rf",
+          "filepath": "https://soundcloud.com/bigmamashouse/rave-sickness-oropendola-stig",
+          "previewfilepath": "https://soundcloud.com/bigmamashouse/rave-sickness-oropendola-stig",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

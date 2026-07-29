@@ -1,0 +1,30 @@
+{
+  "id": "Xdf3zB",
+  "name": "Equi-Angular Sampling",
+  "author": "sjb",
+  "description": "Implementation of point light case of \"Importance Sampling Techniques for Path Tracing in Participating Media\" by Kulla and Fajardo.\n\n16spp by default. Left: scattering sampling, right: equi-angular sampling. Use mouse to move slider!",
+  "tags": [
+    "raymarching",
+    "media",
+    "homogenous",
+    "equiangular"
+  ],
+  "publishedAt": "2013-07-03T20:31:37.000Z",
+  "publishedTimestamp": 1372883497,
+  "views": 10384,
+  "likes": 130,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xdf3zB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

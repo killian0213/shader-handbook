@@ -1,0 +1,31 @@
+{
+  "id": "4lsXW2",
+  "name": "MetaLight Danse Grid 1",
+  "author": "aiekick",
+  "description": "click on cell to see cell in fullscreen\nthe time reset each 30 sec",
+  "tags": [
+    "2d",
+    "light",
+    "metaball",
+    "grdi",
+    "danse"
+  ],
+  "publishedAt": "2015-08-17T17:57:53.000Z",
+  "publishedTimestamp": 1439834273,
+  "views": 3961,
+  "likes": 112,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4lsXW2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "WslGWl",
+  "name": "Cloud raymarching",
+  "author": "edo_m18",
+  "description": "Cloud raymarching sample. This is cloned from https://www.shadertoy.com/view/lss3zr\n\nI also post an article of detail of this post.\nhttps://qiita.com/edo_m18/items/cbba0cc4e33a5aa3be55",
+  "tags": [
+    "raymarching",
+    "cloud",
+    "cineshader"
+  ],
+  "publishedAt": "2019-02-10T08:34:01.000Z",
+  "publishedTimestamp": 1549787641,
+  "views": 383477,
+  "likes": 176,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WslGWl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "Xdl3D8",
+  "name": "Old video",
+  "author": "jmpep",
+  "description": "Quick and dirty shader to make videos look terribly old. Keep the left mouse button pressed to see the original video.\n\nNot sure whether this shader can be useful, but well, it was fun to do. Any comments are welcome, of course! :)",
+  "tags": [
+    "2d",
+    "postprocessing",
+    "blackandwhite",
+    "tv",
+    "old",
+    "cinema"
+  ],
+  "publishedAt": "2013-05-17T02:18:32.000Z",
+  "publishedTimestamp": 1368757112,
+  "views": 5349,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xdl3D8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sX3Rn",
+          "filepath": "/media/a/c3a071ecf273428bc72fc72b2dd972671de8da420a2d4f917b75d20e1c24b34c.ogv",
+          "previewfilepath": "/media/ap/c3a071ecf273428bc72fc72b2dd972671de8da420a2d4f917b75d20e1c24b34c.ogv",
+          "type": "video",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

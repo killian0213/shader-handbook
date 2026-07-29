@@ -1,0 +1,53 @@
+{
+  "id": "Mt3fWS",
+  "name": "Tornado !",
+  "author": "hamtarodeluxe",
+  "description": "An other use of https://www.shadertoy.com/view/llycW1\nI think the 3D hash I use for the dithering has a weird redundant pattern? (fixed by using a 1D integer hash on index of X, Y, Frame)\nUse the mouse to move around :-)",
+  "tags": [
+    "raymarching",
+    "volume",
+    "cloud",
+    "lighting",
+    "smoke",
+    "tornado"
+  ],
+  "publishedAt": "2018-10-31T10:46:15.000Z",
+  "publishedTimestamp": 1540982775,
+  "views": 3537,
+  "likes": 94,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mt3fWS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sfGRr",
+          "filepath": "/media/a/27012b4eadd0c3ce12498b867058e4f717ce79e10a99568cca461682d84a4b04.bin",
+          "previewfilepath": "/media/ap/27012b4eadd0c3ce12498b867058e4f717ce79e10a99568cca461682d84a4b04.bin",
+          "type": "volume",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

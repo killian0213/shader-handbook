@@ -1,0 +1,36 @@
+{
+  "id": "Md2XDV",
+  "name": "Tesseract Wireframe vs 3D slice",
+  "author": "iapafoto",
+  "description": "[Mouse] Y pos => the w coord part of 4D tesserac which is a 3D shape :)  (3D slice of the 4D shape) \nPause anim to understand !  :)  Color indicates location in 4th dimension (w coord)\n#define to change SHAPE to test it with other 4D classical geometries",
+  "tags": [
+    "wireframe",
+    "4d",
+    "slice",
+    "tesseract",
+    "hypercube"
+  ],
+  "publishedAt": "2014-11-17T22:16:17.000Z",
+  "publishedTimestamp": 1416262577,
+  "views": 3277,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Md2XDV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

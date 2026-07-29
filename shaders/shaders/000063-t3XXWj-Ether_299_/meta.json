@@ -1,0 +1,36 @@
+{
+  "id": "t3XXWj",
+  "name": "Ether [299]",
+  "author": "Xor",
+  "description": "Experimenting with more 3D turbulence",
+  "tags": [
+    "fire",
+    "glow",
+    "twist",
+    "tornado",
+    "golf"
+  ],
+  "publishedAt": "2025-04-24T14:44:43.000Z",
+  "publishedTimestamp": 1745505883,
+  "views": 720,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/t3XXWj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

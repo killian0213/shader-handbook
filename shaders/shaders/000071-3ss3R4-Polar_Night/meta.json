@@ -1,0 +1,51 @@
+{
+  "id": "3ss3R4",
+  "name": "Polar Night",
+  "author": "supervitas",
+  "description": "Simple raymarching terrain, thanks nimitiz for aurora",
+  "tags": [
+    "raymarching",
+    "terrain",
+    "aurora",
+    "winter"
+  ],
+  "publishedAt": "2018-12-19T01:46:12.000Z",
+  "publishedTimestamp": 1545183972,
+  "views": 4214,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3ss3R4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4tl3z4",
+          "filepath": "https://soundcloud.com/dj-finao/sun",
+          "previewfilepath": "https://soundcloud.com/dj-finao/sun",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

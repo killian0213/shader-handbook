@@ -1,0 +1,48 @@
+{
+  "id": "ltdyDl",
+  "name": "Puffy",
+  "author": "Kali",
+  "description": "Hi shadertoyers! I haven't done much DF modelling in the past, so I thought it was a good idea to try something. I wanted to make it look cartoonish, but it ended near the uncanny valley between a cartoon and something a bit more real xD",
+  "tags": [
+    "puffy"
+  ],
+  "publishedAt": "2018-08-19T22:58:05.000Z",
+  "publishedTimestamp": 1534719485,
+  "views": 7973,
+  "likes": 161,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltdyDl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dBXW3",
+          "filepath": "https://soundcloud.com/digitalluc/underwater",
+          "previewfilepath": "https://soundcloud.com/digitalluc/underwater",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

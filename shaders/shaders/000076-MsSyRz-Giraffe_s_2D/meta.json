@@ -1,0 +1,41 @@
+{
+  "id": "MsSyRz",
+  "name": "Giraffe(s) 2D",
+  "author": "josemorval",
+  "description": "Shader version of this fantastic [url=https://es.pinterest.com/pin/473792823282294133/]piece of art[/url].",
+  "tags": [
+    "animation",
+    "shapes",
+    "vector",
+    "art",
+    "minimalist",
+    "animal",
+    "sines",
+    "giraffe",
+    "safari",
+    "vectorart"
+  ],
+  "publishedAt": "2017-03-26T22:05:21.000Z",
+  "publishedTimestamp": 1490565921,
+  "views": 2427,
+  "likes": 76,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsSyRz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "MtBGDG",
+  "name": "Emerging Redux",
+  "author": "Kali",
+  "description": "New version - Mouse enabled",
+  "tags": [
+    "fractal",
+    "towers"
+  ],
+  "publishedAt": "2015-05-17T07:52:31.000Z",
+  "publishedTimestamp": 1431849151,
+  "views": 1588,
+  "likes": 67,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MtBGDG",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRn",
+          "filepath": "/media/a/10eb4fe0ac8a7dc348a2cc282ca5df1759ab8bf680117e4047728100969e7b43.jpg",
+          "previewfilepath": "/media/ap/10eb4fe0ac8a7dc348a2cc282ca5df1759ab8bf680117e4047728100969e7b43.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

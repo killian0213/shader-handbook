@@ -1,0 +1,91 @@
+{
+  "id": "llccD2",
+  "name": "Monte Carlo Accumulation",
+  "author": "mhnewman",
+  "description": "Monte carlo ambient occlusion, depth of field, spherical aberration, and anti aliasing using accumulation buffer.\n\nBased on www.shadertoy.com/view/4tlfDn Reusable Voxel Engine.\nCreate your scene by filling in setCamera(), voxelHit(), and voxelColor().",
+  "tags": [
+    "voxel",
+    "aberration",
+    "occlusion",
+    "field",
+    "depth",
+    "ambient",
+    "montecarlo",
+    "spherical",
+    "of"
+  ],
+  "publishedAt": "2018-08-15T06:11:30.000Z",
+  "publishedTimestamp": 1534313490,
+  "views": 1875,
+  "likes": 64,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llccD2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

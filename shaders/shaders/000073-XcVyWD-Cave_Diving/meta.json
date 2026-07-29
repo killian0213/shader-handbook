@@ -1,0 +1,37 @@
+{
+  "id": "XcVyWD",
+  "name": "Cave Diving",
+  "author": "Elsio",
+  "description": "nadando na sabedoria do @shane",
+  "tags": [
+    "raymarching",
+    "reflection",
+    "tunnel",
+    "refraction",
+    "water",
+    "mergulho"
+  ],
+  "publishedAt": "2024-11-18T00:14:51.000Z",
+  "publishedTimestamp": 1731888891,
+  "views": 2346,
+  "likes": 73,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XcVyWD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

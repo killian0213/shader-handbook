@@ -1,0 +1,50 @@
+{
+  "id": "NdB3zK",
+  "name": "[4k] Mesh Odyssey",
+  "author": "Kali",
+  "description": "Shadertoy version of the 4kb intro by LIA, 2nd place at Revision 2021 online. Code by me, music by uctumi.",
+  "tags": [
+    "raymarching",
+    "fractal",
+    "4k"
+  ],
+  "publishedAt": "2021-04-05T13:09:35.000Z",
+  "publishedTimestamp": 1617628175,
+  "views": 1494,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/NdB3zK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "MtXXWN",
+          "filepath": "https://soundcloud.com/pablo-andrioli/mesh-odyssey-11",
+          "previewfilepath": "https://soundcloud.com/pablo-andrioli/mesh-odyssey-11",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "XtyXzW",
+  "name": "Glitch transform",
+  "author": "tdhooper",
+  "description": "The glitch effect moves with the model, pause and pan around to see.",
+  "tags": [
+    "glitch",
+    "blend",
+    "icosahedron",
+    "dodecahedron",
+    "transform",
+    "twist"
+  ],
+  "publishedAt": "2016-12-31T17:38:50.000Z",
+  "publishedTimestamp": 1483205930,
+  "views": 23719,
+  "likes": 367,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtyXzW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

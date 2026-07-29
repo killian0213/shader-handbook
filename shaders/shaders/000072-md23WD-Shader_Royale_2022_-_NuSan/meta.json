@@ -1,0 +1,32 @@
+{
+  "id": "md23WD",
+  "name": "Shader Royale 2022 - NuSan",
+  "author": "NuSan",
+  "description": "Live coded for Inercia Shader Royale 2022 - 3rd place\n",
+  "tags": [
+    "live"
+  ],
+  "publishedAt": "2022-11-05T09:00:55.000Z",
+  "publishedTimestamp": 1667638855,
+  "views": 4312,
+  "likes": 72,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/md23WD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

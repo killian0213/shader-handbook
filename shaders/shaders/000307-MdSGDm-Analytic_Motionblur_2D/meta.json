@@ -1,0 +1,36 @@
+{
+  "id": "MdSGDm",
+  "name": "Analytic Motionblur 2D",
+  "author": "iq",
+  "description": "Analytic motion blur. A disk is checked for intersection while moving linearly. The resulting equation is a quadratic that can be solved to compute the time coverage of the swept disk over the pixel over the aperture of the camera (a full frame at 24 hz)",
+  "tags": [
+    "2d",
+    "blur",
+    "motionblur",
+    "motion",
+    "analytic"
+  ],
+  "publishedAt": "2014-01-09T02:40:47.000Z",
+  "publishedTimestamp": 1389235247,
+  "views": 27038,
+  "likes": 307,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdSGDm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

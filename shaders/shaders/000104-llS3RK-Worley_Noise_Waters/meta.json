@@ -1,0 +1,30 @@
+{
+  "id": "llS3RK",
+  "name": "Worley Noise Waters",
+  "author": "Kyle273",
+  "description": "A simple Worley noise shader. Full tutorial at ibreakdownshaders.blogspot.com. Original shader from  http://glslsandbox.com/e#23237.0",
+  "tags": [
+    "2d",
+    "noise",
+    "worley",
+    "noob"
+  ],
+  "publishedAt": "2015-04-29T00:44:05.000Z",
+  "publishedTimestamp": 1430268245,
+  "views": 15439,
+  "likes": 104,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llS3RK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

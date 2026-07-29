@@ -1,0 +1,35 @@
+{
+  "id": "MldfDn",
+  "name": "Bottom of Water",
+  "author": "kaneta",
+  "description": "caustics technique reference\nhttps://medium.com/@evanwallace/rendering-realtime-caustics-in-webgl-2a99a29a0b2c",
+  "tags": [
+    "3d",
+    "raymarching",
+    "water",
+    "caustics"
+  ],
+  "publishedAt": "2018-10-11T11:29:14.000Z",
+  "publishedTimestamp": 1539257354,
+  "views": 7493,
+  "likes": 76,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MldfDn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

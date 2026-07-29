@@ -1,0 +1,44 @@
+{
+  "id": "wdtczM",
+  "name": "5 nanoseconds after BigBang-259c",
+  "author": "benoitM",
+  "description": "When elementary particles dance together.\nTweaking some older and trying to make it short.\nFor more clear code see https://www.shadertoy.com/view/WtjyzR",
+  "tags": [
+    "2d",
+    "fractal",
+    "colors",
+    "space",
+    "abstract",
+    "recursive",
+    "generative",
+    "inversion",
+    "layers",
+    "short",
+    "symmetries",
+    "spacefolding",
+    "cineshader"
+  ],
+  "publishedAt": "2020-09-21T12:54:22.000Z",
+  "publishedTimestamp": 1600692862,
+  "views": 7809,
+  "likes": 110,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wdtczM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

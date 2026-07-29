@@ -1,0 +1,37 @@
+{
+  "id": "XslXW2",
+  "name": "Mechanical",
+  "author": "iq",
+  "description": "Something annoyingly mechanical",
+  "tags": [
+    "procedural",
+    "2d",
+    "sound",
+    "gear"
+  ],
+  "publishedAt": "2014-10-21T18:14:54.000Z",
+  "publishedTimestamp": 1413915294,
+  "views": 9889,
+  "likes": 72,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XslXW2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "XdSyzK",
+  "name": "Hex grid traversal",
+  "author": "mattz",
+  "description": "Inspired by the comments in Shane's Hexagonal blocks: https://www.shadertoy.com/view/XdjyWD",
+  "tags": [
+    "raytracing",
+    "grid",
+    "hexagon",
+    "hex",
+    "traversal"
+  ],
+  "publishedAt": "2017-04-20T14:29:23.000Z",
+  "publishedTimestamp": 1492698563,
+  "views": 3476,
+  "likes": 75,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdSyzK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

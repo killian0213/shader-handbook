@@ -1,0 +1,50 @@
+{
+  "id": "Nt2yzd",
+  "name": "WINDING NUMBERS",
+  "author": "alro",
+  "description": "Exploring winding numbers and signed angles",
+  "tags": [
+    "2d",
+    "line",
+    "star",
+    "palette",
+    "heart",
+    "curve",
+    "angle",
+    "infinity",
+    "signed",
+    "inside",
+    "outside",
+    "winding"
+  ],
+  "publishedAt": "2022-04-18T12:09:59.000Z",
+  "publishedTimestamp": 1650283799,
+  "views": 1488,
+  "likes": 87,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Nt2yzd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

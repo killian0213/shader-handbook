@@ -1,0 +1,34 @@
+{
+  "id": "ftc3Wn",
+  "name": "LogPolar QuadTree",
+  "author": "byt3_m3chanic",
+  "description": "Very basic design - Going another step into the Quadtree explorations, and who doesn't enjoy love a good log-polar transform! ",
+  "tags": [
+    "warp",
+    "log",
+    "quadtree"
+  ],
+  "publishedAt": "2021-11-04T06:53:43.000Z",
+  "publishedTimestamp": 1636008823,
+  "views": 1324,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ftc3Wn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

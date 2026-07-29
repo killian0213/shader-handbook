@@ -1,0 +1,52 @@
+{
+  "id": "lsKGW3",
+  "name": "SnowMountain",
+  "author": "Unix",
+  "description": "Effect used in my demo Eden... <br/>Eden : http://www.pouet.net/prod.php?which=66121",
+  "tags": [
+    "snow",
+    "mountain",
+    "eden",
+    "hoodlum",
+    "unix"
+  ],
+  "publishedAt": "2016-03-01T09:09:23.000Z",
+  "publishedTimestamp": 1456823363,
+  "views": 18816,
+  "likes": 76,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsKGW3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "lslGzB",
+          "filepath": "https://soundcloud.com/imalogic/eden-short",
+          "previewfilepath": "https://soundcloud.com/imalogic/eden-short",
+          "type": "musicstream",
+          "channel": 3,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

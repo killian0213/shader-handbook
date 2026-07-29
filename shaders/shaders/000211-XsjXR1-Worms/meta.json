@@ -1,0 +1,31 @@
+{
+  "id": "XsjXR1",
+  "name": "Worms",
+  "author": "iq",
+  "description": "Pretty much inspired by nimitz's spiral shader (https://www.shadertoy.com/view/4sfXDs)",
+  "tags": [
+    "procedural",
+    "3d",
+    "raymarching",
+    "distancefield",
+    "vr"
+  ],
+  "publishedAt": "2014-08-27T10:22:34.000Z",
+  "publishedTimestamp": 1409134954,
+  "views": 28540,
+  "likes": 211,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 1,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsjXR1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

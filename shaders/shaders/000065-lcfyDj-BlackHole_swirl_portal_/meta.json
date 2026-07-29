@@ -1,0 +1,35 @@
+{
+  "id": "lcfyDj",
+  "name": "BlackHole (swirl, portal)",
+  "author": "misterprada",
+  "description": "Ref - https://x.com/cmzw_/status/1787147460772864188 (celestianmaze)\n\nBlack Hole",
+  "tags": [
+    "swirl",
+    "blackhole",
+    "portal",
+    "hole"
+  ],
+  "publishedAt": "2024-07-22T13:41:32.000Z",
+  "publishedTimestamp": 1721655692,
+  "views": 5138,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lcfyDj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

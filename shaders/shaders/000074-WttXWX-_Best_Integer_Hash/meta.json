@@ -1,0 +1,32 @@
+{
+  "id": "WttXWX",
+  "name": "\"Best\" Integer Hash",
+  "author": "FabriceNeyret2",
+  "description": "from Chris Wellons [url]https://nullprogram.com/blog/2018/07/31/[/url] \n( thanks for this ref that was raised... I don't remember in which discussion ! :-) )\n\nNote that it might not be costlier than the infamous fract(big*sin(big*x)) ;-) ",
+  "tags": [
+    "hash"
+  ],
+  "publishedAt": "2020-02-16T12:28:11.000Z",
+  "publishedTimestamp": 1581856091,
+  "views": 12511,
+  "likes": 74,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WttXWX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

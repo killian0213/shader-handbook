@@ -1,0 +1,35 @@
+{
+  "id": "4t3SzN",
+  "name": "Iterations - inversion 2",
+  "author": "iq",
+  "description": "A set of 48 spiral inversions at random positions performed to the input point.",
+  "tags": [
+    "procedural",
+    "2d",
+    "inversion",
+    "iteration"
+  ],
+  "publishedAt": "2016-11-05T07:31:21.000Z",
+  "publishedTimestamp": 1478331081,
+  "views": 47766,
+  "likes": 123,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4t3SzN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

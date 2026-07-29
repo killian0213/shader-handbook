@@ -1,0 +1,43 @@
+{
+  "id": "3lyXDm",
+  "name": "[TWITCH] Mandelbox Sweeper",
+  "author": "evvvvil",
+  "description": "Mandelbox Sweeper - Result of an improvised live coding session on Twitch\nLIVE SHADER CODING, SHADER SHOWDOWN STYLE, EVERY TUESDAYS 21:00 Uk time:\nhttps://www.twitch.tv/evvvvil_",
+  "tags": [
+    "fractal",
+    "terrain",
+    "mandelbrot",
+    "mandelbulb",
+    "demoscene",
+    "particles",
+    "beam",
+    "glow",
+    "mandelbox",
+    "starfield",
+    "twitch",
+    "improv"
+  ],
+  "publishedAt": "2020-02-27T18:20:50.000Z",
+  "publishedTimestamp": 1582827650,
+  "views": 11202,
+  "likes": 195,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3lyXDm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

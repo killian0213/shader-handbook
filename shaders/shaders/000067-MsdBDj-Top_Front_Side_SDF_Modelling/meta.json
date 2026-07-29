@@ -1,0 +1,34 @@
+{
+  "id": "MsdBDj",
+  "name": "Top / Front / Side SDF Modelling",
+  "author": "fizzer",
+  "description": "Just a small shader to demonstrate that SDF modelling can be done using three 2D distance fields. One for each of top, front, and side projections. Click mouse button to see the result full-screen.",
+  "tags": [
+    "sdf",
+    "csg",
+    "modelling"
+  ],
+  "publishedAt": "2018-05-20T18:18:19.000Z",
+  "publishedTimestamp": 1526840299,
+  "views": 1584,
+  "likes": 67,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsdBDj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

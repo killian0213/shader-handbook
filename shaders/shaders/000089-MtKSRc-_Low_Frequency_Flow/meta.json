@@ -1,0 +1,49 @@
+{
+  "id": "MtKSRc",
+  "name": "♫ Low Frequency Flow",
+  "author": "patu",
+  "description": "Music: \"Low Frequency Flow\" by Dakota (2 place in Riverwash 2014 Streaming Music Compo Poland)\n[url=https://soundcloud.com/marek-ku-mierz]Dakota on Soundcloud[/url]",
+  "tags": [
+    "raymarching",
+    "cubes"
+  ],
+  "publishedAt": "2017-01-25T22:31:47.000Z",
+  "publishedTimestamp": 1485383507,
+  "views": 13766,
+  "likes": 89,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MtKSRc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "ls23R3",
+          "filepath": "https://soundcloud.com/marek-ku-mierz/low-frequency-flow",
+          "previewfilepath": "https://soundcloud.com/marek-ku-mierz/low-frequency-flow",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

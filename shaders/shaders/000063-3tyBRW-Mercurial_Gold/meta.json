@@ -1,0 +1,32 @@
+{
+  "id": "3tyBRW",
+  "name": "Mercurial Gold",
+  "author": "morphix",
+  "description": "Liquid Gold",
+  "tags": [
+    "gold"
+  ],
+  "publishedAt": "2021-02-21T15:27:47.000Z",
+  "publishedTimestamp": 1613921267,
+  "views": 1834,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3tyBRW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

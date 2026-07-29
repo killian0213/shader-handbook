@@ -1,0 +1,50 @@
+{
+  "id": "Mtd3DB",
+  "name": "DragonBall ",
+  "author": "ivansafrin",
+  "description": "Shader a day shader #8",
+  "tags": [
+    "shaderaday",
+    "dragonball",
+    "dragonballz"
+  ],
+  "publishedAt": "2016-08-19T19:23:29.000Z",
+  "publishedTimestamp": 1471634609,
+  "views": 26312,
+  "likes": 114,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mtd3DB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsX3zn",
+          "filepath": "/media/a/94284d43be78f00eb6b298e6d78656a1b34e2b91b34940d02f1ca8b22310e8a0.png",
+          "previewfilepath": "/media/ap/94284d43be78f00eb6b298e6d78656a1b34e2b91b34940d02f1ca8b22310e8a0.png",
+          "type": "cubemap",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

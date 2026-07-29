@@ -1,0 +1,49 @@
+{
+  "id": "MlSBzW",
+  "name": "Apollonian Variations",
+  "author": "mla",
+  "description": "A variation on evilryu's excellent [url]https://www.shadertoy.com/view/XlSfzW[/url]\n\nUse the mouse to change the view.\n\nKeys a, b, i, m, p, r, s and t also do things.",
+  "tags": [
+    "inversion",
+    "apollonian"
+  ],
+  "publishedAt": "2018-01-01T00:02:13.000Z",
+  "publishedTimestamp": 1514764933,
+  "views": 1920,
+  "likes": 73,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 16,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MlSBzW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRr",
+          "filepath": "/presets/tex00.jpg",
+          "previewfilepath": "/presets/tex00.jpg",
+          "type": "keyboard",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

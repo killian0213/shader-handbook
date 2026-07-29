@@ -1,0 +1,52 @@
+{
+  "id": "MscXRH",
+  "name": "Combustible Clouds",
+  "author": "Shane",
+  "description": "A daytime version of my \"Cheap Cloud Flythrough\" example.",
+  "tags": [
+    "noise",
+    "cloud",
+    "volumetric",
+    "sinusoidal",
+    "flythrough"
+  ],
+  "publishedAt": "2016-03-10T13:24:38.000Z",
+  "publishedTimestamp": 1457616278,
+  "views": 7669,
+  "likes": 95,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MscXRH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

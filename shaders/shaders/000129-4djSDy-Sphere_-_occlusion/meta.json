@@ -1,0 +1,53 @@
+{
+  "id": "4djSDy",
+  "name": "Sphere - occlusion",
+  "author": "iq",
+  "description": "Analytical ambient occlusion of a sphere. Left side, stochastically sampled occlusion. Right, analytical solution, no rays casted. More info in [url=http://iquilezles.org/articles/sphereao]this article[/url]. Move the mouse to compare.",
+  "tags": [
+    "3d",
+    "sphere",
+    "occlusion",
+    "ambientocclusion",
+    "ambient",
+    "analytic"
+  ],
+  "publishedAt": "2014-11-10T04:49:37.000Z",
+  "publishedTimestamp": 1415594977,
+  "views": 50665,
+  "likes": 129,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4djSDy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "MsXGR2",
+  "name": "Dubstep my ass!",
+  "author": "rez",
+  "description": "A little effect I did for my latest demo entitled \"Glenz vector form Hell\" (http://pouet.net/prod.php?which=61209).\nI tried to implement a (very) simple version of my CRT emulation, I'm currently no very satisfied with the result here :3",
+  "tags": [
+    "raymarching"
+  ],
+  "publishedAt": "2013-07-20T00:38:19.000Z",
+  "publishedTimestamp": 1374280699,
+  "views": 6150,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsXGR2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

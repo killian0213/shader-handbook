@@ -1,0 +1,69 @@
+{
+  "id": "fsVczR",
+  "name": "Normals from Depth",
+  "author": "iq",
+  "description": "A method to compute world space normals from a depth buffer that avoids the usual discontinuities at the edges of the objects, described by Yuwen Wu here [url]https://atyuwen.github.io/posts/normal-reconstruction[/url]. Left: naive. Right: improve",
+  "tags": [
+    "3d",
+    "normals",
+    "depth"
+  ],
+  "publishedAt": "2022-06-04T05:15:34.000Z",
+  "publishedTimestamp": 1654319734,
+  "views": 7731,
+  "likes": 80,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/fsVczR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

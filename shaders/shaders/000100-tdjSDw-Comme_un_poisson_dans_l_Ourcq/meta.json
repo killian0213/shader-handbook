@@ -1,0 +1,34 @@
+{
+  "id": "tdjSDw",
+  "name": "Comme un poisson dans l'Ourcq",
+  "author": "eliemichel",
+  "description": "Tribute to the grapher Da Cruz, inspired by \"4 oiseaux dans 1 masque\".\n\n2d distance fields\n\nClick to interact",
+  "tags": [
+    "2d",
+    "graph",
+    "streetart"
+  ],
+  "publishedAt": "2019-04-04T20:54:55.000Z",
+  "publishedTimestamp": 1554411295,
+  "views": 1700,
+  "likes": 100,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tdjSDw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

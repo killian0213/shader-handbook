@@ -1,0 +1,33 @@
+{
+  "id": "lljSDy",
+  "name": "quadtree 3",
+  "author": "FabriceNeyret2",
+  "description": "See also the tri-tree version [url]https://www.shadertoy.com/view/Mt2XDc[/url],\nbinary-tree version [ MtlyRH ]\nand video versions: [url]https://www.shadertoy.com/view/MtBSDV[/url] , [url]https://www.shadertoy.com/view/ltBSDV[/url]",
+  "tags": [
+    "short",
+    "quadtree"
+  ],
+  "publishedAt": "2015-10-31T19:39:57.000Z",
+  "publishedTimestamp": 1446320397,
+  "views": 11578,
+  "likes": 209,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lljSDy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "4s2GRR",
+  "name": "Fisheye / antifisheye",
+  "author": "SanchYESS",
+  "description": "Input parameter: \"power\", output effect: fisheye or fisheye correction of input texture. Should work with different proportions.\nOrigins from http://stackoverflow.com/questions/6030814/add-fisheye-effect-to-images-at-runtime-using-opengl-es",
+  "tags": [
+    "fisheye",
+    "correction"
+  ],
+  "publishedAt": "2013-10-25T09:38:54.000Z",
+  "publishedTimestamp": 1382693934,
+  "views": 15711,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4s2GRR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dfGRn",
+          "filepath": "/media/a/8de3a3924cb95bd0e95a443fff0326c869f9d4979cd1d5b6e94e2a01f5be53e9.jpg",
+          "previewfilepath": "/media/ap/8de3a3924cb95bd0e95a443fff0326c869f9d4979cd1d5b6e94e2a01f5be53e9.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "fsXcR8",
+  "name": "On the salt lake",
+  "author": "iapafoto",
+  "description": "Improve a bit my red hiker. \nInspired by nguyen nhut work https://twitter.com/nguyenhut_art\nTeapot alone: https://www.shadertoy.com/view/XsSGzG",
+  "tags": [
+    "animation",
+    "walk",
+    "human",
+    "bone"
+  ],
+  "publishedAt": "2022-01-10T15:24:22.000Z",
+  "publishedTimestamp": 1641828262,
+  "views": 10708,
+  "likes": 146,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/fsXcR8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

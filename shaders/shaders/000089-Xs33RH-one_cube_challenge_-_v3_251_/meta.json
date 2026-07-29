@@ -1,0 +1,31 @@
+{
+  "id": "Xs33RH",
+  "name": "one cube challenge - v3   (251)",
+  "author": "FabriceNeyret2",
+  "description": "the line-drawing version\nSee instructions here: https://www.shadertoy.com/view/ldd3zr",
+  "tags": [
+    "cube",
+    "2tweets",
+    "short",
+    "golf",
+    "codegolf"
+  ],
+  "publishedAt": "2015-11-19T08:29:32.000Z",
+  "publishedTimestamp": 1447921772,
+  "views": 4921,
+  "likes": 89,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xs33RH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

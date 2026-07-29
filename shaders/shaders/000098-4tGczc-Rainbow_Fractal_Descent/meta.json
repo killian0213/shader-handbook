@@ -1,0 +1,39 @@
+{
+  "id": "4tGczc",
+  "name": "Rainbow Fractal Descent",
+  "author": "mathmasterzach",
+  "description": "Try it in VR. Ride along a track through a bizarre fractal.\nThanks to iq for his camera function and his smax function.\nI don't know who originally made the hsv2rgb function.\nThe distance function is inspired by https://www.shadertoy.com/view/XtKcDm",
+  "tags": [
+    "procedural",
+    "3d",
+    "fractal",
+    "sdf",
+    "rainbow",
+    "dotproduct",
+    "vr",
+    "track"
+  ],
+  "publishedAt": "2018-09-28T02:34:30.000Z",
+  "publishedTimestamp": 1538102070,
+  "views": 3756,
+  "likes": 98,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 1,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tGczc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

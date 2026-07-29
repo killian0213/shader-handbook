@@ -1,0 +1,32 @@
+{
+  "id": "MdjfRK",
+  "name": "glow shader test",
+  "author": "remonvv",
+  "description": "glow shader test for effect. Intended to generate a glowing border around n-gons.",
+  "tags": [
+    "glowfire"
+  ],
+  "publishedAt": "2017-07-28T13:05:31.000Z",
+  "publishedTimestamp": 1501247131,
+  "views": 5145,
+  "likes": 89,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdjfRK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

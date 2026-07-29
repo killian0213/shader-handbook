@@ -1,0 +1,33 @@
+{
+  "id": "4ldSD2",
+  "name": "Cheapstep",
+  "author": "stubbe",
+  "description": "A cheaper smoothstep function based on the quartic polynomial f(x) = (1 - (1 - x^2)^2). It features the same smooth arrival properties as smoothstep, but is no longer symmetric around the diagonal. This is generally not an issue for most graphics uses.",
+  "tags": [
+    "smoothstep",
+    "cheapstep"
+  ],
+  "publishedAt": "2016-12-14T20:52:22.000Z",
+  "publishedTimestamp": 1481748742,
+  "views": 5896,
+  "likes": 84,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4ldSD2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

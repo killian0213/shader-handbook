@@ -1,0 +1,35 @@
+{
+  "id": "XcS3zK",
+  "name": "Inside the torus",
+  "author": "liamegan",
+  "description": "Just a torus interior with a gyroid \"revolved\" around the surface.",
+  "tags": [
+    "raymarching",
+    "torus",
+    "gyroid",
+    "offset"
+  ],
+  "publishedAt": "2024-01-04T18:34:38.000Z",
+  "publishedTimestamp": 1704393278,
+  "views": 10946,
+  "likes": 160,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XcS3zK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

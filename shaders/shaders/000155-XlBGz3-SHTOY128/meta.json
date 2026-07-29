@@ -1,0 +1,37 @@
+{
+  "id": "XlBGz3",
+  "name": "SHTOY128",
+  "author": "and",
+  "description": "ZX Spectrum loading intro for SHADERTOY 128K",
+  "tags": [
+    "retro",
+    "spectrum",
+    "music",
+    "chiptune"
+  ],
+  "publishedAt": "2015-05-05T07:01:28.000Z",
+  "publishedTimestamp": 1430809288,
+  "views": 8180,
+  "likes": 155,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlBGz3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

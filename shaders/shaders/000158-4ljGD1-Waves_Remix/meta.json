@@ -1,0 +1,52 @@
+{
+  "id": "4ljGD1",
+  "name": "Waves Remix",
+  "author": "ADOB",
+  "description": "simple audio visualizer (also pretty without audio) based upon \"waves\" by bonniem, with added travelling pulse effect, color cycling, and of course, the requested audio sensitivity. Each wave is particularly responsive to a specific range of frequencies.",
+  "tags": [
+    "waves",
+    "sound",
+    "wave",
+    "music",
+    "colors",
+    "beginner",
+    "audio",
+    "visualizer",
+    "easy",
+    "sounds"
+  ],
+  "publishedAt": "2015-04-10T07:15:27.000Z",
+  "publishedTimestamp": 1428650127,
+  "views": 31352,
+  "likes": 158,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4ljGD1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGRr",
+          "filepath": "/media/a/48e2d9ef22ca6673330b8c38a260c87694d2bbc94c19fec9dfa4a1222c364a99.mp3",
+          "previewfilepath": "/media/ap/48e2d9ef22ca6673330b8c38a260c87694d2bbc94c19fec9dfa4a1222c364a99.mp3",
+          "type": "music",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wdyczG",
+  "name": "Gradient Flow",
+  "author": "hahnzhu",
+  "description": "random background with noise rotation / mesh warp / wave warp",
+  "tags": [
+    "distortion",
+    "flow"
+  ],
+  "publishedAt": "2020-10-20T08:26:12.000Z",
+  "publishedTimestamp": 1603182372,
+  "views": 10560,
+  "likes": 124,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wdyczG",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "wsB3Rz",
+  "name": "[twitch] Ink & Silver",
+  "author": "yx",
+  "description": "I stream shader creation every Wednesday at 9pm UK time, over at [url]https://twitch.tv/lunasorcery[/url]\nCome and watch a show!\n\nOr watch the VOD for this shader here: [url]https://www.twitch.tv/videos/366635236[/url]",
+  "tags": [
+    "raymarcher",
+    "ink",
+    "twitch"
+  ],
+  "publishedAt": "2019-01-19T22:41:30.000Z",
+  "publishedTimestamp": 1547937690,
+  "views": 2782,
+  "likes": 114,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wsB3Rz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "4tlXR4",
+  "name": "matrix - 255 char",
+  "author": "FabriceNeyret2",
+  "description": "compacting to 2-tweets  patriciogv's Matrix shader https://www.shadertoy.com/view/MlfXzN \n( 819 -> 255 chars )\nBut first go see patriciogv's comments and readable sources :-D",
+  "tags": [
+    "font",
+    "2tweets",
+    "short",
+    "pseudofont"
+  ],
+  "publishedAt": "2015-06-21T14:52:36.000Z",
+  "publishedTimestamp": 1434898356,
+  "views": 4566,
+  "likes": 61,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tlXR4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "7ljczz",
+  "name": "20220405_Eucredian Rhythms",
+  "author": "0b5vr",
+  "description": "Implemented eucredian rhythms for the first time, along with fancy visualization for no reason\nRhythm differs from the original paper\n\nOriginal paper: http://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf",
+  "tags": [
+    "2d",
+    "audio",
+    "techno",
+    "rhythms"
+  ],
+  "publishedAt": "2022-04-06T13:59:22.000Z",
+  "publishedTimestamp": 1649253562,
+  "views": 2009,
+  "likes": 96,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7ljczz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

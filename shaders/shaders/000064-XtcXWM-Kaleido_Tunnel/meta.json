@@ -1,0 +1,48 @@
+{
+  "id": "XtcXWM",
+  "name": "Kaleido Tunnel",
+  "author": "zackpudil",
+  "description": "Kaleidoscope fractal tunnel. Use mouse to look around.",
+  "tags": [
+    "fractal"
+  ],
+  "publishedAt": "2016-11-24T20:03:37.000Z",
+  "publishedTimestamp": 1480017817,
+  "views": 4188,
+  "likes": 64,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtcXWM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGRr",
+          "filepath": "/media/a/48e2d9ef22ca6673330b8c38a260c87694d2bbc94c19fec9dfa4a1222c364a99.mp3",
+          "previewfilepath": "/media/ap/48e2d9ef22ca6673330b8c38a260c87694d2bbc94c19fec9dfa4a1222c364a99.mp3",
+          "type": "music",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "Xtd3z7",
+  "name": "Ray Marching: Part 3",
+  "author": "jlfwong",
+  "description": "Part 3 of a ray marching tutorial http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/",
+  "tags": [
+    "raymarching"
+  ],
+  "publishedAt": "2016-07-13T23:50:26.000Z",
+  "publishedTimestamp": 1468453826,
+  "views": 264251,
+  "likes": 82,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xtd3z7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

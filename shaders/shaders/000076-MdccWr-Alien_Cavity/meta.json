@@ -1,0 +1,61 @@
+{
+  "id": "MdccWr",
+  "name": "Alien Cavity",
+  "author": "lsdlive",
+  "description": "Stuff I did for a livecoding session in Atom/Veda, the live version was slightly different, but I don't remember what I edited so I tried to reproduce as it was in my memory.\n\nIt's a tunnel with multiple layer of angular mod & mirror octant.",
+  "tags": [
+    "tunnel",
+    "raymarch"
+  ],
+  "publishedAt": "2018-02-12T15:08:39.000Z",
+  "publishedTimestamp": 1518448119,
+  "views": 1756,
+  "likes": 76,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdccWr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buf A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

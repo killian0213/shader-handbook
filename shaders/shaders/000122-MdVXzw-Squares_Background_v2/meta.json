@@ -1,0 +1,35 @@
+{
+  "id": "MdVXzw",
+  "name": "Squares Background v2",
+  "author": "vamoss",
+  "description": "Square animation for background",
+  "tags": [
+    "square",
+    "rectangle",
+    "background",
+    "watery"
+  ],
+  "publishedAt": "2016-05-18T21:54:33.000Z",
+  "publishedTimestamp": 1463608473,
+  "views": 12548,
+  "likes": 122,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdVXzw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

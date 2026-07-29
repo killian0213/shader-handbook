@@ -1,0 +1,47 @@
+{
+  "id": "4d2GzV",
+  "name": "hexagonal tiling",
+  "author": "mattz",
+  "description": "playing with hexagonal symmetry",
+  "tags": [
+    "2d",
+    "truchet",
+    "fakelighting",
+    "tiling",
+    "hexagons"
+  ],
+  "publishedAt": "2014-01-31T05:35:51.000Z",
+  "publishedTimestamp": 1391146551,
+  "views": 2558,
+  "likes": 75,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4d2GzV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

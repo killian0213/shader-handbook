@@ -1,0 +1,32 @@
+{
+  "id": "tsScDG",
+  "name": "Volumetric Raymarching Sample",
+  "author": "suyoku",
+  "description": "Simple-ish volume raymeracher. Use the mouse to move the camera around.\n\nSet PERFORMANCE_MODE 1 if you want to run this on slower hardware (laptop or phone)",
+  "tags": [
+    "volume"
+  ],
+  "publishedAt": "2020-04-23T16:10:23.000Z",
+  "publishedTimestamp": 1587658223,
+  "views": 12581,
+  "likes": 147,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tsScDG",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

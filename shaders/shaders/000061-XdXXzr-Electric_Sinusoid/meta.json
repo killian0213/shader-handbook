@@ -1,0 +1,30 @@
+{
+  "id": "XdXXzr",
+  "name": "Electric Sinusoid",
+  "author": "ddoodm",
+  "description": "My first Shadertoy! It's pretty terrible, but it is my first standalone fragment shader. ",
+  "tags": [
+    "2d",
+    "line",
+    "glow",
+    "sine"
+  ],
+  "publishedAt": "2014-03-24T10:07:24.000Z",
+  "publishedTimestamp": 1395655644,
+  "views": 4020,
+  "likes": 61,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdXXzr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

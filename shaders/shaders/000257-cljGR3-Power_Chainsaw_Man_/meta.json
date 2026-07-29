@@ -1,0 +1,60 @@
+{
+  "id": "cljGR3",
+  "name": "Power (Chainsaw Man)",
+  "author": "panna_pudi",
+  "description": "https://www.youtube.com/watch?v=HEwAiwttN10",
+  "tags": [
+    "fbm",
+    "animation",
+    "power",
+    "anime",
+    "reproduction",
+    "chainsawman"
+  ],
+  "publishedAt": "2023-01-13T14:36:57.000Z",
+  "publishedTimestamp": 1673620617,
+  "views": 23747,
+  "likes": 257,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/cljGR3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsdGzr",
+          "filepath": "https://soundcloud.com/streetwise-rhapsody/kick-back-chainsaw-man-opening-instrumental-cover?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "previewfilepath": "https://soundcloud.com/streetwise-rhapsody/kick-back-chainsaw-man-opening-instrumental-cover?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "type": "musicstream",
+          "channel": 3,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "l3VfDm",
+  "name": "gradient shaded circles",
+  "author": "franzbernhard",
+  "description": "gradient circles",
+  "tags": [
+    "2d",
+    "circles",
+    "lighting",
+    "color",
+    "circle",
+    "gradient",
+    "palette",
+    "lights",
+    "neumorphism"
+  ],
+  "publishedAt": "2025-01-31T09:46:12.000Z",
+  "publishedTimestamp": 1738316772,
+  "views": 859,
+  "likes": 61,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/l3VfDm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

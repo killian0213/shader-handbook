@@ -1,0 +1,45 @@
+{
+  "id": "4lfSzs",
+  "name": "explosion no. 13",
+  "author": "miloszmaki",
+  "description": "experimenting with raymarching in 3D noise",
+  "tags": [
+    "3d",
+    "raymarching",
+    "explosion"
+  ],
+  "publishedAt": "2015-08-05T22:33:50.000Z",
+  "publishedTimestamp": 1438814030,
+  "views": 5421,
+  "likes": 84,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4lfSzs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

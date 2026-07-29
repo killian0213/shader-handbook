@@ -1,0 +1,33 @@
+{
+  "id": "7tfBzs",
+  "name": "Color processing",
+  "author": "sinvec",
+  "description": "I really don't know what it is...",
+  "tags": [
+    "sdf",
+    "glow"
+  ],
+  "publishedAt": "2022-05-01T19:51:58.000Z",
+  "publishedTimestamp": 1651434718,
+  "views": 5004,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7tfBzs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

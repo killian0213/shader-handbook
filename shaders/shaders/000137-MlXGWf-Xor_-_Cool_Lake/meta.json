@@ -1,0 +1,45 @@
+{
+  "id": "MlXGWf",
+  "name": "Xor - Cool Lake",
+  "author": "Xor",
+  "description": "Look around with the mouse. I've seen some nice water scenes, so here's my attempt.\nLet me know what you think in the comments. Suggestions are appreciated.\nUpdate 3/6/15:\nSmoothed water and fixed the stretched rocks.",
+  "tags": [
+    "3d",
+    "refraction",
+    "reflections"
+  ],
+  "publishedAt": "2015-03-06T00:57:36.000Z",
+  "publishedTimestamp": 1425603456,
+  "views": 6812,
+  "likes": 137,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MlXGWf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdX3Rn",
+          "filepath": "/media/a/52d2a8f514c4fd2d9866587f4d7b2a5bfa1a11a0e772077d7682deb8b3b517e5.jpg",
+          "previewfilepath": "/media/ap/52d2a8f514c4fd2d9866587f4d7b2a5bfa1a11a0e772077d7682deb8b3b517e5.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "wdBGWD",
+  "name": "Mist by Ohno! - part2",
+  "author": "lsdlive",
+  "description": "This is my part for \"Mist\" by Ohno, a 4 kilobytes demo released at the Cookie 2018.\n\npouet: http://www.pouet.net/prod.php?which=79350\nyoutube: https://www.youtube.com/watch?v=UUtU3WVB144\n\nCode/Graphics: Flopine\nCode/Graphics: Lsdlive\nMusic: Triace",
+  "tags": [
+    "tunnel",
+    "raymarch",
+    "4k",
+    "demoscene"
+  ],
+  "publishedAt": "2019-01-30T15:01:21.000Z",
+  "publishedTimestamp": 1548860481,
+  "views": 13800,
+  "likes": 158,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wdBGWD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "MtfGD8",
+          "filepath": "https://soundcloud.com/deejay-arvy/mist-4k-intro-by-ohno",
+          "previewfilepath": "https://soundcloud.com/deejay-arvy/mist-4k-intro-by-ohno",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

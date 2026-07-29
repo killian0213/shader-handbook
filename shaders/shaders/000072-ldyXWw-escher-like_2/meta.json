@@ -1,0 +1,37 @@
+{
+  "id": "ldyXWw",
+  "name": "escher-like 2",
+  "author": "FabriceNeyret2",
+  "description": "reproducing [url]https://twitter.com/CPriestman/status/684874950944100352/photo/1[/url]",
+  "tags": [
+    "2d",
+    "gif",
+    "short",
+    "copies",
+    "reproductions",
+    "escherlike"
+  ],
+  "publishedAt": "2016-05-31T20:32:37.000Z",
+  "publishedTimestamp": 1464726757,
+  "views": 1878,
+  "likes": 72,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldyXWw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

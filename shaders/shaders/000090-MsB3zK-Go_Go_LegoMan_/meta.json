@@ -1,0 +1,64 @@
+{
+  "id": "MsB3zK",
+  "name": "Go Go LegoMan !",
+  "author": "iapafoto",
+  "description": "[mouse drag] - camera position\n#define ANTIALIASING - Activate antialiasing (line 4)",
+  "tags": [
+    "raymarching",
+    "distancefunction",
+    "lego",
+    "legoman",
+    "minifig"
+  ],
+  "publishedAt": "2014-01-28T21:42:24.000Z",
+  "publishedTimestamp": 1390945344,
+  "views": 4047,
+  "likes": 90,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsB3zK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buf A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "lsVSDc",
+  "name": "shifting rings",
+  "author": "mahalis",
+  "description": "something kinda fun to look at",
+  "tags": [
+    "circles",
+    "grid",
+    "blackandwhite"
+  ],
+  "publishedAt": "2016-06-29T17:04:09.000Z",
+  "publishedTimestamp": 1467219849,
+  "views": 3681,
+  "likes": 74,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsVSDc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

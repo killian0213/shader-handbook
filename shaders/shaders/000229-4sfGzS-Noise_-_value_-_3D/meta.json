@@ -1,0 +1,50 @@
+{
+  "id": "4sfGzS",
+  "name": "Noise - value - 3D",
+  "author": "iq",
+  "description": "A test for LUT based 3D (value) noise which is much faster than its hash based (purely procedural) counterpart. [url]http://en.wikipedia.org/wiki/Value_noise[/url]",
+  "tags": [
+    "3d",
+    "noise",
+    "perlin"
+  ],
+  "publishedAt": "2013-07-03T19:11:25.000Z",
+  "publishedTimestamp": 1372878685,
+  "views": 59508,
+  "likes": 229,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sfGzS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

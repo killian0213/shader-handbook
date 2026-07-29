@@ -1,0 +1,37 @@
+{
+  "id": "llfcWs",
+  "name": "Hexagonal Interlacing",
+  "author": "Shane",
+  "description": "Applying a simple hexagonal tile trick to produce a faux 3D interlaced hexagonal grid pattern.",
+  "tags": [
+    "hexagon",
+    "pattern",
+    "tile",
+    "overlay",
+    "weave",
+    "faux"
+  ],
+  "publishedAt": "2017-10-24T11:33:54.000Z",
+  "publishedTimestamp": 1508844834,
+  "views": 2670,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llfcWs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "4dfGDH",
+  "name": "Bilateral filter",
+  "author": "mrharicot",
+  "description": "And another filter!\nYou can drag the active zone using the mouse.",
+  "tags": [
+    "postprocessing",
+    "bilateralfilter"
+  ],
+  "publishedAt": "2013-05-11T15:55:00.000Z",
+  "publishedTimestamp": 1368287700,
+  "views": 17769,
+  "likes": 83,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dfGDH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dfGRn",
+          "filepath": "/media/a/8de3a3924cb95bd0e95a443fff0326c869f9d4979cd1d5b6e94e2a01f5be53e9.jpg",
+          "previewfilepath": "/media/ap/8de3a3924cb95bd0e95a443fff0326c869f9d4979cd1d5b6e94e2a01f5be53e9.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

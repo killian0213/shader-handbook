@@ -1,0 +1,35 @@
+{
+  "id": "ldlGR7",
+  "name": "IK Solver",
+  "author": "iq",
+  "description": "An analytical solver for 2-bone joins, WITHOUT trigonometry. More information: [url]https://iquilezles.org/articles/simpleik/[/url]. This solver was used in my Insect shader: [url]https://www.shadertoy.com/view/Mss3zM[/url]",
+  "tags": [
+    "2d",
+    "ik",
+    "solver",
+    "analytical"
+  ],
+  "publishedAt": "2013-08-22T05:49:25.000Z",
+  "publishedTimestamp": 1377150565,
+  "views": 19025,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldlGR7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "Xd2XWR",
+  "name": "Time Coordinates",
+  "author": "burito",
+  "description": "An experiment on smooth lines, and making things tick.\n\nI completed this offline, so the functions have \"interesting\" quirks. That line drawing function in particular is... special. But it works, and I figured it out in my head.",
+  "tags": [
+    "drwho",
+    "timecoordinates"
+  ],
+  "publishedAt": "2014-09-16T15:55:54.000Z",
+  "publishedTimestamp": 1410882954,
+  "views": 5800,
+  "likes": 139,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xd2XWR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

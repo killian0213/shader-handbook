@@ -1,0 +1,36 @@
+{
+  "id": "td3Xzr",
+  "name": "Eye of Ezbhan",
+  "author": "ozeg",
+  "description": "Reaction diffusion like pattern inspired by diviaki's fingerprint.\nRadial gradients distributed by the golden angle along a spiral gives lifelike LSD like sensations.\nSpecial thanks to FabriceNeyret2 for his valuable feedback and beautiful shaders.",
+  "tags": [
+    "trippy",
+    "organic",
+    "diffuse",
+    "reaction",
+    "fingerprint"
+  ],
+  "publishedAt": "2019-10-17T09:51:43.000Z",
+  "publishedTimestamp": 1571305903,
+  "views": 3190,
+  "likes": 91,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/td3Xzr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

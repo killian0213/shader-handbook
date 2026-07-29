@@ -1,0 +1,35 @@
+{
+  "id": "lsX3DH",
+  "name": "More spheres",
+  "author": "reinder",
+  "description": "A simple pathtracer based on my shader https://www.shadertoy.com/view/lsX3WH showing motion blur, depth of field and importance sampling. Based on: https://iquilezles.org/articles/simplepathtracing/simplepathtracing.htm\n",
+  "tags": [
+    "motionblur",
+    "spheres",
+    "pathtracer",
+    "depthoffield"
+  ],
+  "publishedAt": "2013-05-15T17:37:58.000Z",
+  "publishedTimestamp": 1368639478,
+  "views": 31083,
+  "likes": 186,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsX3DH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

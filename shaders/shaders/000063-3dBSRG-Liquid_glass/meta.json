@@ -1,0 +1,35 @@
+{
+  "id": "3dBSRG",
+  "name": "Liquid glass",
+  "author": "OliverSchaff",
+  "description": "Branch of https://www.shadertoy.com/view/3sjSDw\nThis is fake glass, simulated by accumulating color along the ray path.\nPlus I tried to add fake reflections.",
+  "tags": [
+    "raymarching",
+    "transparency",
+    "cloud",
+    "glass"
+  ],
+  "publishedAt": "2019-04-01T16:10:41.000Z",
+  "publishedTimestamp": 1554135041,
+  "views": 3299,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3dBSRG",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

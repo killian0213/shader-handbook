@@ -1,0 +1,31 @@
+{
+  "id": "4tl3W8",
+  "name": "[2TC 15]2 Tweets Challenge",
+  "author": "nimitz",
+  "description": "Take up the two tweets challenge, just label your shaders with [2TC 15] at the beginning, the only rule is that the shader must be 280 chars or less.",
+  "tags": [
+    "2d",
+    "challenge",
+    "short",
+    "compo",
+    "tweet"
+  ],
+  "publishedAt": "2015-01-19T15:47:02.000Z",
+  "publishedTimestamp": 1421682422,
+  "views": 3781,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tl3W8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

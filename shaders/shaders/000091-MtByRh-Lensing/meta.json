@@ -1,0 +1,35 @@
+{
+  "id": "MtByRh",
+  "name": "Lensing",
+  "author": "Ebanflo",
+  "description": "based on [url=https://www.shadertoy.com/view/XlfGRj] Star Nest by Kali [/url]. see [url=https://www.shadertoy.com/view/Xd3yWX]here[/url] for realitic lensing.",
+  "tags": [
+    "3d",
+    "blackhole",
+    "starfield",
+    "lensing"
+  ],
+  "publishedAt": "2017-10-07T02:21:22.000Z",
+  "publishedTimestamp": 1507342882,
+  "views": 15259,
+  "likes": 91,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MtByRh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

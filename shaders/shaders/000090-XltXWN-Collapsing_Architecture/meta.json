@@ -1,0 +1,36 @@
+{
+  "id": "XltXWN",
+  "name": "Collapsing Architecture",
+  "author": "s23b",
+  "description": "a hopefully well-commented raymarched distance field inspired by the windows of my room and the feeling I had with my new glasses on before I got used to them\n\nno actual 3d distance functions were harmed during the making of this scene :octopusballoon:",
+  "tags": [
+    "3d",
+    "raymarch",
+    "distortion",
+    "architecture",
+    "twist"
+  ],
+  "publishedAt": "2016-12-05T13:31:59.000Z",
+  "publishedTimestamp": 1480944719,
+  "views": 2999,
+  "likes": 90,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XltXWN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

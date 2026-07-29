@@ -1,0 +1,32 @@
+{
+  "id": "3tKSWt",
+  "name": "Ref-e#61924.0",
+  "author": "jorge2017a1",
+  "description": "Ref-e#61924.0\nt's a copy of Kali's work\n https://www.shadertoy.com/view/4lX3Rj from 5 years ago.",
+  "tags": [
+    "refe619240"
+  ],
+  "publishedAt": "2020-03-10T15:24:28.000Z",
+  "publishedTimestamp": 1583853868,
+  "views": 1218,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3tKSWt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

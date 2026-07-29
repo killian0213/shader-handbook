@@ -1,0 +1,49 @@
+{
+  "id": "ltB3zD",
+  "name": "Gold Noise Uniform Random Static",
+  "author": "dcerisano",
+  "description": "- based on the Golden Ratio\n- uniform normalized distribution\n- fastest static noise generator function (also runs at low precision)\n- use with indicated fractional seeding method\n",
+  "tags": [
+    "noise",
+    "random",
+    "static",
+    "generator"
+  ],
+  "publishedAt": "2015-03-24T23:55:19.000Z",
+  "publishedTimestamp": 1427241319,
+  "views": 29057,
+  "likes": 107,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltB3zD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

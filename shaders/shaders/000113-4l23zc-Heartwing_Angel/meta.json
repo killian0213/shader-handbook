@@ -1,0 +1,28 @@
+{
+  "id": "4l23zc",
+  "name": "Heartwing Angel",
+  "author": "ChristinaCoffin",
+  "description": "hacking fractals with warpy math and came across a heart/bird/flower -like shape and decided to animate it.",
+  "tags": [
+    "procedural",
+    "fractal"
+  ],
+  "publishedAt": "2015-05-07T18:15:21.000Z",
+  "publishedTimestamp": 1431022521,
+  "views": 4521,
+  "likes": 113,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4l23zc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

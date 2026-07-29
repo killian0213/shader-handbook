@@ -1,0 +1,37 @@
+{
+  "id": "4lGyW1",
+  "name": "Shaderdough fairy",
+  "author": "tdhooper",
+  "description": "Variation of [url=https://www.shadertoy.com/view/XtGyWh]Shaderdough x-ray[/url]",
+  "tags": [
+    "sdf",
+    "glow",
+    "neon",
+    "twist",
+    "playdough",
+    "fairy"
+  ],
+  "publishedAt": "2018-09-03T13:37:20.000Z",
+  "publishedTimestamp": 1535981840,
+  "views": 8460,
+  "likes": 197,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4lGyW1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

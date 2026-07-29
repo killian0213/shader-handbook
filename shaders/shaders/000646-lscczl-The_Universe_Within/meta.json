@@ -1,0 +1,59 @@
+{
+  "id": "lscczl",
+  "name": "The Universe Within",
+  "author": "BigWIngs",
+  "description": "Been reading up on psychedelics and got inspired. Put fullscreen, make sure sure you have sound and stare at it until the end! Use mouse to move.",
+  "tags": [
+    "psychedelic",
+    "universe",
+    "brain",
+    "trip",
+    "flythrough",
+    "neurons",
+    "network",
+    "blockchain",
+    "consciousness",
+    "spiritual",
+    "mystic",
+    "multiverse"
+  ],
+  "publishedAt": "2018-06-20T02:56:01.000Z",
+  "publishedTimestamp": 1529463361,
+  "views": 171532,
+  "likes": 646,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lscczl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4s2SR3",
+          "filepath": "https://soundcloud.com/jason-burruss-remixes/terrence-mckenna-mashup",
+          "previewfilepath": "https://soundcloud.com/jason-burruss-remixes/terrence-mckenna-mashup",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

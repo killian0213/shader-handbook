@@ -1,0 +1,33 @@
+{
+  "id": "4scXWB",
+  "name": "star field 5",
+  "author": "FabriceNeyret2",
+  "description": "star field with flares.\nvariant of https://www.shadertoy.com/view/4scXWS (base on Shane flare idea)",
+  "tags": [
+    "star",
+    "starfield"
+  ],
+  "publishedAt": "2016-04-20T09:02:42.000Z",
+  "publishedTimestamp": 1461142962,
+  "views": 6460,
+  "likes": 90,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4scXWB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

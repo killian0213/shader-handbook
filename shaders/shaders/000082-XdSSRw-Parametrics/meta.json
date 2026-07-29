@@ -1,0 +1,46 @@
+{
+  "id": "XdSSRw",
+  "name": "Parametrics",
+  "author": "nimitz",
+  "description": "Parametric plotting as minimum finding and root finding.  Please let me know if you know faster methods.",
+  "tags": [
+    "2d",
+    "plot",
+    "tonemapping",
+    "parametric"
+  ],
+  "publishedAt": "2014-09-06T02:26:15.000Z",
+  "publishedTimestamp": 1409970375,
+  "views": 57308,
+  "likes": 82,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdSSRw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

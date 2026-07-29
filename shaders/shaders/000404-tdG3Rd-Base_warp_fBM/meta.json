@@ -1,0 +1,51 @@
+{
+  "id": "tdG3Rd",
+  "name": "Base warp fBM",
+  "author": "trinketMage",
+  "description": "Base for warp fBM (Fractional Brownian Motion) implemented from articles from @iq https://iquilezles.org/articles/warp/warp.htm\nWith transform_rose colormap from colormap-shaders",
+  "tags": [
+    "noise",
+    "fbm",
+    "warp",
+    "cineshader"
+  ],
+  "publishedAt": "2019-10-10T19:53:06.000Z",
+  "publishedTimestamp": 1570737186,
+  "views": 418928,
+  "likes": 404,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tdG3Rd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

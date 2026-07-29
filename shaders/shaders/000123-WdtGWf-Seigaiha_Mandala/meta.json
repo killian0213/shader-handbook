@@ -1,0 +1,53 @@
+{
+  "id": "WdtGWf",
+  "name": "Seigaiha Mandala",
+  "author": "PixelPhil",
+  "description": "A design inspired by scales patterns found on traditional japanese fabric and indian mandala art.\nIt also features motion blur. Best viewed in full screen.\nTry staring at it for a minute ;)",
+  "tags": [
+    "motion",
+    "hypnotic",
+    "pattern",
+    "japanese",
+    "scales",
+    "fabric"
+  ],
+  "publishedAt": "2019-09-26T08:57:10.000Z",
+  "publishedTimestamp": 1569488230,
+  "views": 5592,
+  "likes": 123,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WdtGWf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4lXGDj",
+          "filepath": "https://soundcloud.com/alvydasm/the-heart-of-reiki-1",
+          "previewfilepath": "https://soundcloud.com/alvydasm/the-heart-of-reiki-1",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

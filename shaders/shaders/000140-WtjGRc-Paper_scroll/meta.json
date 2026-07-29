@@ -1,0 +1,65 @@
+{
+  "id": "WtjGRc",
+  "name": "Paper scroll",
+  "author": "Ping2_0",
+  "description": "Made with paper, scissors and a little thread.\nSoundcloud music : Jamal Green - Equilinox game music",
+  "tags": [
+    "2d",
+    "paper",
+    "cutting"
+  ],
+  "publishedAt": "2019-06-14T18:42:40.000Z",
+  "publishedTimestamp": 1560537760,
+  "views": 5017,
+  "likes": 140,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WtjGRc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4ll3zj",
+          "filepath": "https://soundcloud.com/jamalgreenmusic/wonderful-waltz?in=jamalgreenmusic/sets/equilinox-full-soundtrack",
+          "previewfilepath": "https://soundcloud.com/jamalgreenmusic/wonderful-waltz?in=jamalgreenmusic/sets/equilinox-full-soundtrack",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

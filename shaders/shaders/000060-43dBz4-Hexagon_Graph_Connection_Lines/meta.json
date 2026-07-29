@@ -1,0 +1,37 @@
+{
+  "id": "43dBz4",
+  "name": "Hexagon Graph Connection Lines",
+  "author": "Shane",
+  "description": "Animating the physical connection lines on a hexagon grid.",
+  "tags": [
+    "lines",
+    "hexagon",
+    "graph",
+    "circuit",
+    "network",
+    "node"
+  ],
+  "publishedAt": "2025-01-24T14:45:25.000Z",
+  "publishedTimestamp": 1737729925,
+  "views": 765,
+  "likes": 60,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/43dBz4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

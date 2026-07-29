@@ -1,0 +1,29 @@
+{
+  "id": "llsGWl",
+  "name": "Gavoronoise",
+  "author": "guil",
+  "description": "Inspired by Gabor 4: normalized (https://www.shadertoy.com/view/XlsGDs) and\nVoronoise (https://www.shadertoy.com/view/Xd23Dh)\nAn attempt to mix them. Use mouse to change wave direction",
+  "tags": [
+    "voronoi",
+    "noise",
+    "gabor"
+  ],
+  "publishedAt": "2015-03-13T13:37:21.000Z",
+  "publishedTimestamp": 1426253841,
+  "views": 5067,
+  "likes": 101,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llsGWl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

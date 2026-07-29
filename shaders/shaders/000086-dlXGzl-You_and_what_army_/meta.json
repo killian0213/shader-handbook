@@ -1,0 +1,54 @@
+{
+  "id": "dlXGzl",
+  "name": "You and what army?",
+  "author": "MysteryPancake",
+  "description": "He finally brought the army :) Click and drag to move camera",
+  "tags": [
+    "mirror",
+    "clone",
+    "redgiant",
+    "aftereffects",
+    "hallofmirrors",
+    "plugin",
+    "army"
+  ],
+  "publishedAt": "2022-12-28T10:16:43.000Z",
+  "publishedTimestamp": 1672222603,
+  "views": 1111,
+  "likes": 86,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/dlXGzl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdfGRr",
+          "filepath": "/media/a/35c87bcb8d7af24c54d41122dadb619dd920646a0bd0e477e7bdc6d12876df17.webm",
+          "previewfilepath": "/media/ap/35c87bcb8d7af24c54d41122dadb619dd920646a0bd0e477e7bdc6d12876df17.webm",
+          "type": "video",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

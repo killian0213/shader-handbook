@@ -1,0 +1,35 @@
+{
+  "id": "4dVGRV",
+  "name": "Colorful 3d Fractal",
+  "author": "trirop",
+  "description": "You can rotate the fractal with the mouse.",
+  "tags": [
+    "3d",
+    "fractal",
+    "colorful",
+    "volumetric"
+  ],
+  "publishedAt": "2016-02-13T18:30:53.000Z",
+  "publishedTimestamp": 1455388253,
+  "views": 1429,
+  "likes": 60,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dVGRV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

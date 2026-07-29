@@ -1,0 +1,38 @@
+{
+  "id": "4sBSRh",
+  "name": "Signal (sound)",
+  "author": "srtuss",
+  "description": "A shiny and surreal effect.",
+  "tags": [
+    "sound",
+    "audio",
+    "trippy",
+    "digital",
+    "surreal"
+  ],
+  "publishedAt": "2014-08-21T00:30:57.000Z",
+  "publishedTimestamp": 1408581057,
+  "views": 3339,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sBSRh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "ldj3Wh",
+  "name": "Quadratic Bezier - distance",
+  "author": "iq",
+  "description": "Intersecting quadratic Bezier segments in 3D. Used Microsoft's paper as pointed out by tayholliday in https://www.shadertoy.com/view/XsX3zf. Since 3D quadratic Bezier segments are planar, the 2D version can be used to compute the distance to 3D curves.",
+  "tags": [
+    "procedural",
+    "3d",
+    "raymarching",
+    "distancefield",
+    "bezier",
+    "quadratic"
+  ],
+  "publishedAt": "2013-12-19T11:22:02.000Z",
+  "publishedTimestamp": 1387452122,
+  "views": 15338,
+  "likes": 138,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldj3Wh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4df3Rr",
+          "filepath": "/media/a/3871e838723dd6b166e490664eead8ec60aedd6b8d95bc8e2fe3f882f0fd90f0.jpg",
+          "previewfilepath": "/media/ap/3871e838723dd6b166e490664eead8ec60aedd6b8d95bc8e2fe3f882f0fd90f0.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

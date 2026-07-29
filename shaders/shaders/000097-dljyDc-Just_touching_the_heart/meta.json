@@ -1,0 +1,35 @@
+{
+  "id": "dljyDc",
+  "name": "Just touching the heart",
+  "author": "iq",
+  "description": "Circles tangent to a heart shape",
+  "tags": [
+    "2d",
+    "circles",
+    "sdf",
+    "heart"
+  ],
+  "publishedAt": "2023-08-18T22:17:50.000Z",
+  "publishedTimestamp": 1692397070,
+  "views": 2587,
+  "likes": 97,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/dljyDc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

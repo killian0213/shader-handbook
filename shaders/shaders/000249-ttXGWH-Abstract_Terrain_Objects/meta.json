@@ -1,0 +1,36 @@
+{
+  "id": "ttXGWH",
+  "name": "Abstract Terrain Objects",
+  "author": "Shane",
+  "description": "Rendering some abstract objects onto terrain. Inspired by Mike Winkelmann's imagery.",
+  "tags": [
+    "terrain",
+    "geometry",
+    "scifi",
+    "reflect",
+    "shine"
+  ],
+  "publishedAt": "2019-04-26T14:31:05.000Z",
+  "publishedTimestamp": 1556289065,
+  "views": 12304,
+  "likes": 249,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ttXGWH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "MtXfD2",
+  "name": "Purpcycle",
+  "author": "shau",
+  "description": "Inspired by Beeple VJ Clip of same name",
+  "tags": [
+    "3d"
+  ],
+  "publishedAt": "2017-12-16T17:31:17.000Z",
+  "publishedTimestamp": 1513445477,
+  "views": 3222,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MtXfD2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

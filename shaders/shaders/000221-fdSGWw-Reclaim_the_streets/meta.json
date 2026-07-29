@@ -1,0 +1,43 @@
+{
+  "id": "fdSGWw",
+  "name": "Reclaim the streets",
+  "author": "evvvvil",
+  "description": "Winning shader made at Revision 2021 Shader Showdown semi-final\nLive coded on stage in 25 minutes.  Designed beforehand in several hours.\n",
+  "tags": [
+    "demoscene",
+    "transition",
+    "organic",
+    "isometric",
+    "city",
+    "orthographic",
+    "morph",
+    "nature",
+    "world",
+    "morphing",
+    "clipping",
+    "reclaim"
+  ],
+  "publishedAt": "2021-04-03T16:15:46.000Z",
+  "publishedTimestamp": 1617466546,
+  "views": 8606,
+  "likes": 221,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/fdSGWw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "XtfSWX",
+  "name": "Skin peeler",
+  "author": "Dave_Hoskins",
+  "description": "I thought I had lost this, but it turned up in an old SynthClips project. It's an edit of Nimitz's \"Xyptonjtroz\", before I re-wrote it to make \"Frozen Wasteland\". I thought I'd post it here before it gets lost forever! :)",
+  "tags": [
+    "3d",
+    "raymarching",
+    "audio",
+    "wind",
+    "xyptonjtroz",
+    "sand",
+    "daytime"
+  ],
+  "publishedAt": "2015-08-19T15:29:59.000Z",
+  "publishedTimestamp": 1439998199,
+  "views": 8642,
+  "likes": 75,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 72,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtfSWX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xtf3RH",
+          "filepath": "https://soundcloud.com/bdtom/bdtom-wednesday?in=chrisf467/sets/dub-techno",
+          "previewfilepath": "https://soundcloud.com/bdtom/bdtom-wednesday?in=chrisf467/sets/dub-techno",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "XsfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

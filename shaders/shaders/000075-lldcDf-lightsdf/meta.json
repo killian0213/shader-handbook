@@ -1,0 +1,32 @@
+{
+  "id": "lldcDf",
+  "name": "lightsdf",
+  "author": "xiaosong0911",
+  "description": "global illumination based on sdf -- following https://github.com/miloyip/light2d",
+  "tags": [
+    "sdf"
+  ],
+  "publishedAt": "2018-08-25T08:43:49.000Z",
+  "publishedTimestamp": 1535186629,
+  "views": 4073,
+  "likes": 75,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lldcDf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

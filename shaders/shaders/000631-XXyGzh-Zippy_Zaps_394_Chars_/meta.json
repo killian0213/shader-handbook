@@ -1,0 +1,44 @@
+{
+  "id": "XXyGzh",
+  "name": "Zippy Zaps [394 Chars]",
+  "author": "SnoopethDuckDuck",
+  "description": "Golfing always welcome ⚡",
+  "tags": [
+    "magic",
+    "lightning",
+    "storm",
+    "cool",
+    "golf",
+    "thunder"
+  ],
+  "publishedAt": "2024-06-01T13:48:36.000Z",
+  "publishedTimestamp": 1717249716,
+  "views": 30961,
+  "likes": 631,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XXyGzh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

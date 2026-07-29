@@ -1,0 +1,43 @@
+{
+  "id": "Mt3yW7",
+  "name": "Op shop jumpers",
+  "author": "austinlanc",
+  "description": "A collection of procedurally generated jumpers.",
+  "tags": [
+    "patterns",
+    "vintage",
+    "sweater",
+    "jumper",
+    "clothing"
+  ],
+  "publishedAt": "2018-08-08T01:11:16.000Z",
+  "publishedTimestamp": 1533690676,
+  "views": 3175,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mt3yW7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

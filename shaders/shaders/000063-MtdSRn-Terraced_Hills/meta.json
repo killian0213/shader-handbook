@@ -1,0 +1,35 @@
+{
+  "id": "MtdSRn",
+  "name": "Terraced Hills",
+  "author": "Shane",
+  "description": "An abstract representation of some terraced hills. In essence, just a very basic terrain layout with a small code footprint.",
+  "tags": [
+    "raymarching",
+    "terrain",
+    "abstract",
+    "edges"
+  ],
+  "publishedAt": "2016-10-31T13:27:51.000Z",
+  "publishedTimestamp": 1477920471,
+  "views": 2981,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MtdSRn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

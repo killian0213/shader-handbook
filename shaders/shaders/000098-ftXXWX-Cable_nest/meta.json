@@ -1,0 +1,32 @@
+{
+  "id": "ftXXWX",
+  "name": "Cable nest",
+  "author": "mrange",
+  "description": "License CC0: Cable nest\nResult after a few hours programming sunday afternoon\n",
+  "tags": [
+    "raymarching"
+  ],
+  "publishedAt": "2021-07-18T19:01:48.000Z",
+  "publishedTimestamp": 1626634908,
+  "views": 6034,
+  "likes": 98,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ftXXWX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

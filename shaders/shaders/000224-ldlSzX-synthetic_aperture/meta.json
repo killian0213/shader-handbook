@@ -1,0 +1,53 @@
+{
+  "id": "ldlSzX",
+  "name": "synthetic aperture",
+  "author": "FabriceNeyret2",
+  "description": "Synthetic aperture tunes sources phase so as to concentrate interferences on a target (emit or ear). ex:MIMO\nTarget: mouse.  S or SPACE:  linear/circular sources distrib.   R: random spacing.    P: dist fading or not\nW: display waves instead of energy. ",
+  "tags": [
+    "waves",
+    "optics",
+    "correlation",
+    "interferences",
+    "signal",
+    "speckle"
+  ],
+  "publishedAt": "2014-07-13T11:27:50.000Z",
+  "publishedTimestamp": 1405250870,
+  "views": 27391,
+  "likes": 224,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 16,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldlSzX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRr",
+          "filepath": "/presets/tex00.jpg",
+          "previewfilepath": "/presets/tex00.jpg",
+          "type": "keyboard",
+          "channel": 2,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

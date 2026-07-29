@@ -1,0 +1,29 @@
+{
+  "id": "Md2GRc",
+  "name": "Fractal lines of symmetry",
+  "author": "gleurop",
+  "description": "Showing lines of symmetry on a simple fractal.",
+  "tags": [
+    "2d",
+    "fractal",
+    "trippy"
+  ],
+  "publishedAt": "2014-02-09T05:31:43.000Z",
+  "publishedTimestamp": 1391923903,
+  "views": 4088,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Md2GRc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

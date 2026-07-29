@@ -1,0 +1,33 @@
+{
+  "id": "wfG3Dz",
+  "name": "Nox Fire",
+  "author": "diatribes",
+  "description": "Nox Fire\n",
+  "tags": [
+    "raymarch",
+    "fire"
+  ],
+  "publishedAt": "2025-05-24T23:02:10.000Z",
+  "publishedTimestamp": 1748127730,
+  "views": 1153,
+  "likes": 72,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wfG3Dz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "fddBD2",
+  "name": "Generalized Ellipsoid",
+  "author": "iq",
+  "description": "A single ray-surface intersector that can handle spheres, ellipsoids, cones and hyperboloids optimally, and some other shapes less optimally. It does not paraboloids in any way, which you can find here: [url]https://www.shadertoy.com/view/sdyfDR[/url]",
+  "tags": [
+    "3d",
+    "quadric",
+    "cone",
+    "ellipsoid",
+    "generalized",
+    "hyperboloid"
+  ],
+  "publishedAt": "2022-07-07T22:16:10.000Z",
+  "publishedTimestamp": 1657232170,
+  "views": 2948,
+  "likes": 79,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/fddBD2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4lVyzh",
+  "name": "Dancy Tree Doodle 3D",
+  "author": "wyatt",
+  "description": "I've been on this site for a little bit now, but I've always been too shy to ask: Did iq invent raymarching? or did he just popularize it with articles and make this site? All of that is very impressive.",
+  "tags": [
+    "raymarching",
+    "kifs"
+  ],
+  "publishedAt": "2018-12-26T02:23:41.000Z",
+  "publishedTimestamp": 1545791021,
+  "views": 3194,
+  "likes": 101,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4lVyzh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

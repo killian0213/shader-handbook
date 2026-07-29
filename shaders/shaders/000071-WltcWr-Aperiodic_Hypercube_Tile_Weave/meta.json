@@ -1,0 +1,47 @@
+{
+  "id": "WltcWr",
+  "name": "Aperiodic Hypercube Tile Weave",
+  "author": "Shane",
+  "description": "Playing around with Zhao Liang's interpretation of Greg Egan's aperiodic hypercube projection routines to produce a triangular tiled weave.",
+  "tags": [
+    "tile",
+    "penrose",
+    "hypercube",
+    "lattice",
+    "aperiodic",
+    "weave",
+    "ammann",
+    "beenker",
+    "pentagrid"
+  ],
+  "publishedAt": "2020-12-27T12:51:18.000Z",
+  "publishedTimestamp": 1609073478,
+  "views": 1525,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WltcWr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

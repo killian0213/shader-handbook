@@ -1,0 +1,39 @@
+{
+  "id": "4sVczV",
+  "name": "h e e e l i x",
+  "author": "tdhooper",
+  "description": "My entry for the Revision 2018 Animated GIF Compo (1st place \\o/), with an extra bit of post process that blew the file size limit.\n\nUncomment ANOTHER_LEVEL to go deeper",
+  "tags": [
+    "fractal",
+    "spiral",
+    "antialias",
+    "loop",
+    "helix",
+    "outline",
+    "revision",
+    "carpaint"
+  ],
+  "publishedAt": "2018-04-02T11:52:51.000Z",
+  "publishedTimestamp": 1522669971,
+  "views": 13736,
+  "likes": 312,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sVczV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ttSGRc",
+  "name": "Flat water effects",
+  "author": "mrange",
+  "description": "I was looking for waves that would look good on a flat 2D plane. I didn't really find something to my liking so I tinkered a bit (with some inspiration from other shaders obviously). I thought the result was decent so I wanted to share.",
+  "tags": [
+    "waterraytrace"
+  ],
+  "publishedAt": "2019-06-13T21:00:24.000Z",
+  "publishedTimestamp": 1560459624,
+  "views": 20617,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ttSGRc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

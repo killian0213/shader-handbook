@@ -1,0 +1,51 @@
+{
+  "id": "MtGSRm",
+  "name": "spiral clock + inf zoom",
+  "author": "FabriceNeyret2",
+  "description": "\" Deadline is coming... \"\n\nanimated version of [url]https://www.shadertoy.com/view/ltyXzw[/url]",
+  "tags": [
+    "clock",
+    "spiral",
+    "short",
+    "funclock"
+  ],
+  "publishedAt": "2017-01-04T16:26:39.000Z",
+  "publishedTimestamp": 1483547199,
+  "views": 3229,
+  "likes": 67,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MtGSRm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzr",
+          "filepath": "/media/a/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "previewfilepath": "/media/ap/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "type": "texture",
+          "channel": 3,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

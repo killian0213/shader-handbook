@@ -1,0 +1,35 @@
+{
+  "id": "NsBBWW",
+  "name": "Orthocenter at y(x)=1/x",
+  "author": "iq",
+  "description": "Animated recreation of this tweet by Albert Chern: [url]https://twitter.com/theAlbertChern/status/1499096653684371456[/url]. The graph shows that the orthocenter of a triangle that has vertices laying in the y=1/x graph, is also sitting on that graph.",
+  "tags": [
+    "2d",
+    "triangle",
+    "orthocenter",
+    "1x"
+  ],
+  "publishedAt": "2022-03-04T06:45:05.000Z",
+  "publishedTimestamp": 1646376305,
+  "views": 2461,
+  "likes": 79,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/NsBBWW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

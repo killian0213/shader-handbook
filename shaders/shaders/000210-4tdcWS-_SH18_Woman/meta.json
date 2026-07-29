@@ -1,0 +1,34 @@
+{
+  "id": "4tdcWS",
+  "name": "[SH18] Woman",
+  "author": "reinder",
+  "description": "I wanted to create an organic-looking SDF scene in a single, fully procedural, fragment shader.",
+  "tags": [
+    "sdf",
+    "sh18",
+    "woman"
+  ],
+  "publishedAt": "2018-08-10T00:30:26.000Z",
+  "publishedTimestamp": 1533861026,
+  "views": 13156,
+  "likes": 210,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 1,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tdcWS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

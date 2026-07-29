@@ -1,0 +1,33 @@
+{
+  "id": "lcSGDD",
+  "name": "cube wave 3",
+  "author": "FabriceNeyret2",
+  "description": "reference: https://twitter.com/lejeunerenard/status/1742073493020188962",
+  "tags": [
+    "cube",
+    "reproduction"
+  ],
+  "publishedAt": "2024-01-02T19:51:38.000Z",
+  "publishedTimestamp": 1704225098,
+  "views": 6625,
+  "likes": 170,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lcSGDD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ld2GRz",
+  "name": "Metaballs - Quintic",
+  "author": "iq",
+  "description": "Bounded metaballs with quintic falloff. Literature often recommends cubic (smoothstep) falloffs (rather than exponential or 1/dÂ²) for they are bounded. However they produce discontinuities in normals/lighting. Quintic falloffs solves the problem.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "distancefields",
+    "distance",
+    "lipschitz"
+  ],
+  "publishedAt": "2013-10-29T00:04:35.000Z",
+  "publishedTimestamp": 1383005075,
+  "views": 23840,
+  "likes": 172,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ld2GRz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsX3zn",
+          "filepath": "/media/a/94284d43be78f00eb6b298e6d78656a1b34e2b91b34940d02f1ca8b22310e8a0.png",
+          "previewfilepath": "/media/ap/94284d43be78f00eb6b298e6d78656a1b34e2b91b34940d02f1ca8b22310e8a0.png",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

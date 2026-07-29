@@ -1,0 +1,51 @@
+{
+  "id": "MdjGRy",
+  "name": "Graphing",
+  "author": "nimitz",
+  "description": "Usage: -Keyboard number 1 and 2 act as zoom toggles\n-Press X/C/V to toggle function info display\n-Press S/D/F to toggle zero crossing display\n-Click and drag to pan or select value (in value display mode)",
+  "tags": [
+    "2d",
+    "utility",
+    "plotter",
+    "graphing"
+  ],
+  "publishedAt": "2014-01-22T06:27:53.000Z",
+  "publishedTimestamp": 1390372073,
+  "views": 4765,
+  "likes": 89,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 16,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdjGRy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRr",
+          "filepath": "/presets/tex00.jpg",
+          "previewfilepath": "/presets/tex00.jpg",
+          "type": "keyboard",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

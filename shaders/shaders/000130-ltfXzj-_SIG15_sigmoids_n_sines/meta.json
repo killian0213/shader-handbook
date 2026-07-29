@@ -1,0 +1,29 @@
+{
+  "id": "ltfXzj",
+  "name": "[SIG15] sigmoids n sines",
+  "author": "victor_shepardson",
+  "description": "improvised some psychedelic nonsense... getting 2001 and enter the void vibes",
+  "tags": [
+    "procedural",
+    "2d",
+    "psychedelic"
+  ],
+  "publishedAt": "2015-08-07T02:37:55.000Z",
+  "publishedTimestamp": 1438915075,
+  "views": 16436,
+  "likes": 130,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltfXzj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

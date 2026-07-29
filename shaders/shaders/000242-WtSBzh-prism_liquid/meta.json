@@ -1,0 +1,67 @@
+{
+  "id": "WtSBzh",
+  "name": "prism liquid",
+  "author": "louis_C",
+  "description": "little doodeling with liquid",
+  "tags": [
+    "raymarchingliquid"
+  ],
+  "publishedAt": "2021-01-26T19:19:06.000Z",
+  "publishedTimestamp": 1611688746,
+  "views": 18787,
+  "likes": 242,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 40,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WtSBzh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

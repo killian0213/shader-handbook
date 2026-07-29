@@ -1,0 +1,51 @@
+{
+  "id": "XlcSzM",
+  "name": "Matroshka!",
+  "author": "BigWIngs",
+  "description": "Put fullscreen and see if you can find the easter egg ;) Please see comment block for details. ",
+  "tags": [
+    "raymarching",
+    "russian",
+    "matroshka",
+    "doll"
+  ],
+  "publishedAt": "2016-12-07T06:32:23.000Z",
+  "publishedTimestamp": 1481092343,
+  "views": 9426,
+  "likes": 146,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlcSzM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Md2GWR",
+          "filepath": "https://soundcloud.com/officialskorge/skorge-tetris-theme",
+          "previewfilepath": "https://soundcloud.com/officialskorge/skorge-tetris-theme",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

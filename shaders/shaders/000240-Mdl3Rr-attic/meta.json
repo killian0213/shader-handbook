@@ -1,0 +1,29 @@
+{
+  "id": "Mdl3Rr",
+  "name": "attic",
+  "author": "robertcupisz",
+  "description": "Click and drag to rotate the camera.\n\nThe tentacle is a raymarched distance field, the rest of the scene is raycast. The inscattered light/volumetric shadows is just stepping through the volume and casting a shadow ray at every step.",
+  "tags": [
+    "raymarch",
+    "raycast",
+    "volumetric"
+  ],
+  "publishedAt": "2013-03-16T16:58:12.000Z",
+  "publishedTimestamp": 1363453092,
+  "views": 15434,
+  "likes": 240,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mdl3Rr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

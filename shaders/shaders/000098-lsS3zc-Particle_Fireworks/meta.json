@@ -1,0 +1,35 @@
+{
+  "id": "lsS3zc",
+  "name": "Particle Fireworks",
+  "author": "mu6k",
+  "description": "messing around with my previous shader . . .",
+  "tags": [
+    "2d",
+    "motionblur",
+    "particles",
+    "physics"
+  ],
+  "publishedAt": "2014-02-05T22:31:58.000Z",
+  "publishedTimestamp": 1391639518,
+  "views": 7718,
+  "likes": 98,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsS3zc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "MdSXzz",
+  "name": "Warping - procedural 4",
+  "author": "iq",
+  "description": "More fbm warping",
+  "tags": [
+    "procedural",
+    "2d",
+    "warping"
+  ],
+  "publishedAt": "2014-08-27T08:50:42.000Z",
+  "publishedTimestamp": 1409129442,
+  "views": 23530,
+  "likes": 187,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdSXzz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

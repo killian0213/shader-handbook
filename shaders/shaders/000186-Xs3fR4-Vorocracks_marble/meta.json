@@ -1,0 +1,38 @@
+{
+  "id": "Xs3fR4",
+  "name": "Vorocracks marble",
+  "author": "FabriceNeyret2",
+  "description": "marble as fractalized variant of Voronoi-based cracks of [url]https://shadertoy.com/view/lsVyRy[/url].\n\nreference: see below.",
+  "tags": [
+    "voronoi",
+    "perlin",
+    "worley",
+    "pattern",
+    "cracks",
+    "bark",
+    "mz"
+  ],
+  "publishedAt": "2018-04-19T14:58:03.000Z",
+  "publishedTimestamp": 1524149883,
+  "views": 6627,
+  "likes": 186,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xs3fR4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

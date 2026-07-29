@@ -1,0 +1,29 @@
+{
+  "id": "Mdj3RV",
+  "name": "GIT",
+  "author": "Antonalog",
+  "description": "\"Generalized Impressionistic Texture\" ala Ken Musgrave: p 322 of Texturing And Modelling: A Procedural Approach.\nA painterly plasma.",
+  "tags": [
+    "noise",
+    "fbm",
+    "multifractal"
+  ],
+  "publishedAt": "2014-02-02T22:54:22.000Z",
+  "publishedTimestamp": 1391381662,
+  "views": 3717,
+  "likes": 83,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mdj3RV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

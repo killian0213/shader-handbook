@@ -1,0 +1,39 @@
+{
+  "id": "4ssGzS",
+  "name": "The Cornell Box",
+  "author": "h3r3",
+  "description": "Reproducing the famous Cornell Box through Raymarching, fake soft-shadows, fake indirect lighting, ambient occlusion and antialiasing.",
+  "tags": [
+    "raymarching",
+    "fake",
+    "lighting",
+    "shadows",
+    "antialias",
+    "box",
+    "ao",
+    "cornell"
+  ],
+  "publishedAt": "2013-07-20T15:49:01.000Z",
+  "publishedTimestamp": 1374335341,
+  "views": 9906,
+  "likes": 98,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4ssGzS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

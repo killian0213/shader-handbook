@@ -1,0 +1,36 @@
+{
+  "id": "Mts3zM",
+  "name": "Overly satisfying",
+  "author": "nimitz",
+  "description": "Saw this gif on [url=http://imgur.com/0het78q]imgur[/url], thought it would be nice to have an implementation here. Also using this as an opportunity to show a thing I call \"triangle noise\". Try undefining line 9 to 13.",
+  "tags": [
+    "2d",
+    "simple",
+    "cheap",
+    "gif",
+    "imgur"
+  ],
+  "publishedAt": "2015-01-05T04:21:41.000Z",
+  "publishedTimestamp": 1420431701,
+  "views": 9771,
+  "likes": 208,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mts3zM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "M3fGDl",
+  "name": "Water subsurface scattering",
+  "author": "afl_ext",
+  "description": "My old shader, simplified",
+  "tags": [
+    "water",
+    "ocean",
+    "scattering",
+    "subsurface"
+  ],
+  "publishedAt": "2024-02-15T21:27:11.000Z",
+  "publishedTimestamp": 1708032431,
+  "views": 2478,
+  "likes": 73,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/M3fGDl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

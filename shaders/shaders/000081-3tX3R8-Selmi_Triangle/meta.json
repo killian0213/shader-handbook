@@ -1,0 +1,40 @@
+{
+  "id": "3tX3R8",
+  "name": "Selmi Triangle",
+  "author": "dracusa",
+  "description": "My my, will you look at that sexy list of tags.",
+  "tags": [
+    "fractal",
+    "retro",
+    "illusion",
+    "escher",
+    "recursive",
+    "sierpinski",
+    "penrose",
+    "impossible",
+    "reutersvard"
+  ],
+  "publishedAt": "2019-04-18T03:14:00.000Z",
+  "publishedTimestamp": 1555557240,
+  "views": 4248,
+  "likes": 81,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3tX3R8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "lssGDj",
+  "name": "Ascii Art",
+  "author": "movAX13h",
+  "description": "basic bitmap to (mouse clicked ? grayscale : color) ascii (8 characters) art shader;\nI've answered some questions about this shader on my blog in the comments section: https://blog.thrill-project.com/ascii-art-shader/",
+  "tags": [
+    "mouse",
+    "ascii"
+  ],
+  "publishedAt": "2013-09-22T21:43:18.000Z",
+  "publishedTimestamp": 1379886198,
+  "views": 35097,
+  "likes": 152,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lssGDj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xdf3Rn",
+          "filepath": "/media/a/e81e818ac76a8983d746784b423178ee9f6cdcdf7f8e8d719341a6fe2d2ab303.webm",
+          "previewfilepath": "/media/ap/e81e818ac76a8983d746784b423178ee9f6cdcdf7f8e8d719341a6fe2d2ab303.webm",
+          "type": "video",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

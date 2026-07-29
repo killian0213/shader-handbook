@@ -1,0 +1,35 @@
+{
+  "id": "Mtc3RX",
+  "name": "Icosahedron twist",
+  "author": "tdhooper",
+  "description": "Twisting around each vertex of an icosahedron, a sort of smooth spidroball.",
+  "tags": [
+    "sdf",
+    "icosahedron",
+    "twist",
+    "spidroball"
+  ],
+  "publishedAt": "2016-08-06T17:15:06.000Z",
+  "publishedTimestamp": 1470503706,
+  "views": 4901,
+  "likes": 151,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mtc3RX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

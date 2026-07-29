@@ -1,0 +1,87 @@
+{
+  "id": "MdyGzD",
+  "name": "cdak vr",
+  "author": "tuba",
+  "description": "Ported cdak, made use of multipass, added vr",
+  "tags": [
+    "vr",
+    "multipass"
+  ],
+  "publishedAt": "2016-01-22T10:18:06.000Z",
+  "publishedTimestamp": 1453457886,
+  "views": 5944,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 97,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdyGzD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "Msl3Wr",
+          "filepath": "https://soundcloud.com/nummelin/cdak-by-quite-orange-party-version",
+          "previewfilepath": "https://soundcloud.com/nummelin/cdak-by-quite-orange-party-version",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

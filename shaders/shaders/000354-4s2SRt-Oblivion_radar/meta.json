@@ -1,0 +1,33 @@
+{
+  "id": "4s2SRt",
+  "name": "Oblivion radar",
+  "author": "ndel",
+  "description": "A simple sci-fi radar.",
+  "tags": [
+    "2d",
+    "radar"
+  ],
+  "publishedAt": "2014-11-14T10:34:47.000Z",
+  "publishedTimestamp": 1415961287,
+  "views": 314639,
+  "likes": 354,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4s2SRt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

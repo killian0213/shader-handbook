@@ -1,0 +1,38 @@
+{
+  "id": "4tc3DX",
+  "name": "Glorious Line Algorithm",
+  "author": "otaviogood",
+  "description": "This is an attempt to solve everything anyone could want from a line in one function. See comments.",
+  "tags": [
+    "line",
+    "circle",
+    "antialiasing",
+    "antialias",
+    "rectangle",
+    "algorithm",
+    "rounded"
+  ],
+  "publishedAt": "2016-11-01T07:02:43.000Z",
+  "publishedTimestamp": 1477983763,
+  "views": 6834,
+  "likes": 139,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tc3DX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

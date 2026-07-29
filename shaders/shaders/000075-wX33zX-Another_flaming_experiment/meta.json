@@ -1,0 +1,32 @@
+{
+  "id": "wX33zX",
+  "name": "Another flaming experiment",
+  "author": "mrange",
+  "description": "CC0: Another flaming experiment\n  Doesn't look like real flames but I think it looks neat anyway",
+  "tags": [
+    "glow"
+  ],
+  "publishedAt": "2025-07-02T20:02:45.000Z",
+  "publishedTimestamp": 1751486565,
+  "views": 1279,
+  "likes": 75,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wX33zX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

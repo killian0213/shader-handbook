@@ -1,0 +1,30 @@
+{
+  "id": "4ss3DB",
+  "name": "bipolar complex",
+  "author": "Flexi",
+  "description": "just a logarithmic zoom with a spiral twist and a division by zero in the complex number plane. 12 flower calculations, the rest is mirrored.",
+  "tags": [
+    "2d",
+    "complexpolynomials",
+    "polarcoordinates",
+    "logarithmiczoom"
+  ],
+  "publishedAt": "2013-09-08T21:04:06.000Z",
+  "publishedTimestamp": 1378674246,
+  "views": 2882,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4ss3DB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

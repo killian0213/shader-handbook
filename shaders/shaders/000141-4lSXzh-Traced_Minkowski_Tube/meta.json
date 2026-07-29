@@ -1,0 +1,35 @@
+{
+  "id": "4lSXzh",
+  "name": "Traced Minkowski Tube",
+  "author": "Shane",
+  "description": "A point lit, rounded square tunnel, produced without the use of ray marching.",
+  "tags": [
+    "raytracing",
+    "voronoi",
+    "tunnel",
+    "oldschool"
+  ],
+  "publishedAt": "2015-09-04T01:36:49.000Z",
+  "publishedTimestamp": 1441330609,
+  "views": 35666,
+  "likes": 141,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4lSXzh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

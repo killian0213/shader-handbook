@@ -1,0 +1,32 @@
+{
+  "id": "tdyBR1",
+  "name": "Night circuit",
+  "author": "gaz",
+  "description": "3d",
+  "tags": [
+    "3d"
+  ],
+  "publishedAt": "2020-11-29T12:41:39.000Z",
+  "publishedTimestamp": 1606653699,
+  "views": 4935,
+  "likes": 73,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tdyBR1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

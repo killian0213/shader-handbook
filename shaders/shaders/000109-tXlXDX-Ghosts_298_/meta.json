@@ -1,0 +1,35 @@
+{
+  "id": "tXlXDX",
+  "name": "Ghosts [298]",
+  "author": "Xor",
+  "description": "Tweet version:\nhttps://x.com/XorDev/status/1915763936957264357",
+  "tags": [
+    "abstract",
+    "glow",
+    "golf",
+    "300"
+  ],
+  "publishedAt": "2025-04-25T17:01:29.000Z",
+  "publishedTimestamp": 1745600489,
+  "views": 2595,
+  "likes": 109,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tXlXDX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

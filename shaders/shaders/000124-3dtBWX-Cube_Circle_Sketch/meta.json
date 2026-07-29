@@ -1,0 +1,46 @@
+{
+  "id": "3dtBWX",
+  "name": "Cube Circle Sketch",
+  "author": "Shane",
+  "description": "Loosely recreating one of Regolo Bizzi's mathematical sketches via simple procedural methods. No 3D was harmed during the making of this. :)",
+  "tags": [
+    "cube",
+    "circle",
+    "sketch",
+    "pencil",
+    "isometric",
+    "paper",
+    "art",
+    "quad"
+  ],
+  "publishedAt": "2020-11-25T12:59:29.000Z",
+  "publishedTimestamp": 1606309169,
+  "views": 2839,
+  "likes": 124,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3dtBWX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

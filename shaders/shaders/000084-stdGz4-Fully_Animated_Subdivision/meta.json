@@ -1,0 +1,35 @@
+{
+  "id": "stdGz4",
+  "name": "Fully Animated Subdivision",
+  "author": "Tater",
+  "description": "By removing any reference to the current pixel position in the seeding it's possible to animation all iterations of the suddivision. \n\n(Mouseable)\n\n3D coming soon",
+  "tags": [
+    "2d",
+    "mouse",
+    "subdivision",
+    "boxes"
+  ],
+  "publishedAt": "2021-11-01T23:08:35.000Z",
+  "publishedTimestamp": 1635808115,
+  "views": 2088,
+  "likes": 84,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/stdGz4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

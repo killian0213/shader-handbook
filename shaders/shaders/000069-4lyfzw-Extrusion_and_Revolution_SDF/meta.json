@@ -1,0 +1,38 @@
+{
+  "id": "4lyfzw",
+  "name": "Extrusion and Revolution SDF",
+  "author": "iq",
+  "description": "Two techniques used to generate 3D primitives from 2D primitives. Extrusion and Revolution. Assuming the 2D shape defines exact distances, the resulting 3D shape is exact and way cheaper to evaluate than producing the same result with boolean operations.",
+  "tags": [
+    "procedural",
+    "3d",
+    "raymarching",
+    "distancefields",
+    "sdf",
+    "extrusion",
+    "revolution"
+  ],
+  "publishedAt": "2018-11-01T04:49:57.000Z",
+  "publishedTimestamp": 1541047797,
+  "views": 11496,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4lyfzw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

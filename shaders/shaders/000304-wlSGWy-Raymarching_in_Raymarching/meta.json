@@ -1,0 +1,34 @@
+{
+  "id": "wlSGWy",
+  "name": "Raymarching in Raymarching",
+  "author": "kaneta",
+  "description": "Raymarching in Raymarching",
+  "tags": [
+    "3d",
+    "raymarching",
+    "raymarch"
+  ],
+  "publishedAt": "2019-06-18T23:54:26.000Z",
+  "publishedTimestamp": 1560902066,
+  "views": 13713,
+  "likes": 304,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wlSGWy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "XsXXDB",
+  "name": "Cook-Torrance",
+  "author": "xbe",
+  "description": "Classic raytracing using Cook-Torrance shading model. It supports reflection (4 levels) and refraction, hard shadow are supported but enabled only for the ground balls.",
+  "tags": [
+    "3d",
+    "raytracing",
+    "cooktorrance"
+  ],
+  "publishedAt": "2014-07-24T12:47:19.000Z",
+  "publishedTimestamp": 1406206039,
+  "views": 55496,
+  "likes": 209,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsXXDB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

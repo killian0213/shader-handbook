@@ -1,0 +1,52 @@
+{
+  "id": "4tcXRr",
+  "name": "Alien Core",
+  "author": "glkt",
+  "description": "A weird alien core, using raymarching. Click to turn around. \nTry changing the texture, there are interesting patterns to find...",
+  "tags": [
+    "raymarching",
+    "sphere",
+    "abstract",
+    "wtf",
+    "dirtycode"
+  ],
+  "publishedAt": "2016-10-27T20:18:44.000Z",
+  "publishedTimestamp": 1477599524,
+  "views": 37353,
+  "likes": 244,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tcXRr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdXGzr",
+          "filepath": "/media/a/8979352a182bde7c3c651ba2b2f4e0615de819585cc37b7175bcefbca15a6683.jpg",
+          "previewfilepath": "/media/ap/8979352a182bde7c3c651ba2b2f4e0615de819585cc37b7175bcefbca15a6683.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

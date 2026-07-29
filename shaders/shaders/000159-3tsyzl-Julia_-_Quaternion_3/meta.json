@@ -1,0 +1,82 @@
+{
+  "id": "3tsyzl",
+  "name": "Julia - Quaternion 3",
+  "author": "iq",
+  "description": "The cubic Julia set used in the introduction of my video \"Geodes\" ([url]https://www.shadertoy.com/view/3llyzl[/url]). It has 3 bounces of super simple GI (no specular) and some temporal reprojection to remove noise.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "fractal",
+    "julia",
+    "distance",
+    "quaternion",
+    "cubic"
+  ],
+  "publishedAt": "2020-06-26T06:56:26.000Z",
+  "publishedTimestamp": 1593154586,
+  "views": 14428,
+  "likes": 159,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3tsyzl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

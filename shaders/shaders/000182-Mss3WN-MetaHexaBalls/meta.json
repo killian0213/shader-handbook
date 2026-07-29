@@ -1,0 +1,29 @@
+{
+  "id": "Mss3WN",
+  "name": "MetaHexaBalls",
+  "author": "mu6k",
+  "description": "I have no idea how I ended up here, but it demosceneish enough to publish. You can use the mouse to rotate the camera around the 'object'.",
+  "tags": [
+    "raymarching",
+    "lighting",
+    "occlusion"
+  ],
+  "publishedAt": "2013-06-14T23:07:57.000Z",
+  "publishedTimestamp": 1371251277,
+  "views": 10034,
+  "likes": 182,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mss3WN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

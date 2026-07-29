@@ -1,0 +1,52 @@
+{
+  "id": "MsVfz1",
+  "name": "Neon Lit Hexagons",
+  "author": "Shane",
+  "description": "A simple raymarched hexagon scene with some neon elements.",
+  "tags": [
+    "raymarching",
+    "volumetric",
+    "hexagon",
+    "glow",
+    "neon"
+  ],
+  "publishedAt": "2018-06-01T13:47:27.000Z",
+  "publishedTimestamp": 1527860847,
+  "views": 20110,
+  "likes": 324,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsVfz1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGRn",
+          "filepath": "/media/a/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "previewfilepath": "/media/ap/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

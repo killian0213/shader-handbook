@@ -1,0 +1,35 @@
+{
+  "id": "XsSfW1",
+  "name": "[SH17A] Rainbow Twister",
+  "author": "Flyguy",
+  "description": " Similar to the ring twister shader I made a few years ago but a lot smaller. ",
+  "tags": [
+    "ring",
+    "twist",
+    "small",
+    "sh17a"
+  ],
+  "publishedAt": "2017-07-16T08:02:39.000Z",
+  "publishedTimestamp": 1500192159,
+  "views": 7658,
+  "likes": 98,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsSfW1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

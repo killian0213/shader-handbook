@@ -1,0 +1,45 @@
+{
+  "id": "lslXRS",
+  "name": "Noise animation - Lava",
+  "author": "nimitz",
+  "description": "Playing with different ways of animating noise. In this version, the noise is made using the ideas behind \"flow noise\", I'm not quite sure it qualifies though, but it looks decent enough.",
+  "tags": [
+    "procedural",
+    "2d",
+    "noise"
+  ],
+  "publishedAt": "2014-06-23T03:44:33.000Z",
+  "publishedTimestamp": 1403495073,
+  "views": 26109,
+  "likes": 226,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lslXRS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

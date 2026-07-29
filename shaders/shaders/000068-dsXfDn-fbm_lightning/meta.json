@@ -1,0 +1,32 @@
+{
+  "id": "dsXfDn",
+  "name": "fbm lightning",
+  "author": "MonterMan",
+  "description": "fbm warp-based lightning",
+  "tags": [
+    "fbmlightning"
+  ],
+  "publishedAt": "2023-07-06T06:26:08.000Z",
+  "publishedTimestamp": 1688624768,
+  "views": 3049,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/dsXfDn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

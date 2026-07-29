@@ -1,0 +1,36 @@
+{
+  "id": "XttSz2",
+  "name": "Analytic Normals 3D",
+  "author": "iq",
+  "description": "Left, analytical normals of Value Noise, without taking little differences. See [url]http://iquilezles.org/articles/morenoise/morenoise.htm[/url] for more info. See [url]https://www.shadertoy.com/view/MdsSRs[/url] for the 2D case.",
+  "tags": [
+    "3d",
+    "noise",
+    "normals",
+    "analytical",
+    "numerical"
+  ],
+  "publishedAt": "2016-12-02T07:48:27.000Z",
+  "publishedTimestamp": 1480664907,
+  "views": 22008,
+  "likes": 184,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XttSz2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

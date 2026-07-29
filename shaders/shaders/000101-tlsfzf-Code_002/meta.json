@@ -1,0 +1,39 @@
+{
+  "id": "tlsfzf",
+  "name": "Code:002",
+  "author": "Pidhorskyi",
+  "description": "ZeroTwo from \"Darling in the Franxx\"",
+  "tags": [
+    "zerotwo"
+  ],
+  "publishedAt": "2020-08-27T19:17:35.000Z",
+  "publishedTimestamp": 1598555855,
+  "views": 4047,
+  "likes": 101,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tlsfzf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

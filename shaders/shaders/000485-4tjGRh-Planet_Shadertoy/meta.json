@@ -1,0 +1,51 @@
+{
+  "id": "4tjGRh",
+  "name": "Planet Shadertoy",
+  "author": "reinder",
+  "description": "A seamless space-to-surface flight. This is a tribute to all the great shaders on Shadertoy! Use chrome without angle (or a Mac) and run this shader on med, or high settings (line 4 or 5) to get the full shader and the detail I was aiming for.",
+  "tags": [
+    "terrain",
+    "sea",
+    "space",
+    "ocean",
+    "planet",
+    "shadertoy",
+    "vr",
+    "asteroids"
+  ],
+  "publishedAt": "2015-03-30T17:47:01.000Z",
+  "publishedTimestamp": 1427737621,
+  "views": 137493,
+  "likes": 485,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 9,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tjGRh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "XsfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

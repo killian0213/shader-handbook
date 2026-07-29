@@ -1,0 +1,54 @@
+{
+  "id": "Nl23Rw",
+  "name": "Dice Game | Die Die Die",
+  "author": "byt3_m3chanic",
+  "description": "Having some fun with typography and making dice cause @blackle / cheezy music added for your enjoyment. (play some music to make the background EQ move)",
+  "tags": [
+    "raymarching",
+    "game",
+    "text",
+    "audio",
+    "visualizer",
+    "typography",
+    "dice"
+  ],
+  "publishedAt": "2021-06-13T23:08:53.000Z",
+  "publishedTimestamp": 1623625733,
+  "views": 5859,
+  "likes": 61,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Nl23Rw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGzn",
+          "filepath": "/media/a/a6a1cf7a09adfed8c362492c88c30d74fb3d2f4f7ba180ba34b98556660fada1.mp3",
+          "previewfilepath": "/media/ap/a6a1cf7a09adfed8c362492c88c30d74fb3d2f4f7ba180ba34b98556660fada1.mp3",
+          "type": "music",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "MdyGWh",
+  "name": "SDF Ray Function",
+  "author": "paniq",
+  "description": "Visualizing the 1D function, or what distances a ray \"sees\" along its trajectory. drag to try different ray orientations.",
+  "tags": [
+    "ray",
+    "sdf",
+    "visualization",
+    "1d",
+    "function",
+    "trajectory"
+  ],
+  "publishedAt": "2016-01-30T21:04:39.000Z",
+  "publishedTimestamp": 1454187879,
+  "views": 14660,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdyGWh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "XtSyRD",
+  "name": "iSimplexPrim",
+  "author": "paniq",
+  "description": "An intersectable primitive that defines a quadratic surface as a barycentric interpolation of bezier weights along a tetrahedron. This demo stitches three primitives together and blends between different weights.",
+  "tags": [
+    "ray",
+    "quadric",
+    "bezier",
+    "intersection",
+    "simplex",
+    "cone",
+    "tetrahedron",
+    "ellipsoid",
+    "cylinder",
+    "prim"
+  ],
+  "publishedAt": "2017-10-10T14:10:29.000Z",
+  "publishedTimestamp": 1507644629,
+  "views": 3156,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtSyRD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

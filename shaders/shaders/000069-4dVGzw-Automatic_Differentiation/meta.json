@@ -1,0 +1,53 @@
+{
+  "id": "4dVGzw",
+  "name": "Automatic Differentiation",
+  "author": "paniq",
+  "description": "A demo for derivative arithmetic aka dual numbers aka automatic differentiation, where a gradient is calculated as a byproduct, usually faster than using central differences and always precise.",
+  "tags": [
+    "numbers",
+    "derivative",
+    "dual",
+    "arithmetic",
+    "automatic",
+    "differential"
+  ],
+  "publishedAt": "2016-01-25T18:28:08.000Z",
+  "publishedTimestamp": 1453746488,
+  "views": 3253,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dVGzw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dX3zn",
+          "filepath": "/media/a/550a8cce1bf403869fde66dddf6028dd171f1852f4a704a465e1b80d23955663.png",
+          "previewfilepath": "/media/ap/550a8cce1bf403869fde66dddf6028dd171f1852f4a704a465e1b80d23955663.png",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "Mt33W2",
+  "name": "GCLH [Commented]",
+  "author": "Yusef28",
+  "description": "\nTiled floor, camera and lighting practice with the DNA from other shaders added The shader will \"run out of color\" at around 5 - 10 minutes. Haven't figured that part out yet, maybe it's the noise function.",
+  "tags": [
+    "plane",
+    "helix",
+    "tiling",
+    "tile",
+    "ground",
+    "dna"
+  ],
+  "publishedAt": "2016-08-25T16:05:56.000Z",
+  "publishedTimestamp": 1472141156,
+  "views": 8510,
+  "likes": 132,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mt33W2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdX3zn",
+          "filepath": "/media/a/488bd40303a2e2b9a71987e48c66ef41f5e937174bf316d3ed0e86410784b919.jpg",
+          "previewfilepath": "/media/ap/488bd40303a2e2b9a71987e48c66ef41f5e937174bf316d3ed0e86410784b919.jpg",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

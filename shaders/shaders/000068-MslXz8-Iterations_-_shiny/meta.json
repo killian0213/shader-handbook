@@ -1,0 +1,28 @@
+{
+  "id": "MslXz8",
+  "name": "Iterations - shiny",
+  "author": "iq",
+  "description": "The sixth variation of the \"Iterations\" shader. Orbit trapping for non linear operator applied repeatedly",
+  "tags": [
+    "procedural",
+    "2d"
+  ],
+  "publishedAt": "2014-04-08T02:16:27.000Z",
+  "publishedTimestamp": 1396923387,
+  "views": 8468,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MslXz8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

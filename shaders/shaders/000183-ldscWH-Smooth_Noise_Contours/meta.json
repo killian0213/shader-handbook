@@ -1,0 +1,35 @@
+{
+  "id": "ldscWH",
+  "name": "Smooth Noise Contours",
+  "author": "Shane",
+  "description": "Using a cheap - but effective - hack to produce antialiased-looking contour lines without the need for supersampling.",
+  "tags": [
+    "noise",
+    "simplex",
+    "antialias",
+    "contour"
+  ],
+  "publishedAt": "2017-02-28T12:57:33.000Z",
+  "publishedTimestamp": 1488286653,
+  "views": 11320,
+  "likes": 183,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldscWH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

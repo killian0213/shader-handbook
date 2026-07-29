@@ -1,0 +1,35 @@
+{
+  "id": "wlKXWc",
+  "name": "cables2",
+  "author": "yuntaRobo",
+  "description": "Sphere and cables.",
+  "tags": [
+    "raymarching",
+    "torus",
+    "sphere",
+    "cables"
+  ],
+  "publishedAt": "2020-03-09T17:00:51.000Z",
+  "publishedTimestamp": 1583773251,
+  "views": 4821,
+  "likes": 114,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wlKXWc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

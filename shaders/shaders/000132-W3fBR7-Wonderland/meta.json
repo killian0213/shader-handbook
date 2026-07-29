@@ -1,0 +1,47 @@
+{
+  "id": "W3fBR7",
+  "name": "Wonderland",
+  "author": "praveen",
+  "description": "Loosely based on Alice in Wonderland.\n\nAll feedback super welcome — especially performance tips!",
+  "tags": [
+    "3d",
+    "clouds",
+    "cartoon",
+    "flower",
+    "glow",
+    "rainbow",
+    "castle",
+    "portal",
+    "trees",
+    "mushroom",
+    "character",
+    "mountain",
+    "bunny",
+    "girl",
+    "diorama",
+    "bifrost"
+  ],
+  "publishedAt": "2025-11-17T14:49:30.000Z",
+  "publishedTimestamp": 1763390970,
+  "views": 1308,
+  "likes": 132,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/W3fBR7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

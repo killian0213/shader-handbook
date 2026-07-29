@@ -1,0 +1,58 @@
+{
+  "id": "md2GWW",
+  "name": "[Inércia 2022] Glowing Fibers",
+  "author": "Kamoshika",
+  "description": "This is the shader I made at Shader Royale of Inércia Demoparty 2022.\nThankfully, it won first place!\n\nInércia Demoparty 2022\nhttps://2022.inercia.pt/index.php?page=About",
+  "tags": [
+    "raycasting",
+    "livecoding",
+    "fibers",
+    "fiber"
+  ],
+  "publishedAt": "2022-11-05T04:20:40.000Z",
+  "publishedTimestamp": 1667622040,
+  "views": 5746,
+  "likes": 183,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/md2GWW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsXGRr",
+          "filepath": "/media/a/d96b229eeb7a08d53adfcf1ff89e54c9ffeebed193d317d1a01cc8125c0f5cca.mp3",
+          "previewfilepath": "/media/ap/d96b229eeb7a08d53adfcf1ff89e54c9ffeebed193d317d1a01cc8125c0f5cca.mp3",
+          "type": "music",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

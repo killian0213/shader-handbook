@@ -1,0 +1,34 @@
+{
+  "id": "s3fXR4",
+  "name": "A quick terrain hack",
+  "author": "mrange",
+  "description": "CC0: A quick terrain hack\n Created this in order to demonstrate how to implement a simple terrain\n ray tracer for a friend.\n\nIt would benefit from some TAA but that would make it more complicated\n",
+  "tags": [
+    "terrain",
+    "raymarch",
+    "height"
+  ],
+  "publishedAt": "2026-06-04T19:38:47.000Z",
+  "publishedTimestamp": 1780601927,
+  "views": 646,
+  "likes": 61,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/s3fXR4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

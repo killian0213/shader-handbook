@@ -1,0 +1,38 @@
+{
+  "id": "fslyW4",
+  "name": "Golden Ratio and Spiral",
+  "author": "iq",
+  "description": "A zoom into a Golder Spiral, which, like all logarithmic spirals, is self-similar. I added lots of comments in the code.",
+  "tags": [
+    "2d",
+    "zoom",
+    "spiral",
+    "infinite",
+    "goldenratio",
+    "golden",
+    "selfsimilar"
+  ],
+  "publishedAt": "2022-01-14T21:20:05.000Z",
+  "publishedTimestamp": 1642195205,
+  "views": 2473,
+  "likes": 89,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/fslyW4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

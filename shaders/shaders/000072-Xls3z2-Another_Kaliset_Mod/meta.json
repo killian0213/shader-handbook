@@ -1,0 +1,32 @@
+{
+  "id": "Xls3z2",
+  "name": "Another Kaliset Mod",
+  "author": "eiffie",
+  "description": "Inspired by [url]https://www.shadertoy.com/view/XtlGDH[/url]",
+  "tags": [
+    "kaliset"
+  ],
+  "publishedAt": "2015-02-08T21:58:00.000Z",
+  "publishedTimestamp": 1423432680,
+  "views": 8754,
+  "likes": 72,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xls3z2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

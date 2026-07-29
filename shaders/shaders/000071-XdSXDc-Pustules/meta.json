@@ -1,0 +1,31 @@
+{
+  "id": "XdSXDc",
+  "name": "Pustules",
+  "author": "nimitz",
+  "description": "Alternate name: \"Wet turd\"\n\nMouse enabled.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "voronoi",
+    "pbr",
+    "tasty"
+  ],
+  "publishedAt": "2014-11-19T03:13:05.000Z",
+  "publishedTimestamp": 1416366785,
+  "views": 3361,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdSXDc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

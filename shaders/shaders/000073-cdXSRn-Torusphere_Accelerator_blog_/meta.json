@@ -1,0 +1,38 @@
+{
+  "id": "cdXSRn",
+  "name": "Torusphere Accelerator (+ blog)",
+  "author": "dracusa",
+  "description": "Have you ever felt that time is elapsing faster and faster? Also, here's an excessively detailed post on how this thing works and on motion blur in general:\n\nhttps://www.osar.fr/notes/motionblur/",
+  "tags": [
+    "blur",
+    "motionblur",
+    "motion",
+    "analytic",
+    "tone",
+    "shepard",
+    "acceleration"
+  ],
+  "publishedAt": "2022-11-13T22:59:33.000Z",
+  "publishedTimestamp": 1668380373,
+  "views": 1392,
+  "likes": 73,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/cdXSRn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

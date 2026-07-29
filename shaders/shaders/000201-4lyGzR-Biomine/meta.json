@@ -1,0 +1,37 @@
+{
+  "id": "4lyGzR",
+  "name": "Biomine",
+  "author": "Shane",
+  "description": "Using a combination of simple gyroid surfaces to create a dual mineral and organic looking scene.",
+  "tags": [
+    "raymarching",
+    "voronoi",
+    "tunnel",
+    "cellular",
+    "gyroid",
+    "bio"
+  ],
+  "publishedAt": "2016-09-03T06:40:58.000Z",
+  "publishedTimestamp": 1472884858,
+  "views": 33983,
+  "likes": 201,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4lyGzR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

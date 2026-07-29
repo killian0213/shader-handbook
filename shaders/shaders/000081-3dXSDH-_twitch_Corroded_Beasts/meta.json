@@ -1,0 +1,35 @@
+{
+  "id": "3dXSDH",
+  "name": "[twitch] Corroded Beasts",
+  "author": "NuSan",
+  "description": "Shader coded live on twitch (https://www.twitch.tv/nusan_fx)\nYou can lower the MARCH_STEPS and PART_COUNT if too slow\nThe shader was made using Bonzomatic.\nYou can find the original shader here: http://lezanu.fr/LiveCode/CorrodedBeasts.glsl",
+  "tags": [
+    "3d",
+    "raymarching",
+    "live",
+    "twitch"
+  ],
+  "publishedAt": "2019-02-25T22:16:35.000Z",
+  "publishedTimestamp": 1551132995,
+  "views": 3392,
+  "likes": 81,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3dXSDH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "4sSXWt",
+  "name": "Direct Light using MIS",
+  "author": "koiava",
+  "description": "Left - BSDF sampling\nRight - Light sampling\nCenter - Combination those strategies using [b][url=https://graphics.stanford.edu/courses/cs348b-03/papers/veach-chapter9.pdf]MIS[/url][/b](E. Veach, and L. Guibas)\n",
+  "tags": [
+    "mis",
+    "rendering",
+    "realtime",
+    "directlight",
+    "unbiased"
+  ],
+  "publishedAt": "2014-11-26T18:52:35.000Z",
+  "publishedTimestamp": 1417027955,
+  "views": 12127,
+  "likes": 132,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sSXWt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

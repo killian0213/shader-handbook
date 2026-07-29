@@ -1,0 +1,35 @@
+{
+  "id": "4s2yW1",
+  "name": "Bokeh Paralax",
+  "author": "knarkowicz",
+  "description": "Feeling artsy",
+  "tags": [
+    "procedural",
+    "2d",
+    "circles",
+    "bokeh"
+  ],
+  "publishedAt": "2017-04-12T20:43:28.000Z",
+  "publishedTimestamp": 1492029808,
+  "views": 16422,
+  "likes": 186,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4s2yW1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

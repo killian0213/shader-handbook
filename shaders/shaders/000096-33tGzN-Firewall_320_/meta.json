@@ -1,0 +1,36 @@
+{
+  "id": "33tGzN",
+  "name": "Firewall [320]",
+  "author": "Xor",
+  "description": "A different perspective on Accretion.\n",
+  "tags": [
+    "raymarch",
+    "glow",
+    "turbulence",
+    "flow",
+    "golf"
+  ],
+  "publishedAt": "2025-06-26T23:24:46.000Z",
+  "publishedTimestamp": 1750980286,
+  "views": 2163,
+  "likes": 96,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/33tGzN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ld2SzK",
+  "name": "Alien Beacon",
+  "author": "otaviogood",
+  "description": "Our investigation of the signal from the planet's surface brought us to what seems to be an alien beacon. Based on the rock formation around the beacon, it was probably left here millions of years ago.",
+  "tags": [
+    "procedural",
+    "noise",
+    "terrain"
+  ],
+  "publishedAt": "2014-10-27T05:24:30.000Z",
+  "publishedTimestamp": 1414387470,
+  "views": 6408,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ld2SzK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3lc3WN",
+  "name": "Stellar magnetic field",
+  "author": "tdhooper",
+  "description": "See also https://t.co/THbz9C33CN?amp=1",
+  "tags": [
+    "field",
+    "magnetic"
+  ],
+  "publishedAt": "2019-12-13T23:57:58.000Z",
+  "publishedTimestamp": 1576281478,
+  "views": 1982,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3lc3WN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

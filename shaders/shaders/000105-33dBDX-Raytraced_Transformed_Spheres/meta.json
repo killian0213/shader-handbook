@@ -1,0 +1,60 @@
+{
+  "id": "33dBDX",
+  "name": "Raytraced Transformed Spheres",
+  "author": "Shane",
+  "description": "This is a rough sphere packing of a complex transformation. In partiular, it is a rough reworking of \"Electrostatics Vortices\" by RandomDudeWhoCodes.",
+  "tags": [
+    "shadow",
+    "sphere",
+    "raytrace",
+    "complex",
+    "soft",
+    "vortices"
+  ],
+  "publishedAt": "2026-02-18T14:07:37.000Z",
+  "publishedTimestamp": 1771423657,
+  "views": 1405,
+  "likes": 105,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/33dBDX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsX3zn",
+          "filepath": "/media/a/94284d43be78f00eb6b298e6d78656a1b34e2b91b34940d02f1ca8b22310e8a0.png",
+          "previewfilepath": "/media/ap/94284d43be78f00eb6b298e6d78656a1b34e2b91b34940d02f1ca8b22310e8a0.png",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

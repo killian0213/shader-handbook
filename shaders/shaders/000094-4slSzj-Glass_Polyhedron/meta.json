@@ -1,0 +1,33 @@
+{
+  "id": "4slSzj",
+  "name": "Glass Polyhedron",
+  "author": "Nrx",
+  "description": "Forked from: https://www.shadertoy.com/view/ldfXzn\n\nThis is a simplification of my \"diamond\", to check about refraction and reflection...",
+  "tags": [
+    "raymarching",
+    "glass"
+  ],
+  "publishedAt": "2014-07-01T07:54:45.000Z",
+  "publishedTimestamp": 1404201285,
+  "views": 4792,
+  "likes": 94,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4slSzj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

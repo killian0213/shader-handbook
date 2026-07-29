@@ -1,0 +1,61 @@
+{
+  "id": "XtSGDK",
+  "name": "Rotating Structure",
+  "author": "iq",
+  "description": "Another space flipping experiment, similar to [url]https://www.shadertoy.com/view/Xdf3Rn[/url], [url]https://www.shadertoy.com/view/MsXGRf[/url] and [url]https://www.shadertoy.com/view/4dsGD7[/url]. I used an infinite grid like Kali's Inversion Machine.",
+  "tags": [
+    "procedural",
+    "3d",
+    "raymarching",
+    "distancefield"
+  ],
+  "publishedAt": "2015-06-04T11:23:47.000Z",
+  "publishedTimestamp": 1433417027,
+  "views": 11392,
+  "likes": 128,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtSGDK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sfGRn",
+          "filepath": "/media/a/fb918796edc3d2221218db0811e240e72e340350008338b0c07a52bd353666a6.jpg",
+          "previewfilepath": "/media/ap/fb918796edc3d2221218db0811e240e72e340350008338b0c07a52bd353666a6.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

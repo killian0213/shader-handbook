@@ -1,0 +1,43 @@
+{
+  "id": "WlBXW3",
+  "name": "Link's Awakening",
+  "author": "Gallo",
+  "description": "Link from The legend of Zelda : Link's Awakening Remake with raymarching.\nBody parts visibility can be toggled. \nShield details reduced a little to not kill the performance just with small details.",
+  "tags": [
+    "raymarching",
+    "zelda",
+    "videogame",
+    "character",
+    "link"
+  ],
+  "publishedAt": "2019-09-01T16:59:02.000Z",
+  "publishedTimestamp": 1567357142,
+  "views": 3908,
+  "likes": 74,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WlBXW3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

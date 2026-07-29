@@ -1,0 +1,28 @@
+{
+  "id": "ldS3DW",
+  "name": "Ray tracing sphere example",
+  "author": "kig",
+  "description": "Minimal example on how to ray trace spheres.",
+  "tags": [
+    "raytracing",
+    "minimal"
+  ],
+  "publishedAt": "2013-12-25T22:08:44.000Z",
+  "publishedTimestamp": 1388009324,
+  "views": 25237,
+  "likes": 111,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldS3DW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "4dVGzd",
+  "name": "Escher-like tiling (255 chars)",
+  "author": "FabriceNeyret2",
+  "description": ".",
+  "tags": [
+    "2d",
+    "pattern",
+    "tiling",
+    "2tweets",
+    "short",
+    "golf",
+    "escherlike"
+  ],
+  "publishedAt": "2016-02-20T00:20:42.000Z",
+  "publishedTimestamp": 1455927642,
+  "views": 2095,
+  "likes": 76,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dVGzd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

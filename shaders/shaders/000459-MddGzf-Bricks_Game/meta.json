@@ -1,0 +1,112 @@
+{
+  "id": "MddGzf",
+  "name": "Bricks Game",
+  "author": "iq",
+  "description": "Use arrow keys or the mouse to move the paddle. Use space to restart. This shader uses the new Multipass system",
+  "tags": [
+    "procedural",
+    "2d",
+    "game",
+    "interactive",
+    "bricks",
+    "multipass",
+    "arkanoid"
+  ],
+  "publishedAt": "2016-01-04T05:20:00.000Z",
+  "publishedTimestamp": 1451884800,
+  "views": 86001,
+  "likes": 459,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 112,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MddGzf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XdX3RN",
+          "filepath": "https://soundcloud.com/algoritmos666/tron-legacy-soundtrack-ost-03",
+          "previewfilepath": "https://soundcloud.com/algoritmos666/tron-legacy-soundtrack-ost-03",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRr",
+          "filepath": "/presets/tex00.jpg",
+          "previewfilepath": "/presets/tex00.jpg",
+          "type": "keyboard",
+          "channel": 1,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

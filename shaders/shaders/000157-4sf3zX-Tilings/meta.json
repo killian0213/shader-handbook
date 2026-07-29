@@ -1,0 +1,39 @@
+{
+  "id": "4sf3zX",
+  "name": "Tilings",
+  "author": "knighty",
+  "description": "Triangle groups tilings generator.",
+  "tags": [
+    "triangle",
+    "antialiasing",
+    "de",
+    "tilings",
+    "coxeter",
+    "group",
+    "conformal",
+    "model"
+  ],
+  "publishedAt": "2013-07-29T17:09:48.000Z",
+  "publishedTimestamp": 1375117788,
+  "views": 5390,
+  "likes": 157,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sf3zX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

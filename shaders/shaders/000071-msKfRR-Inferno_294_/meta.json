@@ -1,0 +1,32 @@
+{
+  "id": "msKfRR",
+  "name": "Inferno [294]",
+  "author": "Xor",
+  "description": "A variant of [url=https://www.shadertoy.com/view/DljyWG]Quantum[/url], created for my [url=https://xordev.square.site]new shader merch shop[/url]!\n",
+  "tags": [
+    "golf"
+  ],
+  "publishedAt": "2023-10-20T23:05:56.000Z",
+  "publishedTimestamp": 1697843156,
+  "views": 1005,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/msKfRR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "ldSyRd",
+  "name": "Kleinian variations",
+  "author": "iapafoto",
+  "description": "paying with kleinian fractal\nand try to create a geometric dof post process for dof",
+  "tags": [
+    "fractal",
+    "dof",
+    "bokeh",
+    "kleinian",
+    "apollonian"
+  ],
+  "publishedAt": "2017-04-28T22:46:13.000Z",
+  "publishedTimestamp": 1493419573,
+  "views": 5977,
+  "likes": 110,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 96,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldSyRd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsXGR8",
+          "filepath": "/media/previz/buffer01.png",
+          "previewfilepath": "/media/previz/buffer01.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer B",
+      "file": "buffer_b.glsl",
+      "inputs": [
+        {
+          "id": "MdsXRn",
+          "filepath": "https://soundcloud.com/10densmusic/10dens-yann-tiersen-summer-78",
+          "previewfilepath": "https://soundcloud.com/10densmusic/10dens-yann-tiersen-summer-78",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "XsXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

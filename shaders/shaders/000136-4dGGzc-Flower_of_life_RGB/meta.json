@@ -1,0 +1,32 @@
+{
+  "id": "4dGGzc",
+  "name": "Flower of life RGB",
+  "author": "xoihazard",
+  "description": "my first demo",
+  "tags": [
+    "hexagon"
+  ],
+  "publishedAt": "2016-02-15T12:24:02.000Z",
+  "publishedTimestamp": 1455539042,
+  "views": 3755,
+  "likes": 136,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dGGzc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

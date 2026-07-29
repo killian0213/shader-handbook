@@ -1,0 +1,46 @@
+{
+  "id": "4dlGDN",
+  "name": "Noise blur",
+  "author": "iq",
+  "description": "Or a line integral, pretty much inspired by fizzer's \"funcky planet\". I used to know this as \"directional blur\" in the demoscene times. Here it is anyway, a doodling that ended up looking cute I think ^_^",
+  "tags": [
+    "2d",
+    "noise",
+    "flow",
+    "noisefield"
+  ],
+  "publishedAt": "2013-06-10T07:16:31.000Z",
+  "publishedTimestamp": 1370848591,
+  "views": 30096,
+  "likes": 262,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dlGDN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsXGRn",
+          "filepath": "/media/a/cd4c518bc6ef165c39d4405b347b51ba40f8d7a065ab0e8d2e4f422cbc1e8a43.jpg",
+          "previewfilepath": "/media/ap/cd4c518bc6ef165c39d4405b347b51ba40f8d7a065ab0e8d2e4f422cbc1e8a43.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

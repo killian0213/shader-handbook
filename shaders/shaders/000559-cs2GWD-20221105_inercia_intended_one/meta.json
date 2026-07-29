@@ -1,0 +1,52 @@
+{
+  "id": "cs2GWD",
+  "name": "20221105_inercia intended one",
+  "author": "0b5vr",
+  "description": "OVERSLEPT + BUG PANIC\n\nIntended to be won the Inércia 2022 Shader Royale\nThe estimated time will be 120min\n\nhttps://2022.inercia.pt/",
+  "tags": [
+    "3d",
+    "music",
+    "livecoding",
+    "soundcloud",
+    "dubstep2"
+  ],
+  "publishedAt": "2022-11-05T01:11:47.000Z",
+  "publishedTimestamp": 1667610707,
+  "views": 32230,
+  "likes": 559,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/cs2GWD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "llBXD1",
+          "filepath": "https://soundcloud.com/artbyform/dubstep-2-emotional-clap",
+          "previewfilepath": "https://soundcloud.com/artbyform/dubstep-2-emotional-clap",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "MdlGz4",
+  "name": "Minecraft Blocks",
+  "author": "reinder",
+  "description": "Shameless port of javascriptcode by Markus Persson (http://jsfiddle.net/uzMPU/).",
+  "tags": [
+    "raycasting",
+    "voxel",
+    "minecraft",
+    "proceduraltextures"
+  ],
+  "publishedAt": "2013-03-28T15:42:37.000Z",
+  "publishedTimestamp": 1364485357,
+  "views": 11840,
+  "likes": 61,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdlGz4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

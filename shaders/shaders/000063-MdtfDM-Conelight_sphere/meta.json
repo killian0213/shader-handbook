@@ -1,0 +1,36 @@
+{
+  "id": "MdtfDM",
+  "name": "Conelight sphere",
+  "author": "Virgill",
+  "description": "Just an early experiment. Use the mouse ...",
+  "tags": [
+    "experiment",
+    "light",
+    "volumetric",
+    "glow",
+    "iteration"
+  ],
+  "publishedAt": "2018-05-05T08:54:06.000Z",
+  "publishedTimestamp": 1525510446,
+  "views": 2075,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdtfDM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

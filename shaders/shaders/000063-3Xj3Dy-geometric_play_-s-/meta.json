@@ -1,0 +1,34 @@
+{
+  "id": "3Xj3Dy",
+  "name": "geometric play -s-",
+  "author": "YoheiNishitsuji",
+  "description": "“geometric play -s-” shows one geometry of the play.",
+  "tags": [
+    "metal",
+    "geometry",
+    "material"
+  ],
+  "publishedAt": "2025-04-12T22:18:43.000Z",
+  "publishedTimestamp": 1744496323,
+  "views": 1167,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3Xj3Dy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

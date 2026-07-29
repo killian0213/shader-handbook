@@ -1,0 +1,44 @@
+{
+  "id": "msjGzw",
+  "name": "Walk Like an Egyptian",
+  "author": "XT95",
+  "description": "It was kind of funny to make !",
+  "tags": [
+    "cartoon",
+    "parallax",
+    "toon",
+    "pyramid",
+    "desert",
+    "dune"
+  ],
+  "publishedAt": "2022-11-03T12:16:39.000Z",
+  "publishedTimestamp": 1667477799,
+  "views": 3406,
+  "likes": 107,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/msjGzw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

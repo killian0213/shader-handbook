@@ -1,0 +1,37 @@
+{
+  "id": "Xlt3Dn",
+  "name": "[SH16B] Speed tracer",
+  "author": "reinder",
+  "description": "Because there is no character limit anymore, a lot more spheres can be rendered.\nThis shader uses code of the [url=https://www.shadertoy.com/view/MdB3Dw]Analytical Motionblur 3D[/url] shader by Inigo and a grid to trace a lot of spheres.",
+  "tags": [
+    "ray",
+    "blur",
+    "spheres",
+    "motion",
+    "analytic",
+    "trace"
+  ],
+  "publishedAt": "2016-07-17T20:46:57.000Z",
+  "publishedTimestamp": 1468788417,
+  "views": 5365,
+  "likes": 75,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xlt3Dn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

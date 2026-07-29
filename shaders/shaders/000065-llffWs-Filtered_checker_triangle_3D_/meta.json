@@ -1,0 +1,36 @@
+{
+  "id": "llffWs",
+  "name": "Filtered checker (triangle, 3D)",
+  "author": "iq",
+  "description": "An improvement to [url]https://www.shadertoy.com/view/XlXBWs[/url]. Using a triangular filter kernel (right) rather than a box filter (cebter) produces flicker-free animation. The maths are a little bit more involved, but still has an analytical result.",
+  "tags": [
+    "3d",
+    "filtering",
+    "analytical",
+    "integration",
+    "checkedboard"
+  ],
+  "publishedAt": "2017-12-21T22:39:04.000Z",
+  "publishedTimestamp": 1513895944,
+  "views": 5907,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llffWs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

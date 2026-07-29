@@ -1,0 +1,32 @@
+{
+  "id": "tsXBzS",
+  "name": "fractal pyramid",
+  "author": "bradjamesgrant",
+  "description": "Creating multiple shapes with one SDF evaluation by repeatedly rotating and folding space",
+  "tags": [
+    "fractalcineshader"
+  ],
+  "publishedAt": "2020-05-03T04:08:51.000Z",
+  "publishedTimestamp": 1588478931,
+  "views": 467132,
+  "likes": 668,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tsXBzS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

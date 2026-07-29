@@ -1,0 +1,38 @@
+{
+  "id": "4ljSRR",
+  "name": "Gabor^2",
+  "author": "mattz",
+  "description": "Zsa Zsa Gabor, rendered with 128 Gabor functions. \n\nMore technical details at [url]https://mzucker.github.io/2016/08/01/gabor-2.html[/url]",
+  "tags": [
+    "genetic",
+    "photo",
+    "image",
+    "gabor",
+    "basis",
+    "notreallygenetic",
+    "wavelet"
+  ],
+  "publishedAt": "2015-08-31T14:53:44.000Z",
+  "publishedTimestamp": 1441032824,
+  "views": 12470,
+  "likes": 154,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4ljSRR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "WsSGWG",
+  "name": "Kaleidoscope Tunnel",
+  "author": "kaneta",
+  "description": "I was inspired by live VJ",
+  "tags": [
+    "2d",
+    "ifs",
+    "fold",
+    "cineshader"
+  ],
+  "publishedAt": "2019-02-10T14:52:21.000Z",
+  "publishedTimestamp": 1549810341,
+  "views": 28573,
+  "likes": 97,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WsSGWG",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

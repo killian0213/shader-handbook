@@ -1,0 +1,33 @@
+{
+  "id": "Xtf3Rn",
+  "name": "Generators",
+  "author": "Kali",
+  "description": "Generators!",
+  "tags": [
+    "raymarching",
+    "effects"
+  ],
+  "publishedAt": "2013-10-10T18:41:11.000Z",
+  "publishedTimestamp": 1381430471,
+  "views": 44579,
+  "likes": 371,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xtf3Rn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

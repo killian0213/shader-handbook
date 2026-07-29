@@ -1,0 +1,35 @@
+{
+  "id": "wfK3Rm",
+  "name": "Bits [246]",
+  "author": "Xor",
+  "description": "[url]https://x.com/XorDev/status/1925548343054496239/url]",
+  "tags": [
+    "color",
+    "abstract",
+    "glow",
+    "golf"
+  ],
+  "publishedAt": "2025-05-22T20:02:44.000Z",
+  "publishedTimestamp": 1747944164,
+  "views": 1204,
+  "likes": 64,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wfK3Rm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

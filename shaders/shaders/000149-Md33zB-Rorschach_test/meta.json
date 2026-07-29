@@ -1,0 +1,29 @@
+{
+  "id": "Md33zB",
+  "name": "Rorschach test",
+  "author": "zifnab",
+  "description": "Mirrored and thresholded noise function to generate what looks like ink blots from the Rorschach test",
+  "tags": [
+    "noise",
+    "inkblot",
+    "rorschach"
+  ],
+  "publishedAt": "2015-12-18T08:57:06.000Z",
+  "publishedTimestamp": 1450429026,
+  "views": 7003,
+  "likes": 149,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Md33zB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

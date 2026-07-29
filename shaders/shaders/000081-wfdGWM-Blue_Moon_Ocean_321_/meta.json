@@ -1,0 +1,36 @@
+{
+  "id": "wfdGWM",
+  "name": "Blue Moon Ocean [321]",
+  "author": "diatribes",
+  "description": "Blue Moon Ocean [321]\n",
+  "tags": [
+    "raymarch",
+    "ocean",
+    "moon",
+    "small",
+    "short"
+  ],
+  "publishedAt": "2025-05-14T00:02:49.000Z",
+  "publishedTimestamp": 1747180969,
+  "views": 1702,
+  "likes": 81,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wfdGWM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

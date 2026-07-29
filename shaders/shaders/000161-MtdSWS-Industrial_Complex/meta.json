@@ -1,0 +1,52 @@
+{
+  "id": "MtdSWS",
+  "name": "Industrial Complex",
+  "author": "Shane",
+  "description": "Using standard distance field operations to produce an abstract industrial complex with a lot of floor space. :)",
+  "tags": [
+    "raymarching",
+    "edge",
+    "bump",
+    "industrial",
+    "building"
+  ],
+  "publishedAt": "2016-12-15T02:15:26.000Z",
+  "publishedTimestamp": 1481768126,
+  "views": 25223,
+  "likes": 161,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MtdSWS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGRn",
+          "filepath": "/media/a/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "previewfilepath": "/media/ap/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

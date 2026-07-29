@@ -1,0 +1,27 @@
+{
+  "id": "XsyGzD",
+  "name": "Electrocardiogram_Loewe",
+  "author": "Loewe",
+  "description": "This is my first shader program that make me satisfied",
+  "tags": [
+    "2d"
+  ],
+  "publishedAt": "2016-01-22T04:53:24.000Z",
+  "publishedTimestamp": 1453438404,
+  "views": 11667,
+  "likes": 78,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsyGzD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "7dccRj",
+  "name": "City in a Bottle HD (256 bytes)",
+  "author": "KilledByAPixel",
+  "description": "tiny raycaster and city with shadows and textures based on my 256 byte html program \nhttps://frankforce.com/city-in-a-bottle-a-256-byte-raycasting-system/",
+  "tags": [
+    "city",
+    "tweet",
+    "tinycode"
+  ],
+  "publishedAt": "2022-05-28T05:20:53.000Z",
+  "publishedTimestamp": 1653715253,
+  "views": 9145,
+  "likes": 78,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7dccRj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

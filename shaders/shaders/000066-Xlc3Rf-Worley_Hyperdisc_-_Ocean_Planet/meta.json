@@ -1,0 +1,39 @@
+{
+  "id": "Xlc3Rf",
+  "name": "Worley Hyperdisc - Ocean Planet",
+  "author": "CaliCoastReplay",
+  "description": "3rd mix of the Worley noise shader at https://www.shadertoy.com/view/Xl33Wn , the hyperbolic disc from : https://www.shadertoy.com/view/XllSWf , and starfield from https://www.shadertoy.com/view/4scXWB .  Try it at high-res!",
+  "tags": [
+    "ocean",
+    "planet",
+    "worley",
+    "stars",
+    "disc",
+    "mattdamon",
+    "hyperbolic",
+    "yeis"
+  ],
+  "publishedAt": "2016-08-05T23:11:45.000Z",
+  "publishedTimestamp": 1470438705,
+  "views": 13269,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xlc3Rf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

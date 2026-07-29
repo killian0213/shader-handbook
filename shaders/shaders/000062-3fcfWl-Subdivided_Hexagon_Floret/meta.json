@@ -1,0 +1,44 @@
+{
+  "id": "3fcfWl",
+  "name": "Subdivided Hexagon Floret",
+  "author": "Shane",
+  "description": "A subdivided hexagon floret traversal, or a subdivided snub hexagon pattern traversal, depending on perspective.",
+  "tags": [
+    "raymarching",
+    "hexagon",
+    "tessellation",
+    "traversal",
+    "snub",
+    "floret"
+  ],
+  "publishedAt": "2026-03-24T14:08:41.000Z",
+  "publishedTimestamp": 1774361321,
+  "views": 524,
+  "likes": 62,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3fcfWl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

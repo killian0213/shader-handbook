@@ -1,0 +1,49 @@
+{
+  "id": "WdB3zz",
+  "name": "Gato Negro Pasa",
+  "author": "Kali",
+  "description": "A music video for one of my favorite tracks by Mi Amigo Invencible",
+  "tags": [
+    "2d",
+    "animation"
+  ],
+  "publishedAt": "2019-01-19T14:52:13.000Z",
+  "publishedTimestamp": 1547909533,
+  "views": 2855,
+  "likes": 61,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WdB3zz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XllGDn",
+          "filepath": "https://soundcloud.com/miamigoinvencible/gato-negro-pasa",
+          "previewfilepath": "https://soundcloud.com/miamigoinvencible/gato-negro-pasa",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

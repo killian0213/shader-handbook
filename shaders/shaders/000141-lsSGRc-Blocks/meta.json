@@ -1,0 +1,50 @@
+{
+  "id": "lsSGRc",
+  "name": "Blocks",
+  "author": "iq",
+  "description": "A 2D Voronoi pattern (see https://www.shadertoy.com/view/MdSGRc) with textures and colors",
+  "tags": [
+    "procedural",
+    "2d",
+    "voronoi"
+  ],
+  "publishedAt": "2014-02-05T02:26:30.000Z",
+  "publishedTimestamp": 1391567190,
+  "views": 13242,
+  "likes": 141,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsSGRc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsfGRn",
+          "filepath": "/media/a/1f7dca9c22f324751f2a5a59c9b181dfe3b5564a04b724c657732d0bf09c99db.jpg",
+          "previewfilepath": "/media/ap/1f7dca9c22f324751f2a5a59c9b181dfe3b5564a04b724c657732d0bf09c99db.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

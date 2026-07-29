@@ -1,0 +1,38 @@
+{
+  "id": "MX33Dr",
+  "name": "Vortex [378 chars]",
+  "author": "kishimisu",
+  "description": "Thank you for choosing to travel with our Spacetime Continuum Vortex©, you will reach your destination soon.",
+  "tags": [
+    "raymarching",
+    "tunnel",
+    "code",
+    "neon",
+    "short",
+    "golf",
+    "golfing"
+  ],
+  "publishedAt": "2024-05-21T22:19:07.000Z",
+  "publishedTimestamp": 1716329947,
+  "views": 2595,
+  "likes": 82,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MX33Dr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

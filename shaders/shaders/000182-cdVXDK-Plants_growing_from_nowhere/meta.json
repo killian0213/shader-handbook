@@ -1,0 +1,35 @@
+{
+  "id": "cdVXDK",
+  "name": "Plants growing from nowhere",
+  "author": "sukupaper",
+  "description": "Basically three spiral plants using 2D Log-spherical Mapping\n\nto be fixed: some discontinuity because of poor domain repetition",
+  "tags": [
+    "raymarching",
+    "plant",
+    "flowers",
+    "growing"
+  ],
+  "publishedAt": "2023-04-16T10:52:41.000Z",
+  "publishedTimestamp": 1681642361,
+  "views": 5916,
+  "likes": 182,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/cdVXDK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

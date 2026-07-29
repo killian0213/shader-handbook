@@ -1,0 +1,46 @@
+{
+  "id": "XlsGRs",
+  "name": "jetstream",
+  "author": "srtuss",
+  "description": "something i made some moths ago, when i was experimenting with volumetric stuff.",
+  "tags": [
+    "clouds",
+    "rain",
+    "lightning",
+    "calm"
+  ],
+  "publishedAt": "2015-02-19T20:31:45.000Z",
+  "publishedTimestamp": 1424377905,
+  "views": 17216,
+  "likes": 293,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlsGRs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

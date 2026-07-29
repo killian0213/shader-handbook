@@ -1,0 +1,27 @@
+{
+  "id": "4dc3D8",
+  "name": "CircleWave",
+  "author": "RenoM",
+  "description": "wave effect",
+  "tags": [
+    "wavecircle2d"
+  ],
+  "publishedAt": "2015-12-03T20:51:51.000Z",
+  "publishedTimestamp": 1449175911,
+  "views": 5488,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dc3D8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

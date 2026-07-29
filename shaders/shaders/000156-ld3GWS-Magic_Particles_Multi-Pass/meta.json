@@ -1,0 +1,80 @@
+{
+  "id": "ld3GWS",
+  "name": "Magic Particles Multi-Pass",
+  "author": "TambakoJaguar",
+  "description": "My Magic Particles shader with the new Buffers feature! Because everybody wants to use it!",
+  "tags": [
+    "2d",
+    "colors",
+    "motionblur",
+    "random",
+    "star",
+    "particles",
+    "sinus",
+    "buffer",
+    "movement",
+    "multipass"
+  ],
+  "publishedAt": "2016-01-04T22:02:35.000Z",
+  "publishedTimestamp": 1451944955,
+  "views": 9861,
+  "likes": 156,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ld3GWS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    },
+    {
+      "type": "buffer",
+      "name": "Buf A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

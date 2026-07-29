@@ -1,0 +1,37 @@
+{
+  "id": "tltXWM",
+  "name": "Procgen Planet",
+  "author": "kchnkrml",
+  "description": "Procedural generation of a gas-like planet using fbm / domain warping.",
+  "tags": [
+    "procedural",
+    "noise",
+    "fbm",
+    "planet",
+    "domainwarping",
+    "procgen"
+  ],
+  "publishedAt": "2020-02-07T22:07:53.000Z",
+  "publishedTimestamp": 1581113273,
+  "views": 5791,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tltXWM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

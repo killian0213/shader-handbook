@@ -1,0 +1,36 @@
+{
+  "id": "wctGz8",
+  "name": "Simplex [214]",
+  "author": "Xor",
+  "description": "I know this isn't a real simplex, but it reminded me of simplex grids anyway.",
+  "tags": [
+    "color",
+    "abstract",
+    "glow",
+    "golf",
+    "300"
+  ],
+  "publishedAt": "2025-05-09T17:41:18.000Z",
+  "publishedTimestamp": 1746812478,
+  "views": 1621,
+  "likes": 76,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wctGz8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

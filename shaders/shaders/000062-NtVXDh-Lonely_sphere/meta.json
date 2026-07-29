@@ -1,0 +1,36 @@
+{
+  "id": "NtVXDh",
+  "name": "Lonely sphere",
+  "author": "bitless",
+  "description": "A lonely sphere running over a field of voxels",
+  "tags": [
+    "2d",
+    "distortion",
+    "sphere",
+    "voxel",
+    "isometric"
+  ],
+  "publishedAt": "2021-12-27T13:17:22.000Z",
+  "publishedTimestamp": 1640611042,
+  "views": 1025,
+  "likes": 62,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/NtVXDh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

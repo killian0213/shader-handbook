@@ -1,0 +1,34 @@
+{
+  "id": "7sdGRr",
+  "name": "Wireframe Rendering Trick",
+  "author": "Tater",
+  "description": "Idea/Technique taken from @NuSan, in her \"wireframe window\" shader [url]https://www.shadertoy.com/view/7tjSWt[/url]\nI wanted to highlight this technique because I thought it was so cool. ",
+  "tags": [
+    "3d",
+    "sdf",
+    "wireframe"
+  ],
+  "publishedAt": "2021-08-17T02:13:05.000Z",
+  "publishedTimestamp": 1629166385,
+  "views": 2179,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7sdGRr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

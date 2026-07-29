@@ -1,0 +1,71 @@
+{
+  "id": "33jSWh",
+  "name": "🪄🔮✨ Magical Orb 🪄🔮✨",
+  "author": "chronos",
+  "description": "Using my previous shader as a basis for this version where the glowing volumetrics are constrained to a sphere.\n[url=https://www.shadertoy.com/view/W3SSRm]The Weave[/url]\n[url=https://www.shadertoy.com/view/lXKBzV]Bivrost[/url]",
+  "tags": [
+    "3d",
+    "reflection",
+    "sphere",
+    "glow",
+    "orb",
+    "turbulence",
+    "magic",
+    "fresnel",
+    "magical"
+  ],
+  "publishedAt": "2025-04-30T19:14:47.000Z",
+  "publishedTimestamp": 1746040487,
+  "views": 987,
+  "likes": 61,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/33jSWh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsfGzn",
+          "filepath": "/media/a/585f9546c092f53ded45332b343144396c0b2d70d9965f585ebc172080d8aa58.jpg",
+          "previewfilepath": "/media/ap/585f9546c092f53ded45332b343144396c0b2d70d9965f585ebc172080d8aa58.jpg",
+          "type": "cubemap",
+          "channel": 3,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "XsBSR3",
+          "filepath": "/media/a/cb49c003b454385aa9975733aff4571c62182ccdda480aaba9a8d250014f00ec.png",
+          "previewfilepath": "/media/ap/cb49c003b454385aa9975733aff4571c62182ccdda480aaba9a8d250014f00ec.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

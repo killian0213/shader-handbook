@@ -1,0 +1,32 @@
+{
+  "id": "csB3D1",
+  "name": "Gnarly colorful apollonian ",
+  "author": "mrange",
+  "description": "CC0: Gnarly colorful apollonian \nThe glow coloring of Fractal doodling: https://www.shadertoy.com/view/ds2GRW\ninspired me to revisit an old shader of mine and spice it up\n",
+  "tags": [
+    "apollonian"
+  ],
+  "publishedAt": "2022-11-03T22:35:46.000Z",
+  "publishedTimestamp": 1667514946,
+  "views": 1816,
+  "likes": 79,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/csB3D1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4dX3Rn",
+  "name": "Deform - flower",
+  "author": "iq",
+  "description": "A simple abstract flower-like pattern",
+  "tags": [
+    "procedural",
+    "2d",
+    "planedeformation"
+  ],
+  "publishedAt": "2013-01-02T14:27:09.000Z",
+  "publishedTimestamp": 1357136829,
+  "views": 10432,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dX3Rn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

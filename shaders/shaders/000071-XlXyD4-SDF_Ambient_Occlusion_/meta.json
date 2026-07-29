@@ -1,0 +1,38 @@
+{
+  "id": "XlXyD4",
+  "name": "SDF Ambient Occlusion ",
+  "author": "mhnewman",
+  "description": "Approximate ambient occlusion using signed distance functions in a ray marched scene.",
+  "tags": [
+    "ray",
+    "distance",
+    "occlusion",
+    "ambient",
+    "functions",
+    "march",
+    "signed"
+  ],
+  "publishedAt": "2017-09-11T20:16:55.000Z",
+  "publishedTimestamp": 1505161015,
+  "views": 4059,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlXyD4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

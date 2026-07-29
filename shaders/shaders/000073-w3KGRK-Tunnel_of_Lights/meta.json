@@ -1,0 +1,32 @@
+{
+  "id": "w3KGRK",
+  "name": "Tunnel of Lights",
+  "author": "nocrex",
+  "description": "Tried raymarching with simple domain repetition.",
+  "tags": [
+    "raymarching"
+  ],
+  "publishedAt": "2025-07-15T16:43:30.000Z",
+  "publishedTimestamp": 1752597810,
+  "views": 4348,
+  "likes": 73,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/w3KGRK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

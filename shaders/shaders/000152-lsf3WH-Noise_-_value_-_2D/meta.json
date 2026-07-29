@@ -1,0 +1,35 @@
+{
+  "id": "lsf3WH",
+  "name": "Noise - value - 2D",
+  "author": "iq",
+  "description": "Value Noise . It's cheap compared to Gradient Noise ([url]https://www.shadertoy.com/view/XdXGW8[/urk]) and produces blocky patterns (left), but it's good enough to generate fractal noise in most cases (right).",
+  "tags": [
+    "procedural",
+    "2d",
+    "noise",
+    "perlin"
+  ],
+  "publishedAt": "2013-05-14T21:51:53.000Z",
+  "publishedTimestamp": 1368568313,
+  "views": 41235,
+  "likes": 152,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsf3WH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

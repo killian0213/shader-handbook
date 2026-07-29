@@ -1,0 +1,50 @@
+{
+  "id": "sls3WM",
+  "name": "Techno Song (sound)",
+  "author": "athibaul",
+  "description": "Trying to quickly compose a song on GPU with an interesting structure.\nThe song structure was inspired by [this video](https://youtu.be/_q3MFMQ8ao4).\n\nI'm pretty happy with this, but transitions are HARD.",
+  "tags": [
+    "2d",
+    "sound",
+    "song",
+    "techno",
+    "vinyl"
+  ],
+  "publishedAt": "2021-05-29T22:04:07.000Z",
+  "publishedTimestamp": 1622325847,
+  "views": 9174,
+  "likes": 185,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/sls3WM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

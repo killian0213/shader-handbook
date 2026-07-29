@@ -1,0 +1,34 @@
+{
+  "id": "ctXGRn",
+  "name": "Shooting Stars [240 Chars]",
+  "author": "Xor",
+  "description": "I got hit with inspiration for the concept of shooting stars.\nThis is what I came up with.",
+  "tags": [
+    "stars",
+    "golf",
+    "300"
+  ],
+  "publishedAt": "2022-12-15T19:52:04.000Z",
+  "publishedTimestamp": 1671133924,
+  "views": 2669,
+  "likes": 98,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ctXGRn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

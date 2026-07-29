@@ -1,0 +1,38 @@
+{
+  "id": "dllyD7",
+  "name": "Multiscale Triangle Truchet",
+  "author": "Shane",
+  "description": "Rendering a multiscale triangle Truchet pattern on a subdivided triangle grid.",
+  "tags": [
+    "grid",
+    "triangle",
+    "simplex",
+    "truchet",
+    "polar",
+    "multiscale",
+    "weave"
+  ],
+  "publishedAt": "2023-08-01T13:23:50.000Z",
+  "publishedTimestamp": 1690896230,
+  "views": 792,
+  "likes": 64,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/dllyD7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

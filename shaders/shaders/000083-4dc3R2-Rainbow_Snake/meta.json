@@ -1,0 +1,29 @@
+{
+  "id": "4dc3R2",
+  "name": "Rainbow Snake",
+  "author": "BigWIngs",
+  "description": "This is my experiment making interlocking scales. You can change the number of scales with the define on line 4. You can also change the shape of the scales by playing with the shape values at lines 176.  Put fullscreen and enjoy!",
+  "tags": [
+    "2d",
+    "snake",
+    "scales"
+  ],
+  "publishedAt": "2015-12-22T19:36:23.000Z",
+  "publishedTimestamp": 1450812983,
+  "views": 2429,
+  "likes": 83,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dc3R2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

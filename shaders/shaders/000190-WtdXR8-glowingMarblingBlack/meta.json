@@ -1,0 +1,32 @@
+{
+  "id": "WtdXR8",
+  "name": "glowingMarblingBlack",
+  "author": "nasana",
+  "description": "https://twitter.com/nasana_x",
+  "tags": [
+    "cineshader"
+  ],
+  "publishedAt": "2020-01-30T13:57:53.000Z",
+  "publishedTimestamp": 1580392673,
+  "views": 75510,
+  "likes": 190,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WtdXR8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

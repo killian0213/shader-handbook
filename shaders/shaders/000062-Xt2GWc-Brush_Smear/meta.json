@@ -1,0 +1,28 @@
+{
+  "id": "Xt2GWc",
+  "name": "Brush Smear",
+  "author": "104",
+  "description": "I want to experiment a bit with brush strokes and calligraphy. Here i am modulating distance field falloff to create the illusion of smearing, and simulating some bleeding into the paper grain. It's very basic.",
+  "tags": [
+    "2d",
+    "brushstroke"
+  ],
+  "publishedAt": "2015-06-01T09:56:52.000Z",
+  "publishedTimestamp": 1433152612,
+  "views": 4691,
+  "likes": 62,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xt2GWc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

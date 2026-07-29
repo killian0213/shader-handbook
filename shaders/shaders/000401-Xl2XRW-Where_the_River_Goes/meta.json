@@ -1,0 +1,50 @@
+{
+  "id": "Xl2XRW",
+  "name": "Where the River Goes",
+  "author": "P_Malin",
+  "description": "What started as a hacked flow and advection experiment turned into something nice.\n\nIf you have a (very) fast GPU, try uncommenting #define ENABLE_ULTRA_QUALITY",
+  "tags": [
+    "water",
+    "flow",
+    "advection"
+  ],
+  "publishedAt": "2015-09-12T21:44:48.000Z",
+  "publishedTimestamp": 1442094288,
+  "views": 75033,
+  "likes": 401,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 1,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xl2XRW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sfGRn",
+          "filepath": "/media/a/fb918796edc3d2221218db0811e240e72e340350008338b0c07a52bd353666a6.jpg",
+          "previewfilepath": "/media/ap/fb918796edc3d2221218db0811e240e72e340350008338b0c07a52bd353666a6.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

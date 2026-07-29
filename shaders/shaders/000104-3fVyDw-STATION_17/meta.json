@@ -1,0 +1,52 @@
+{
+  "id": "3fVyDw",
+  "name": "STATION 17",
+  "author": "Zerofile",
+  "description": "inspired partially by star wars",
+  "tags": [
+    "raymarching",
+    "space",
+    "planet",
+    "scifi",
+    "station"
+  ],
+  "publishedAt": "2025-12-07T23:44:08.000Z",
+  "publishedTimestamp": 1765151048,
+  "views": 7283,
+  "likes": 104,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3fVyDw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdX3Rr",
+          "filepath": "/media/a/aea6b99da1d53055107966b59ac5444fc8bc7b3ce2d0bbb6a4a3cbae1d97f3aa.bin",
+          "previewfilepath": "/media/ap/aea6b99da1d53055107966b59ac5444fc8bc7b3ce2d0bbb6a4a3cbae1d97f3aa.bin",
+          "type": "volume",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

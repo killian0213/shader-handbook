@@ -1,0 +1,36 @@
+{
+  "id": "fdyfDm",
+  "name": "Night's Backbone",
+  "author": "Kali",
+  "description": "Procedural galactic arms. Kaliset fractal for the stars, fbm for dust cloud. It generates new one every 15 sec with different seed each day. Click mouse for telescope mode.",
+  "tags": [
+    "procedural",
+    "fbm",
+    "galaxy",
+    "stars",
+    "kset"
+  ],
+  "publishedAt": "2022-07-19T21:53:42.000Z",
+  "publishedTimestamp": 1658267622,
+  "views": 3701,
+  "likes": 120,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/fdyfDm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7lKSWW",
+  "name": "Truchet + Kaleidoscope FTW",
+  "author": "mrange",
+  "description": "CC0: Truchet + Kaleidoscope FTW\nBit of experimenting with kaleidoscopes and truchet turned out nice\nQuite similar to an earlier shader I did but I utilized a different truchet pattern this time",
+  "tags": [
+    "kaleidoscope",
+    "truchet"
+  ],
+  "publishedAt": "2021-12-28T20:29:25.000Z",
+  "publishedTimestamp": 1640723365,
+  "views": 15391,
+  "likes": 273,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7lKSWW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

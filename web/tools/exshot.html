@@ -1,0 +1,38 @@
+<!doctype html>
+<!-- Dev-only: render one examples/*.glsl full-window at a fixed time, for docs stills.
+     tools/exshot.html?f=ch6_stage1.glsl&t=3.2 -->
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<title>loading</title>
+<style>
+  html, body { margin: 0; height: 100%; background: #000; overflow: hidden; }
+  canvas { display: block; width: 100vw; height: 100vh; }
+</style>
+</head>
+<body>
+<canvas id="c"></canvas>
+<script src="../js/glsl-lib.js"></script>
+<script src="../js/runtime.js"></script>
+<script>
+var q = new URLSearchParams(location.search);
+var file = q.get('f');
+var t = parseFloat(q.get('t') || '0');
+
+fetch('../../shader-handbook/examples/' + file).then(function (r) { return r.text(); })
+  .then(function (src) {
+    var pl = new Runtime.Player(document.getElementById('c'));
+    var plan = GLSLLib.plan(src.replace(/\s+$/, ''), '', null);
+    var res = pl.setSource(plan.candidates[0].src);
+    if (!res.ok) { document.title = 'error'; console.error(res.log); return; }
+    pl.visible = true;
+    pl.playing = false;
+    pl.time = t;
+    pl.dirty = true;
+    Runtime.start();
+    // Give the shared loop a couple of frames, then freeze.
+    setTimeout(function () { document.title = 'ready'; }, 500);
+  });
+</script>
+</body>
+</html>

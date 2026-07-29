@@ -1,0 +1,29 @@
+{
+  "id": "XsBSRG",
+  "name": "Morning city",
+  "author": "Devin",
+  "description": "Turn on fullscreen!",
+  "tags": [
+    "procedural",
+    "3d",
+    "city"
+  ],
+  "publishedAt": "2014-10-10T14:32:42.000Z",
+  "publishedTimestamp": 1412951562,
+  "views": 17726,
+  "likes": 122,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsBSRG",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

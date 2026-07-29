@@ -1,0 +1,33 @@
+{
+  "id": "XtSGWD",
+  "name": "Descent",
+  "author": "mhnewman",
+  "description": "Procedurally generated night scene.",
+  "tags": [
+    "procedural",
+    "2d",
+    "night",
+    "city",
+    "lights",
+    "neon",
+    "skyline"
+  ],
+  "publishedAt": "2015-06-02T13:21:13.000Z",
+  "publishedTimestamp": 1433251273,
+  "views": 3208,
+  "likes": 89,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtSGWD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

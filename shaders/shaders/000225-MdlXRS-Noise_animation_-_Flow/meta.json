@@ -1,0 +1,45 @@
+{
+  "id": "MdlXRS",
+  "name": "Noise animation - Flow",
+  "author": "nimitz",
+  "description": "Playing with different ways of animating noise. In this version, the noise is made using a technique similar to \"flow noise\" (maybe it even qualifies as flow noise)",
+  "tags": [
+    "procedural",
+    "2d",
+    "noise"
+  ],
+  "publishedAt": "2014-06-23T03:34:52.000Z",
+  "publishedTimestamp": 1403494492,
+  "views": 21284,
+  "likes": 225,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdlXRS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

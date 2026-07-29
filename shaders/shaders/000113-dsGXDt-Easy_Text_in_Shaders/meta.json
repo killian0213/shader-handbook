@@ -1,0 +1,64 @@
+{
+  "id": "dsGXDt",
+  "name": "Easy Text in Shaders",
+  "author": "kishimisu",
+  "description": "Framework containing the text utilities I created to easily display text in my previous neural network shader",
+  "tags": [
+    "utility",
+    "string",
+    "display",
+    "alphabet",
+    "debug",
+    "character",
+    "fonts",
+    "characters",
+    "char",
+    "manipulation"
+  ],
+  "publishedAt": "2023-05-25T10:58:44.000Z",
+  "publishedTimestamp": 1685012324,
+  "views": 8345,
+  "likes": 113,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/dsGXDt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzr",
+          "filepath": "/media/a/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "previewfilepath": "/media/ap/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

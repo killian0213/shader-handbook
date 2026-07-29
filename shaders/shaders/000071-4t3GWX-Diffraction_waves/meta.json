@@ -1,0 +1,34 @@
+{
+  "id": "4t3GWX",
+  "name": "Diffraction waves",
+  "author": "ivansafrin",
+  "description": "Originally a test for an interactive installation.",
+  "tags": [
+    "waves",
+    "rainbow",
+    "diffraction"
+  ],
+  "publishedAt": "2019-05-12T18:44:59.000Z",
+  "publishedTimestamp": 1557686699,
+  "views": 2821,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4t3GWX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

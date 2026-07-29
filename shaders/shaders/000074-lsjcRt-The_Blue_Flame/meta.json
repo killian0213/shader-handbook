@@ -1,0 +1,35 @@
+{
+  "id": "lsjcRt",
+  "name": "The Blue Flame",
+  "author": "Hadyn",
+  "description": "Inspired by the blue flame from Breath of the Wild... I focused more on appearances than efficiency/optimisation, which is sort of the polite way of saying the code is a horrible mess. You can play with the defined values about halfway down for fun(?).",
+  "tags": [
+    "2d",
+    "flame",
+    "fire",
+    "zelda"
+  ],
+  "publishedAt": "2017-05-01T16:17:07.000Z",
+  "publishedTimestamp": 1493655427,
+  "views": 2820,
+  "likes": 74,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsjcRt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "3s2BWV",
+  "name": "Fly On, Buckaroo",
+  "author": "blackle",
+  "description": "this time more cuter :3\n\nbuckaroo is flying to his boyfriend's house\n\nmusic is: [url]https://soundcloud.com/h4ck4y473m32/rave-3000[/url]\n\noriginal: [url]https://www.shadertoy.com/view/3sSBDV[/url]",
+  "tags": [
+    "ufo",
+    "buckaroo"
+  ],
+  "publishedAt": "2020-06-01T12:39:52.000Z",
+  "publishedTimestamp": 1591015192,
+  "views": 6068,
+  "likes": 96,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3s2BWV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGRn",
+          "filepath": "/media/a/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "previewfilepath": "/media/ap/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "Mtj3RV",
+          "filepath": "https://soundcloud.com/h4ck4y473m32/rave-3000",
+          "previewfilepath": "https://soundcloud.com/h4ck4y473m32/rave-3000",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

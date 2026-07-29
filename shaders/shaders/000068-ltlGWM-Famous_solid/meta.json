@@ -1,0 +1,34 @@
+{
+  "id": "ltlGWM",
+  "name": "Famous solid",
+  "author": "nimitz",
+  "description": "Just a hyperbolic dodecahedron doing what hyperbolic dodecahedra do.  \n(Mouse enabled, looks better in fullscreen)",
+  "tags": [
+    "dodecahedron",
+    "extrapolation",
+    "mathematica"
+  ],
+  "publishedAt": "2015-01-31T00:19:56.000Z",
+  "publishedTimestamp": 1422663596,
+  "views": 1296,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltlGWM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

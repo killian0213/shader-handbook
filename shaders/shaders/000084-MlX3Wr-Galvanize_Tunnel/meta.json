@@ -1,0 +1,51 @@
+{
+  "id": "MlX3Wr",
+  "name": "Galvanize Tunnel",
+  "author": "Virgill",
+  "description": "Tunnel-Effect from 8K Intro Galvanize / Alcatraz               Full Intro here:\nhttp://www.pouet.net/prod.php?which=63821\nhttps://www.youtube.com/watch?v=z5cFJryE_fc\n",
+  "tags": [
+    "3d",
+    "raymarching",
+    "demoscene",
+    "kalibox"
+  ],
+  "publishedAt": "2015-01-08T13:53:35.000Z",
+  "publishedTimestamp": 1420725215,
+  "views": 6273,
+  "likes": 84,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MlX3Wr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdX3Wj",
+          "filepath": "https://soundcloud.com/virgill/galvanize-soundtrack",
+          "previewfilepath": "https://soundcloud.com/virgill/galvanize-soundtrack",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

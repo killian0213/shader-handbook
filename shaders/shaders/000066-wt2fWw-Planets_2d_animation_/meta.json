@@ -1,0 +1,33 @@
+{
+  "id": "wt2fWw",
+  "name": "Planets 2d animation ",
+  "author": "morimea",
+  "description": "Made it 2 years ago, [b]code is very bad.[/b]\nMade for learning shaders at same time with [url=https://www.shadertoy.com/view/4lKcDD]this shader[/url].\n\nNow used as startup image in [url=https://danilw.itch.io/particle-effects-godot3]this project[/url].",
+  "tags": [
+    "2d",
+    "animation"
+  ],
+  "publishedAt": "2020-09-03T19:49:01.000Z",
+  "publishedTimestamp": 1599162541,
+  "views": 1492,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wt2fWw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "NlGXzz",
+  "name": "Path traced Rayleigh scattering",
+  "author": "loicvdb",
+  "description": "Mouse to rotate camera.\n\nSpectral path tracing of a rayleigh volume, using delta tracking instead of raymarching (slower, but unbiased). My first go at wavelength importance sampling and low discrepency sequences.",
+  "tags": [
+    "fractal",
+    "volume",
+    "mandelbulb",
+    "volumetric",
+    "pathtracing",
+    "tracing",
+    "rayleigh",
+    "path",
+    "spectral"
+  ],
+  "publishedAt": "2021-12-26T23:02:02.000Z",
+  "publishedTimestamp": 1640559722,
+  "views": 3166,
+  "likes": 96,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/NlGXzz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

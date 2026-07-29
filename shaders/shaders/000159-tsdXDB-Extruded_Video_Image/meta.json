@@ -1,0 +1,53 @@
+{
+  "id": "tsdXDB",
+  "name": "Extruded Video Image",
+  "author": "Shane",
+  "description": "An extruded video image with one level of subdivision.",
+  "tags": [
+    "grid",
+    "video",
+    "template",
+    "square",
+    "extrude",
+    "subdivide"
+  ],
+  "publishedAt": "2019-11-04T14:06:41.000Z",
+  "publishedTimestamp": 1572876401,
+  "views": 6464,
+  "likes": 159,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tsdXDB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xdf3Rn",
+          "filepath": "/media/a/e81e818ac76a8983d746784b423178ee9f6cdcdf7f8e8d719341a6fe2d2ab303.webm",
+          "previewfilepath": "/media/ap/e81e818ac76a8983d746784b423178ee9f6cdcdf7f8e8d719341a6fe2d2ab303.webm",
+          "type": "video",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

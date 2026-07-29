@@ -1,0 +1,35 @@
+{
+  "id": "tls3WB",
+  "name": "Recursive Donut",
+  "author": "ShnitzelKiller",
+  "description": "Everything is chrome in the future. Also mousable.",
+  "tags": [
+    "fractal",
+    "interactive",
+    "torus",
+    "mousable"
+  ],
+  "publishedAt": "2019-05-12T23:40:05.000Z",
+  "publishedTimestamp": 1557704405,
+  "views": 6577,
+  "likes": 96,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tls3WB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

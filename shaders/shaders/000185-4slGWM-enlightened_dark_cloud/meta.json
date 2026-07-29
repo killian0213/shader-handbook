@@ -1,0 +1,33 @@
+{
+  "id": "4slGWM",
+  "name": "enlightened dark cloud",
+  "author": "FabriceNeyret2",
+  "description": "Mouse moves the light direction.\nThis is a test of analytical estimation of light scattering within a thin layer. \nDefaut: gradient density within a \"skin\"; no account of curvature.",
+  "tags": [
+    "procedural",
+    "noise",
+    "cloud",
+    "scattering",
+    "smoke",
+    "subsurface",
+    "diffusion"
+  ],
+  "publishedAt": "2013-06-22T16:40:14.000Z",
+  "publishedTimestamp": 1371919214,
+  "views": 15010,
+  "likes": 185,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4slGWM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

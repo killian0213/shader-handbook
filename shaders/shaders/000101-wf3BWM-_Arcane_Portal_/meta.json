@@ -1,0 +1,37 @@
+{
+  "id": "wf3BWM",
+  "name": "💫 Arcane Portal 💫",
+  "author": "chronos",
+  "description": "Arcane Portal",
+  "tags": [
+    "magic",
+    "portal",
+    "strange",
+    "dr",
+    "doctor",
+    "arcane"
+  ],
+  "publishedAt": "2025-12-16T16:48:46.000Z",
+  "publishedTimestamp": 1765903726,
+  "views": 2496,
+  "likes": 101,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wf3BWM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

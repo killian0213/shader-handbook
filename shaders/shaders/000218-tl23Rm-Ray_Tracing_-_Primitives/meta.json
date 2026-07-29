@@ -1,0 +1,93 @@
+{
+  "id": "tl23Rm",
+  "name": "Ray Tracing - Primitives",
+  "author": "reinder",
+  "description": "This is a collection of ray-primitive intersection routines ([url=http://iquilezles.org/articles/intersectors/intersectors.htm]by Íñigo Quílez[/url]).\n\nUse your mouse to change the camera viewpoint.",
+  "tags": [
+    "3d",
+    "raytracer",
+    "ray",
+    "intersection",
+    "dof",
+    "primitives",
+    "field",
+    "tracing",
+    "depth",
+    "path",
+    "of"
+  ],
+  "publishedAt": "2019-06-03T14:47:46.000Z",
+  "publishedTimestamp": 1559573266,
+  "views": 20291,
+  "likes": 218,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tl23Rm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

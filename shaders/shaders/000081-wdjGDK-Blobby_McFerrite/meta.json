@@ -1,0 +1,49 @@
+{
+  "id": "wdjGDK",
+  "name": "Blobby McFerrite",
+  "author": "Gaxil",
+  "description": "Experimenting with raymarching and a home made subsurface scattering ... \nThe SSS raycast can be improved by using SDF in a better way ...",
+  "tags": [
+    "raymarch",
+    "blob"
+  ],
+  "publishedAt": "2019-02-13T15:13:26.000Z",
+  "publishedTimestamp": 1550070806,
+  "views": 2533,
+  "likes": 81,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wdjGDK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsBSR3",
+          "filepath": "/media/a/cb49c003b454385aa9975733aff4571c62182ccdda480aaba9a8d250014f00ec.png",
+          "previewfilepath": "/media/ap/cb49c003b454385aa9975733aff4571c62182ccdda480aaba9a8d250014f00ec.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

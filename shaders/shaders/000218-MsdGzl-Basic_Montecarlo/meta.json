@@ -1,0 +1,77 @@
+{
+  "id": "MsdGzl",
+  "name": "Basic Montecarlo",
+  "author": "iq",
+  "description": "A simple pathtracer, with progressive rendering. The random numbers are really bad quality, so this is probably noisier than it should, and biased. I have disabled the specular reflections.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "fractal",
+    "gi",
+    "global",
+    "pathtracing",
+    "montecarlo"
+  ],
+  "publishedAt": "2016-01-04T21:25:17.000Z",
+  "publishedTimestamp": 1451942717,
+  "views": 41923,
+  "likes": 218,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsdGzl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

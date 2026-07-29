@@ -1,0 +1,37 @@
+{
+  "id": "ttVBzd",
+  "name": "Extruded Truchet Pattern",
+  "author": "Shane",
+  "description": "A basic extruded square grid-based blobby Truchet pattern.",
+  "tags": [
+    "grid",
+    "raymarch",
+    "blob",
+    "truchet",
+    "pattern",
+    "extrude"
+  ],
+  "publishedAt": "2021-03-08T12:30:21.000Z",
+  "publishedTimestamp": 1615206621,
+  "views": 8050,
+  "likes": 147,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ttVBzd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

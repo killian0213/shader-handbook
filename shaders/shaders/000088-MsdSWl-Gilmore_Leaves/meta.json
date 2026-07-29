@@ -1,0 +1,34 @@
+{
+  "id": "MsdSWl",
+  "name": "Gilmore Leaves",
+  "author": "airtight",
+  "description": "Some nice shapes. good at fullscreen.",
+  "tags": [
+    "circles",
+    "grid",
+    "tiles"
+  ],
+  "publishedAt": "2016-05-04T00:00:54.000Z",
+  "publishedTimestamp": 1462320054,
+  "views": 4117,
+  "likes": 88,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsdSWl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

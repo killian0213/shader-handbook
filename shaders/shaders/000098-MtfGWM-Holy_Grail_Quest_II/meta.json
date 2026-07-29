@@ -1,0 +1,44 @@
+{
+  "id": "MtfGWM",
+  "name": "Holy Grail Quest II",
+  "author": "eiffie",
+  "description": "I have been following DarkBeam as he digs up old formulas on fractalforums.com. This one needed work to make it continuous. It has lots of interesting julias.",
+  "tags": [
+    "3dmandelbrot"
+  ],
+  "publishedAt": "2015-01-27T16:06:42.000Z",
+  "publishedTimestamp": 1422374802,
+  "views": 8571,
+  "likes": 98,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MtfGWM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "XsfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

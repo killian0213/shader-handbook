@@ -1,0 +1,32 @@
+{
+  "id": "MsVXDt",
+  "name": "Elemental Ring",
+  "author": "otaviogood",
+  "description": "This shader was inspired by https://www.shadertoy.com/view/MtBSWR. I wanted to do a 3d version.",
+  "tags": [
+    "raymarch"
+  ],
+  "publishedAt": "2016-07-20T06:51:21.000Z",
+  "publishedTimestamp": 1468997481,
+  "views": 2590,
+  "likes": 91,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsVXDt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

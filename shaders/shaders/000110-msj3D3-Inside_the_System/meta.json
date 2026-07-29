@@ -1,0 +1,39 @@
+{
+  "id": "msj3D3",
+  "name": "Inside the System",
+  "author": "kishimisu",
+  "description": "Playing with neon attenuation, space repetition, randomness and camera movement",
+  "tags": [
+    "raymarching",
+    "illumination",
+    "random",
+    "space",
+    "repetition",
+    "glow",
+    "infinite",
+    "neon"
+  ],
+  "publishedAt": "2022-11-12T16:34:55.000Z",
+  "publishedTimestamp": 1668270895,
+  "views": 4296,
+  "likes": 110,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/msj3D3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

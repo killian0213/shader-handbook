@@ -1,0 +1,35 @@
+{
+  "id": "MscXD7",
+  "name": "Simple snow and blizard",
+  "author": "bleedingtiger2",
+  "description": "Simple snow particles with blizard option !",
+  "tags": [
+    "circle",
+    "snow",
+    "particle",
+    "blizard"
+  ],
+  "publishedAt": "2016-04-03T09:55:45.000Z",
+  "publishedTimestamp": 1459677345,
+  "views": 6410,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MscXD7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

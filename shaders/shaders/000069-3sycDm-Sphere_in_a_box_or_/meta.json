@@ -1,0 +1,60 @@
+{
+  "id": "3sycDm",
+  "name": "Sphere in a box or ...",
+  "author": "xjorma",
+  "description": "Sphere in a box or a box in sphere ?\n\nInspired by Nathan Riley\nhttps://dribbble.com/shots/10879124-Morphing-Geometry",
+  "tags": [
+    "raytracing",
+    "refraction",
+    "sphere",
+    "box",
+    "diffraction",
+    "reproduction"
+  ],
+  "publishedAt": "2020-10-18T03:53:39.000Z",
+  "publishedTimestamp": 1602993219,
+  "views": 2090,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3sycDm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sX3zn",
+          "filepath": "/media/a/0681c014f6c88c356cf9c0394ffe015acc94ec1474924855f45d22c3e70b5785.png",
+          "previewfilepath": "/media/ap/0681c014f6c88c356cf9c0394ffe015acc94ec1474924855f45d22c3e70b5785.png",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

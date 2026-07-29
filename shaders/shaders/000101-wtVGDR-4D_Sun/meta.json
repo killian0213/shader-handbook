@@ -1,0 +1,64 @@
+{
+  "id": "wtVGDR",
+  "name": "4D Sun",
+  "author": "Klems",
+  "description": "Rotating/translating 4D grid with motion blur and analytical fog.",
+  "tags": [
+    "3d",
+    "raymarch",
+    "sun",
+    "space",
+    "4d"
+  ],
+  "publishedAt": "2020-01-11T00:20:42.000Z",
+  "publishedTimestamp": 1578702042,
+  "views": 6890,
+  "likes": 101,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wtVGDR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

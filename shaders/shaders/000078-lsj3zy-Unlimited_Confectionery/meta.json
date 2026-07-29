@@ -1,0 +1,31 @@
+{
+  "id": "lsj3zy",
+  "name": "Unlimited Confectionery",
+  "author": "fizzer",
+  "description": "Some candy-like materials. The shading is not exactly physically-based :)\nUse the mouse to spill some icing sugar.",
+  "tags": [
+    "raymarched",
+    "chocolate",
+    "candy",
+    "sweets",
+    "sugar"
+  ],
+  "publishedAt": "2014-01-22T20:46:17.000Z",
+  "publishedTimestamp": 1390423577,
+  "views": 6033,
+  "likes": 78,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsj3zy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

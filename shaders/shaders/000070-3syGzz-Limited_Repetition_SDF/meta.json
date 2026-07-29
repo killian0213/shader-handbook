@@ -1,0 +1,36 @@
+{
+  "id": "3syGzz",
+  "name": "Limited Repetition SDF",
+  "author": "iq",
+  "description": "Computing the SDF of a limited number of copies of an SDF object (infinite repetition plus box clipping is incorrect). Left: incorrect. Right: correct. More info: [url]http://iquilezles.org/articles/distfunctions/distfunctions.htm[/url]",
+  "tags": [
+    "2d",
+    "distancefield",
+    "sdf",
+    "repetition",
+    "limited"
+  ],
+  "publishedAt": "2019-09-27T04:03:11.000Z",
+  "publishedTimestamp": 1569556991,
+  "views": 9062,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3syGzz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

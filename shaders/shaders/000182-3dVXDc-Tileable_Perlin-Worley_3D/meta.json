@@ -1,0 +1,73 @@
+{
+  "id": "3dVXDc",
+  "name": "Tileable Perlin-Worley 3D",
+  "author": "piyushslayer",
+  "description": "Tileable Perlin-Worley 3D noise implementation for modeling volumetric clouds like the ones from Horizon Zero Dawn.  Drag the mouse along y-axis to see different slices.",
+  "tags": [
+    "voronoi",
+    "noise",
+    "clouds",
+    "fbm",
+    "perlin",
+    "gradient",
+    "worley"
+  ],
+  "publishedAt": "2019-12-11T01:56:33.000Z",
+  "publishedTimestamp": 1576029393,
+  "views": 22232,
+  "likes": 182,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3dVXDc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

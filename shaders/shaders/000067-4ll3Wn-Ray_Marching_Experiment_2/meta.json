@@ -1,0 +1,58 @@
+{
+  "id": "4ll3Wn",
+  "name": "Ray Marching Experiment 2",
+  "author": "aiekick",
+  "description": "3D Displacement om my [url=https://www.shadertoy.com/view/4tX3R4]strawberry milk[/url] \nby default the displacement is done on a sphere but if you comment the line 4 you can have a box\nMouse control : axis x camera elevation // axis y camera distance",
+  "tags": [
+    "3d",
+    "ray",
+    "cube",
+    "texture",
+    "shadow",
+    "experiment",
+    "marching",
+    "ao",
+    "brdf",
+    "soft",
+    "milk"
+  ],
+  "publishedAt": "2015-01-09T21:39:17.000Z",
+  "publishedTimestamp": 1420839557,
+  "views": 4956,
+  "likes": 67,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4ll3Wn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsfGzn",
+          "filepath": "/media/a/585f9546c092f53ded45332b343144396c0b2d70d9965f585ebc172080d8aa58.jpg",
+          "previewfilepath": "/media/ap/585f9546c092f53ded45332b343144396c0b2d70d9965f585ebc172080d8aa58.jpg",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

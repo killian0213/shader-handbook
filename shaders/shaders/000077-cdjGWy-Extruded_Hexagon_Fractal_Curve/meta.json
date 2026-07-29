@@ -1,0 +1,73 @@
+{
+  "id": "cdjGWy",
+  "name": "Extruded Hexagon Fractal Curve",
+  "author": "Shane",
+  "description": "An extruded non-intersecting hexagon fractal curve.",
+  "tags": [
+    "fractal",
+    "hexagon",
+    "truchet",
+    "curve",
+    "polar",
+    "extrude",
+    "gosper"
+  ],
+  "publishedAt": "2022-11-15T13:03:52.000Z",
+  "publishedTimestamp": 1668517432,
+  "views": 846,
+  "likes": 77,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/cdjGWy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

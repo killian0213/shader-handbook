@@ -1,0 +1,33 @@
+{
+  "id": "Mds3Rn",
+  "name": "The road to Hell",
+  "author": "rez",
+  "description": "A pixel shader I did for Razor 1911's \"The Scene Is Dead\" 64k intro.\nIt's a pretty simple mix of boolean operations on various tubes and spheres but I'm pretty statisfied with the final result :D",
+  "tags": [
+    "raymarching",
+    "tunnel"
+  ],
+  "publishedAt": "2013-02-25T22:43:33.000Z",
+  "publishedTimestamp": 1361832213,
+  "views": 18638,
+  "likes": 131,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mds3Rn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

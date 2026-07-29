@@ -1,0 +1,36 @@
+{
+  "id": "llGXWc",
+  "name": "Geodesic tiling minimal",
+  "author": "tdhooper",
+  "description": "(shane style) minimal version of the technique used in [url]https://www.shadertoy.com/view/llVXRd[/url]. See [url]https://www.shadertoy.com/view/XtKSWc[/url] for version with full absolute positions.",
+  "tags": [
+    "sphere",
+    "hexagon",
+    "tile",
+    "minimal",
+    "geodesic"
+  ],
+  "publishedAt": "2017-02-04T20:33:50.000Z",
+  "publishedTimestamp": 1486240430,
+  "views": 3655,
+  "likes": 100,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llGXWc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

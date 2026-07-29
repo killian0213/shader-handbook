@@ -1,0 +1,46 @@
+{
+  "id": "WXGGzm",
+  "name": "Square Pentagon Tessellation",
+  "author": "Shane",
+  "description": "Traversing a square and pentagon tessellation that was constructed via a simple subdivision of a diamond and octagon grid.",
+  "tags": [
+    "procedural",
+    "square",
+    "diamond",
+    "environment",
+    "tessellation",
+    "subdivision",
+    "pentagon",
+    "octagon"
+  ],
+  "publishedAt": "2025-07-18T14:00:46.000Z",
+  "publishedTimestamp": 1752847246,
+  "views": 494,
+  "likes": 64,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WXGGzm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

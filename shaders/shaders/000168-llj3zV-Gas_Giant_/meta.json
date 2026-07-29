@@ -1,0 +1,46 @@
+{
+  "id": "llj3zV",
+  "name": "Gas Giant!",
+  "author": "HamzaHutchinson",
+  "description": "Trying to make a nice looking space scene. Inspiration, code and learning drawn from a number of different shaders. Thanks to iq, Antonalog and mu6k.",
+  "tags": [
+    "space",
+    "planet",
+    "stars",
+    "gasgiant"
+  ],
+  "publishedAt": "2015-05-03T00:28:31.000Z",
+  "publishedTimestamp": 1430612911,
+  "views": 27964,
+  "likes": 168,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llj3zV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsX3Rn",
+          "filepath": "/media/a/92d7758c402f0927011ca8d0a7e40251439fba3a1dac26f5b8b62026323501aa.jpg",
+          "previewfilepath": "/media/ap/92d7758c402f0927011ca8d0a7e40251439fba3a1dac26f5b8b62026323501aa.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

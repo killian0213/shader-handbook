@@ -1,0 +1,35 @@
+{
+  "id": "3cScWy",
+  "name": "Fragments [286]",
+  "author": "Xor",
+  "description": "Looks like pretty crystals",
+  "tags": [
+    "color",
+    "glow",
+    "golf",
+    "crystal"
+  ],
+  "publishedAt": "2025-09-04T17:57:52.000Z",
+  "publishedTimestamp": 1757008672,
+  "views": 1638,
+  "likes": 100,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3cScWy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

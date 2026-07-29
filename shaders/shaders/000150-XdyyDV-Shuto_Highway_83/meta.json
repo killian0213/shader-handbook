@@ -1,0 +1,39 @@
+{
+  "id": "XdyyDV",
+  "name": "Shuto Highway 83",
+  "author": "blackjero",
+  "description": "An attempt at a city shader. Mouse to look around, 7 cameras, a bit more than a couple of minutes. The roof top coffee break (?) camera has a special look down camera control when standing next to the roof border.",
+  "tags": [
+    "sky",
+    "city",
+    "japan",
+    "highway",
+    "airliners",
+    "squids",
+    "atm",
+    "cineshader"
+  ],
+  "publishedAt": "2018-04-10T03:51:01.000Z",
+  "publishedTimestamp": 1523332261,
+  "views": 25923,
+  "likes": 150,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdyyDV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

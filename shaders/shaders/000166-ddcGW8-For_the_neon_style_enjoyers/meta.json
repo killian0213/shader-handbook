@@ -1,0 +1,48 @@
+{
+  "id": "ddcGW8",
+  "name": "For the neon style enjoyers",
+  "author": "mrange",
+  "description": "CC0: For the neon style enjoyers\nOr is it synthwave style? Don't know!\nAnyone been tinkering with this for awhile and now want to get on with other stuff\nHopefully someone enjoys it.\n",
+  "tags": [
+    "neon"
+  ],
+  "publishedAt": "2023-02-23T20:07:52.000Z",
+  "publishedTimestamp": 1677182872,
+  "views": 8884,
+  "likes": 166,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ddcGW8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "lt2XD3",
+          "filepath": "https://soundcloud.com/lotekstyle/lotek-style-she-danced-to-tainted-love-distracted-globe-prom-night-mix?si=3d284d8939304a2db4af73bfa86ae6c2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "previewfilepath": "https://soundcloud.com/lotekstyle/lotek-style-she-danced-to-tainted-love-distracted-globe-prom-night-mix?si=3d284d8939304a2db4af73bfa86ae6c2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

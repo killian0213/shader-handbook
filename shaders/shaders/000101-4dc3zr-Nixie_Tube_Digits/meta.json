@@ -1,0 +1,36 @@
+{
+  "id": "4dc3zr",
+  "name": "Nixie Tube Digits",
+  "author": "Flyguy",
+  "description": "Some nixie tube like digits made of lines, arcs and circles.\nThe digits were designed in AutoCAD and converted to GLSL code using C# and netDxf.",
+  "tags": [
+    "text",
+    "distance",
+    "font",
+    "digit",
+    "nixie"
+  ],
+  "publishedAt": "2015-11-16T00:21:02.000Z",
+  "publishedTimestamp": 1447633262,
+  "views": 4086,
+  "likes": 101,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dc3zr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

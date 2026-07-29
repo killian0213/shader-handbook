@@ -1,0 +1,49 @@
+{
+  "id": "3dd3Wr",
+  "name": "glslSmartDeNoise",
+  "author": "BrutPitt",
+  "description": "Fast glsl spatial deNoise filter with circular gaussian kernel\n\nDrag mouse over...\n\nFlexible -> full configurable:\n - Standard Deviation sigma radius\n - K sigma coefficient\n - Edge sharpening threshold\n\nGitHub:\nhttps://github.com/BrutPitt/glslSmartDeNoise",
+  "tags": [
+    "filter",
+    "denoise"
+  ],
+  "publishedAt": "2019-09-11T17:02:58.000Z",
+  "publishedTimestamp": 1568221378,
+  "views": 7830,
+  "likes": 84,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3dd3Wr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dfGRn",
+          "filepath": "/media/a/8de3a3924cb95bd0e95a443fff0326c869f9d4979cd1d5b6e94e2a01f5be53e9.jpg",
+          "previewfilepath": "/media/ap/8de3a3924cb95bd0e95a443fff0326c869f9d4979cd1d5b6e94e2a01f5be53e9.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4sVfWw",
+  "name": "random octree",
+  "author": "abje",
+  "description": "A 3d version of [url=https://www.shadertoy.com/view/MlsXDf]random quadtree[/url]\n[url=https://www.shadertoy.com/view/XdyfRy]With shadows[/url]",
+  "tags": [
+    "voxel",
+    "octree"
+  ],
+  "publishedAt": "2018-06-15T16:04:27.000Z",
+  "publishedTimestamp": 1529078667,
+  "views": 6322,
+  "likes": 104,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sVfWw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "lt3BW2",
+  "name": "Combination SDF",
+  "author": "iq",
+  "description": "The three basic boolean operations that help combine shape, in discrete and smooth form. BEWARE these operators produce a bound to the real SDF of the final shape, so they will slow down your raymarcher.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "distancefield",
+    "sdf"
+  ],
+  "publishedAt": "2018-11-01T04:49:23.000Z",
+  "publishedTimestamp": 1541047763,
+  "views": 20291,
+  "likes": 111,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lt3BW2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "llsSDf",
+  "name": "Soap bubbles 2D",
+  "author": "foxes",
+  "description": "It`s bubbles :)))",
+  "tags": [
+    "procedural",
+    "2d",
+    "noise",
+    "sound",
+    "bubble",
+    "cells"
+  ],
+  "publishedAt": "2015-08-23T18:17:48.000Z",
+  "publishedTimestamp": 1440353868,
+  "views": 12399,
+  "likes": 140,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llsSDf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "sound",
+      "name": "",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "dtXGW4",
+  "name": "Rough Seas ",
+  "author": "Dave_Hoskins",
+  "description": "It took a few hours to build, and a few days to adjust everything to balance properly.\n\n",
+  "tags": [
+    "3d",
+    "waves",
+    "raymarch",
+    "sound",
+    "sea",
+    "ocean",
+    "foam",
+    "rough",
+    "spray",
+    "whitecaps"
+  ],
+  "publishedAt": "2022-12-26T22:12:49.000Z",
+  "publishedTimestamp": 1672092769,
+  "views": 2950,
+  "likes": 91,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/dtXGW4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

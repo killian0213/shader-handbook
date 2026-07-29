@@ -1,0 +1,48 @@
+{
+  "id": "wts3Dn",
+  "name": "alternative alternation",
+  "author": "phi16",
+  "description": "repro of those cooool motion: [url]https://twitter.com/RavenKwok/status/1117347303105294337[/url] [url]https://twitter.com/RavenKwok/status/1120716979302592513[/url]",
+  "tags": [
+    "2d"
+  ],
+  "publishedAt": "2019-04-24T14:38:06.000Z",
+  "publishedTimestamp": 1556116686,
+  "views": 1433,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wts3Dn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzr",
+          "filepath": "/media/a/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "previewfilepath": "/media/ap/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

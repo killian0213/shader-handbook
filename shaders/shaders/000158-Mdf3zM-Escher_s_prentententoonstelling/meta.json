@@ -1,0 +1,37 @@
+{
+  "id": "Mdf3zM",
+  "name": "Escher's prentententoonstelling",
+  "author": "reinder",
+  "description": "I found this article: http://www.ams.org/notices/200304/fea-escher.pdf describing the transformation used by Escher in the droste-picture: de prentententoonstelling (the picture gallery). The source is a mess atm - I will clean up later.",
+  "tags": [
+    "distancefields",
+    "domain",
+    "droste",
+    "escher",
+    "transformation",
+    "reproduction"
+  ],
+  "publishedAt": "2013-04-14T17:05:56.000Z",
+  "publishedTimestamp": 1365959156,
+  "views": 16726,
+  "likes": 158,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mdf3zM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "NflSD8",
+  "name": "Unimagined",
+  "author": "OldEclipse",
+  "description": "mixing between two different sdfs",
+  "tags": [
+    "lines",
+    "spheres",
+    "volumetric"
+  ],
+  "publishedAt": "2026-04-04T10:16:06.000Z",
+  "publishedTimestamp": 1775297766,
+  "views": 3396,
+  "likes": 73,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/NflSD8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

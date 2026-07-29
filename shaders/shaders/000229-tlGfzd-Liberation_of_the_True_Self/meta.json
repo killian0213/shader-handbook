@@ -1,0 +1,33 @@
+{
+  "id": "tlGfzd",
+  "name": "Liberation of the True Self",
+  "author": "Kali",
+  "description": "Result of a shader coding jam with my friend JPupper",
+  "tags": [
+    "raymarching",
+    "reflections"
+  ],
+  "publishedAt": "2021-03-04T16:16:05.000Z",
+  "publishedTimestamp": 1614874565,
+  "views": 12112,
+  "likes": 229,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tlGfzd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

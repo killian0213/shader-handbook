@@ -1,0 +1,52 @@
+{
+  "id": "4cGcDm",
+  "name": "[SESSIONS] Stairway to SESSIONS",
+  "author": "Kamoshika",
+  "description": "Code Graphics @ SESSIONS 2024 (Tokyo, Japan)\nhttps://sessions-party.com/\n\nThankfully, it won 3rd place out of 26 entries (including つぶやきGLSL, Classic GLSL and OpenProcessing)!",
+  "tags": [
+    "raycasting",
+    "globalillumination",
+    "pathtracing",
+    "stairs",
+    "stairway"
+  ],
+  "publishedAt": "2024-11-18T14:12:49.000Z",
+  "publishedTimestamp": 1731939169,
+  "views": 1337,
+  "likes": 72,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4cGcDm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGRr",
+          "filepath": "/media/a/48e2d9ef22ca6673330b8c38a260c87694d2bbc94c19fec9dfa4a1222c364a99.mp3",
+          "previewfilepath": "/media/ap/48e2d9ef22ca6673330b8c38a260c87694d2bbc94c19fec9dfa4a1222c364a99.mp3",
+          "type": "music",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

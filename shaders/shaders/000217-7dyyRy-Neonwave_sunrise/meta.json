@@ -1,0 +1,48 @@
+{
+  "id": "7dyyRy",
+  "name": "Neonwave sunrise",
+  "author": "mrange",
+  "description": "CC0 - Neonwave sunrise\nInspired by a tweet by I wanted to create something that looked\na bit like the tweet. This is the result.\n",
+  "tags": [
+    "neonwave"
+  ],
+  "publishedAt": "2022-06-12T18:58:26.000Z",
+  "publishedTimestamp": 1655060306,
+  "views": 13601,
+  "likes": 217,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7dyyRy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4t2Sz1",
+          "filepath": "https://soundcloud.com/didlybom/vangelis-memories-of-green",
+          "previewfilepath": "https://soundcloud.com/didlybom/vangelis-memories-of-green",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

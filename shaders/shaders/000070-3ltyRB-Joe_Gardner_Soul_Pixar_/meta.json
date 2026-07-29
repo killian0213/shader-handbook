@@ -1,0 +1,40 @@
+{
+  "id": "3ltyRB",
+  "name": "Joe Gardner (Soul Pixar)",
+  "author": "leon",
+  "description": "Joe Gardner from Soul (Pixar 2020)\nSpent the night building this little guy after watching the movie",
+  "tags": [
+    "pixar",
+    "soul"
+  ],
+  "publishedAt": "2020-12-31T03:33:56.000Z",
+  "publishedTimestamp": 1609385636,
+  "views": 2915,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3ltyRB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

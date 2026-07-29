@@ -1,0 +1,53 @@
+{
+  "id": "4sl3z4",
+  "name": "Moonlight",
+  "author": "reinder",
+  "description": "If your using a Mac or Linux please uncomment line 1 to view the full shader with mountains and a floating bottle (screenshot: http://imgur.com/KKPZsj4). \n\nPart of the code is copy-pasted from shaders by inigo quilez and dave hoskins.",
+  "tags": [
+    "procedural",
+    "noise",
+    "reflection",
+    "raymarch",
+    "water",
+    "raytrace"
+  ],
+  "publishedAt": "2013-03-25T22:08:30.000Z",
+  "publishedTimestamp": 1364249310,
+  "views": 12080,
+  "likes": 106,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sl3z4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

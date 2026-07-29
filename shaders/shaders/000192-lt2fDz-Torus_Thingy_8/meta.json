@@ -1,0 +1,34 @@
+{
+  "id": "lt2fDz",
+  "name": "Torus_Thingy_8",
+  "author": "balkhan",
+  "description": "Another one",
+  "tags": [
+    "3d",
+    "torus",
+    "trivialknot"
+  ],
+  "publishedAt": "2018-01-10T19:26:14.000Z",
+  "publishedTimestamp": 1515612374,
+  "views": 14123,
+  "likes": 192,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lt2fDz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

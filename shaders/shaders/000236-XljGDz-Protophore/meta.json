@@ -1,0 +1,29 @@
+{
+  "id": "XljGDz",
+  "name": "Protophore",
+  "author": "otaviogood",
+  "description": "I put together this fractal and then watched some tutorials on how to light sports cars for photography. I think the key is to get the giant softbox up top with just the right fade at the edges. I also ray march 1 reflection.",
+  "tags": [
+    "reflection",
+    "raymarch",
+    "lighting"
+  ],
+  "publishedAt": "2015-04-07T03:58:40.000Z",
+  "publishedTimestamp": 1428379120,
+  "views": 14218,
+  "likes": 236,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XljGDz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Mtl3z4",
+  "name": "Seabirds at Sunset",
+  "author": "dr2",
+  "description": "Searching for dinner.",
+  "tags": [
+    "raymarching",
+    "birds",
+    "atmospherics"
+  ],
+  "publishedAt": "2014-12-24T17:01:36.000Z",
+  "publishedTimestamp": 1419440496,
+  "views": 4387,
+  "likes": 77,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mtl3z4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

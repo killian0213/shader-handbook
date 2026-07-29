@@ -1,0 +1,52 @@
+{
+  "id": "lsySRc",
+  "name": "LowPolyLand",
+  "author": "kuvkar",
+  "description": "Somewhere in lowpolyland. Mouse to look around! Better disclaimer in the code.",
+  "tags": [
+    "procedural",
+    "noise",
+    "antialiasing",
+    "lowpoly",
+    "polynoise"
+  ],
+  "publishedAt": "2016-06-13T21:37:24.000Z",
+  "publishedTimestamp": 1465853844,
+  "views": 10007,
+  "likes": 107,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsySRc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sX3zn",
+          "filepath": "/media/a/0681c014f6c88c356cf9c0394ffe015acc94ec1474924855f45d22c3e70b5785.png",
+          "previewfilepath": "/media/ap/0681c014f6c88c356cf9c0394ffe015acc94ec1474924855f45d22c3e70b5785.png",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

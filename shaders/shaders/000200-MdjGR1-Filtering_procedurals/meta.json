@@ -1,0 +1,36 @@
+{
+  "id": "MdjGR1",
+  "name": "Filtering procedurals",
+  "author": "iq",
+  "description": "One way to decouple material pattern/texturing/shading from lighting and visibility. The (procedural) texture is adaptively filtered/supersampled based on ray differentials (max 100 samples) at a rate independent of the lighting and visibility/tracing.",
+  "tags": [
+    "procedural",
+    "3d",
+    "filter",
+    "filtering",
+    "differentials"
+  ],
+  "publishedAt": "2013-11-09T00:36:49.000Z",
+  "publishedTimestamp": 1383957409,
+  "views": 57358,
+  "likes": 200,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdjGR1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

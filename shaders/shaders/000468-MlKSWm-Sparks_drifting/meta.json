@@ -1,0 +1,35 @@
+{
+  "id": "MlKSWm",
+  "name": "Sparks drifting",
+  "author": "Sjeiti",
+  "description": "Particles by modulo (could use some speed optimisations):\n- divide space into grid by mod\n- rotate radial gradient inside grid cell by time + prng(grid index)\n- distort by interpolated noise because spherical sparks look stupid",
+  "tags": [
+    "procedural",
+    "fire",
+    "particles",
+    "sparks"
+  ],
+  "publishedAt": "2017-01-17T20:46:47.000Z",
+  "publishedTimestamp": 1484686007,
+  "views": 29771,
+  "likes": 468,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MlKSWm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

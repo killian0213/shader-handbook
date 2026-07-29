@@ -1,0 +1,33 @@
+{
+  "id": "ls3SRr",
+  "name": "LoopingSpline",
+  "author": "Bers",
+  "description": "A cheap, classic Catmull-Rom. Useful for object property animation (camera path, etc). The distance field itself is not the point here, although it is a nice way to visualize the resulting spline.",
+  "tags": [
+    "catmullrom",
+    "looping"
+  ],
+  "publishedAt": "2016-03-07T00:01:48.000Z",
+  "publishedTimestamp": 1457308908,
+  "views": 13279,
+  "likes": 97,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ls3SRr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

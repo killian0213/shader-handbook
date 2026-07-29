@@ -1,0 +1,38 @@
+{
+  "id": "MsfGRr",
+  "name": "Julia - Quaternion 1",
+  "author": "iq",
+  "description": "The normal is computed analytically from the gradient of the Green function instead of estimating it numerically. The ambient occlusion is faked by using the orbit traps. I made this one in 2007: [url]https://www.youtube.com/watch?v=9AX8gNyrSWc[/url]",
+  "tags": [
+    "procedural",
+    "3d",
+    "raymarching",
+    "julia",
+    "distancefield",
+    "quaterion",
+    "kindernoiser"
+  ],
+  "publishedAt": "2013-02-10T05:31:55.000Z",
+  "publishedTimestamp": 1360474315,
+  "views": 28919,
+  "likes": 213,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsfGRr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

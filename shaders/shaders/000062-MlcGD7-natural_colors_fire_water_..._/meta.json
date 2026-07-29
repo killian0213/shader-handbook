@@ -1,0 +1,35 @@
+{
+  "id": "MlcGD7",
+  "name": "natural colors (fire, water,...)",
+  "author": "FabriceNeyret2",
+  "description": "non-linearity creates variations of chrominance\nsimple natural ones:  saturation (clamp) and multiplication (pow, exp)\ne.g., 1st appears in the astrophotos of stars, and second along water depth.\n",
+  "tags": [
+    "tutorial",
+    "color",
+    "sky",
+    "blackbody"
+  ],
+  "publishedAt": "2016-07-27T08:16:35.000Z",
+  "publishedTimestamp": 1469607395,
+  "views": 3519,
+  "likes": 62,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MlcGD7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

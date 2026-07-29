@@ -1,0 +1,49 @@
+{
+  "id": "sdscRr",
+  "name": "box factory",
+  "author": "FabriceNeyret2",
+  "description": "Mouse controls, camera.  swap #4 for textu\n\nreference: ( but I do the symmetric way )\n[url]https://twitter.com/akira2768922/status/1475077131151769613[/url]\n[url]https://www.reddit.com/r/desmos/comments/ry7zo8/production_line_manufacturing_boxes_d/[/url]\n",
+  "tags": [
+    "origami",
+    "reproduction"
+  ],
+  "publishedAt": "2022-01-10T12:56:53.000Z",
+  "publishedTimestamp": 1641819413,
+  "views": 800,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/sdscRr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRn",
+          "filepath": "/media/a/10eb4fe0ac8a7dc348a2cc282ca5df1759ab8bf680117e4047728100969e7b43.jpg",
+          "previewfilepath": "/media/ap/10eb4fe0ac8a7dc348a2cc282ca5df1759ab8bf680117e4047728100969e7b43.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

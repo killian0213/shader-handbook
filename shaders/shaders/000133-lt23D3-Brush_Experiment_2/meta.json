@@ -1,0 +1,28 @@
+{
+  "id": "lt23D3",
+  "name": "Brush Experiment 2",
+  "author": "104",
+  "description": "Brush strokes / calligraphy experiments. Use the mouse. All you need to apply the effect is distance-to-geometry, and \"how far along the path\". So if you can get those 2 things for bezier curves for example, this can get curvy. Working on a circle version",
+  "tags": [
+    "2d",
+    "brush"
+  ],
+  "publishedAt": "2015-06-02T20:56:06.000Z",
+  "publishedTimestamp": 1433278566,
+  "views": 5297,
+  "likes": 133,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lt23D3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

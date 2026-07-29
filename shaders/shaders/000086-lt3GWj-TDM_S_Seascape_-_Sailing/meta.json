@@ -1,0 +1,54 @@
+{
+  "id": "lt3GWj",
+  "name": "TDM'S Seascape - Sailing",
+  "author": "CaliCoastReplay",
+  "description": "Another variant on the classic TDM seascape; this one featuring a fixed viewpoint/accelerated speed and time to simulate a fast ocean journey. Good fullscreen.  Has mouse lookaround.",
+  "tags": [
+    "sea",
+    "water",
+    "ocean",
+    "remix",
+    "hsv",
+    "tdm",
+    "seascape"
+  ],
+  "publishedAt": "2016-08-28T09:49:40.000Z",
+  "publishedTimestamp": 1472377780,
+  "views": 10801,
+  "likes": 86,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 16,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lt3GWj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRr",
+          "filepath": "/presets/tex00.jpg",
+          "previewfilepath": "/presets/tex00.jpg",
+          "type": "keyboard",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

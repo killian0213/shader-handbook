@@ -1,0 +1,33 @@
+{
+  "id": "WsKSDt",
+  "name": "Glossy Blobs",
+  "author": "blackle",
+  "description": "figured out how to make fake glossy reflections! click to look around",
+  "tags": [
+    "blobs",
+    "glossy"
+  ],
+  "publishedAt": "2019-12-03T01:38:41.000Z",
+  "publishedTimestamp": 1575337121,
+  "views": 1955,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WsKSDt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

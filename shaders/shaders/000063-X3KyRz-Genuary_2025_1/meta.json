@@ -1,0 +1,48 @@
+{
+  "id": "X3KyRz",
+  "name": "Genuary 2025 #1",
+  "author": "Kali",
+  "description": "Genuary 1 : Vertical or horizontal lines only",
+  "tags": [
+    "genuary"
+  ],
+  "publishedAt": "2025-01-03T02:52:41.000Z",
+  "publishedTimestamp": 1735872761,
+  "views": 2253,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 4,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/X3KyRz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdXGRr",
+          "filepath": "/presets/mic.png",
+          "previewfilepath": "/presets/mic.png",
+          "type": "mic",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

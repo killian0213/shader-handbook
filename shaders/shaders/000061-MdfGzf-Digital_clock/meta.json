@@ -1,0 +1,46 @@
+{
+  "id": "MdfGzf",
+  "name": "Digital clock",
+  "author": "Andre",
+  "description": "Wanted to make a digital led clock.  \nUp key toggles AM/PM mode, Down key toggles red green.  Left is microwavestyle, Right is off leds shown.",
+  "tags": [
+    "time",
+    "clock",
+    "led",
+    "7segment"
+  ],
+  "publishedAt": "2013-08-05T14:47:13.000Z",
+  "publishedTimestamp": 1375714033,
+  "views": 5402,
+  "likes": 61,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 16,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdfGzf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRr",
+          "filepath": "/presets/tex00.jpg",
+          "previewfilepath": "/presets/tex00.jpg",
+          "type": "keyboard",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

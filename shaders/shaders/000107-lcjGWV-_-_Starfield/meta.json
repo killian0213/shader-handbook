@@ -1,0 +1,32 @@
+{
+  "id": "lcjGWV",
+  "name": "大龙猫 - Starfield",
+  "author": "totetmatt",
+  "description": "starfield",
+  "tags": [
+    "starfield"
+  ],
+  "publishedAt": "2024-01-07T21:31:53.000Z",
+  "publishedTimestamp": 1704663113,
+  "views": 6849,
+  "likes": 107,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lcjGWV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

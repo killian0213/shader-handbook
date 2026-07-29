@@ -1,0 +1,36 @@
+{
+  "id": "4sdGzs",
+  "name": "Radiolarian #3",
+  "author": "tdhooper",
+  "description": "See the [url=https://twitter.com/tdhooper/status/738925905796575232]gif export without artefacts[/url], I need a better way of modelling spikes.",
+  "tags": [
+    "sdf",
+    "icosahedron",
+    "subdivision",
+    "polyhedra",
+    "geodesic"
+  ],
+  "publishedAt": "2016-06-04T16:04:07.000Z",
+  "publishedTimestamp": 1465056247,
+  "views": 18702,
+  "likes": 148,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sdGzs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

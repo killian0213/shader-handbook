@@ -1,0 +1,68 @@
+{
+  "id": "XdsGWs",
+  "name": "Star PSF",
+  "author": "FabriceNeyret2",
+  "description": "TAB: 1 vs many. \n      if 1: col=BlackBody(T) vs RGB ( SPACE: mouse.xy = rGB/RGb )\n\nstar proj = fraction of sensor pixel.\nBut lens+aperture diffraction yields Airy spot + cross (diffract on 2ndary mirror handles). \nAnd bright stars saturate filters.",
+  "tags": [
+    "astrophysics",
+    "optics",
+    "blackbody",
+    "fourier",
+    "planck",
+    "psf"
+  ],
+  "publishedAt": "2013-10-15T08:07:47.000Z",
+  "publishedTimestamp": 1381824467,
+  "views": 21968,
+  "likes": 100,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 16,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdsGWs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGzn",
+          "filepath": "/media/a/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "previewfilepath": "/media/ap/0c7bf5fe9462d5bffbd11126e82908e39be3ce56220d900f633d58fb432e56f5.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dXGRr",
+          "filepath": "/presets/tex00.jpg",
+          "previewfilepath": "/presets/tex00.jpg",
+          "type": "keyboard",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

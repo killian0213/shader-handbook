@@ -1,0 +1,51 @@
+{
+  "id": "MtBGRD",
+  "name": "Spherical voronoi",
+  "author": "mattz",
+  "description": "Picking uniform points on cube faces and warping through tangent function before projecting to sphere gives a nice even distribution. Computing cell noise directly on the sphere looks nicer (to my eyes) than on a regular 3D lattice.",
+  "tags": [
+    "voronoi",
+    "sphere",
+    "picking",
+    "point"
+  ],
+  "publishedAt": "2015-03-28T03:15:50.000Z",
+  "publishedTimestamp": 1427512550,
+  "views": 7742,
+  "likes": 181,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 16,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MtBGRD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRr",
+          "filepath": "/presets/tex00.jpg",
+          "previewfilepath": "/presets/tex00.jpg",
+          "type": "keyboard",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

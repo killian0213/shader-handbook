@@ -1,0 +1,43 @@
+{
+  "id": "XsX3zS",
+  "name": "Sound sinus wave",
+  "author": "Eitraz",
+  "description": "Sinus wave moving to music",
+  "tags": [
+    "soundsinuswave"
+  ],
+  "publishedAt": "2013-07-02T14:57:40.000Z",
+  "publishedTimestamp": 1372777060,
+  "views": 7434,
+  "likes": 91,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsX3zS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsXGzn",
+          "filepath": "/media/a/29de534ed5e4a6a224d2dfffab240f2e19a9d95f5e39de8898e850efdb2a99de.mp3",
+          "previewfilepath": "/media/ap/29de534ed5e4a6a224d2dfffab240f2e19a9d95f5e39de8898e850efdb2a99de.mp3",
+          "type": "music",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

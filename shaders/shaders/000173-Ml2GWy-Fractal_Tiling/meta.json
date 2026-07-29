@@ -1,0 +1,29 @@
+{
+  "id": "Ml2GWy",
+  "name": "Fractal Tiling",
+  "author": "iq",
+  "description": "Inspired by the previous [url=https://www.shadertoy.com/view/ll2GWy]Smooth XOR[/url] experiment.",
+  "tags": [
+    "2d",
+    "xor",
+    "tiling"
+  ],
+  "publishedAt": "2015-05-21T03:57:48.000Z",
+  "publishedTimestamp": 1432180668,
+  "views": 12314,
+  "likes": 173,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Ml2GWy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

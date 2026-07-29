@@ -1,0 +1,46 @@
+{
+  "id": "4lj3Ww",
+  "name": "Ray Marching Experiment 23",
+  "author": "aiekick",
+  "description": "I wanted to explore many other pattern :)\nClick on cell and keep down to see in full size",
+  "tags": [
+    "ray",
+    "experiment",
+    "marching",
+    "23"
+  ],
+  "publishedAt": "2015-04-26T22:58:13.000Z",
+  "publishedTimestamp": 1430089093,
+  "views": 6121,
+  "likes": 73,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4lj3Ww",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsfGzn",
+          "filepath": "/media/a/585f9546c092f53ded45332b343144396c0b2d70d9965f585ebc172080d8aa58.jpg",
+          "previewfilepath": "/media/ap/585f9546c092f53ded45332b343144396c0b2d70d9965f585ebc172080d8aa58.jpg",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "XsXXDn",
+  "name": "Creation by Silexars",
+  "author": "Danguafer",
+  "description": "My first demoscene release. Achieved second place @ DemoJS 2011. It has been said to be the first 1k WebGL intro ever released.\n\nTry Prism, a next-gen graph-based shader editor @ https://prism.sensorial.studio\n",
+  "tags": [
+    "intro",
+    "silexars",
+    "1k",
+    "demojs"
+  ],
+  "publishedAt": "2014-04-29T07:07:50.000Z",
+  "publishedTimestamp": 1398755270,
+  "views": 800237,
+  "likes": 1350,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsXXDn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

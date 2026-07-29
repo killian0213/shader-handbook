@@ -1,0 +1,52 @@
+{
+  "id": "ltdGDn",
+  "name": "SlowMo Fluid",
+  "author": "zguerrero",
+  "description": "Experimenting with 2d metaballs, ended up with that strange looking fluid...",
+  "tags": [
+    "2d",
+    "fluid",
+    "metaball",
+    "motion",
+    "slow"
+  ],
+  "publishedAt": "2016-07-20T12:00:09.000Z",
+  "publishedTimestamp": 1469016009,
+  "views": 2656,
+  "likes": 60,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltdGDn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sf3Rr",
+          "filepath": "/media/a/ad56fba948dfba9ae698198c109e71f118a54d209c0ea50d77ea546abad89c57.png",
+          "previewfilepath": "/media/ap/ad56fba948dfba9ae698198c109e71f118a54d209c0ea50d77ea546abad89c57.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

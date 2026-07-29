@@ -1,0 +1,49 @@
+{
+  "id": "lsfXz4",
+  "name": "Rolling ball",
+  "author": "Dave_Hoskins",
+  "description": "I wanted to see if I could trace the grass back from a ball in my 'Rolling Hills' grass shader. Mouse to move through time.\nThe grass goes back into place after being flattened by ball.",
+  "tags": [
+    "grass",
+    "rollingball"
+  ],
+  "publishedAt": "2014-04-13T19:25:47.000Z",
+  "publishedTimestamp": 1397417147,
+  "views": 11812,
+  "likes": 109,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsfXz4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "MdcGRH",
+          "filepath": "https://soundcloud.com/dreamtigermusic/in-the-fields-r2?si=5bd228635eb4465689fa6a0dcfcdf2c4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "previewfilepath": "https://soundcloud.com/dreamtigermusic/in-the-fields-r2?si=5bd228635eb4465689fa6a0dcfcdf2c4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "4sjGWw",
+  "name": "4D raymarching",
+  "author": "iapafoto",
+  "description": "Objects of scene are completelly fixed, no animation of geometry, only camera moving in 4D space.\n",
+  "tags": [
+    "raymarching",
+    "4d",
+    "geometry",
+    "tesseract",
+    "3sphere"
+  ],
+  "publishedAt": "2014-01-09T14:39:14.000Z",
+  "publishedTimestamp": 1389278354,
+  "views": 4232,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sjGWw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

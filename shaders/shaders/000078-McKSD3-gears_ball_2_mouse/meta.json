@@ -1,0 +1,40 @@
+{
+  "id": "McKSD3",
+  "name": "gears ball  2 mouse",
+  "author": "shadertoyjiang",
+  "description": "Use the mouse\n\ngears ball 3 :[url=https://www.shadertoy.com/view/l3tGzn]https://www.shadertoy.com/view/l3tGzn[/url]\n\nMouse up and down to adjust the angle,\nleft and right to adjust different types of\n\n上下调整经度，左右类型\n\nfully-actuated stochastic sphere",
+  "tags": [
+    "mouse",
+    "gears",
+    "ball",
+    "icosahedron",
+    "dodecahedron",
+    "face",
+    "gear",
+    "20",
+    "12"
+  ],
+  "publishedAt": "2024-06-11T05:34:57.000Z",
+  "publishedTimestamp": 1718084097,
+  "views": 737,
+  "likes": 78,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/McKSD3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

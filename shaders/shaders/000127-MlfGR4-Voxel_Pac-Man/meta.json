@@ -1,0 +1,33 @@
+{
+  "id": "MlfGR4",
+  "name": "Voxel Pac-Man",
+  "author": "Nrx",
+  "description": "An attempt to do something like [url=https://upload.wikimedia.org/wikipedia/en/f/f0/PixelsOfficialPoster.jpg]this[/url]... Use the mouse to rotate when in 3D :).\n\nA slightly different version is [url=https://www.shadertoy.com/view/ltGyWz]there[/url]...",
+  "tags": [
+    "voxel",
+    "pacman"
+  ],
+  "publishedAt": "2014-12-22T12:08:08.000Z",
+  "publishedTimestamp": 1419250088,
+  "views": 17530,
+  "likes": 127,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MlfGR4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

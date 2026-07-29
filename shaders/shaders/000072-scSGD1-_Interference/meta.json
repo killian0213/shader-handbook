@@ -1,0 +1,35 @@
+{
+  "id": "scSGD1",
+  "name": " Interference",
+  "author": "kishimisu",
+  "description": "Getting closer and closer",
+  "tags": [
+    "raymarching",
+    "space",
+    "repetition",
+    "logarithmic"
+  ],
+  "publishedAt": "2026-03-19T21:05:26.000Z",
+  "publishedTimestamp": 1773954326,
+  "views": 1112,
+  "likes": 72,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/scSGD1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

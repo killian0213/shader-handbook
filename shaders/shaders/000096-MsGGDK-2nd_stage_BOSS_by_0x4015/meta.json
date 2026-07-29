@@ -1,0 +1,46 @@
+{
+  "id": "MsGGDK",
+  "name": "2nd stage BOSS by 0x4015",
+  "author": "Falken",
+  "description": "Decompiled version of the winning entry in the Combined Demo Compo at Tokyo Demo Fest 2016, patched slightly to work with WebGL.\n\nPouet Link: http://www.pouet.net/prod.php?which=66962",
+  "tags": [
+    "procedural",
+    "fractal",
+    "audio"
+  ],
+  "publishedAt": "2016-02-25T10:32:47.000Z",
+  "publishedTimestamp": 1456396367,
+  "views": 9909,
+  "likes": 96,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsGGDK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "XsfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

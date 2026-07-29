@@ -1,0 +1,40 @@
+{
+  "id": "lstfR7",
+  "name": "Volumetric pointlight",
+  "author": "robobo1221",
+  "description": "A volumetric raymarcher with a simple WorldPosition coordinate",
+  "tags": [
+    "raymarch",
+    "light",
+    "volumetric",
+    "checkerboard",
+    "orange",
+    "point",
+    "robobo1221",
+    "moody",
+    "worldposition"
+  ],
+  "publishedAt": "2018-04-24T12:52:44.000Z",
+  "publishedTimestamp": 1524574364,
+  "views": 3841,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lstfR7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

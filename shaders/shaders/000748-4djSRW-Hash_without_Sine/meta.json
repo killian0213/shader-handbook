@@ -1,0 +1,57 @@
+{
+  "id": "4djSRW",
+  "name": "Hash without Sine",
+  "author": "Dave_Hoskins",
+  "description": "A shader Hash function that is the same on all systems and doesn't rely on trig functions. New hash on the left, sine hash function on the right. It appears to be the same efficiency, but I suppose that depends on the hardware.",
+  "tags": [
+    "noise",
+    "fbm",
+    "perlin",
+    "random",
+    "hash",
+    "rnd",
+    "rand"
+  ],
+  "publishedAt": "2014-09-01T13:17:44.000Z",
+  "publishedTimestamp": 1409577464,
+  "views": 118887,
+  "likes": 748,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4djSRW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "XsfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

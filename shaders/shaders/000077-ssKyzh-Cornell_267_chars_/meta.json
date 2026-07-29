@@ -1,0 +1,34 @@
+{
+  "id": "ssKyzh",
+  "name": "Cornell [267 chars]",
+  "author": "Xor",
+  "description": "A fake cornell box that fits in a tweet",
+  "tags": [
+    "cornell",
+    "tweet",
+    "golf"
+  ],
+  "publishedAt": "2022-06-05T16:49:49.000Z",
+  "publishedTimestamp": 1654447789,
+  "views": 2501,
+  "likes": 77,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ssKyzh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

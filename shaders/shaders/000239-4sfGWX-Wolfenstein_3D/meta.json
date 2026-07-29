@@ -1,0 +1,35 @@
+{
+  "id": "4sfGWX",
+  "name": "Wolfenstein 3D",
+  "author": "reinder",
+  "description": "Experiment to generate some well-known textures (from the [url=https://en.wikipedia.org/wiki/Wolfenstein_3D]first-person shooter video game developed by id Software[/url]) in a textureless shader.",
+  "tags": [
+    "procedural",
+    "voxel",
+    "textures",
+    "wolfenstein"
+  ],
+  "publishedAt": "2013-09-25T14:00:30.000Z",
+  "publishedTimestamp": 1380117630,
+  "views": 148200,
+  "likes": 239,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sfGWX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

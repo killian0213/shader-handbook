@@ -1,0 +1,31 @@
+{
+  "id": "4tfSRj",
+  "name": "2D Vector field visualizer",
+  "author": "nmz",
+  "description": "The RGB coloring is trying to show the underlying gradient field.\n\nSimple version: https://www.shadertoy.com/view/XlfSRj",
+  "tags": [
+    "2d",
+    "visualization",
+    "vectorfield",
+    "vecotr",
+    "visulizer"
+  ],
+  "publishedAt": "2015-07-24T19:49:59.000Z",
+  "publishedTimestamp": 1437767399,
+  "views": 5092,
+  "likes": 104,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tfSRj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

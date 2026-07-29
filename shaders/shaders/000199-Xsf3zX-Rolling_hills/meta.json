@@ -1,0 +1,34 @@
+{
+  "id": "Xsf3zX",
+  "name": "Rolling hills",
+  "author": "Dave_Hoskins",
+  "description": "Grassy fields. Ray marches a ray to a smooth hill, then enters detailed stepping through a grass like distance, erm, field. :)\nNow uses eiffie's 'Circle of Confusion' function for blurred ray marching into the grass.\nThanks eiffie!\n",
+  "tags": [
+    "3d",
+    "grass",
+    "rollinghills"
+  ],
+  "publishedAt": "2013-07-29T19:04:06.000Z",
+  "publishedTimestamp": 1375124646,
+  "views": 20302,
+  "likes": 199,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xsf3zX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

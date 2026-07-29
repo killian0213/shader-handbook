@@ -1,0 +1,34 @@
+{
+  "id": "fstyD4",
+  "name": "Coastal Landscape",
+  "author": "bitless",
+  "description": "I wanted to do something in the spirit of Van Gogh. It looks better on the full screen.",
+  "tags": [
+    "2d",
+    "landscape",
+    "vangogh"
+  ],
+  "publishedAt": "2022-05-25T12:46:26.000Z",
+  "publishedTimestamp": 1653482786,
+  "views": 26294,
+  "likes": 594,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/fstyD4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

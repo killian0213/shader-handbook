@@ -1,0 +1,33 @@
+{
+  "id": "wsjBD3",
+  "name": "A battered alien planet",
+  "author": "mrange",
+  "description": "License CC0: A battered alien planet\nBeen experimenting with space inspired shaders\n",
+  "tags": [
+    "raymarching",
+    "terrain"
+  ],
+  "publishedAt": "2020-06-01T15:21:44.000Z",
+  "publishedTimestamp": 1591024904,
+  "views": 45903,
+  "likes": 78,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wsjBD3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

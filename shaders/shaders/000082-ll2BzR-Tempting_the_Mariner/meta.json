@@ -1,0 +1,36 @@
+{
+  "id": "ll2BzR",
+  "name": "Tempting the Mariner",
+  "author": "dr2",
+  "description": "Prequel to the Coleridge poem",
+  "tags": [
+    "reflection",
+    "waves",
+    "sunset",
+    "bird",
+    "ship"
+  ],
+  "publishedAt": "2017-12-27T12:43:08.000Z",
+  "publishedTimestamp": 1514378588,
+  "views": 8727,
+  "likes": 82,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ll2BzR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

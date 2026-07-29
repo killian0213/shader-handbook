@@ -1,0 +1,28 @@
+{
+  "id": "4sf3RN",
+  "name": "Numbers",
+  "author": "P_Malin",
+  "description": "Some code to print numbers. \nExample display shader time, date, time, mouse co-ordinates and value on sin wave.\nIt can be useful to print values when tweaking shaders.\nNote - the values are not always accurate :)",
+  "tags": [
+    "utility",
+    "numbers"
+  ],
+  "publishedAt": "2013-03-15T23:47:20.000Z",
+  "publishedTimestamp": 1363391240,
+  "views": 6682,
+  "likes": 114,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sf3RN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

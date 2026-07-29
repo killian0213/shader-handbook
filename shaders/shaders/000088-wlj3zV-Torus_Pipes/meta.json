@@ -1,0 +1,36 @@
+{
+  "id": "wlj3zV",
+  "name": "Torus Pipes",
+  "author": "iq",
+  "description": "A sequence of connected torus sections (not a truchet or any other cell based acceleration structure). It's really a tested for the torus section SDF in [url]https://www.shadertoy.com/view/tl23RK[/url]",
+  "tags": [
+    "3d",
+    "raymarching",
+    "sdf",
+    "torus",
+    "pipes"
+  ],
+  "publishedAt": "2019-06-26T08:59:05.000Z",
+  "publishedTimestamp": 1561539545,
+  "views": 4123,
+  "likes": 88,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wlj3zV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

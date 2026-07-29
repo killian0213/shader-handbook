@@ -1,0 +1,35 @@
+{
+  "id": "WclSWn",
+  "name": "Turbulent Dark",
+  "author": "Xor",
+  "description": "Simulating proper fluid dynamics can be complicated, limited, and requires a multi-pass setup. This is a practical alternative!\nWritten for my [url=https://mini.gmshaders.com/p/turbulence]tutorial on turbulence[/url].\n",
+  "tags": [
+    "fluid",
+    "glow",
+    "turbulence",
+    "ink"
+  ],
+  "publishedAt": "2025-03-17T21:47:20.000Z",
+  "publishedTimestamp": 1742248040,
+  "views": 4012,
+  "likes": 85,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WclSWn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

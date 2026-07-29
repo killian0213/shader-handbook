@@ -1,0 +1,61 @@
+{
+  "id": "4dXGR4",
+  "name": "Main Sequence Star",
+  "author": "flight404",
+  "description": "Inspired by trisomie21's 3d noise fireball, I made some tweaks and ended up with a star.\n\nEDIT: Fixed the negative sqrt issue as per iq's suggestion.",
+  "tags": [
+    "3dnoise",
+    "perlin",
+    "star",
+    "corona"
+  ],
+  "publishedAt": "2013-03-12T03:09:14.000Z",
+  "publishedTimestamp": 1363057754,
+  "views": 84821,
+  "likes": 477,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dXGR4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsX3Rn",
+          "filepath": "/media/a/92d7758c402f0927011ca8d0a7e40251439fba3a1dac26f5b8b62026323501aa.jpg",
+          "previewfilepath": "/media/ap/92d7758c402f0927011ca8d0a7e40251439fba3a1dac26f5b8b62026323501aa.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4df3Rn",
+          "filepath": "/media/a/3c33c415862bb7964d256f4749408247da6596f2167dca2c86cc38f83c244aa6.mp3",
+          "previewfilepath": "/media/ap/3c33c415862bb7964d256f4749408247da6596f2167dca2c86cc38f83c244aa6.mp3",
+          "type": "music",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

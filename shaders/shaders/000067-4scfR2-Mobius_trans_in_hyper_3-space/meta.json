@@ -1,0 +1,49 @@
+{
+  "id": "4scfR2",
+  "name": "Mobius trans in hyper 3-space",
+  "author": "neozhaoliang",
+  "description": "This shader is based on Roice Nelson's work at https://www.shadertoy.com/view/MstcWr",
+  "tags": [
+    "mobius",
+    "hyperbolic"
+  ],
+  "publishedAt": "2018-05-09T11:46:50.000Z",
+  "publishedTimestamp": 1525866410,
+  "views": 47960,
+  "likes": 67,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 16,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4scfR2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRr",
+          "filepath": "/presets/tex00.jpg",
+          "previewfilepath": "/presets/tex00.jpg",
+          "type": "keyboard",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

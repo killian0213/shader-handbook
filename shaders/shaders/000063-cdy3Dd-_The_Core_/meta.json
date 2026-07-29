@@ -1,0 +1,39 @@
+{
+  "id": "cdy3Dd",
+  "name": "\"The Core\"",
+  "author": "kishimisu",
+  "description": "Playing with raymarching, space repetition and neon lights",
+  "tags": [
+    "raymarching",
+    "space",
+    "repetition",
+    "psychedelic",
+    "code",
+    "neon",
+    "golf",
+    "golfing"
+  ],
+  "publishedAt": "2023-03-20T12:33:39.000Z",
+  "publishedTimestamp": 1679315619,
+  "views": 2342,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/cdy3Dd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

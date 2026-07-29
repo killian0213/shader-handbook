@@ -1,0 +1,30 @@
+{
+  "id": "MsdGWn",
+  "name": "Smoke noise",
+  "author": "And390",
+  "description": "A simple example of smoke-like curl noise. Based on simplex noise with FBM.",
+  "tags": [
+    "swirl",
+    "perlin",
+    "curl",
+    "simplex"
+  ],
+  "publishedAt": "2015-12-02T20:19:33.000Z",
+  "publishedTimestamp": 1449087573,
+  "views": 9436,
+  "likes": 83,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsdGWn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

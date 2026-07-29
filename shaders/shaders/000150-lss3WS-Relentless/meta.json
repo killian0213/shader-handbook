@@ -1,0 +1,33 @@
+{
+  "id": "lss3WS",
+  "name": "Relentless",
+  "author": "srtuss",
+  "description": "Collecting some design ideas for a new game project. Heavily inspired by movAX13h's io shader. Thanks to iq for his ray-plane-intersection code.",
+  "tags": [
+    "rings",
+    "scifi"
+  ],
+  "publishedAt": "2013-09-09T13:41:25.000Z",
+  "publishedTimestamp": 1378734085,
+  "views": 12735,
+  "likes": 150,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lss3WS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

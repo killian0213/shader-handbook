@@ -1,0 +1,27 @@
+{
+  "id": "ltjXWd",
+  "name": "simple hexagon raymarch",
+  "author": "macbooktall",
+  "description": "just a simple raymarch.\nforked from cail's https://www.shadertoy.com/view/lt2SRt",
+  "tags": [
+    "hexagons"
+  ],
+  "publishedAt": "2015-11-14T00:22:15.000Z",
+  "publishedTimestamp": 1447460535,
+  "views": 25156,
+  "likes": 74,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltjXWd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "4dVGRW",
+  "name": "Post-Processing: Toon Shading",
+  "author": "hughsk",
+  "description": "Toon shading â€” outlines achieved using edge detection on normals/depth in post. The raymarching buffer stores normals in RGB, and depth in A.",
+  "tags": [
+    "shading",
+    "edge",
+    "outline",
+    "toon",
+    "cel"
+  ],
+  "publishedAt": "2016-01-31T09:07:12.000Z",
+  "publishedTimestamp": 1454231232,
+  "views": 15344,
+  "likes": 108,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dVGRW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    },
+    {
+      "type": "buffer",
+      "name": "Buf A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

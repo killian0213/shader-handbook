@@ -1,0 +1,63 @@
+{
+  "id": "XdycWy",
+  "name": "Accelerated two pass raymarching",
+  "author": "Psycho",
+  "description": "As used in One Of Those Days - http://www.pouet.net/prod.php?which=75790\n\nExample of a raymarching low res pass that not only establish a coarse zbuffer for the primary rays, but also adds object masking and accelerates shadow rays. ",
+  "tags": [
+    "raymarch",
+    "masking",
+    "shadows",
+    "optimization"
+  ],
+  "publishedAt": "2018-04-07T10:45:58.000Z",
+  "publishedTimestamp": 1523097958,
+  "views": 3881,
+  "likes": 76,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdycWy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buf A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "MdyfDV",
+  "name": "High-perf by-example Noise [HN18",
+  "author": "FabriceNeyret2",
+  "description": "Generating endless seamless non-repeating same-properties texture from example (cf our HPG'18 paper [url]https://hal.inria.fr/hal-01824773[/url])\nMouse.y to scale\nG: show grid   P: show patch\ntry other textures! ( NB:original one does not wrap perfectly )",
+  "tags": [
+    "noise",
+    "texture",
+    "blending",
+    "fourier",
+    "bombing",
+    "gabor",
+    "texturebombing",
+    "splatting",
+    "textons",
+    "byexample",
+    "contrastpreserving",
+    "hpg"
+  ],
+  "publishedAt": "2018-07-02T16:38:54.000Z",
+  "publishedTimestamp": 1530549534,
+  "views": 5877,
+  "likes": 94,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 16,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdyfDV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsX3Rn",
+          "filepath": "/media/a/92d7758c402f0927011ca8d0a7e40251439fba3a1dac26f5b8b62026323501aa.jpg",
+          "previewfilepath": "/media/ap/92d7758c402f0927011ca8d0a7e40251439fba3a1dac26f5b8b62026323501aa.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dXGRr",
+          "filepath": "/presets/tex00.jpg",
+          "previewfilepath": "/presets/tex00.jpg",
+          "type": "keyboard",
+          "channel": 3,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

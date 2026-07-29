@@ -1,0 +1,79 @@
+{
+  "id": "XcVyRV",
+  "name": "[♪]King of Kings - Field",
+  "author": "Catzpaw",
+  "description": "\"King of Kings\" is a strategy game for the Family Computer released by Namco only in Japan.",
+  "tags": [
+    "music",
+    "dof",
+    "bokeh",
+    "map",
+    "tile",
+    "chiptune"
+  ],
+  "publishedAt": "2024-11-27T10:39:44.000Z",
+  "publishedTimestamp": 1732703984,
+  "views": 1440,
+  "likes": 67,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 40,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XcVyRV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

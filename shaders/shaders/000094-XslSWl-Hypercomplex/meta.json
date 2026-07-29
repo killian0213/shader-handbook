@@ -1,0 +1,38 @@
+{
+  "id": "XslSWl",
+  "name": "Hypercomplex",
+  "author": "TDM",
+  "description": "modification of julia set. julia fractal distant function based on Inigo Quilez implementation: https://www.shadertoy.com/view/MsfGRr",
+  "tags": [
+    "julia",
+    "sphere",
+    "occlusion",
+    "complex",
+    "tracing",
+    "quaternion",
+    "ambient"
+  ],
+  "publishedAt": "2014-08-29T00:07:17.000Z",
+  "publishedTimestamp": 1409270837,
+  "views": 3679,
+  "likes": 94,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XslSWl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

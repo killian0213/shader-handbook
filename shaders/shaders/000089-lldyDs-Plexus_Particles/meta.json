@@ -1,0 +1,50 @@
+{
+  "id": "lldyDs",
+  "name": "Plexus Particles",
+  "author": "eclmist",
+  "description": "Lots of particles\n\nCredits to @The_ArtOfCode for the idea!",
+  "tags": [
+    "particles",
+    "universe",
+    "plexus"
+  ],
+  "publishedAt": "2018-08-20T08:08:54.000Z",
+  "publishedTimestamp": 1534752534,
+  "views": 5537,
+  "likes": 89,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lldyDs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dSXWc",
+          "filepath": "https://soundcloud.com/kira-valkyrie/studio-ghibli-music-box",
+          "previewfilepath": "https://soundcloud.com/kira-valkyrie/studio-ghibli-music-box",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

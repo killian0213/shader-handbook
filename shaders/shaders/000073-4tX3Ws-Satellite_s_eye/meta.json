@@ -1,0 +1,50 @@
+{
+  "id": "4tX3Ws",
+  "name": "Satellite's eye",
+  "author": "nimitz",
+  "description": "Mouse up/down to change water level.\nMouse left/right to change influence of derivatives (left = less influence)",
+  "tags": [
+    "terrain",
+    "map",
+    "relief"
+  ],
+  "publishedAt": "2015-06-19T21:17:44.000Z",
+  "publishedTimestamp": 1434748664,
+  "views": 2397,
+  "likes": 73,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tX3Ws",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

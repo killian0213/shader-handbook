@@ -1,0 +1,35 @@
+{
+  "id": "4ltyD4",
+  "name": "Happy Plant",
+  "author": "lnae",
+  "description": "Experimenting with a hand-drawn / watercolor effect",
+  "tags": [
+    "raymarching",
+    "watercolor",
+    "npr",
+    "plant"
+  ],
+  "publishedAt": "2018-07-27T08:44:29.000Z",
+  "publishedTimestamp": 1532681069,
+  "views": 1370,
+  "likes": 60,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4ltyD4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

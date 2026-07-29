@@ -1,0 +1,31 @@
+{
+  "id": "4sf3Dj",
+  "name": "Gamecube",
+  "author": "fb39ca4",
+  "description": "Phew. That took a while to get looking right. I apologize for the lack of optimization. Anyone good at doing text? All that's missing is the words \"Nintendo Gamecube.\"\n\nIf it doesn't work and you are using Windows, please disable ANGLE in your browser. ",
+  "tags": [
+    "raymarching",
+    "cube",
+    "logo",
+    "animation",
+    "gamecube"
+  ],
+  "publishedAt": "2013-09-13T19:12:38.000Z",
+  "publishedTimestamp": 1379099558,
+  "views": 12382,
+  "likes": 77,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sf3Dj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

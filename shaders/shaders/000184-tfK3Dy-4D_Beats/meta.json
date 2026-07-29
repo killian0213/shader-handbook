@@ -1,0 +1,48 @@
+{
+  "id": "tfK3Dy",
+  "name": "4D Beats",
+  "author": "mrange",
+  "description": "CC0: 4D Beats\n Continuing experiments with yesterday's grid structure\n Note: Music may require clicking play/stop to initialize\n Shader animation depends on audio input - static without music\n BPM: 114\n",
+  "tags": [
+    "glow"
+  ],
+  "publishedAt": "2025-05-29T08:43:29.000Z",
+  "publishedTimestamp": 1748508209,
+  "views": 5866,
+  "likes": 184,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tfK3Dy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGRr",
+          "filepath": "/media/a/48e2d9ef22ca6673330b8c38a260c87694d2bbc94c19fec9dfa4a1222c364a99.mp3",
+          "previewfilepath": "/media/ap/48e2d9ef22ca6673330b8c38a260c87694d2bbc94c19fec9dfa4a1222c364a99.mp3",
+          "type": "music",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

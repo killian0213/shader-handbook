@@ -1,0 +1,54 @@
+{
+  "id": "ltfSDl",
+  "name": "motion illusion 3",
+  "author": "FabriceNeyret2",
+  "description": "does the ball quit the center ? :-)\n\n(for the Shepard scale, see also here: https://www.shadertoy.com/view/XdlXWX )",
+  "tags": [
+    "texture",
+    "advection",
+    "2tweets",
+    "short",
+    "textureadvection"
+  ],
+  "publishedAt": "2015-08-25T12:25:19.000Z",
+  "publishedTimestamp": 1440505519,
+  "views": 4710,
+  "likes": 62,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltfSDl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsXGRn",
+          "filepath": "/media/a/cd4c518bc6ef165c39d4405b347b51ba40f8d7a065ab0e8d2e4f422cbc1e8a43.jpg",
+          "previewfilepath": "/media/ap/cd4c518bc6ef165c39d4405b347b51ba40f8d7a065ab0e8d2e4f422cbc1e8a43.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

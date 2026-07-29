@@ -1,0 +1,37 @@
+{
+  "id": "WdBXWV",
+  "name": "first image of a black hole",
+  "author": "FabriceNeyret2",
+  "description": "I confess: I faked it all :-p\n\nref: [img]https://www.jpl.nasa.gov/images/universe/20190410/blackhole20190410-16.jpg[/img]",
+  "tags": [
+    "blackhole",
+    "nasa",
+    "golf",
+    "reproduction",
+    "m87",
+    "eventhorizon"
+  ],
+  "publishedAt": "2019-04-10T16:43:24.000Z",
+  "publishedTimestamp": 1554914604,
+  "views": 9464,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WdBXWV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

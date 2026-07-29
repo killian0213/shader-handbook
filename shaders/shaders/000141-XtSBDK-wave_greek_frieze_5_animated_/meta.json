@@ -1,0 +1,37 @@
+{
+  "id": "XtSBDK",
+  "name": "wave greek frieze 5 (animated)",
+  "author": "FabriceNeyret2",
+  "description": "Dare fullscreen ! :-p\n\ntexture variant:\nU *= mat2(cos( vec4(0,33,55,0) ...   instead of U.y = dot( U, cos(\nO *= texture(iChannel0,.5+.5*U);     instead of smoothstep\n\nother greek friezes here: [url]https://www.shadertoy.com/results?query=frieze[/url]",
+  "tags": [
+    "waves",
+    "patterns",
+    "2tweets",
+    "short",
+    "greek",
+    "frieze"
+  ],
+  "publishedAt": "2018-01-28T11:56:12.000Z",
+  "publishedTimestamp": 1517140572,
+  "views": 3603,
+  "likes": 141,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtSBDK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

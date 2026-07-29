@@ -1,0 +1,45 @@
+{
+  "id": "Xl2GRc",
+  "name": "Twisted Columns",
+  "author": "iq",
+  "description": "Based on Flyguy's \"Ring Teister\" [url=https://www.shadertoy.com/view/Xt23z3]Xt23z3[/url]. I didn't write this effect since around 1999. Only now it's antialiased, motion blurred, texture filtered and high resolution. Uncomment line 40 to see the columns.",
+  "tags": [
+    "2d",
+    "twist",
+    "columns"
+  ],
+  "publishedAt": "2015-05-07T06:23:55.000Z",
+  "publishedTimestamp": 1430979835,
+  "views": 17288,
+  "likes": 194,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xl2GRc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGRn",
+          "filepath": "/media/a/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "previewfilepath": "/media/ap/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

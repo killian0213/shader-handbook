@@ -1,0 +1,35 @@
+{
+  "id": "ldycR3",
+  "name": "Pulse - circle",
+  "author": "bozhkov",
+  "description": "First shader! Tried to get some nice pulsing effect",
+  "tags": [
+    "2d",
+    "pulse",
+    "circle",
+    "organic"
+  ],
+  "publishedAt": "2018-04-03T11:16:44.000Z",
+  "publishedTimestamp": 1522754204,
+  "views": 3339,
+  "likes": 61,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldycR3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

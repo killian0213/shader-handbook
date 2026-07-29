@@ -1,0 +1,50 @@
+{
+  "id": "tsVGRd",
+  "name": "Fix texture tiling in 3 taps",
+  "author": "Suslik",
+  "description": "This shader demonstrates a triangle-based interpolation technique that I use to break tiling. Work area is divided in triangles and a unique seed is assigned to every vertex to generate unique tap. Works with mips.",
+  "tags": [
+    "tiling",
+    "interpolation",
+    "scrolling"
+  ],
+  "publishedAt": "2019-10-11T12:39:17.000Z",
+  "publishedTimestamp": 1570797557,
+  "views": 6147,
+  "likes": 93,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tsVGRd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdX3Rn",
+          "filepath": "/media/a/52d2a8f514c4fd2d9866587f4d7b2a5bfa1a11a0e772077d7682deb8b3b517e5.jpg",
+          "previewfilepath": "/media/ap/52d2a8f514c4fd2d9866587f4d7b2a5bfa1a11a0e772077d7682deb8b3b517e5.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

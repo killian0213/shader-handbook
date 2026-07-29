@@ -1,0 +1,51 @@
+{
+  "id": "lsjGRV",
+  "name": "rainbow spaghetti",
+  "author": "mattz",
+  "description": "Space-filling Truchet tiling using a combination of octahedra and tetrahedra. Press 'g' to toggle drawing the cell grid.",
+  "tags": [
+    "truchet",
+    "tetrahedron",
+    "tiling",
+    "octahedron"
+  ],
+  "publishedAt": "2014-02-06T05:55:44.000Z",
+  "publishedTimestamp": 1391666144,
+  "views": 7962,
+  "likes": 74,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 16,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsjGRV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRr",
+          "filepath": "/presets/tex00.jpg",
+          "previewfilepath": "/presets/tex00.jpg",
+          "type": "keyboard",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

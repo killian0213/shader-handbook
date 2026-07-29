@@ -1,0 +1,49 @@
+{
+  "id": "dltGWl",
+  "name": "subsurface lighting model",
+  "author": "Poisson",
+  "description": "A subsurface scattering (sss) lighting model\nFeatures: lambert, preintegrated sss, blinn, ggx, roughness, schlick fresnel, ior",
+  "tags": [
+    "3d",
+    "raytracing",
+    "sss",
+    "raytracer",
+    "ray",
+    "volume",
+    "sphere",
+    "volumetric",
+    "specular",
+    "scattering",
+    "subsurface",
+    "aa",
+    "brdf",
+    "skin",
+    "scatter",
+    "ggx",
+    "human",
+    "bsdf"
+  ],
+  "publishedAt": "2023-05-07T13:50:48.000Z",
+  "publishedTimestamp": 1683467448,
+  "views": 2905,
+  "likes": 123,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/dltGWl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

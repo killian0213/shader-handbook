@@ -1,0 +1,88 @@
+{
+  "id": "ldSfWV",
+  "name": "OscilloStereoXY Trippy Donut ",
+  "author": "ttoinou",
+  "description": "Enable POINTS or Decrease NBITERATIONS for slow GPUs\n\nJoin the [url=https://www.facebook.com/groups/147749602472741]FB Shadertoy Group[/url] !",
+  "tags": [
+    "oscilloscope",
+    "sound",
+    "torus",
+    "music",
+    "stereo",
+    "lissajou"
+  ],
+  "publishedAt": "2017-08-08T17:29:28.000Z",
+  "publishedTimestamp": 1502213368,
+  "views": 6453,
+  "likes": 103,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 40,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldSfWV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "4sBGD1",
+  "name": "Motion Blur",
+  "author": "iq",
+  "description": "Classic motion blur through per-pixel dithering, no cheats, no cleverness. Left: single sample. Right: multiple samples (64 on PC, 24 on Mobile)",
+  "tags": [
+    "3d",
+    "raytracing",
+    "grid",
+    "blur",
+    "motionblur",
+    "motionblur",
+    "motion",
+    "dithering",
+    "mblur"
+  ],
+  "publishedAt": "2013-12-22T01:18:36.000Z",
+  "publishedTimestamp": 1387675116,
+  "views": 11727,
+  "likes": 102,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sBGD1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsBSR3",
+          "filepath": "/media/a/cb49c003b454385aa9975733aff4571c62182ccdda480aaba9a8d250014f00ec.png",
+          "previewfilepath": "/media/ap/cb49c003b454385aa9975733aff4571c62182ccdda480aaba9a8d250014f00ec.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

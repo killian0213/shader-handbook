@@ -1,0 +1,53 @@
+{
+  "id": "tdSXzD",
+  "name": "The sun, the sky and the clouds",
+  "author": "stilltravelling",
+  "description": "Very much a mash up of lots of shaders, move the sun around with the mouse. Happy experimenting",
+  "tags": [
+    "reflection",
+    "sunset",
+    "clouds",
+    "aurora",
+    "atmosphere",
+    "sunrise"
+  ],
+  "publishedAt": "2019-03-20T09:05:13.000Z",
+  "publishedTimestamp": 1553072713,
+  "views": 54939,
+  "likes": 229,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tdSXzD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

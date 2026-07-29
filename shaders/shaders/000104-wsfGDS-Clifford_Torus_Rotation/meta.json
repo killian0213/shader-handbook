@@ -1,0 +1,33 @@
+{
+  "id": "wsfGDS",
+  "name": "Clifford Torus Rotation",
+  "author": "tdhooper",
+  "description": "Been mesmerised since seeing [url=https://www.youtube.com/watch?v=1_pzjvVixL0]this animation by Jason Hise[/url]. Had a few failed attempts at creating it with sphere inversion, but this 4d stereographic projection works well with some hacks.",
+  "tags": [
+    "4d",
+    "stereographic"
+  ],
+  "publishedAt": "2019-01-12T23:46:30.000Z",
+  "publishedTimestamp": 1547336790,
+  "views": 5405,
+  "likes": 104,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wsfGDS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

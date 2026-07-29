@@ -1,0 +1,34 @@
+{
+  "id": "XlfXR4",
+  "name": "Curvature - Parametric 3D",
+  "author": "iq",
+  "description": "Curvature computation for parametric curves (same as [url]https://www.shadertoy.com/view/Mlf3zl[/url]. but in 3D in this case), and displays it with colors (red is high curvature, yellow is medium, green is low)",
+  "tags": [
+    "3d",
+    "curvature",
+    "parametric"
+  ],
+  "publishedAt": "2015-06-18T20:06:02.000Z",
+  "publishedTimestamp": 1434657962,
+  "views": 15659,
+  "likes": 104,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlfXR4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

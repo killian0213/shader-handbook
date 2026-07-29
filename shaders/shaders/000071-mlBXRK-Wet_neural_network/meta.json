@@ -1,0 +1,32 @@
+{
+  "id": "mlBXRK",
+  "name": "Wet neural network",
+  "author": "guil",
+  "description": "Forked from newl shader from Yonatan :\nhttps://twitter.com/zozuar/status/1625182758745128981",
+  "tags": [
+    "neuron"
+  ],
+  "publishedAt": "2023-02-13T19:45:29.000Z",
+  "publishedTimestamp": 1676317529,
+  "views": 2057,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/mlBXRK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

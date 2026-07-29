@@ -1,0 +1,35 @@
+{
+  "id": "lllXz4",
+  "name": "Inverse Spherical Fibonacci",
+  "author": "iq",
+  "description": "Spherical Fibonacci points, as described by this paper [url]https://dl.acm.org/doi/10.1145/2816795.2818131[/url]",
+  "tags": [
+    "3d",
+    "sampling",
+    "spherical",
+    "fibonacci"
+  ],
+  "publishedAt": "2015-11-03T07:24:43.000Z",
+  "publishedTimestamp": 1446535483,
+  "views": 8654,
+  "likes": 112,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lllXz4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

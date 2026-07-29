@@ -1,0 +1,51 @@
+{
+  "id": "tsBXW3",
+  "name": "Black hole with accretion disk",
+  "author": "set111",
+  "description": "An improved version of a fast black hole shader that I made for a small VR project a while ago.\nUse the mouse to zoom in/out and rotate.\n\nCongrats to the Event Horizon Telescope team!",
+  "tags": [
+    "warping",
+    "distortion",
+    "blackhole",
+    "lensing"
+  ],
+  "publishedAt": "2019-04-12T12:10:24.000Z",
+  "publishedTimestamp": 1555071024,
+  "views": 24641,
+  "likes": 160,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tsBXW3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdfGRn",
+          "filepath": "/media/a/e6e5631ce1237ae4c05b3563eda686400a401df4548d0f9fad40ecac1659c46c.jpg",
+          "previewfilepath": "/media/ap/e6e5631ce1237ae4c05b3563eda686400a401df4548d0f9fad40ecac1659c46c.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

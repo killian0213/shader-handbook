@@ -1,0 +1,35 @@
+{
+  "id": "Msf3WH",
+  "name": "Noise - simplex - 2D",
+  "author": "iq",
+  "description": "Simplex Noise. Potentially cheaper than \"Value Noise\" and \"Gradient Noise\" (especially when extrapoalted to 3D).",
+  "tags": [
+    "procedural",
+    "2d",
+    "noise",
+    "perlin"
+  ],
+  "publishedAt": "2013-05-14T22:33:38.000Z",
+  "publishedTimestamp": 1368570818,
+  "views": 36616,
+  "likes": 123,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Msf3WH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

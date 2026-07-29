@@ -1,0 +1,40 @@
+{
+  "id": "cssGWS",
+  "name": "BLF Voxel Accelerated Ray March",
+  "author": "iY0Yi",
+  "description": "This shader is almost just my attempt to understand jt's voxel experiments.\n[url]https://www.shadertoy.com/view/flyfRz[/url]\n\n I tweaked it to make it easier to use in my shaders.\nAnd also, now we can use a cuboid as a cell of the voxel :)",
+  "tags": [
+    "voxel",
+    "random"
+  ],
+  "publishedAt": "2022-10-26T05:58:22.000Z",
+  "publishedTimestamp": 1666763902,
+  "views": 880,
+  "likes": 64,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/cssGWS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "ldBGWW",
+  "name": "Eye of Sauron",
+  "author": "Dave_Hoskins",
+  "description": "The Eye of Sauron from the Lord of the Rings film.",
+  "tags": [
+    "3d",
+    "raytracing",
+    "fractal",
+    "eyeofsauron",
+    "soundcloud"
+  ],
+  "publishedAt": "2013-12-24T15:19:42.000Z",
+  "publishedTimestamp": 1387898382,
+  "views": 15948,
+  "likes": 102,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldBGWW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "ll23Wc",
+          "filepath": "https://soundcloud.com/haloweenofficial/creepy-music",
+          "previewfilepath": "https://soundcloud.com/haloweenofficial/creepy-music",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

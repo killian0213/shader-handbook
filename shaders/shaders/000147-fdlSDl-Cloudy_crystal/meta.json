@@ -1,0 +1,33 @@
+{
+  "id": "fdlSDl",
+  "name": "Cloudy crystal",
+  "author": "mrange",
+  "description": "License CC0: Cloudy crystal\nLate to the party I discovered: https://www.shadertoy.com/view/MtX3Ws\nPlayed around with it for a bit and thought it looked quite nice so I shared\n",
+  "tags": [
+    "raytracing",
+    "crystal"
+  ],
+  "publishedAt": "2021-04-26T17:36:07.000Z",
+  "publishedTimestamp": 1619458567,
+  "views": 4893,
+  "likes": 147,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/fdlSDl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

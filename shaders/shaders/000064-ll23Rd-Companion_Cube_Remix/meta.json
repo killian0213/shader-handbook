@@ -1,0 +1,28 @@
+{
+  "id": "ll23Rd",
+  "name": "Companion Cube Remix",
+  "author": "ChristinaCoffin",
+  "description": "Remixed a couple existing shadertoys that had nothing to do with a companion cube to make a \"Companion Cube\" :) \nSee the tex() + heartMapping() func for my main experiment of mixing procedural heart shape in raymarching object",
+  "tags": [
+    "procedural",
+    "raymarching"
+  ],
+  "publishedAt": "2015-05-14T07:35:25.000Z",
+  "publishedTimestamp": 1431588925,
+  "views": 4913,
+  "likes": 64,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ll23Rd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

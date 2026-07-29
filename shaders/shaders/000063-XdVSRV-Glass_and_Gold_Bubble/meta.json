@@ -1,0 +1,55 @@
+{
+  "id": "XdVSRV",
+  "name": "Glass and Gold Bubble",
+  "author": "TambakoJaguar",
+  "description": "Well, this is only a test, but since it looks pretty, I decided to publish it! ;)\nUse the mouse to move around.\nComments and suggestions are welcome!",
+  "tags": [
+    "test",
+    "reflection",
+    "waves",
+    "refraction",
+    "glass",
+    "bubble",
+    "bump",
+    "gold"
+  ],
+  "publishedAt": "2016-06-09T22:03:38.000Z",
+  "publishedTimestamp": 1465509818,
+  "views": 1718,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdVSRV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsfGzn",
+          "filepath": "/media/a/585f9546c092f53ded45332b343144396c0b2d70d9965f585ebc172080d8aa58.jpg",
+          "previewfilepath": "/media/ap/585f9546c092f53ded45332b343144396c0b2d70d9965f585ebc172080d8aa58.jpg",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

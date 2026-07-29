@@ -1,0 +1,75 @@
+{
+  "id": "wdSfzh",
+  "name": "[TWITCH] Monster Things",
+  "author": "evvvvil",
+  "description": "Monster Things - Result of improvised live code session on Twitch\nLIVE SHADER CODING, SHADER SHOWDOWN STYLE, EVERY TUESDAYS 21:00 Uk time:\nhttps://www.twitch.tv/evvvvil_",
+  "tags": [
+    "tunnel",
+    "demoscene",
+    "glow",
+    "alien",
+    "organic",
+    "life",
+    "monster",
+    "creature",
+    "disgusting",
+    "spine",
+    "twitch",
+    "horn",
+    "improv"
+  ],
+  "publishedAt": "2020-05-14T16:37:09.000Z",
+  "publishedTimestamp": 1589474229,
+  "views": 7912,
+  "likes": 88,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wdSfzh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3Rr",
+          "filepath": "/media/a/79520a3d3a0f4d3caa440802ef4362e99d54e12b1392973e4ea321840970a88a.jpg",
+          "previewfilepath": "/media/ap/79520a3d3a0f4d3caa440802ef4362e99d54e12b1392973e4ea321840970a88a.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "Xlj3zy",
+          "filepath": "https://soundcloud.com/jonathan-colonieu/monster-things",
+          "previewfilepath": "https://soundcloud.com/jonathan-colonieu/monster-things",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "Mt2XDD",
+  "name": "Flight over Bespin",
+  "author": "yamahabob",
+  "description": "My first published shader, which is borrowing heavily from other great works on this fantastic site.  I have no idea what I'm doing...",
+  "tags": [
+    "clouds",
+    "flight",
+    "millenniumfalcon"
+  ],
+  "publishedAt": "2015-10-04T04:53:52.000Z",
+  "publishedTimestamp": 1443934432,
+  "views": 11602,
+  "likes": 88,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mt2XDD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

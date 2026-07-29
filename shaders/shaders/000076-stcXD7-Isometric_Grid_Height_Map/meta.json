@@ -1,0 +1,38 @@
+{
+  "id": "stcXD7",
+  "name": "Isometric Grid Height Map",
+  "author": "Shane",
+  "description": "Rendering some overlapping hexagons on an isometric grid to produce a height map of extruded blocks.",
+  "tags": [
+    "2d",
+    "grid",
+    "hexagon",
+    "heightmap",
+    "vector",
+    "isometric",
+    "block"
+  ],
+  "publishedAt": "2021-12-13T14:46:13.000Z",
+  "publishedTimestamp": 1639406773,
+  "views": 1723,
+  "likes": 76,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/stcXD7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

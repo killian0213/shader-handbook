@@ -1,0 +1,32 @@
+{
+  "id": "MlfSWr",
+  "name": "VHS tape noise",
+  "author": "vladstorm",
+  "description": "vhs noise emulation",
+  "tags": [
+    "noise",
+    "perlin",
+    "crt",
+    "glitch",
+    "vhs",
+    "tape"
+  ],
+  "publishedAt": "2015-07-01T19:26:33.000Z",
+  "publishedTimestamp": 1435778793,
+  "views": 10428,
+  "likes": 74,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MlfSWr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

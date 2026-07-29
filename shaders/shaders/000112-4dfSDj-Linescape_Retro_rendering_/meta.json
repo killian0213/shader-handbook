@@ -1,0 +1,29 @@
+{
+  "id": "4dfSDj",
+  "name": "Linescape (Retro rendering)",
+  "author": "xbe",
+  "description": "Trying to simulate the retro look of first 3d terrain rendering in old games...",
+  "tags": [
+    "2d",
+    "terrain",
+    "retro"
+  ],
+  "publishedAt": "2014-07-31T23:27:11.000Z",
+  "publishedTimestamp": 1406849231,
+  "views": 4362,
+  "likes": 112,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dfSDj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

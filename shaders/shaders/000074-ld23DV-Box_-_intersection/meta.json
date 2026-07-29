@@ -1,0 +1,50 @@
+{
+  "id": "ld23DV",
+  "name": "Box - intersection",
+  "author": "iq",
+  "description": "Intersection of a ray and a box. The ray is transformed to box space, and the returned normal is converted back to ray space upon intersection. If there were many boxes to be intersected oriented the same way, the transformations should be done only once.",
+  "tags": [
+    "3d",
+    "raytracing",
+    "box"
+  ],
+  "publishedAt": "2014-03-03T21:12:16.000Z",
+  "publishedTimestamp": 1393881136,
+  "views": 23295,
+  "likes": 74,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ld23DV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3Rr",
+          "filepath": "/media/a/79520a3d3a0f4d3caa440802ef4362e99d54e12b1392973e4ea321840970a88a.jpg",
+          "previewfilepath": "/media/ap/79520a3d3a0f4d3caa440802ef4362e99d54e12b1392973e4ea321840970a88a.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

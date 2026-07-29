@@ -1,0 +1,87 @@
+{
+  "id": "ltffzl",
+  "name": "Heartfelt",
+  "author": "BigWIngs",
+  "description": "If you want to really get sad then be sure to watch with sound  ;)\nIf you want to see and control the rain, comment out the HAS_HEART define\nControls: Mouse x = scrub time  y = rain amount (only without heart)",
+  "tags": [
+    "glass",
+    "heart",
+    "rain",
+    "drop",
+    "sad",
+    "window",
+    "droplets",
+    "drops",
+    "raining",
+    "rainonwindow"
+  ],
+  "publishedAt": "2017-12-17T01:15:19.000Z",
+  "publishedTimestamp": 1513473319,
+  "views": 157486,
+  "likes": 1078,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltffzl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dfGRn",
+          "filepath": "/media/a/8de3a3924cb95bd0e95a443fff0326c869f9d4979cd1d5b6e94e2a01f5be53e9.jpg",
+          "previewfilepath": "/media/ap/8de3a3924cb95bd0e95a443fff0326c869f9d4979cd1d5b6e94e2a01f5be53e9.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "ld2Sz1",
+          "filepath": "https://soundcloud.com/ahmed-gado-1/sad-piano-alone-in-the-dark",
+          "previewfilepath": "https://soundcloud.com/ahmed-gado-1/sad-piano-alone-in-the-dark",
+          "type": "musicstream",
+          "channel": 2,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        },
+        {
+          "id": "ltSGRz",
+          "filepath": "https://soundcloud.com/daklakwarriors/sleeping-sound-rain-and-thunder-1-hours",
+          "previewfilepath": "https://soundcloud.com/daklakwarriors/sleeping-sound-rain-and-thunder-1-hours",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

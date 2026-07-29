@@ -1,0 +1,44 @@
+{
+  "id": "4slGzl",
+  "name": "Antonalog's Motion Blur",
+  "author": "TekF",
+  "description": "Antonalog's \"Lame\" motion blurred ray-tracer, with a small change to make the blur look smoother.",
+  "tags": [
+    "raytracing",
+    "motionblur"
+  ],
+  "publishedAt": "2013-08-20T17:15:14.000Z",
+  "publishedTimestamp": 1377018914,
+  "views": 4261,
+  "likes": 80,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4slGzl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

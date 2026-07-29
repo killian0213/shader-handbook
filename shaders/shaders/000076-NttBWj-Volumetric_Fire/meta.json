@@ -1,0 +1,42 @@
+{
+  "id": "NttBWj",
+  "name": "Volumetric Fire",
+  "author": "myth0genesis",
+  "description": "Apparently nimitz's volumetric ray marcher and fBm algorithm is great for fire, too!\nClick and drag to rotate camera.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "ray",
+    "raymarch",
+    "fbm",
+    "fire",
+    "marching",
+    "volumetric",
+    "transparent",
+    "march",
+    "gyroid"
+  ],
+  "publishedAt": "2022-09-20T03:38:48.000Z",
+  "publishedTimestamp": 1663645128,
+  "views": 2013,
+  "likes": 76,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/NttBWj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

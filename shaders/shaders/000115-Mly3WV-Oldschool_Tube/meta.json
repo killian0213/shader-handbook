@@ -1,0 +1,36 @@
+{
+  "id": "Mly3WV",
+  "name": "Oldschool Tube",
+  "author": "Shane",
+  "description": "A simple, oldschool, cylindrically-mapped, tunnel flythrough with some bump mapping, and bump-based edging.",
+  "tags": [
+    "voronoi",
+    "tunnel",
+    "oldschool",
+    "bump",
+    "cylinder"
+  ],
+  "publishedAt": "2016-10-21T13:55:16.000Z",
+  "publishedTimestamp": 1477058116,
+  "views": 37647,
+  "likes": 115,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mly3WV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

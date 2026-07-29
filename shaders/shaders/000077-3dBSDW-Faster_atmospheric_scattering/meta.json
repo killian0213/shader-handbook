@@ -1,0 +1,37 @@
+{
+  "id": "3dBSDW",
+  "name": "Faster atmospheric scattering",
+  "author": "16807",
+  "description": "I modified Valentine Galea's demo to calculate optical depth by solving an integral. Should be faster and more precise than standard ray marching. See http://davidson16807.github.io/tectonics.js//2019/03/24/fast-atmospheric-scattering.html for details.",
+  "tags": [
+    "sky",
+    "volumetric",
+    "scattering",
+    "atmosphere",
+    "rayleigh",
+    "mie"
+  ],
+  "publishedAt": "2019-03-27T17:46:38.000Z",
+  "publishedTimestamp": 1553708798,
+  "views": 6337,
+  "likes": 77,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3dBSDW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

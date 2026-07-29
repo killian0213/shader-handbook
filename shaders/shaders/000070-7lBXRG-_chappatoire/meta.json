@@ -1,0 +1,37 @@
+{
+  "id": "7lBXRG",
+  "name": "échappatoire",
+  "author": "sukupaper",
+  "description": "An infinite corridor in which you are escaping something (I duno)",
+  "tags": [
+    "raymarching",
+    "blackandwhite",
+    "doors",
+    "corridor",
+    "rooms",
+    "escaping"
+  ],
+  "publishedAt": "2021-08-02T14:11:31.000Z",
+  "publishedTimestamp": 1627913491,
+  "views": 794,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7lBXRG",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

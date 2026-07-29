@@ -1,0 +1,33 @@
+{
+  "id": "3fXcWl",
+  "name": "Starfire1",
+  "author": "diatribes",
+  "description": "Starfire1",
+  "tags": [
+    "raymarch",
+    "star"
+  ],
+  "publishedAt": "2025-08-26T02:21:44.000Z",
+  "publishedTimestamp": 1756174904,
+  "views": 855,
+  "likes": 61,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3fXcWl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

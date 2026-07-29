@@ -1,0 +1,34 @@
+{
+  "id": "WlKyzW",
+  "name": "Buckyball Fracture",
+  "author": "tdhooper",
+  "description": "Working on building a compact version of this fracture effect, suggestions very welcome.",
+  "tags": [
+    "explode",
+    "polyhedra",
+    "fracture"
+  ],
+  "publishedAt": "2021-01-14T00:23:28.000Z",
+  "publishedTimestamp": 1610583808,
+  "views": 1769,
+  "likes": 80,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WlKyzW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

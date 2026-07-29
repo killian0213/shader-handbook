@@ -1,0 +1,48 @@
+{
+  "id": "XssGWN",
+  "name": "Planet Funk",
+  "author": "fizzer",
+  "description": "The trippiest place in the galaxy, Planet Funk jives across the cosmos bringing good vibes to any star system it happens to strut into orbit around. It's natural resources are fresh and it's polar caps are cool. This is one happenin' heavenly body, bro.",
+  "tags": [
+    "colorful",
+    "space",
+    "planet",
+    "funky",
+    "trippy",
+    "sampling"
+  ],
+  "publishedAt": "2013-06-08T18:41:55.000Z",
+  "publishedTimestamp": 1370716915,
+  "views": 2837,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XssGWN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdfGRn",
+          "filepath": "/media/a/e6e5631ce1237ae4c05b3563eda686400a401df4548d0f9fad40ecac1659c46c.jpg",
+          "previewfilepath": "/media/ap/e6e5631ce1237ae4c05b3563eda686400a401df4548d0f9fad40ecac1659c46c.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

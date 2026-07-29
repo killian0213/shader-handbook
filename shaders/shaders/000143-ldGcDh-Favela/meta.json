@@ -1,0 +1,58 @@
+{
+  "id": "ldGcDh",
+  "name": "Favela",
+  "author": "duvengar",
+  "description": "It's crazy how drawing into small hexagons, can be fun and obsessive! I hope you guys like it. ",
+  "tags": [
+    "2d",
+    "isometric",
+    "tiling",
+    "hexagons"
+  ],
+  "publishedAt": "2018-03-23T03:36:16.000Z",
+  "publishedTimestamp": 1521776176,
+  "views": 4603,
+  "likes": 143,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldGcDh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sBSDw",
+          "filepath": "https://soundcloud.com/dj-schasko/dj-schasko-bossa-and-brazilian",
+          "previewfilepath": "https://soundcloud.com/dj-schasko/dj-schasko-bossa-and-brazilian",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

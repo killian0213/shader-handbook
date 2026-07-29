@@ -1,0 +1,54 @@
+{
+  "id": "tt3yRH",
+  "name": "One small step (2.4Kb)",
+  "author": "dean_the_coder",
+  "description": "A recreation of the first footprint on the Moon, made by Neil Armstrong in 1969.  Amazing to think it's still there.\n\nCode coming in at under 2.4Kb.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "space",
+    "moon",
+    "apollo",
+    "reproduction",
+    "cineshader"
+  ],
+  "publishedAt": "2020-12-20T19:34:10.000Z",
+  "publishedTimestamp": 1608492850,
+  "views": 20026,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tt3yRH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "ltsSR8",
+          "filepath": "https://soundcloud.com/nasa/apollo-11-thats-one-small-step-for-a-man",
+          "previewfilepath": "https://soundcloud.com/nasa/apollo-11-thats-one-small-step-for-a-man",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

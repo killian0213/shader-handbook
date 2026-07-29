@@ -1,0 +1,34 @@
+{
+  "id": "MtjyDt",
+  "name": "Quadric Quadtree",
+  "author": "paniq",
+  "description": "Using Quadric Frustum Tracing to subdivide the screen where two quadrics intersect. Drag the mouse to see how ranges are evaluated for a given screen tile.",
+  "tags": [
+    "quadric",
+    "intersection",
+    "frustum"
+  ],
+  "publishedAt": "2017-11-15T11:30:14.000Z",
+  "publishedTimestamp": 1510745414,
+  "views": 2432,
+  "likes": 62,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MtjyDt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

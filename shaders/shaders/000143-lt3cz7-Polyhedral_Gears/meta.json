@@ -1,0 +1,39 @@
+{
+  "id": "lt3cz7",
+  "name": "Polyhedral Gears",
+  "author": "Shane",
+  "description": "Interlocked animated gears mapped onto the surface of a sphere via a polyhedral Goldberg arrangement.",
+  "tags": [
+    "sphere",
+    "animation",
+    "icosahedron",
+    "dodecahedron",
+    "gear",
+    "cog",
+    "polyhedron",
+    "goldberg"
+  ],
+  "publishedAt": "2018-07-20T14:29:55.000Z",
+  "publishedTimestamp": 1532096995,
+  "views": 4715,
+  "likes": 143,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lt3cz7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

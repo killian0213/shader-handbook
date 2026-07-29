@@ -1,0 +1,40 @@
+{
+  "id": "tsKSzR",
+  "name": "sin_wave",
+  "author": "skaplun",
+  "description": "https://i.pinimg.com/originals/93/c2/e7/93c2e7c5337c0623b8d3626bdbe82bdf.jpg",
+  "tags": [
+    "raymarch",
+    "sdf"
+  ],
+  "publishedAt": "2019-11-09T07:39:52.000Z",
+  "publishedTimestamp": 1573285192,
+  "views": 5065,
+  "likes": 158,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tsKSzR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

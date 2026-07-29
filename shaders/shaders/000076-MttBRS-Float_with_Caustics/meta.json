@@ -1,0 +1,35 @@
+{
+  "id": "MttBRS",
+  "name": "Float with Caustics",
+  "author": "kaneta",
+  "description": "I added caustics to this post\nhttps://www.shadertoy.com/view/lssXD4\n\ncaustics technique reference\nhttps://medium.com/@evanwallace/rendering-realtime-caustics-in-webgl-2a99a29a0b2c\nhttps://www.shadertoy.com/view/MldfDn",
+  "tags": [
+    "3d",
+    "raymarching",
+    "water",
+    "caustics"
+  ],
+  "publishedAt": "2018-10-21T07:08:34.000Z",
+  "publishedTimestamp": 1540105714,
+  "views": 4656,
+  "likes": 76,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MttBRS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

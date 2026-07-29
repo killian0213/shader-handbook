@@ -1,0 +1,35 @@
+{
+  "id": "WcGGDd",
+  "name": "Fluorescent [292]",
+  "author": "Xor",
+  "description": "More fun with glowy shaders",
+  "tags": [
+    "color",
+    "abstract",
+    "glow",
+    "golf"
+  ],
+  "publishedAt": "2025-05-30T17:42:21.000Z",
+  "publishedTimestamp": 1748626941,
+  "views": 1113,
+  "likes": 78,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WcGGDd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

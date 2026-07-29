@@ -1,0 +1,38 @@
+{
+  "id": "XsXBzH",
+  "name": "laplacian+flow noise",
+  "author": "FabriceNeyret2",
+  "description": "playing with the concept of \"laplacian\" noise by nimitz [url]https://www.shadertoy.com/view/MtKSWW[/url] (indeed, div(normalize(grad(noise)) )\nusing analytical gradient noise of iq [url]https://www.shadertoy.com/view/XdXBRH[/url]\n+ flownoise\n",
+  "tags": [
+    "procedural",
+    "noise",
+    "fbm",
+    "gradient",
+    "analytic",
+    "laplacian",
+    "divergence"
+  ],
+  "publishedAt": "2017-05-14T10:58:05.000Z",
+  "publishedTimestamp": 1494759485,
+  "views": 2663,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsXBzH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "tslfWs",
+  "name": "Rubik's Ball",
+  "author": "tdhooper",
+  "description": "Looping sequence of moves on a 2x2 Rubik's cube, with some follow through animation and sound. I've jumbled the parts so it looks a little more interesting.\n\nUncomment '#define AA' if it's running slow",
+  "tags": [
+    "sound",
+    "animation",
+    "momentum",
+    "rubiks"
+  ],
+  "publishedAt": "2020-05-12T21:56:42.000Z",
+  "publishedTimestamp": 1589320602,
+  "views": 8597,
+  "likes": 137,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tslfWs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

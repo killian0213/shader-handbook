@@ -1,0 +1,35 @@
+{
+  "id": "4dfGz4",
+  "name": "Voxel Tyre",
+  "author": "Dave_Hoskins",
+  "description": "Ray casting into a voxel scene, with reflections and shadows.",
+  "tags": [
+    "raytracing",
+    "voxels",
+    "tyre",
+    "tire"
+  ],
+  "publishedAt": "2013-03-13T17:00:52.000Z",
+  "publishedTimestamp": 1363194052,
+  "views": 9457,
+  "likes": 100,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dfGz4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

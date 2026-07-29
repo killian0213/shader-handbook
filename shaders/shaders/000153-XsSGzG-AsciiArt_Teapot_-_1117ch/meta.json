@@ -1,0 +1,37 @@
+{
+  "id": "XsSGzG",
+  "name": "AsciiArt Teapot -  1117ch",
+  "author": "iapafoto",
+  "description": "Utah teapot / 1974 to 2014\n[mouse drag available]",
+  "tags": [
+    "ascii",
+    "art",
+    "teapot",
+    "utah",
+    "asciiart",
+    "golf"
+  ],
+  "publishedAt": "2014-01-14T17:54:06.000Z",
+  "publishedTimestamp": 1389722046,
+  "views": 10097,
+  "likes": 153,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsSGzG",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "4sBSWW",
+  "name": "Smaller Numbers",
+  "author": "P_Malin",
+  "description": "Utility code to print numbers. \nExample display shader time, date, time, mouse co-ordinates and value on sin wave.\nIt can be useful to print values when tweaking shaders.\nNote - the values are not always accurate :)",
+  "tags": [
+    "utility",
+    "numbers",
+    "font",
+    "digits"
+  ],
+  "publishedAt": "2014-09-27T20:45:28.000Z",
+  "publishedTimestamp": 1411850728,
+  "views": 7757,
+  "likes": 93,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sBSWW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

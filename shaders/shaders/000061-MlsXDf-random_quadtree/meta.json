@@ -1,0 +1,30 @@
+{
+  "id": "MlsXDf",
+  "name": "random quadtree",
+  "author": "FabriceNeyret2",
+  "description": "translate and move with mouse.\n#define tunes the probabilty of subdividing.",
+  "tags": [
+    "procedural",
+    "mondrian",
+    "short",
+    "quadtree"
+  ],
+  "publishedAt": "2015-08-23T21:13:31.000Z",
+  "publishedTimestamp": 1440364411,
+  "views": 3361,
+  "likes": 61,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MlsXDf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

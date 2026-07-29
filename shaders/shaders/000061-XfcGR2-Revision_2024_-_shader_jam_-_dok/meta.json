@@ -1,0 +1,33 @@
+{
+  "id": "XfcGR2",
+  "name": "Revision 2024 - shader jam - dok",
+  "author": "dok",
+  "description": "Based on my shader from Revision 2024 shader showdown\n",
+  "tags": [
+    "revision",
+    "jam"
+  ],
+  "publishedAt": "2024-03-31T10:16:42.000Z",
+  "publishedTimestamp": 1711880202,
+  "views": 4899,
+  "likes": 61,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XfcGR2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

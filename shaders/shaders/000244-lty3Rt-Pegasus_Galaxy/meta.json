@@ -1,0 +1,53 @@
+{
+  "id": "lty3Rt",
+  "name": "Pegasus Galaxy",
+  "author": "frankenburgh",
+  "description": "Galaxy shader from Pegasus 4k Intro\n4kb executable: http://www.pouet.net/prod.php?which=65859\nhttps://www.youtube.com/watch?v=3pXhImWoNsw",
+  "tags": [
+    "clouds",
+    "space",
+    "galaxy",
+    "stars",
+    "demsoscene",
+    "nebular"
+  ],
+  "publishedAt": "2016-10-10T18:46:45.000Z",
+  "publishedTimestamp": 1476125205,
+  "views": 27870,
+  "likes": 244,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lty3Rt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "ldB3Rm",
+          "filepath": "https://soundcloud.com/virgill/4k-galaxy-pegasus-soundtrack",
+          "previewfilepath": "https://soundcloud.com/virgill/4k-galaxy-pegasus-soundtrack",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

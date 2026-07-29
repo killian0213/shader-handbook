@@ -1,0 +1,29 @@
+{
+  "id": "XtlGW4",
+  "name": "[2TC 15] old skool 3d driving",
+  "author": "mattz",
+  "description": "Inspired by a recent perusal of http://www.extentofthejam.com/pseudo/ to see if I could fit this type of effect into the \"2 tweet\" challenge.",
+  "tags": [
+    "road",
+    "fake3d",
+    "muchtiny"
+  ],
+  "publishedAt": "2015-01-24T20:11:49.000Z",
+  "publishedTimestamp": 1422130309,
+  "views": 8517,
+  "likes": 101,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtlGW4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

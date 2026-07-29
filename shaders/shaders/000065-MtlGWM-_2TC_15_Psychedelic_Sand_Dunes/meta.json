@@ -1,0 +1,30 @@
+{
+  "id": "MtlGWM",
+  "name": "[2TC 15] Psychedelic Sand Dunes",
+  "author": "reinder",
+  "description": "Psychedelic sand dunes in two tweets. Based on my shader [2TC 15] Minecraft ([url]https://www.shadertoy.com/view/4tsGD7[/url]).\nThere are some chars left, so please give suggestions to improve this one!",
+  "tags": [
+    "3d",
+    "raymarching",
+    "2tc15",
+    "dunes"
+  ],
+  "publishedAt": "2015-01-29T18:41:35.000Z",
+  "publishedTimestamp": 1422556895,
+  "views": 5877,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MtlGWM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "lsSXzD",
+  "name": "E1M1 - Hangar",
+  "author": "P_Malin",
+  "description": "The start area of Doom E1M1.\nHold down the mouse button and drag the mouse to move.\nWhere you click relative to the center of the screen sets the view direction.\n\nAlso, check out Reinder's excellent Doom2 shader: https://www.shadertoy.com/view/lsB3zD",
+  "tags": [
+    "doom",
+    "e1m1",
+    "hangar"
+  ],
+  "publishedAt": "2014-09-11T19:13:37.000Z",
+  "publishedTimestamp": 1410462817,
+  "views": 87235,
+  "likes": 195,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 9,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsSXzD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "XsfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

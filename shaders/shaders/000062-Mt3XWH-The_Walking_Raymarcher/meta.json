@@ -1,0 +1,50 @@
+{
+  "id": "Mt3XWH",
+  "name": "The Walking Raymarcher",
+  "author": "xorxor",
+  "description": "Replaying mocap data with hand-tuned shape animation for Codevember 2016.\n\nInspired by Universal Everything's Walking City and makio64's sketches.\n\nSoundtrack by Simon Pyke",
+  "tags": [
+    "raymarching",
+    "codevember",
+    "mocap"
+  ],
+  "publishedAt": "2016-11-16T07:43:45.000Z",
+  "publishedTimestamp": 1479282225,
+  "views": 4040,
+  "likes": 62,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mt3XWH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsBGWh",
+          "filepath": "https://soundcloud.com/freefarm/walking-city",
+          "previewfilepath": "https://soundcloud.com/freefarm/walking-city",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

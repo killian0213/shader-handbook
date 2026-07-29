@@ -1,0 +1,37 @@
+{
+  "id": "MdX3zN",
+  "name": "Complex Dynamics",
+  "author": "iq",
+  "description": "Some basic computations showing the maths/structure behind the complex dynamics behind the famous Julia sets. Read the comments to see what the different elements of the image mean.",
+  "tags": [
+    "2d",
+    "julia",
+    "mandelbrot",
+    "fractals",
+    "dynamics",
+    "complex"
+  ],
+  "publishedAt": "2013-06-18T07:23:09.000Z",
+  "publishedTimestamp": 1371540189,
+  "views": 11195,
+  "likes": 92,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdX3zN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

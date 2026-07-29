@@ -1,0 +1,33 @@
+{
+  "id": "ldf3RN",
+  "name": "Bokeh blur",
+  "author": "Kabuto",
+  "description": "Click and drag to change focal plane.\n\nEach cube face is blurred separately and the results are added up. Instead of blurring polygons as a whole each (which would create lots of corner cases) each edge and corner is blurred separately. ",
+  "tags": [
+    "blur",
+    "bokeh"
+  ],
+  "publishedAt": "2013-03-19T21:20:09.000Z",
+  "publishedTimestamp": 1363728009,
+  "views": 10462,
+  "likes": 194,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldf3RN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "fd2GD1",
+  "name": "Shimmy",
+  "author": "Kali",
+  "description": "Music by Tony Leys https://soundcloud.com/tonileys",
+  "tags": [
+    "raymarching",
+    "audioreactive"
+  ],
+  "publishedAt": "2021-04-02T07:22:52.000Z",
+  "publishedTimestamp": 1617348172,
+  "views": 9484,
+  "likes": 67,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/fd2GD1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "MlfSW7",
+          "filepath": "https://soundcloud.com/tonileys/through-a-cardboard-world",
+          "previewfilepath": "https://soundcloud.com/tonileys/through-a-cardboard-world",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

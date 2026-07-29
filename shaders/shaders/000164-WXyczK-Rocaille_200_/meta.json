@@ -1,0 +1,36 @@
+{
+  "id": "WXyczK",
+  "name": "Rocaille [200]",
+  "author": "Xor",
+  "description": "[url=https://x.com/XorDev/status/2015813875833225715]Here's the tweet version[/url]",
+  "tags": [
+    "fluid",
+    "color",
+    "glow",
+    "turbulence",
+    "golf"
+  ],
+  "publishedAt": "2026-01-27T01:10:25.000Z",
+  "publishedTimestamp": 1769476225,
+  "views": 5685,
+  "likes": 164,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WXyczK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

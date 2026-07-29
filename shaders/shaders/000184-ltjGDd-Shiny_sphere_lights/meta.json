@@ -1,0 +1,39 @@
+{
+  "id": "ltjGDd",
+  "name": "Shiny sphere lights",
+  "author": "shaderology",
+  "description": "Fun with spherical lights, area shadows, occlusion and reflections.\nSphere and trace functions by inigo quilez, https://iquilezles.org",
+  "tags": [
+    "3d",
+    "raytracing",
+    "sphere",
+    "intersection",
+    "shadows",
+    "area"
+  ],
+  "publishedAt": "2015-06-24T07:05:25.000Z",
+  "publishedTimestamp": 1435129525,
+  "views": 11928,
+  "likes": 184,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltjGDd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "XsBczc",
+  "name": "hexwaves",
+  "author": "mattz",
+  "description": "No distance marching -- just raytracing a hexagonal grid as first developed in https://www.shadertoy.com/view/XdSyzK",
+  "tags": [
+    "voxel",
+    "raytrace",
+    "hex",
+    "seasick"
+  ],
+  "publishedAt": "2017-05-09T03:19:56.000Z",
+  "publishedTimestamp": 1494299996,
+  "views": 2549,
+  "likes": 79,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsBczc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dX3zn",
+          "filepath": "/media/a/550a8cce1bf403869fde66dddf6028dd171f1852f4a704a465e1b80d23955663.png",
+          "previewfilepath": "/media/ap/550a8cce1bf403869fde66dddf6028dd171f1852f4a704a465e1b80d23955663.png",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

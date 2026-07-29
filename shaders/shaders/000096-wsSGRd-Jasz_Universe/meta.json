@@ -1,0 +1,57 @@
+{
+  "id": "wsSGRd",
+  "name": "Jasz Universe",
+  "author": "jaszunio15",
+  "description": "Created instead of studying :')\n\nIf you have good PC uncomment #define HIGH_QUALITY in Common tab. Enjoy!\n\nMusic: \nOceanvs Orientalis feat. Idil Mese - The Cube \nhttps://soundcloud.com/bar25/oceanvs-orientalis-the-cube-original-mix-promo-snippetbar25-042",
+  "tags": [
+    "raymarching",
+    "volumetric",
+    "fog"
+  ],
+  "publishedAt": "2019-02-09T06:14:10.000Z",
+  "publishedTimestamp": 1549692850,
+  "views": 4751,
+  "likes": 96,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wsSGRd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "ltlGW8",
+          "filepath": "https://soundcloud.com/bar25/oceanvs-orientalis-the-cube-original-mix-promo-snippetbar25-042",
+          "previewfilepath": "https://soundcloud.com/bar25/oceanvs-orientalis-the-cube-original-mix-promo-snippetbar25-042",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

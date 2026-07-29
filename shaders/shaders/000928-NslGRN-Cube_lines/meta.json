@@ -1,0 +1,55 @@
+{
+  "id": "NslGRN",
+  "name": "Cube lines",
+  "author": "morimea",
+  "description": "Art shader.\n\nCineshader support [url]https://cineshader.com/view/NslGRN[/url]\n\nThis shader as Desktop wallpaper in linux:\n[b]for KDE[/b] [url]https://store.kde.org/p/1505365[/url]\n[b]for Gnome[/b] [url]https://www.gnome-look.org/p/1505898/[/url]",
+  "tags": [
+    "3d",
+    "reflection",
+    "refraction",
+    "intersection",
+    "art",
+    "reflect",
+    "mirrors",
+    "cineshader"
+  ],
+  "publishedAt": "2021-03-13T13:19:11.000Z",
+  "publishedTimestamp": 1615641551,
+  "views": 309210,
+  "likes": 928,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/NslGRN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dfGRn",
+          "filepath": "/media/a/8de3a3924cb95bd0e95a443fff0326c869f9d4979cd1d5b6e94e2a01f5be53e9.jpg",
+          "previewfilepath": "/media/ap/8de3a3924cb95bd0e95a443fff0326c869f9d4979cd1d5b6e94e2a01f5be53e9.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

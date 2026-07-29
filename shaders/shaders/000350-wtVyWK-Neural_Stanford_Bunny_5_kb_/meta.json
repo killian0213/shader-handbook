@@ -1,0 +1,32 @@
+{
+  "id": "wtVyWK",
+  "name": "Neural Stanford Bunny (5 kb)",
+  "author": "blackle",
+  "description": "my suspicions that mat4 multiplies and sines are really fast on the gpu are confirmed yet again\n\nexplainer: https://youtu.be/8pwXpfi-0bU",
+  "tags": [
+    "bunny"
+  ],
+  "publishedAt": "2021-01-28T06:13:52.000Z",
+  "publishedTimestamp": 1611814432,
+  "views": 23430,
+  "likes": 350,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wtVyWK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

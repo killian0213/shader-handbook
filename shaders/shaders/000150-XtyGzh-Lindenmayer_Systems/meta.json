@@ -1,0 +1,35 @@
+{
+  "id": "XtyGzh",
+  "name": "Lindenmayer Systems",
+  "author": "sillsm",
+  "description": "Trees with breeze",
+  "tags": [
+    "2d",
+    "distancefield",
+    "ifs",
+    "lsystem"
+  ],
+  "publishedAt": "2016-09-03T20:37:09.000Z",
+  "publishedTimestamp": 1472935029,
+  "views": 6026,
+  "likes": 150,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtyGzh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

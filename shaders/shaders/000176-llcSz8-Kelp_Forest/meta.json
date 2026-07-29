@@ -1,0 +1,54 @@
+{
+  "id": "llcSz8",
+  "name": "Kelp Forest",
+  "author": "BigWIngs",
+  "description": "Use the mouse to look around. \nIf you want to see just the fish you can set the FISH_ONLY define to true. \nThe full effect brings my titan card to it's knees on fullscreen. To get a decent framerate you can turn the bubbles and the kelp off.",
+  "tags": [
+    "raymarching",
+    "sss",
+    "distanceestimation",
+    "ocean",
+    "underwater",
+    "bubbles",
+    "fish"
+  ],
+  "publishedAt": "2016-11-08T01:23:56.000Z",
+  "publishedTimestamp": 1478568236,
+  "views": 12601,
+  "likes": 176,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llcSz8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "MdjGDR",
+          "filepath": "https://soundcloud.com/etheredm/hollywood-principle-breathing-underwater-ether-remix",
+          "previewfilepath": "https://soundcloud.com/etheredm/hollywood-principle-breathing-underwater-ether-remix",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

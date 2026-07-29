@@ -1,0 +1,34 @@
+{
+  "id": "4slXW7",
+  "name": "2D Voxels",
+  "author": "nimitz",
+  "description": "Insipred by iq's \"Hexagons - distance\" (https://www.shadertoy.com/view/Xd2GR3).  \n\nAny SDF can be used with the voxelize function, it also performs rather well with degenerate SDFs. Feel free to reuse for your shadertoys.",
+  "tags": [
+    "2d",
+    "voxels",
+    "sdf"
+  ],
+  "publishedAt": "2014-06-10T21:41:41.000Z",
+  "publishedTimestamp": 1402436501,
+  "views": 14179,
+  "likes": 110,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4slXW7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

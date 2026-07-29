@@ -1,0 +1,44 @@
+{
+  "id": "33ByDw",
+  "name": "Mondrian Style Overlay",
+  "author": "Shane",
+  "description": "Producing distance and vertex information from a generative Mondrian style pattern.",
+  "tags": [
+    "square",
+    "pattern",
+    "overlay",
+    "tessellation",
+    "mondrian",
+    "piet"
+  ],
+  "publishedAt": "2025-10-29T14:03:46.000Z",
+  "publishedTimestamp": 1761746626,
+  "views": 855,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/33ByDw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

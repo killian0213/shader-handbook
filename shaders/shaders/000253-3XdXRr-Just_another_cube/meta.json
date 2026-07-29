@@ -1,0 +1,32 @@
+{
+  "id": "3XdXRr",
+  "name": "Just another cube",
+  "author": "mrange",
+  "description": "CC0: Just another cube\n Glowtracers are great for compact coding but I wanted to see how much \n I could squeeze a more normal raymarcher in terms of characters used\n",
+  "tags": [
+    "glow"
+  ],
+  "publishedAt": "2025-07-21T09:02:45.000Z",
+  "publishedTimestamp": 1753088565,
+  "views": 17877,
+  "likes": 253,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3XdXRr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

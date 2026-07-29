@@ -1,0 +1,33 @@
+{
+  "id": "MfjyWK",
+  "name": "Starry planes",
+  "author": "mrange",
+  "description": "CC0: Starry planes\n  Revisited ye olde \"plane-marcher\".\n  A simple result that I think turned out pretty nice\n",
+  "tags": [
+    "stars",
+    "planes"
+  ],
+  "publishedAt": "2024-08-07T09:23:53.000Z",
+  "publishedTimestamp": 1723022633,
+  "views": 23109,
+  "likes": 305,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MfjyWK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

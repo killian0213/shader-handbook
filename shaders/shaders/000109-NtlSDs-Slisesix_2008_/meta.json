@@ -1,0 +1,37 @@
+{
+  "id": "NtlSDs",
+  "name": "Slisesix (2008)",
+  "author": "iq",
+  "description": "A Shader I made in 2008. While not my first raymarched SDF, this was my first SDF based content creation exercise. Lots of the usual SDF techniques are used, although soft shadows and smooth minimum were not fully evolved yet.",
+  "tags": [
+    "procedural",
+    "3d",
+    "raymarching",
+    "distancefield",
+    "sdf",
+    "demoscene"
+  ],
+  "publishedAt": "2021-07-22T03:07:54.000Z",
+  "publishedTimestamp": 1626923274,
+  "views": 7419,
+  "likes": 109,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/NtlSDs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

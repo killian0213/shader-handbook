@@ -1,0 +1,32 @@
+{
+  "id": "dtSGWh",
+  "name": "Rainbow smith cells",
+  "author": "mrange",
+  "description": "CC0: Rainbow smith cells\nContinuation of earlier experiments\n",
+  "tags": [
+    "2d"
+  ],
+  "publishedAt": "2023-01-08T19:57:43.000Z",
+  "publishedTimestamp": 1673207863,
+  "views": 2111,
+  "likes": 79,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/dtSGWh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

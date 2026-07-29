@@ -1,0 +1,44 @@
+{
+  "id": "msdXzH",
+  "name": "Analytical Volumetric Shadows",
+  "author": "me_123",
+  "description": "volumetric lighting with shadows.",
+  "tags": [
+    "3d",
+    "lighting",
+    "volumetric",
+    "analytical",
+    "integration",
+    "clay"
+  ],
+  "publishedAt": "2023-03-21T16:42:37.000Z",
+  "publishedTimestamp": 1679416957,
+  "views": 1574,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/msdXzH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

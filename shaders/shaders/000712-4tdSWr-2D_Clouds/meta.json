@@ -1,0 +1,35 @@
+{
+  "id": "4tdSWr",
+  "name": "2D Clouds",
+  "author": "drift",
+  "description": "Used in 2 different demos:\nhttp://www.pouet.net/prod.php?which=66590\nand\nhttp://www.pouet.net/prod.php?which=68483",
+  "tags": [
+    "fractal",
+    "noise",
+    "clouds",
+    "fbm"
+  ],
+  "publishedAt": "2016-11-13T07:37:43.000Z",
+  "publishedTimestamp": 1479022663,
+  "views": 95015,
+  "likes": 712,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tdSWr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

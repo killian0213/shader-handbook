@@ -1,0 +1,95 @@
+{
+  "id": "ttlXRf",
+  "name": "in my crawl space",
+  "author": "Virgill",
+  "description": "Shadertoy port of our windows 4k intro.\n1st @ Nordlicht 2019\nCode by Virgill & KK,\nmusic by Virgill\n\nhttps://www.pouet.net/prod.php?which=82169\n\nhttps://www.youtube.com/watch?v=jw-nC5bINFc",
+  "tags": [
+    "4k",
+    "demoscene",
+    "volumetric",
+    "pathtracing",
+    "madtracing"
+  ],
+  "publishedAt": "2019-07-22T15:53:07.000Z",
+  "publishedTimestamp": 1563810787,
+  "views": 13824,
+  "likes": 232,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 96,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ttlXRf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "Xtl3Rf",
+          "filepath": "https://soundcloud.com/virgill/4klang-in-my-crawl-space",
+          "previewfilepath": "https://soundcloud.com/virgill/4klang-in-my-crawl-space",
+          "type": "musicstream",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

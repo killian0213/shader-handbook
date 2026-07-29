@@ -1,0 +1,63 @@
+{
+  "id": "lsf3zr",
+  "name": "Columns and Lights",
+  "author": "iq",
+  "description": "Some columns, derived from Slisesix: [url]https://www.shadertoy.com/view/NtlSDs[/url], inspired a bit by Moria but \"caracumb\" style rather than high ceiling.",
+  "tags": [
+    "procedural",
+    "3d",
+    "raymarching",
+    "distancefield",
+    "modeling",
+    "moria"
+  ],
+  "publishedAt": "2013-03-10T09:41:55.000Z",
+  "publishedTimestamp": 1362908515,
+  "views": 35962,
+  "likes": 209,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 1,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsf3zr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdfGRn",
+          "filepath": "/media/a/e6e5631ce1237ae4c05b3563eda686400a401df4548d0f9fad40ecac1659c46c.jpg",
+          "previewfilepath": "/media/ap/e6e5631ce1237ae4c05b3563eda686400a401df4548d0f9fad40ecac1659c46c.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "Xsf3Rr",
+          "filepath": "/media/a/79520a3d3a0f4d3caa440802ef4362e99d54e12b1392973e4ea321840970a88a.jpg",
+          "previewfilepath": "/media/ap/79520a3d3a0f4d3caa440802ef4362e99d54e12b1392973e4ea321840970a88a.jpg",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

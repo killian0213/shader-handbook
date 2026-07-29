@@ -1,0 +1,37 @@
+{
+  "id": "Xd2GW3",
+  "name": "Industry II (sound)",
+  "author": "srtuss",
+  "description": "Somewhere in Europe, 1892 - secret underground bases and steam-powered mechs!\n\nA fun idea that was going to be the followup to my shader \"Industry\", I made back in 2014 - It never got past the \"draft\"-stage.",
+  "tags": [
+    "tech",
+    "art",
+    "comic",
+    "industry"
+  ],
+  "publishedAt": "2014-03-08T22:34:31.000Z",
+  "publishedTimestamp": 1394318071,
+  "views": 6456,
+  "likes": 136,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xd2GW3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

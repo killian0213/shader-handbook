@@ -1,0 +1,41 @@
+{
+  "id": "MsVSWt",
+  "name": "Simple Sky Shader",
+  "author": "robobo1221",
+  "description": "A basic sky and sun shader. Use the mouse for sunPosition",
+  "tags": [
+    "simple",
+    "sun",
+    "sky",
+    "orange",
+    "shader",
+    "scattering",
+    "blue",
+    "skycolor",
+    "horizon",
+    "scatter"
+  ],
+  "publishedAt": "2016-07-02T15:41:17.000Z",
+  "publishedTimestamp": 1467474077,
+  "views": 10772,
+  "likes": 60,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsVSWt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

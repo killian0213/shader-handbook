@@ -1,0 +1,32 @@
+{
+  "id": "3sXyRN",
+  "name": "Corridor Travel",
+  "author": "NuSan",
+  "description": "Inspired by \"past racer\" by jetlab",
+  "tags": [
+    "pathtracing"
+  ],
+  "publishedAt": "2020-03-14T20:49:54.000Z",
+  "publishedTimestamp": 1584218994,
+  "views": 13753,
+  "likes": 262,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3sXyRN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

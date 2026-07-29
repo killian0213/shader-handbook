@@ -1,0 +1,51 @@
+{
+  "id": "wffXDr",
+  "name": "Turbulent Flame",
+  "author": "Xor",
+  "description": "Simulating proper fluid dynamics can be complicated, limited, and requires a multi-pass setup. This is a practical alternative!\nWritten for my [url=https://mini.gmshaders.com/p/turbulence]tutorial on turbulence[/url].",
+  "tags": [
+    "fire",
+    "fluid",
+    "glow",
+    "turbulence"
+  ],
+  "publishedAt": "2025-03-17T21:49:23.000Z",
+  "publishedTimestamp": 1742248163,
+  "views": 2666,
+  "likes": 88,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wffXDr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdfGRn",
+          "filepath": "/media/a/e6e5631ce1237ae4c05b3563eda686400a401df4548d0f9fad40ecac1659c46c.jpg",
+          "previewfilepath": "/media/ap/e6e5631ce1237ae4c05b3563eda686400a401df4548d0f9fad40ecac1659c46c.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

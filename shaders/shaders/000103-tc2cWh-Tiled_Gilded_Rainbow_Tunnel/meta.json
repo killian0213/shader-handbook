@@ -1,0 +1,50 @@
+{
+  "id": "tc2cWh",
+  "name": "Tiled Gilded Rainbow Tunnel",
+  "author": "OldEclipse",
+  "description": "I found out about the power of bump mapping",
+  "tags": [
+    "3d",
+    "raymarching",
+    "tunnel"
+  ],
+  "publishedAt": "2025-08-31T10:08:33.000Z",
+  "publishedTimestamp": 1756634913,
+  "views": 4946,
+  "likes": 103,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tc2cWh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdX3zn",
+          "filepath": "/media/a/488bd40303a2e2b9a71987e48c66ef41f5e937174bf316d3ed0e86410784b919.jpg",
+          "previewfilepath": "/media/ap/488bd40303a2e2b9a71987e48c66ef41f5e937174bf316d3ed0e86410784b919.jpg",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "lsXGzf",
+  "name": "Input - Keyboard",
+  "author": "iq",
+  "description": "An example showing how to use the keyboard input. First row of texels contain the current state of the 256 keys. The second row contains a toggle for every key. Third contains Keypress. Texel positions correspond to ASCII codes. Press arrow keys to test.",
+  "tags": [
+    "2d",
+    "keyboard"
+  ],
+  "publishedAt": "2013-08-05T03:07:10.000Z",
+  "publishedTimestamp": 1375672030,
+  "views": 12289,
+  "likes": 127,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 16,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsXGzf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRr",
+          "filepath": "/presets/tex00.jpg",
+          "previewfilepath": "/presets/tex00.jpg",
+          "type": "keyboard",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

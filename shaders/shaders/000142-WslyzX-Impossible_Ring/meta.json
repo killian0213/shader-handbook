@@ -1,0 +1,33 @@
+{
+  "id": "WslyzX",
+  "name": "Impossible Ring",
+  "author": "yx",
+  "description": "Just a quick doodle :)\n\nInspired by the works of Matt Taylor https://www.instagram.com/emty01/",
+  "tags": [
+    "escher",
+    "impossible"
+  ],
+  "publishedAt": "2020-03-26T19:46:01.000Z",
+  "publishedTimestamp": 1585251961,
+  "views": 4675,
+  "likes": 142,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WslyzX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "MtSGRt",
+  "name": "crystal beacon",
+  "author": "ryk",
+  "description": "Experimenting with folded and rotated distance fields.",
+  "tags": [
+    "raymarch"
+  ],
+  "publishedAt": "2015-05-10T21:21:43.000Z",
+  "publishedTimestamp": 1431292903,
+  "views": 3172,
+  "likes": 81,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MtSGRt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

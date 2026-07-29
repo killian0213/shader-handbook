@@ -1,0 +1,50 @@
+{
+  "id": "Xsd3zf",
+  "name": "Miracle Snowflakes",
+  "author": "foxes",
+  "description": "Snowflake, snowflake, snowflake...When I was a kid, my whole family cut out paper snowflakes and pasted them on all windows for the new year. [url=\"http://s01.yapfiles.ru/files/603603/snowflakes_background_bright_texture_winter_55300_1920x120.jpg\"]O[/url]",
+  "tags": [
+    "procedural",
+    "3d",
+    "raymarching",
+    "sound",
+    "raycast",
+    "snowflake",
+    "snow"
+  ],
+  "publishedAt": "2015-12-29T19:42:11.000Z",
+  "publishedTimestamp": 1451418131,
+  "views": 21751,
+  "likes": 224,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xsd3zf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "XsfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

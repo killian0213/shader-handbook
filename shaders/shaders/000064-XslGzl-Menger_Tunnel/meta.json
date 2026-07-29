@@ -1,0 +1,31 @@
+{
+  "id": "XslGzl",
+  "name": "Menger Tunnel",
+  "author": "fb39ca4",
+  "description": "Coloring inspired by https://www.shadertoy.com/view/4dfGDr, but does not use a look up table. If you are using Windows and get a black screen, try disabling ANGLE. https://github.com/mrdoob/three.js/wiki/How-to-use-OpenGL-or-ANGLE-rendering-on-Windows",
+  "tags": [
+    "raymarching",
+    "fractal",
+    "tunnel",
+    "menger",
+    "sponge"
+  ],
+  "publishedAt": "2013-08-20T15:54:33.000Z",
+  "publishedTimestamp": 1377014073,
+  "views": 5885,
+  "likes": 64,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XslGzl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

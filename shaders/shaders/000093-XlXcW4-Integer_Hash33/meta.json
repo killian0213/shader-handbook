@@ -1,0 +1,33 @@
+{
+  "id": "XlXcW4",
+  "name": "Integer Hash33",
+  "author": "iq",
+  "description": "Based on [url=https://www.shadertoy.com/view/4tfyW4]4tfyW4[/url]. but simpler and faster. See [url]https://www.shadertoy.com/view/llGSzw[/url] too.",
+  "tags": [
+    "2d",
+    "hash"
+  ],
+  "publishedAt": "2017-09-07T01:22:42.000Z",
+  "publishedTimestamp": 1504747362,
+  "views": 20886,
+  "likes": 93,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlXcW4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

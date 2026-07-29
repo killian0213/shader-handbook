@@ -1,0 +1,90 @@
+{
+  "id": "dlcXR4",
+  "name": "Analytic Direct Lighting",
+  "author": "fad",
+  "description": "Analytic direct lighting in 2D. Sky integral taken from https://www.shadertoy.com/view/NttSW7 but otherwise made from scratch. It's interactive! Try dragging around the end points of the line segments. It doesn't handle intersecting lines properly.",
+  "tags": [
+    "2d",
+    "lighting",
+    "shadows",
+    "area",
+    "penumbra",
+    "soft",
+    "analytic",
+    "direct"
+  ],
+  "publishedAt": "2023-05-28T13:14:15.000Z",
+  "publishedTimestamp": 1685279655,
+  "views": 2823,
+  "likes": 132,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/dlcXR4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "nearest",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

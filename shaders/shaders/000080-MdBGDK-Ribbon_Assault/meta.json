@@ -1,0 +1,33 @@
+{
+  "id": "MdBGDK",
+  "name": "Ribbon Assault",
+  "author": "Dave_Hoskins",
+  "description": "Inspired by the 'Kali2 scope' - https://www.shadertoy.com/view/lsBGWK\nShould be fast full-screen for everybody. : )\nUse mouse for manual movement.",
+  "tags": [
+    "ribbon",
+    "ribbonassault"
+  ],
+  "publishedAt": "2014-02-26T14:37:43.000Z",
+  "publishedTimestamp": 1393425463,
+  "views": 28082,
+  "likes": 80,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdBGDK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "3scfD7",
+  "name": "Even faster procedural ocean",
+  "author": "jarble",
+  "description": "This is a slightly improved version of [url=https://www.shadertoy.com/view/MdXyzX]\"Very fast procedural ocean\"[/url]. The precision of the rendering decreases as the distance from the camera increases.",
+  "tags": [
+    "waves",
+    "sea",
+    "water",
+    "ocean",
+    "seascape",
+    "scape"
+  ],
+  "publishedAt": "2020-11-12T19:38:49.000Z",
+  "publishedTimestamp": 1605209929,
+  "views": 6511,
+  "likes": 122,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3scfD7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

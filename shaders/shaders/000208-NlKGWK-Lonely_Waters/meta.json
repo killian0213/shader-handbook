@@ -1,0 +1,40 @@
+{
+  "id": "NlKGWK",
+  "name": "Lonely Waters",
+  "author": "Tater",
+  "description": "My attempt at a procedural ocean. It should run pretty fast, I got 60fps on my phone. ",
+  "tags": [
+    "3d",
+    "raymarching",
+    "waves",
+    "sea",
+    "sun",
+    "clouds",
+    "water",
+    "ocean",
+    "sky"
+  ],
+  "publishedAt": "2021-12-01T09:05:51.000Z",
+  "publishedTimestamp": 1638349551,
+  "views": 9179,
+  "likes": 208,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/NlKGWK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

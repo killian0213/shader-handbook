@@ -1,0 +1,36 @@
+{
+  "id": "XdB3Dw",
+  "name": "The Popular Shader",
+  "author": "fizzer",
+  "description": "I remade my other shader (https://www.shadertoy.com/view/ldjGWD) inspired by \"The Popular Demo\", to make it more accurate :)\nI added a tiling effect to make the robot look faceted, but it seems to somehow over-complicate the shader so it doesn't compile.",
+  "tags": [
+    "procedural",
+    "raytracing",
+    "raymarching",
+    "disco",
+    "popular"
+  ],
+  "publishedAt": "2014-01-04T15:10:04.000Z",
+  "publishedTimestamp": 1388848204,
+  "views": 20054,
+  "likes": 163,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdB3Dw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

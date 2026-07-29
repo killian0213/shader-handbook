@@ -1,0 +1,33 @@
+{
+  "id": "csjGDD",
+  "name": "[Inércia 2022] Energetic Flyby",
+  "author": "Kali",
+  "description": "Livecoded at Inercia Shader Royale 2022 - 04/11/22 - 4th place",
+  "tags": [
+    "demoscene",
+    "livecoding"
+  ],
+  "publishedAt": "2022-11-05T02:11:17.000Z",
+  "publishedTimestamp": 1667614277,
+  "views": 8030,
+  "likes": 139,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/csjGDD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

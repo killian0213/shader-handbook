@@ -1,0 +1,62 @@
+{
+  "id": "lsd3RX",
+  "name": "HAPPY 2016!",
+  "author": "BigWIngs",
+  "description": "Happy 2016 my fellow shadertoyers! Use the mouse to rotate. Use the defines to change number of particles etc. It needs a pretty beastly GPU. But if you have one, then put fullscreen, and enjoy! ;)",
+  "tags": [
+    "bokeh",
+    "fireworks",
+    "sparkles",
+    "2016",
+    "newyears"
+  ],
+  "publishedAt": "2015-12-30T22:33:14.000Z",
+  "publishedTimestamp": 1451514794,
+  "views": 3686,
+  "likes": 92,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsd3RX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3Rr",
+          "filepath": "/media/a/79520a3d3a0f4d3caa440802ef4362e99d54e12b1392973e4ea321840970a88a.jpg",
+          "previewfilepath": "/media/ap/79520a3d3a0f4d3caa440802ef4362e99d54e12b1392973e4ea321840970a88a.jpg",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4sf3Rr",
+          "filepath": "/media/a/ad56fba948dfba9ae698198c109e71f118a54d209c0ea50d77ea546abad89c57.png",
+          "previewfilepath": "/media/ap/ad56fba948dfba9ae698198c109e71f118a54d209c0ea50d77ea546abad89c57.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

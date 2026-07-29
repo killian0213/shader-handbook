@@ -1,0 +1,36 @@
+{
+  "id": "ldyyWm",
+  "name": "Fire Storm Cube",
+  "author": "slerpy",
+  "description": "Coding time: ~23 minutes",
+  "tags": [
+    "3d",
+    "cube",
+    "fog",
+    "quick",
+    "dirty"
+  ],
+  "publishedAt": "2018-03-28T08:10:09.000Z",
+  "publishedTimestamp": 1522224609,
+  "views": 2942,
+  "likes": 95,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldyyWm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

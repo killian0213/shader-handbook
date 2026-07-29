@@ -1,0 +1,46 @@
+{
+  "id": "dlj3Rt",
+  "name": "Above The Clouds",
+  "author": "Poisson",
+  "description": "A city above the clouds inspired by Dubai.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "ray",
+    "volume",
+    "sun",
+    "clouds",
+    "cloud",
+    "volumetric",
+    "raymarcher",
+    "scattering",
+    "city",
+    "atmosphere",
+    "scatter",
+    "volumetrics",
+    "mie"
+  ],
+  "publishedAt": "2023-01-15T17:49:55.000Z",
+  "publishedTimestamp": 1673804995,
+  "views": 2632,
+  "likes": 97,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/dlj3Rt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

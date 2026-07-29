@@ -1,0 +1,33 @@
+{
+  "id": "WtKSzt",
+  "name": "MONSTER",
+  "author": "butadiene",
+  "description": "30min livecoding",
+  "tags": [
+    "raymarching",
+    "cineshader"
+  ],
+  "publishedAt": "2020-03-05T05:01:44.000Z",
+  "publishedTimestamp": 1583384504,
+  "views": 66453,
+  "likes": 105,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WtKSzt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

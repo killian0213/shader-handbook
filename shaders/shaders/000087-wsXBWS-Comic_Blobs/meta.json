@@ -1,0 +1,50 @@
+{
+  "id": "wsXBWS",
+  "name": "Comic Blobs",
+  "author": "blackle",
+  "description": "fiddling with different sampling methods to get cool effects",
+  "tags": [
+    "blobs",
+    "npr",
+    "comic"
+  ],
+  "publishedAt": "2020-05-08T19:35:57.000Z",
+  "publishedTimestamp": 1588966557,
+  "views": 4072,
+  "likes": 87,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wsXBWS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xdf3zn",
+          "filepath": "/media/a/85a6d68622b36995ccb98a89bbb119edf167c914660e4450d313de049320005c.png",
+          "previewfilepath": "/media/ap/85a6d68622b36995ccb98a89bbb119edf167c914660e4450d313de049320005c.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

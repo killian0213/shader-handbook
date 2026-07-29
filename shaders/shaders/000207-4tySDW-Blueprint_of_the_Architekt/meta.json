@@ -1,0 +1,97 @@
+{
+  "id": "4tySDW",
+  "name": "Blueprint of the Architekt",
+  "author": "s23b",
+  "description": "took a shot at cheap edge detection and post-processing. mouse enabled as usual :)\n\nmusic by [url=https://www.youtube.com/watch?v=cUvEZgQC-tY]Arms and Sleepers[/url]",
+  "tags": [
+    "raymarching",
+    "fractal",
+    "postprocessing",
+    "edgedetection",
+    "kifs",
+    "blueprint",
+    "musicclip"
+  ],
+  "publishedAt": "2017-01-21T12:48:36.000Z",
+  "publishedTimestamp": 1485002916,
+  "views": 9267,
+  "likes": 207,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 96,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tySDW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buffer A",
+      "file": "buffer_a.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 1,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "ldfXDl",
+          "filepath": "https://soundcloud.com/fakechapter/the-architekt",
+          "previewfilepath": "https://soundcloud.com/fakechapter/the-architekt",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

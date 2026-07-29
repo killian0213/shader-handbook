@@ -1,0 +1,35 @@
+{
+  "id": "ltBfDt",
+  "name": "flame eye",
+  "author": "arxyz",
+  "description": "updated and more performant version.",
+  "tags": [
+    "sun",
+    "eye",
+    "flare",
+    "lotr"
+  ],
+  "publishedAt": "2018-02-02T01:13:17.000Z",
+  "publishedTimestamp": 1517533997,
+  "views": 2783,
+  "likes": 80,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltBfDt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

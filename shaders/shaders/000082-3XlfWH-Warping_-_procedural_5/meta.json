@@ -1,0 +1,34 @@
+{
+  "id": "3XlfWH",
+  "name": "Warping - procedural 5",
+  "author": "iq",
+  "description": "More fbm warping",
+  "tags": [
+    "procedural",
+    "2d",
+    "warping"
+  ],
+  "publishedAt": "2025-11-06T05:20:49.000Z",
+  "publishedTimestamp": 1762406449,
+  "views": 1768,
+  "likes": 82,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3XlfWH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

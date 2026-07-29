@@ -1,0 +1,47 @@
+{
+  "id": "W3VXWc",
+  "name": "Random Subdivision Traversal",
+  "author": "Shane",
+  "description": "Traversing an offset grid of randomly subdivided squares, then applying some BRDF and faux subsurface scattering.",
+  "tags": [
+    "raymarching",
+    "sss",
+    "random",
+    "scattering",
+    "subsurface",
+    "brdf",
+    "tessellation",
+    "subdivision",
+    "traversal"
+  ],
+  "publishedAt": "2025-08-19T13:16:59.000Z",
+  "publishedTimestamp": 1755609419,
+  "views": 2376,
+  "likes": 148,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/W3VXWc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

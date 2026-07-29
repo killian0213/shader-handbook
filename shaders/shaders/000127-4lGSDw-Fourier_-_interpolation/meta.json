@@ -1,0 +1,33 @@
+{
+  "id": "4lGSDw",
+  "name": "Fourier - interpolation",
+  "author": "iq",
+  "description": "Interpolating a set of 38 points with the Discrete Fourier Transform. More info here: [url]https://iquilezles.org/articles/fourier[/url]",
+  "tags": [
+    "2d",
+    "fourier"
+  ],
+  "publishedAt": "2017-01-16T19:13:39.000Z",
+  "publishedTimestamp": 1484594019,
+  "views": 8792,
+  "likes": 127,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4lGSDw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

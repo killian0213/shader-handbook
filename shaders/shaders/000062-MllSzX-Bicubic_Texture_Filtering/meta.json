@@ -1,0 +1,49 @@
+{
+  "id": "MllSzX",
+  "name": "Bicubic Texture Filtering",
+  "author": "demofox",
+  "description": "Nearest neighbor texture filtering on left, Bilinear texture filtering in left middle, Lagrange Bicubic texture filtering on middle right, cubic hermite on the right.  Use the mouse to control pan / zoom.\n",
+  "tags": [
+    "2d",
+    "texturefilter"
+  ],
+  "publishedAt": "2015-08-04T14:23:09.000Z",
+  "publishedTimestamp": 1438698189,
+  "views": 16629,
+  "likes": 62,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MllSzX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdXGzn",
+          "filepath": "/media/a/3083c722c0c738cad0f468383167a0d246f91af2bfa373e9c5c094fb8c8413e0.png",
+          "previewfilepath": "/media/ap/3083c722c0c738cad0f468383167a0d246f91af2bfa373e9c5c094fb8c8413e0.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

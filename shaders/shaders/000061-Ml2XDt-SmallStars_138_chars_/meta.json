@@ -1,0 +1,34 @@
+{
+  "id": "Ml2XDt",
+  "name": "SmallStars (138 chars)",
+  "author": "P_Malin",
+  "description": "My attempt to play at starfield code golf.\nAlong the lines of https://www.shadertoy.com/view/MdlXWr\n",
+  "tags": [
+    "starfield",
+    "onetweet",
+    "golf"
+  ],
+  "publishedAt": "2015-11-14T13:14:25.000Z",
+  "publishedTimestamp": 1447506865,
+  "views": 4762,
+  "likes": 61,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Ml2XDt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

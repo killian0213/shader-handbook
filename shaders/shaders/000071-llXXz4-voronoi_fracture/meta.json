@@ -1,0 +1,32 @@
+{
+  "id": "llXXz4",
+  "name": "voronoi fracture",
+  "author": "mattz",
+  "description": "Fun with fake physics!",
+  "tags": [
+    "voronoi",
+    "collision",
+    "spherical",
+    "explode",
+    "fracture",
+    "fakephysics"
+  ],
+  "publishedAt": "2015-06-21T00:12:06.000Z",
+  "publishedTimestamp": 1434845526,
+  "views": 4131,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llXXz4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

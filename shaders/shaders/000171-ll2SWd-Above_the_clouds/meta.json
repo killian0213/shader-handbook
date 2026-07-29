@@ -1,0 +1,46 @@
+{
+  "id": "ll2SWd",
+  "name": "Above the clouds",
+  "author": "Duke",
+  "description": "In this shader i tried to combine techniques from \"Cloudy spikeball\" and IQ's \"Clouds\" for rendering clouds. I think that this combination will work a bit faster than original method.",
+  "tags": [
+    "noise",
+    "volume",
+    "raymarch",
+    "cloud"
+  ],
+  "publishedAt": "2015-11-13T23:50:21.000Z",
+  "publishedTimestamp": 1447458621,
+  "views": 11001,
+  "likes": 171,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ll2SWd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

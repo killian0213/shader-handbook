@@ -1,0 +1,35 @@
+{
+  "id": "NljfzV",
+  "name": "Single Fractal",
+  "author": "morimea",
+  "description": "Randomly made this SDF fractal.\nSingle function with different parameters.\n[b]Loop is eight different shapes.[/b]\n\nCineshader support [url]https://cineshader.com/view/NljfzV[/url]",
+  "tags": [
+    "3d",
+    "fractal",
+    "volumetric",
+    "cineshader"
+  ],
+  "publishedAt": "2022-05-13T15:35:20.000Z",
+  "publishedTimestamp": 1652456120,
+  "views": 7481,
+  "likes": 87,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/NljfzV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

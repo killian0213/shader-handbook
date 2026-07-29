@@ -1,0 +1,33 @@
+{
+  "id": "llcXW7",
+  "name": "Foamy water",
+  "author": "k_mouse",
+  "description": "Some 2d water with foam. Try increasing MAX_ITER for a smoke-like look to it.",
+  "tags": [
+    "water",
+    "foam"
+  ],
+  "publishedAt": "2016-11-23T14:46:29.000Z",
+  "publishedTimestamp": 1479912389,
+  "views": 13233,
+  "likes": 142,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/llcXW7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

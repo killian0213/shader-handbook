@@ -1,0 +1,48 @@
+{
+  "id": "lttBzN",
+  "name": "a study of glass",
+  "author": "mrange",
+  "description": "Messing around with refractions. I am quite new to shader programming\n  and raymarching so while I think the code might not be very good I also think that\n  what makes ShaderToy.com so good is that programmers are sharing what they do, \n  big and small.",
+  "tags": [
+    "glass"
+  ],
+  "publishedAt": "2018-10-07T10:30:35.000Z",
+  "publishedTimestamp": 1538908235,
+  "views": 10320,
+  "likes": 170,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lttBzN",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4lfGRn",
+          "filepath": "https://soundcloud.com/levipatel/as-she-passes",
+          "previewfilepath": "https://soundcloud.com/levipatel/as-she-passes",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

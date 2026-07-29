@@ -1,0 +1,30 @@
+{
+  "id": "4s2XRd",
+  "name": "Fast edge detection",
+  "author": "nimitz",
+  "description": "One thing to keep in mind: The edge detection is sensitive to degenerate or non-continuous SDFs (due to false positives), under-stepping can fix that.",
+  "tags": [
+    "raymarching",
+    "edgedetection",
+    "antialiased",
+    "technique"
+  ],
+  "publishedAt": "2014-11-03T21:16:39.000Z",
+  "publishedTimestamp": 1415049399,
+  "views": 8891,
+  "likes": 154,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4s2XRd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "wdfGW4",
+  "name": "Descent 3D",
+  "author": "mhnewman",
+  "description": "I always wanted to do a 3D version of Descent - https://www.shadertoy.com/view/XtSGWD\nUses the same grid marching engine as Glow City - https://www.shadertoy.com/view/XlsyWB\n\nTry enabling BLACK_AND_WHITE or FAST_DESCENT",
+  "tags": [
+    "procedural",
+    "3d",
+    "grid",
+    "marching",
+    "fog",
+    "night",
+    "city",
+    "neon"
+  ],
+  "publishedAt": "2019-09-01T21:32:46.000Z",
+  "publishedTimestamp": 1567373566,
+  "views": 16944,
+  "likes": 230,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wdfGW4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

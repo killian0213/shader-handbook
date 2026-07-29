@@ -1,0 +1,33 @@
+{
+  "id": "4lX3RB",
+  "name": "kali-traps d",
+  "author": "bergi",
+  "description": "The kali-set - between round and hashy. \nNo other random function was hurt in the making of this film. ",
+  "tags": [
+    "3d",
+    "raymarching",
+    "fractal",
+    "volume",
+    "kali",
+    "blackwhite",
+    "hybrid"
+  ],
+  "publishedAt": "2015-02-10T11:40:33.000Z",
+  "publishedTimestamp": 1423568433,
+  "views": 6903,
+  "likes": 134,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4lX3RB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

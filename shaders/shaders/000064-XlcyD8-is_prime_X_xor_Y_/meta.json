@@ -1,0 +1,60 @@
+{
+  "id": "XlcyD8",
+  "name": "is_prime(X xor Y)",
+  "author": "python273",
+  "description": "https://habr.com/post/417861/\n\nGaussian Blur source: https://www.shadertoy.com/view/XdfGDH",
+  "tags": [
+    "pattern"
+  ],
+  "publishedAt": "2018-07-23T09:16:31.000Z",
+  "publishedTimestamp": 1532337391,
+  "views": 9029,
+  "likes": 64,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 32,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlcyD8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGR8",
+          "filepath": "/media/previz/buffer00.png",
+          "previewfilepath": "/media/previz/buffer00.png",
+          "type": "buffer",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "buffer",
+      "name": "Buf A",
+      "file": "buffer_a.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dXGR8",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "MdSfWK",
+  "name": "circle dithering",
+  "author": "FabriceNeyret2",
+  "description": "work in progress. uncomment line 32 for color version.\n\nref image: [url]http://www.boredpanda.com/single-line-plotter-scribbles-sergej-stoppel/[/url]",
+  "tags": [
+    "halftone",
+    "dithering",
+    "doodles",
+    "reproduction"
+  ],
+  "publishedAt": "2017-08-08T08:57:03.000Z",
+  "publishedTimestamp": 1502182623,
+  "views": 3686,
+  "likes": 74,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdSfWK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xdf3Rn",
+          "filepath": "/media/a/e81e818ac76a8983d746784b423178ee9f6cdcdf7f8e8d719341a6fe2d2ab303.webm",
+          "previewfilepath": "/media/ap/e81e818ac76a8983d746784b423178ee9f6cdcdf7f8e8d719341a6fe2d2ab303.webm",
+          "type": "video",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

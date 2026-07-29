@@ -1,0 +1,53 @@
+{
+  "id": "4l2cD3",
+  "name": "Dual 3D Truchet Tiles",
+  "author": "Shane",
+  "description": "Utilizing two unique Truchet blocks to produce something analogous to a random pipe system.",
+  "tags": [
+    "raymarching",
+    "glow",
+    "truchet",
+    "dual",
+    "tile",
+    "caustic"
+  ],
+  "publishedAt": "2017-11-17T12:42:47.000Z",
+  "publishedTimestamp": 1510922567,
+  "views": 16508,
+  "likes": 205,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4l2cD3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGRn",
+          "filepath": "/media/a/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "previewfilepath": "/media/ap/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

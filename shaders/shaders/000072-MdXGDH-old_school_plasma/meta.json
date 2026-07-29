@@ -1,0 +1,35 @@
+{
+  "id": "MdXGDH",
+  "name": "old school plasma",
+  "author": "triggerHLM",
+  "description": "it's in the name.\n\ndescription:\nhttp://www.mennovanslooten.nl/blog/post/72",
+  "tags": [
+    "procedural",
+    "2d",
+    "oldschool",
+    "plasma"
+  ],
+  "publishedAt": "2013-05-15T08:45:36.000Z",
+  "publishedTimestamp": 1368607536,
+  "views": 9092,
+  "likes": 72,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdXGDH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "4sfGRH",
+  "name": "TextCandy",
+  "author": "CPU",
+  "description": "keyed effects.",
+  "tags": [
+    "noise",
+    "text",
+    "fire",
+    "warping"
+  ],
+  "publishedAt": "2013-02-28T22:26:22.000Z",
+  "publishedTimestamp": 1362090382,
+  "views": 11301,
+  "likes": 165,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sfGRH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

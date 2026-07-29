@@ -1,0 +1,36 @@
+{
+  "id": "7lcyz8",
+  "name": "KITTIES!!",
+  "author": "Xibanya",
+  "description": "They love you!",
+  "tags": [
+    "procedural",
+    "sdf",
+    "cat",
+    "generator",
+    "cats"
+  ],
+  "publishedAt": "2022-07-30T23:19:13.000Z",
+  "publishedTimestamp": 1659223153,
+  "views": 4873,
+  "likes": 157,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7lcyz8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

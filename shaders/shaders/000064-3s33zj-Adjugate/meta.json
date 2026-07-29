@@ -1,0 +1,35 @@
+{
+  "id": "3s33zj",
+  "name": "Adjugate",
+  "author": "iq",
+  "description": "The best way to transform the normals of an object with an arbitrary transformation matrix it to use the adjugate, not the transpose of the inverse. See comments in the shader for more info.",
+  "tags": [
+    "3d",
+    "normal",
+    "transformation",
+    "adjoint"
+  ],
+  "publishedAt": "2019-09-18T18:30:03.000Z",
+  "publishedTimestamp": 1568831403,
+  "views": 6189,
+  "likes": 64,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3s33zj",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

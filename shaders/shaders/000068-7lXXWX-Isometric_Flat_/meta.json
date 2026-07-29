@@ -1,0 +1,36 @@
+{
+  "id": "7lXXWX",
+  "name": "Isometric Flat ",
+  "author": "byt3_m3chanic",
+  "description": "Continuing my isometric fun, and playing with mixing 2D and 3D ",
+  "tags": [
+    "2d",
+    "raymarching",
+    "fractal",
+    "flat",
+    "isometric"
+  ],
+  "publishedAt": "2021-07-22T07:56:51.000Z",
+  "publishedTimestamp": 1626940611,
+  "views": 1496,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7lXXWX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

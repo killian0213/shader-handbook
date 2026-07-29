@@ -1,0 +1,34 @@
+{
+  "id": "XdSSz1",
+  "name": "String theory",
+  "author": "nimitz",
+  "description": "This looks better than I expected.  Try playing with the parameters",
+  "tags": [
+    "2d",
+    "iterations",
+    "fractaloid"
+  ],
+  "publishedAt": "2014-08-22T02:14:37.000Z",
+  "publishedTimestamp": 1408673677,
+  "views": 4359,
+  "likes": 128,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdSSz1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

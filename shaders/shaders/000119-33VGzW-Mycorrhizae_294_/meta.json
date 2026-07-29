@@ -1,0 +1,34 @@
+{
+  "id": "33VGzW",
+  "name": "Mycorrhizae [294]",
+  "author": "diatribes",
+  "description": "Mycorrhizae\n\nname sounded metal :D",
+  "tags": [
+    "tunnel",
+    "raymarch",
+    "fungi"
+  ],
+  "publishedAt": "2025-07-10T13:50:37.000Z",
+  "publishedTimestamp": 1752155437,
+  "views": 2168,
+  "likes": 119,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/33VGzW",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

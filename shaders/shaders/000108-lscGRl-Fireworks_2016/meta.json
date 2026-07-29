@@ -1,0 +1,28 @@
+{
+  "id": "lscGRl",
+  "name": "Fireworks 2016",
+  "author": "BigWIngs",
+  "description": "A quick and dirty fireworks effect. ",
+  "tags": [
+    "2d",
+    "fireworks"
+  ],
+  "publishedAt": "2015-12-31T23:50:03.000Z",
+  "publishedTimestamp": 1451605803,
+  "views": 9206,
+  "likes": 108,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lscGRl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "7lt3D4",
+  "name": "Prismatic Synapse",
+  "author": "Hyeve",
+  "description": "this is what happens when i'm tired in class and just start writing shader code\n\nalso the first with my own lighting equations, thanks evvvil for the ones i originally learned and used before these <3",
+  "tags": [
+    "3d",
+    "raymarching",
+    "transparency",
+    "glow"
+  ],
+  "publishedAt": "2021-11-05T20:17:15.000Z",
+  "publishedTimestamp": 1636143435,
+  "views": 1383,
+  "likes": 72,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7lt3D4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

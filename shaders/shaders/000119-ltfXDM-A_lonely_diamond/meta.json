@@ -1,0 +1,49 @@
+{
+  "id": "ltfXDM",
+  "name": "A lonely diamond...",
+  "author": "Nrx",
+  "description": "Variation of my original [url=https://www.shadertoy.com/view/ldfXzn]Diamonds are Forever[/url].\nUse the mouse (X axis) to change the shape.",
+  "tags": [
+    "raymarching",
+    "transparency"
+  ],
+  "publishedAt": "2015-07-16T05:10:12.000Z",
+  "publishedTimestamp": 1437023412,
+  "views": 13978,
+  "likes": 119,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltfXDM",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdX3zn",
+          "filepath": "/media/a/488bd40303a2e2b9a71987e48c66ef41f5e937174bf316d3ed0e86410784b919.jpg",
+          "previewfilepath": "/media/ap/488bd40303a2e2b9a71987e48c66ef41f5e937174bf316d3ed0e86410784b919.jpg",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

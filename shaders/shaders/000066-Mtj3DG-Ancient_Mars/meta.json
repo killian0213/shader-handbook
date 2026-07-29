@@ -1,0 +1,43 @@
+{
+  "id": "Mtj3DG",
+  "name": "Ancient Mars",
+  "author": "florian",
+  "description": "Scene from Karla Quintero's modern dance performance \"If Mars\"\nMashup of heavy RMF, Kali's fractal (and stars I believe) and Nimitz's fog trick.\nAdded IQ's noise for posting on shadertoy.\nApologies for the brute force detail and hence slowness.",
+  "tags": [
+    "mars"
+  ],
+  "publishedAt": "2015-05-25T23:45:10.000Z",
+  "publishedTimestamp": 1432597510,
+  "views": 5143,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mtj3DG",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

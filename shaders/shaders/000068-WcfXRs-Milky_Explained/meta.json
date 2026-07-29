@@ -1,0 +1,36 @@
+{
+  "id": "WcfXRs",
+  "name": "Milky Explained",
+  "author": "Xor",
+  "description": "This is an explanation for [url=x.com/XorDev/status/1727908092304617661]my tweet shader[/url].",
+  "tags": [
+    "space",
+    "galaxy",
+    "stars",
+    "tweet",
+    "300"
+  ],
+  "publishedAt": "2025-03-18T14:53:36.000Z",
+  "publishedTimestamp": 1742309616,
+  "views": 1563,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WcfXRs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

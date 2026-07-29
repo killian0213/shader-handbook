@@ -1,0 +1,39 @@
+{
+  "id": "W3SSRm",
+  "name": "The Weave",
+  "author": "chronos",
+  "description": " Little doodle exploring volume tracing turbulently distorted SDFs.\n\n  Based on the glow volume marching approach as seen in \"Ghosts\" by xor\n https://www.shadertoy.com/view/tXlXDX",
+  "tags": [
+    "volume",
+    "sdf",
+    "distortion",
+    "marching",
+    "glow",
+    "turbulence",
+    "tracing",
+    "turbulent"
+  ],
+  "publishedAt": "2025-04-29T00:27:15.000Z",
+  "publishedTimestamp": 1745886435,
+  "views": 2100,
+  "likes": 77,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/W3SSRm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

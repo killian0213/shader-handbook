@@ -1,0 +1,33 @@
+{
+  "id": "lsfGzr",
+  "name": "Blobs",
+  "author": "PauloFalcao",
+  "description": "Color blobs using 1/length for color value, changing makePoint function can give very cool results ;)",
+  "tags": [
+    "2d",
+    "blobs"
+  ],
+  "publishedAt": "2013-02-15T21:49:50.000Z",
+  "publishedTimestamp": 1360964990,
+  "views": 9091,
+  "likes": 96,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsfGzr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

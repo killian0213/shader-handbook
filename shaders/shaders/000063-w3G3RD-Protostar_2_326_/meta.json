@@ -1,0 +1,35 @@
+{
+  "id": "w3G3RD",
+  "name": "Protostar 2 [326]",
+  "author": "Xor",
+  "description": "Practicing with whirling motion",
+  "tags": [
+    "color",
+    "space",
+    "glow",
+    "golf"
+  ],
+  "publishedAt": "2025-07-09T14:42:15.000Z",
+  "publishedTimestamp": 1752072135,
+  "views": 1119,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/w3G3RD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

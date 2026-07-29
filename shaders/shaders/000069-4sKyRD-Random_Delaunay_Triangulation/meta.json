@@ -1,0 +1,36 @@
+{
+  "id": "4sKyRD",
+  "name": "Random Delaunay Triangulation",
+  "author": "tomkh",
+  "description": "Random Delaunay triangulation on a regular grid. My response to Shane's wishlist :)\nAlso check out [url=http://polycu.be/edit/?h=M963jR]PolyCu.be edition[/url] with panning/zooming.",
+  "tags": [
+    "procedural",
+    "voronoi",
+    "random",
+    "distance",
+    "delaunay"
+  ],
+  "publishedAt": "2018-03-16T20:47:37.000Z",
+  "publishedTimestamp": 1521233257,
+  "views": 3447,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sKyRD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

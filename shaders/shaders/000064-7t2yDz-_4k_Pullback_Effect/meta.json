@@ -1,0 +1,50 @@
+{
+  "id": "7t2yDz",
+  "name": "[4k] Pullback Effect",
+  "author": "Kali",
+  "description": "4k intro presented at Revision 2022 demoparty by LIA (Latitude Independent Association)\nCode: Kali\nMusic: Uctumi",
+  "tags": [
+    "intro",
+    "4k",
+    "demoscene"
+  ],
+  "publishedAt": "2022-04-16T23:58:12.000Z",
+  "publishedTimestamp": 1650153492,
+  "views": 1453,
+  "likes": 64,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7t2yDz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "ltBSRz",
+          "filepath": "https://soundcloud.com/pablo-andrioli/bolacircuitera-version-bien-1",
+          "previewfilepath": "https://soundcloud.com/pablo-andrioli/bolacircuitera-version-bien-1",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

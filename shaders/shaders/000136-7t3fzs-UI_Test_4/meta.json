@@ -1,0 +1,40 @@
+{
+  "id": "7t3fzs",
+  "name": "UI Test 4",
+  "author": "yasuo",
+  "description": "sci-fi ui design experiment",
+  "tags": [
+    "ui",
+    "cineshader"
+  ],
+  "publishedAt": "2022-09-18T13:32:31.000Z",
+  "publishedTimestamp": 1663507951,
+  "views": 9897,
+  "likes": 136,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7t3fzs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

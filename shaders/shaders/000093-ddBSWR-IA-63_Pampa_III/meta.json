@@ -1,0 +1,56 @@
+{
+  "id": "ddBSWR",
+  "name": "IA-63 Pampa III",
+  "author": "Kali",
+  "description": "The IA-63 Pampa III is an advanced jet trainer produced in Argentina. The painting is my own design. \nEach flight is 4 minutes long, from river to lake, with different terrain and camera/aircraft motions every time.\nMouse enabled.",
+  "tags": [
+    "raymarching",
+    "terrain",
+    "water",
+    "reflections",
+    "jet",
+    "plane",
+    "trail",
+    "argentina",
+    "pampa"
+  ],
+  "publishedAt": "2022-12-04T22:31:41.000Z",
+  "publishedTimestamp": 1670193101,
+  "views": 1689,
+  "likes": 93,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ddBSWR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4t2XRK",
+          "filepath": "https://soundcloud.com/protomen/danger-zone",
+          "previewfilepath": "https://soundcloud.com/protomen/danger-zone",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ldySDh",
+  "name": "Water blobs",
+  "author": "jolle",
+  "description": "Metablobs but of water droplets instead of metal. A bit derivative but some interesting shading.\n\nUse camera to look around. You can change number of multiplesamples (default 3).",
+  "tags": [
+    "blobs",
+    "reflection",
+    "refraction",
+    "water",
+    "cubemapping"
+  ],
+  "publishedAt": "2016-05-26T14:39:18.000Z",
+  "publishedTimestamp": 1464273558,
+  "views": 4158,
+  "likes": 87,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldySDh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsX3zn",
+          "filepath": "/media/a/94284d43be78f00eb6b298e6d78656a1b34e2b91b34940d02f1ca8b22310e8a0.png",
+          "previewfilepath": "/media/ap/94284d43be78f00eb6b298e6d78656a1b34e2b91b34940d02f1ca8b22310e8a0.png",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

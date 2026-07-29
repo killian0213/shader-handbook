@@ -1,0 +1,37 @@
+{
+  "id": "MlfczH",
+  "name": "Optical deconstruction 1b",
+  "author": "ollj",
+  "description": "Mouse in:\n\nthe [optical circuit demo] video source code once appeared on glslsandbox.com\nwww.pouet.net/prod.php?which=65125\nhttps://www.youtube.com/watch?v=ISkIB4w6v6I\nit is fractal code golf overkill in [0..6] scenes.\nthis is a deconstruction of scene 1.",
+  "tags": [
+    "fractal",
+    "optical",
+    "glow",
+    "kifs",
+    "circuit",
+    "0x4015"
+  ],
+  "publishedAt": "2017-08-22T13:23:37.000Z",
+  "publishedTimestamp": 1503408217,
+  "views": 7232,
+  "likes": 113,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MlfczH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ttcfDr",
+  "name": "Morshu[Neural Video]",
+  "author": "michael0884",
+  "description": "Lamp oil, rope, bombs! You want it? It's yours, my friend, as long as you have enough rubies!\nSorry Link, I can't give credit. Come back when you're a little... Mmmmmm... richer!",
+  "tags": [
+    "morshu"
+  ],
+  "publishedAt": "2021-02-05T18:53:53.000Z",
+  "publishedTimestamp": 1612551233,
+  "views": 2754,
+  "likes": 62,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ttcfDr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

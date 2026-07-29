@@ -1,0 +1,53 @@
+{
+  "id": "Xlc3D2",
+  "name": "Circle & Polygon Lens Flare ",
+  "author": "Yusef28",
+  "description": "Inspired by Mu6ks and Nimitz's awesome lens flares and pics online I tried and came out with this. Feedback welcome.\nInteresting is the function for making polygons which can make any regular polygon. I left a link in a comment above that function.",
+  "tags": [
+    "sun",
+    "lens",
+    "lighting",
+    "light",
+    "flare",
+    "lensflare"
+  ],
+  "publishedAt": "2016-08-19T01:58:56.000Z",
+  "publishedTimestamp": 1471571936,
+  "views": 10125,
+  "likes": 133,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xlc3D2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsj3z1",
+          "filepath": "https://soundcloud.com/zongo-1/09-hitori-bocchi-1b?in=zongo-1/sets/serial-experiments-lain-bootleg",
+          "previewfilepath": "https://soundcloud.com/zongo-1/09-hitori-bocchi-1b?in=zongo-1/sets/serial-experiments-lain-bootleg",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

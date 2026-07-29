@@ -1,0 +1,38 @@
+{
+  "id": "7tyyDy",
+  "name": "Supah frosted glass",
+  "author": "supah",
+  "description": "Frosted glass",
+  "tags": [
+    "masking",
+    "glass",
+    "mirror",
+    "shape",
+    "frosted",
+    "clipping",
+    "blurred"
+  ],
+  "publishedAt": "2022-09-02T13:54:29.000Z",
+  "publishedTimestamp": 1662126869,
+  "views": 10259,
+  "likes": 211,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7tyyDy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

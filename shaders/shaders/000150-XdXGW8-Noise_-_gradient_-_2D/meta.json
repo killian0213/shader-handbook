@@ -1,0 +1,36 @@
+{
+  "id": "XdXGW8",
+  "name": "Noise - gradient - 2D",
+  "author": "iq",
+  "description": "Gradient Noise. Slightly more expensive than \"Value Noise\" ([url]https://www.shadertoy.com/view/lsf3WH[/url]), but higher quality.",
+  "tags": [
+    "procedural",
+    "2d",
+    "noise",
+    "perlin",
+    "gradient"
+  ],
+  "publishedAt": "2013-05-14T21:52:00.000Z",
+  "publishedTimestamp": 1368568320,
+  "views": 39892,
+  "likes": 150,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdXGW8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

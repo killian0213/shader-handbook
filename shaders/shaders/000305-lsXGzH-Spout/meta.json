@@ -1,0 +1,52 @@
+{
+  "id": "lsXGzH",
+  "name": "Spout",
+  "author": "P_Malin",
+  "description": "An experiment with raymarching and refraction.\nClick window and move mouse to rotate. ",
+  "tags": [
+    "3d",
+    "raymarching",
+    "transparency",
+    "refraction",
+    "water"
+  ],
+  "publishedAt": "2013-03-07T22:07:01.000Z",
+  "publishedTimestamp": 1362694021,
+  "views": 51764,
+  "likes": 305,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 1,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lsXGzH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRn",
+          "filepath": "/media/a/10eb4fe0ac8a7dc348a2cc282ca5df1759ab8bf680117e4047728100969e7b43.jpg",
+          "previewfilepath": "/media/ap/10eb4fe0ac8a7dc348a2cc282ca5df1759ab8bf680117e4047728100969e7b43.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

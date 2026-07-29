@@ -1,0 +1,39 @@
+{
+  "id": "XcfBRn",
+  "name": "Hexagon Blocks",
+  "author": "Shane",
+  "description": "Using a hexagon grid to produce a textured isometric block pattern.",
+  "tags": [
+    "2d",
+    "grid",
+    "cube",
+    "hexagon",
+    "vector",
+    "isometric",
+    "pattern",
+    "art"
+  ],
+  "publishedAt": "2024-08-23T11:28:09.000Z",
+  "publishedTimestamp": 1724412489,
+  "views": 686,
+  "likes": 62,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XcfBRn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

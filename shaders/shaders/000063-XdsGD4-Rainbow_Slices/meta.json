@@ -1,0 +1,30 @@
+{
+  "id": "XdsGD4",
+  "name": "Rainbow Slices",
+  "author": "fizzer",
+  "description": "Some rainbow-coloured spheres, sliced up by a bigger sphere. Nothing special, I was inspired by http://www.bhmpics.com/walls/colorful_ribbons-wide.jpg",
+  "tags": [
+    "procedural",
+    "raymarching",
+    "rainbow",
+    "colourful"
+  ],
+  "publishedAt": "2013-06-06T23:13:39.000Z",
+  "publishedTimestamp": 1370560419,
+  "views": 5023,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XdsGD4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

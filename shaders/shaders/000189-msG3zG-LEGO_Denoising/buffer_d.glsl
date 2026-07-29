@@ -1,0 +1,137 @@
+// Buffer D (buffer) — LEGO Denoising by Mathis
+// https://www.shadertoy.com/view/msG3zG
+
+//Denoising and composition
+
+void mainImage(out vec4 fragColor, in vec2 fragCoord) {
+    vec4 Output = vec4(0.,0.,0.,8.);
+    if (fragCoord.y>1. && iFrame>3+BuildFrames) {
+        float CurrentFrame = float(iFrame);
+        vec2 SSOffset = SSOffsets[iFrame%16];
+        vec3 SunDir = texture(iChannel0,vec2(8.5,0.5)*IRES).xyz;
+        vec3 Pos = texture(iChannel0,vec2(7.5,0.5)*IRES).xyz;
+        vec3 Eye = texture(iChannel0,vec2(6.5,0.5)*IRES).xyz;
+        vec3 Tan; vec3 Bit = TBN(Eye,Tan);
+        mat3 EyeMat = TBN(Eye);
+        vec3 LPos = texture(iChannel0,vec2(10.5,0.5)*IRES).xyz;
+        vec3 LEye = texture(iChannel0,vec2(9.5,0.5)*IRES).xyz;
+        vec3 LTan; vec3 LBit = TBN(LEye,LTan);
+        vec3 Dir = normalize(vec3(((fragCoord+SSOffset)*IRES*2.-1.)*(ASPECT*CFOV),1.)*EyeMat);
+        vec4 CAttr = texture(iChannel0,fragCoord*IRES);
+        if (CAttr.w>-0.5) {
+            //Geometry
+            vec3 PPos = Pos+Dir*CAttr.w;
+            vec3 Normal = normalize(FloatToVec3(CAttr.z)*2.-1.);
+            vec4 LWPass = texture(iChannel1,fragCoord*IRES);
+            //
+            //Reflections denoising
+            //
+            vec4 RefC = vec4(FloatToVec3(texture(iChannel2,fragCoord*IRES).w)*LightCoeff*2.,2.);
+            vec3 RefDir = reflect(Dir,Normal);
+            float RefCR = RefMaterial*min(1.,tan((HPI-acos(dot(RefDir,Normal)))));
+            vec3 CVPos0 = vec3(LWPass.w*RefCR,0.,CAttr.w+LWPass.w)*TBN(Dir);
+            vec3 CVPos1 = vec3(-LWPass.w*RefCR,0.,CAttr.w+LWPass.w)*TBN(Dir);
+            vec3 LVPos0 = vec3(dot(CVPos0,Tan),dot(CVPos0,Bit),dot(CVPos0,Eye));
+            vec3 LVPos1 = vec3(dot(CVPos1,Tan),dot(CVPos1,Bit),dot(CVPos1,Eye));
+            vec2 Luv0 = ((LVPos0.xy/LVPos0.z)*0.5/(ASPECT*CFOV)+0.5)*RES;
+            vec2 Luv1 = ((LVPos1.xy/LVPos1.z)*0.5/(ASPECT*CFOV)+0.5)*RES;
+            float HalfRadius = min(8.,length(Luv0-Luv1)*0.5)*0.5;
+            for (float x=-2.; x<2.5; x+=1.) {
+                for (float y=-2.; y<2.5; y+=1.) {
+                    if (x==0. && y==0.) continue;
+                    vec2 Offset2 = normalize(vec2(x,y))*max(abs(x),abs(y))*HalfRadius;
+                    vec2 SUV = floor(fragCoord+Offset2)+0.5;
+                    vec4 SC = texture(iChannel0,SUV*IRES);
+                    vec3 SNormal = normalize(FloatToVec3(SC.z)*2.-1.);
+                    vec3 SDir = normalize(vec3(((SUV+SSOffset)*IRES*2.-1.)*(ASPECT*CFOV),1.)*EyeMat);
+                    if (SC.w<-0.5 || DFBox(SUV-vec2(0.,1.),RES-vec2(0.,1.))>0.) continue;
+                    vec4 SRefShad = texture(iChannel1,SUV*IRES);
+                    vec2 SRand = ARand23(SUV*IRES*(1.+mod(CurrentFrame*7.253,9.234))).xy;
+                    vec3 SRefDir = reflect(SDir,SNormal);
+                    float SCR = RefMaterial*min(1.,tan((HPI-acos(dot(RefDir,Normal)))));
+                    vec3 SRDir = normalize(RandSampleCos(SRand)*TBN(SRefDir)*SCR+SRefDir);
+                    vec3 HitP = Pos+SDir*SC.w+SNormal*0.01+SRDir*SRefShad.w;
+                    if (dot(HitP-PPos,Normal)<=0.) continue;
+                    if (sqrt(1./dot(normalize(HitP-PPos),RefDir)-1.)<=RefCR)
+                        RefC += vec4(FloatToVec3(texture(iChannel2,SUV*IRES).w)*LightCoeff,1.);
+                }
+            }
+            RefC.xyz /= RefC.w;
+            //
+            //Shadow denoising
+            //
+            vec2 Shad = vec2(texture(iChannel2,fragCoord*IRES).z*2.,2.);
+            CVPos0 = vec3(LWPass.y*SunCR,0.,CAttr.w)*TBN(Dir);
+            CVPos1 = vec3(-LWPass.y*SunCR,0.,CAttr.w)*TBN(Dir);
+            LVPos0 = vec3(dot(CVPos0,Tan),dot(CVPos0,Bit),dot(CVPos0,Eye));
+            LVPos1 = vec3(dot(CVPos1,Tan),dot(CVPos1,Bit),dot(CVPos1,Eye));
+            Luv0 = ((LVPos0.xy/LVPos0.z)*0.5/(ASPECT*CFOV)+0.5)*RES;
+            Luv1 = ((LVPos1.xy/LVPos1.z)*0.5/(ASPECT*CFOV)+0.5)*RES;
+            HalfRadius = max(1.2,min(8.,length(Luv0-Luv1)*0.5)*0.5);
+            for (float x=-2.; x<2.5; x+=1.) {
+                for (float y=-2.; y<2.5; y+=1.) {
+                    if (x==0. && y==0.) continue;
+                    vec2 Offset2 = normalize(vec2(x,y))*max(abs(x),abs(y))*HalfRadius;
+                    vec2 SUV = floor(fragCoord+Offset2)+0.5;
+                    vec4 SC = texture(iChannel0,SUV*IRES);
+                    vec3 SNormal = normalize(FloatToVec3(SC.z)*2.-1.);
+                    vec3 SDir = normalize(vec3(((SUV+SSOffset)*IRES*2.-1.)*(ASPECT*CFOV),1.)*EyeMat);
+                    if (SC.w<-0.5 || DFBox(SUV-vec2(0.,1.),RES-vec2(0.,1.))>0. || abs(dot(Pos+SDir*SC.w-PPos,Normal))>0.19) continue;
+                    vec4 SLWPass = texture(iChannel1,SUV*IRES);
+                    vec2 SRand = ARand23(SUV*IRES*(1.+mod(CurrentFrame*7.253,9.234))).xy;
+                    vec3 HitP = Pos+SDir*SC.w+SNormal*0.01+normalize(RandSampleCos(SRand.xy)*TBN(SunDir)*SunCR+SunDir)*SLWPass.y;
+                    if (dot(HitP-PPos,Normal)<=0.) continue;
+                    if (sqrt(1./dot(normalize(HitP-PPos),SunDir)-1.)<=SunCR) Shad += vec2(texture(iChannel2,SUV*IRES).z,1.);
+                }
+            }
+            Shad.x /= Shad.y;
+            //
+            //SVGF denoising (no variance weight)
+            //
+            vec2 tmpSC2 = texture(iChannel2,fragCoord*IRES).xy;
+            vec4 IDLight = vec4(FloatToVec2(tmpSC2.x)*LightCoeff*2.,tmpSC2.y*2.,2.);
+            for (float x=-2.; x<2.5; x+=1.) {
+                for (float y=-2.; y<2.5; y+=1.) {
+                    if (x==0. && y==0.) continue;
+                    vec2 SUV = floor(fragCoord+vec2(x,y))+0.5;
+                    vec4 SC = texture(iChannel0,SUV*IRES);
+                    vec3 SNormal = normalize(FloatToVec3(SC.z)*2.-1.);
+                    vec3 SDir = normalize(vec3(((SUV+SSOffset)*IRES*2.-1.)*(ASPECT*CFOV),1.)*EyeMat);
+                    if (SC.w<-0.5 || DFBox(SUV-vec2(0.,1.),RES-vec2(0.,1.))>0.) continue;
+                    float SWeight = exp(-abs(dot(Pos+SDir*SC.w-PPos,Normal))*20.)*
+                                   max(0.,dot(SNormal,Normal)*2.-1.);
+                    vec2 SC2 = texture(iChannel2,SUV*IRES).xy;
+                    IDLight += vec4(vec3(FloatToVec2(SC2.x)*LightCoeff,SC2.y),1.)*SWeight;
+                }
+            }
+            IDLight.xyz /= IDLight.w;
+            //
+            //Composition
+            //
+            vec3 DLight = Shad.x*max(0.,dot(Normal,SunDir))*SunLight;
+            vec3 Composition = mix(DLight+IDLight.xyz,RefC.xyz,SchlickFresnel(vec3(0.1),max(0.,dot(Normal,-Dir))));
+            Output.xy = vec2(Vec2ToFloat(Composition.xy*0.1),min(Composition.z,10.));
+            //
+            //Update moments
+            //
+            LVPos0 = PPos-LPos;
+            LVPos0 = vec3(dot(LVPos0,LTan),dot(LVPos0,LBit),dot(LVPos0,LEye));
+            Luv0 = ((LVPos0.xy/LVPos0.z)*0.5/(ASPECT*CFOV)+0.5)*RES-SSOffsets[(iFrame-1)%16];
+            if (DFBox(Luv0-vec2(0.,1.),RES-vec2(0.,1.))>0.) {
+                //Outside screen
+                Output.zw = vec2(0.,8.);
+            } else {
+                //Naive reprojection, without attributes we can't validate
+                vec2 LastMoments = texture(iChannel3,Luv0*IRES).zw;
+                float Lum = dot(vec3(FloatToVec2(CAttr.x)*LightCoeff,CAttr.y),vec3(0.3333));
+                Output.zw = (LastMoments*20.+vec2(Lum,Lum*Lum))/24.;
+            }
+        } else {
+            //Sky
+            vec3 Composition = SampleSky(Dir,SunDir,iTime);
+            Output.xy = vec2(Vec2ToFloat(Composition.xy*0.1),Composition.z);
+        }
+    }
+    //Output
+    fragColor = Output;
+}

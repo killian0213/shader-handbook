@@ -1,0 +1,39 @@
+{
+  "id": "ls2Bz1",
+  "name": "Spectral Colour Schemes",
+  "author": "AlanZucconi",
+  "description": "Comparison of the most common ways to generate rainbow-like patterns.\nMore info at http://www.alanzucconi.com/?p=6703\n\nFrom top to bottom:\n\n[1] Zucconi 6\n[2] Zucconi\n[3] Spektre\n[4] CPU Gems\n[5] Dan Bruton\n[6] JET Colour Scheme from MATLAB",
+  "tags": [
+    "spectrum",
+    "rgb",
+    "jet",
+    "wavelength",
+    "spectral",
+    "visiblelight",
+    "spektre",
+    "bruton"
+  ],
+  "publishedAt": "2017-07-09T11:29:16.000Z",
+  "publishedTimestamp": 1499599756,
+  "views": 7475,
+  "likes": 105,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ls2Bz1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

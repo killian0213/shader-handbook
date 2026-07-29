@@ -1,0 +1,49 @@
+{
+  "id": "X3GGW3",
+  "name": "yoke 枷锁 - mouse",
+  "author": "shadertoyjiang",
+  "description": "yoke编织辫链交\nMouse over round spots to see all partitions ",
+  "tags": [
+    "mouse",
+    "sdf",
+    "line",
+    "color",
+    "rotate",
+    "distance",
+    "icosahedron",
+    "dodecahedron",
+    "skin",
+    "brush",
+    "20",
+    "rust",
+    "chain",
+    "rope",
+    "12",
+    "braid",
+    "siege",
+    "yoke"
+  ],
+  "publishedAt": "2024-06-13T13:37:34.000Z",
+  "publishedTimestamp": 1718285854,
+  "views": 1117,
+  "likes": 122,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/X3GGW3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

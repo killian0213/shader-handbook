@@ -1,0 +1,34 @@
+{
+  "id": "Xs3GRB",
+  "name": "HG SDF in WebGL",
+  "author": "tomkh",
+  "description": "Simple test/port of <a href=\"http://mercury.sexy/hg_sdf\"  class=\"regular\" target=\"_blank\">Mercury's SDF library</a> to WebGL.<br/>To make it clear: the library is done by Mercury team for OpenGL 4+, not me, and this is just an unofficial port.",
+  "tags": [
+    "sdf",
+    "lib",
+    "hg"
+  ],
+  "publishedAt": "2015-12-17T00:54:58.000Z",
+  "publishedTimestamp": 1450313698,
+  "views": 5622,
+  "likes": 111,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xs3GRB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

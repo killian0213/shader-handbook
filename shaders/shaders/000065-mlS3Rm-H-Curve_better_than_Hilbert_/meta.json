@@ -1,0 +1,35 @@
+{
+  "id": "mlS3Rm",
+  "name": "H-Curve (better than Hilbert?)",
+  "author": "MartyMcFly",
+  "description": "The H-Curve is a relatively unknown, hamiltonian space filling curve with a better locality property than any other space filling curve including Hilbert and even conjectured to be optimal. Hilbert has sqrt(6), H has 2.",
+  "tags": [
+    "hilbert",
+    "morton",
+    "spacefillingcurve",
+    "hcurve"
+  ],
+  "publishedAt": "2023-01-07T00:39:03.000Z",
+  "publishedTimestamp": 1673051943,
+  "views": 1466,
+  "likes": 65,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/mlS3Rm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

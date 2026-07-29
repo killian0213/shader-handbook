@@ -1,0 +1,49 @@
+{
+  "id": "DdSGWh",
+  "name": "The wall of speakers",
+  "author": "yasuo",
+  "description": "The wall of speakers\n\nsound:\nminutesunlimited\nhttps://soundcloud.com/minutesunlimited\n\n",
+  "tags": [
+    "graphicdesign",
+    "cineshader"
+  ],
+  "publishedAt": "2022-11-03T17:31:21.000Z",
+  "publishedTimestamp": 1667496681,
+  "views": 13628,
+  "likes": 95,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 64,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/DdSGWh",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "llBXW1",
+          "filepath": "https://soundcloud.com/minutesunlimited/violation-twanz-nola-bounce-flip",
+          "previewfilepath": "https://soundcloud.com/minutesunlimited/violation-twanz-nola-bounce-flip",
+          "type": "musicstream",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 0
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "4dfGzs",
+  "name": "Voxel Edges",
+  "author": "iq",
+  "description": "Correct edge detection for voxels. The marching function is fb39ca4's DDA, but using floating point operations instead of integers. The most interesting bits are probably the exact 3D intersector, the occlusion and the edge detection code.",
+  "tags": [
+    "procedural",
+    "3d",
+    "raymarching",
+    "voxel",
+    "occlusion",
+    "dda"
+  ],
+  "publishedAt": "2013-08-14T11:03:30.000Z",
+  "publishedTimestamp": 1376478210,
+  "views": 181357,
+  "likes": 771,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 1,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dfGzs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

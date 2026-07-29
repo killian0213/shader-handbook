@@ -1,0 +1,36 @@
+{
+  "id": "wl2Szd",
+  "name": "[twitch] Misty Grid",
+  "author": "NuSan",
+  "description": "Shader coded live on twitch (https://www.twitch.tv/nusan_fx)\nThe shader was made using Bonzomatic.\nYou can find the original shader here: http://lezanu.fr/LiveCode/MistyGrid.glsl",
+  "tags": [
+    "3d",
+    "raymarching",
+    "translucency",
+    "xray",
+    "mist"
+  ],
+  "publishedAt": "2019-08-26T21:32:02.000Z",
+  "publishedTimestamp": 1566855122,
+  "views": 3251,
+  "likes": 90,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wl2Szd",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

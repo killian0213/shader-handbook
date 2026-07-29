@@ -1,0 +1,32 @@
+{
+  "id": "4ccfRn",
+  "name": "Weird Truchet | New Keyboard",
+  "author": "byt3_m3chanic",
+  "description": "Got this tiny Corne knock-off type keyboard from Amazon - 36 key\nhttps://bsky.app/profile/byt3m3chanic.bsky.social/post/3lbsqbatwjc2q\n\nSo this is me trying to code a shader, and memorize the key combos for the special/math chars.",
+  "tags": [
+    "2d"
+  ],
+  "publishedAt": "2024-11-26T13:51:31.000Z",
+  "publishedTimestamp": 1732629091,
+  "views": 10657,
+  "likes": 211,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4ccfRn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

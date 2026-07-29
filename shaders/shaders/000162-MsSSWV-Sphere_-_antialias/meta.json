@@ -1,0 +1,36 @@
+{
+  "id": "MsSSWV",
+  "name": "Sphere - antialias",
+  "author": "iq",
+  "description": "Analytical antialiasing for raytraced spheres. Only one ray/sample per pixel is casted. This shader also uses analytical ambient occlusion and analytical soft shadows.",
+  "tags": [
+    "3d",
+    "sphere",
+    "antialias",
+    "analytical",
+    "conetracing"
+  ],
+  "publishedAt": "2014-11-14T10:08:12.000Z",
+  "publishedTimestamp": 1415959692,
+  "views": 14559,
+  "likes": 162,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsSSWV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

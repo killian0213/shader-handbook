@@ -1,0 +1,52 @@
+{
+  "id": "MdfGRX",
+  "name": "Hell",
+  "author": "iq",
+  "description": "A variation of my Clouds shaders, made to look more like we are sinking to the very center of hell. Some postprocessed bloom effect would look awesome in this.",
+  "tags": [
+    "procedural",
+    "3d",
+    "raymarching",
+    "noise",
+    "volumetric"
+  ],
+  "publishedAt": "2013-08-01T07:40:54.000Z",
+  "publishedTimestamp": 1375342854,
+  "views": 64236,
+  "likes": 501,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdfGRX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "Xsf3zn",
+          "filepath": "/media/a/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "previewfilepath": "/media/ap/f735bee5b64ef98879dc618b016ecf7939a5756040c2cde21ccb15e69a6e1cfb.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "repeat",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

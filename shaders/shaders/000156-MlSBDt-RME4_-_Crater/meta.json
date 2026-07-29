@@ -1,0 +1,32 @@
+{
+  "id": "MlSBDt",
+  "name": "RME4 - Crater",
+  "author": "patu",
+  "description": "crater\n#makeYourShadersPublic",
+  "tags": [
+    "crater"
+  ],
+  "publishedAt": "2021-03-31T23:50:23.000Z",
+  "publishedTimestamp": 1617234623,
+  "views": 16461,
+  "likes": 156,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MlSBDt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

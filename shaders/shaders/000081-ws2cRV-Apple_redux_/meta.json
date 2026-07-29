@@ -1,0 +1,32 @@
+{
+  "id": "ws2cRV",
+  "name": "Apple (redux)",
+  "author": "blackle",
+  "description": "worked on this a lot more and ended up with something that looks a lot better!\n\nold version here. be warned that it compiles VERY slow: https://www.shadertoy.com/view/wsjczK",
+  "tags": [
+    "apple"
+  ],
+  "publishedAt": "2020-04-16T03:29:46.000Z",
+  "publishedTimestamp": 1587007786,
+  "views": 1377,
+  "likes": 81,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ws2cRV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

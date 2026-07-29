@@ -1,0 +1,33 @@
+{
+  "id": "MX3BDH",
+  "name": "emptiness, your infinity",
+  "author": "YoheiNishitsuji",
+  "description": "“emptiness, your infinity” simulate the world we optically recognize.",
+  "tags": [
+    "simulatedreality",
+    "simulationhypothesis"
+  ],
+  "publishedAt": "2025-01-18T00:50:45.000Z",
+  "publishedTimestamp": 1737161445,
+  "views": 1541,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MX3BDH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

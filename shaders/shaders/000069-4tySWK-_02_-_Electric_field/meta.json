@@ -1,0 +1,35 @@
+{
+  "id": "4tySWK",
+  "name": "[ #02 ] - Electric field",
+  "author": "Yrai",
+  "description": "Using absolute sum of 3d perlin noise to generate electric field. Coloring could be much better, give suggestions.\n\nRef:\n- https://iquilezles.org/\n- https://www.shadertoy.com/user/candycat",
+  "tags": [
+    "3d",
+    "noise",
+    "lightning",
+    "cineshader"
+  ],
+  "publishedAt": "2017-01-31T09:24:17.000Z",
+  "publishedTimestamp": 1485854657,
+  "views": 6876,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tySWK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

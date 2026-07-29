@@ -1,0 +1,32 @@
+{
+  "id": "3sySRK",
+  "name": "CineShader Lava",
+  "author": "edankwan",
+  "description": "Simple ray marching template. View this shader at [url]https://cineshader.com/view/3sySRK[/url]",
+  "tags": [
+    "cineshader"
+  ],
+  "publishedAt": "2019-11-21T17:13:21.000Z",
+  "publishedTimestamp": 1574356401,
+  "views": 434268,
+  "likes": 432,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3sySRK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

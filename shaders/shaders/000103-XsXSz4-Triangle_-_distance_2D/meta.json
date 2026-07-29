@@ -1,0 +1,34 @@
+{
+  "id": "XsXSz4",
+  "name": "Triangle - distance 2D",
+  "author": "iq",
+  "description": "Signed Euclidean distance to a triangle (negative in the inside, positive in the outside). Note there's only one square root involved.",
+  "tags": [
+    "2d",
+    "triangle",
+    "distance"
+  ],
+  "publishedAt": "2014-04-10T01:21:17.000Z",
+  "publishedTimestamp": 1397092877,
+  "views": 16628,
+  "likes": 103,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XsXSz4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

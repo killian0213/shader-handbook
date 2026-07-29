@@ -1,0 +1,34 @@
+{
+  "id": "WtscW4",
+  "name": "@Party Concert Visuals 2020",
+  "author": "blackle",
+  "description": "visuals for the concert at @party online 2020, programmed in about 1 hour",
+  "tags": [
+    "raymarching",
+    "4d",
+    "lasers"
+  ],
+  "publishedAt": "2020-06-14T01:18:10.000Z",
+  "publishedTimestamp": 1592097490,
+  "views": 10816,
+  "likes": 155,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/WtscW4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

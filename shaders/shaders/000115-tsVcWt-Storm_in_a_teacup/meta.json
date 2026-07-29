@@ -1,0 +1,35 @@
+{
+  "id": "tsVcWt",
+  "name": "Storm in a teacup",
+  "author": "dean_the_coder",
+  "description": "This started with me trying to work out how to make a cloud, and then developed from there.\nThe sea and plane are deliberately voxel-y, partly to keep the frame rate up and partly coz I just like it.\nNo airplanes were harmed in the making of this shader.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "water",
+    "cineshader"
+  ],
+  "publishedAt": "2020-11-14T15:27:41.000Z",
+  "publishedTimestamp": 1605367661,
+  "views": 24697,
+  "likes": 115,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tsVcWt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

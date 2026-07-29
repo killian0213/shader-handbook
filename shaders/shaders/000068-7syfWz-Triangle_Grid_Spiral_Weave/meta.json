@@ -1,0 +1,38 @@
+{
+  "id": "7syfWz",
+  "name": "Triangle Grid Spiral Weave",
+  "author": "Shane",
+  "description": "Utilizing a 2D simplex grid to produce an animated interlinked three pronged spiral pattern.",
+  "tags": [
+    "2d",
+    "grid",
+    "triangle",
+    "spiral",
+    "bump",
+    "weave",
+    "triskelion"
+  ],
+  "publishedAt": "2022-07-21T14:20:06.000Z",
+  "publishedTimestamp": 1658413206,
+  "views": 821,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/7syfWz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

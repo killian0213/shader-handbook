@@ -1,0 +1,35 @@
+{
+  "id": "ltBczc",
+  "name": "Ocean Structure",
+  "author": "dr2",
+  "description": "Abstract construction with fire, smoke, reflections and aurora.\nLook around using mouse; mouse to lower-right corner for daylight view.",
+  "tags": [
+    "raymarch",
+    "water",
+    "smoke",
+    "aurora"
+  ],
+  "publishedAt": "2017-11-01T08:22:06.000Z",
+  "publishedTimestamp": 1509524526,
+  "views": 12956,
+  "likes": 110,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltBczc",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

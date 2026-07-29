@@ -1,0 +1,33 @@
+{
+  "id": "NsS3Dt",
+  "name": "Red Landscape",
+  "author": "edubart",
+  "description": "Experimenting generating terrain and simple clouds with noise, and some color grading tools.",
+  "tags": [
+    "procedural",
+    "cineshader"
+  ],
+  "publishedAt": "2021-04-10T18:56:58.000Z",
+  "publishedTimestamp": 1618081018,
+  "views": 11982,
+  "likes": 63,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/NsS3Dt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

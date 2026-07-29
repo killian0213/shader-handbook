@@ -1,0 +1,35 @@
+{
+  "id": "XlfGDs",
+  "name": "Sparse grid marching",
+  "author": "nimitz",
+  "description": "Somewhat efficient raymarching through a sparse grid, the floating objects (not the columns) are only a single grid.  Empty cells are exited by ray-box intersect.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "grid",
+    "technique"
+  ],
+  "publishedAt": "2015-03-12T01:13:20.000Z",
+  "publishedTimestamp": 1426122800,
+  "views": 6273,
+  "likes": 116,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlfGDs",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

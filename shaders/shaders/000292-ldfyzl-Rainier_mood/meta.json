@@ -1,0 +1,51 @@
+{
+  "id": "ldfyzl",
+  "name": "Rainier mood",
+  "author": "Zavie",
+  "description": "Improving upon https://www.shadertoy.com/view/XslcWn by avoiding using pixel derivatives (which are shared by 2x2 blocs, thus give an aliased look).\nTo do: fix a glitch between tiles.\n\nClick and drag to change scale.",
+  "tags": [
+    "2d",
+    "rain",
+    "ripple",
+    "hash"
+  ],
+  "publishedAt": "2017-03-13T05:34:33.000Z",
+  "publishedTimestamp": 1489383273,
+  "views": 98480,
+  "likes": 292,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldfyzl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdX3Rn",
+          "filepath": "/media/a/52d2a8f514c4fd2d9866587f4d7b2a5bfa1a11a0e772077d7682deb8b3b517e5.jpg",
+          "previewfilepath": "/media/ap/52d2a8f514c4fd2d9866587f4d7b2a5bfa1a11a0e772077d7682deb8b3b517e5.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

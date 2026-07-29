@@ -1,0 +1,49 @@
+{
+  "id": "XcBGzy",
+  "name": "Auto Edge",
+  "author": "PauloFalcao",
+  "description": "Auto Edge\n Edges are colored based on the difference between the original SDF and a blured SDF ( www.shadertoy.com/view/mdc3RS )",
+  "tags": [
+    "sdf",
+    "edgedetect"
+  ],
+  "publishedAt": "2024-01-04T01:49:51.000Z",
+  "publishedTimestamp": 1704332991,
+  "views": 908,
+  "likes": 70,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XcBGzy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XsfGzn",
+          "filepath": "/media/a/585f9546c092f53ded45332b343144396c0b2d70d9965f585ebc172080d8aa58.jpg",
+          "previewfilepath": "/media/ap/585f9546c092f53ded45332b343144396c0b2d70d9965f585ebc172080d8aa58.jpg",
+          "type": "cubemap",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "false",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ltsyWl",
+  "name": "Simpler dither godrays",
+  "author": "ollj",
+  "description": "click for occluding crosshair\n\nfork of multi-sampling crepuscular-ity, dithered via Bayer\nhttps://www.shadertoy.com/view/4dyXWy\n- no buffers (Bayer matrix bitmap is very optional)\n- generalize to be more parametric, maybe?",
+  "tags": [
+    "shadow",
+    "dither",
+    "godrays",
+    "halftone",
+    "eclipse",
+    "lightrays",
+    "dithering",
+    "crepuscular",
+    "bayer",
+    "differentiation",
+    "bufferlessdoubleimagebuffer"
+  ],
+  "publishedAt": "2017-10-03T10:12:20.000Z",
+  "publishedTimestamp": 1507025540,
+  "views": 6360,
+  "likes": 114,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ltsyWl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

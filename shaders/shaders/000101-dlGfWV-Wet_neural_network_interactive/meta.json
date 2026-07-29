@@ -1,0 +1,32 @@
+{
+  "id": "dlGfWV",
+  "name": "Wet neural network interactive",
+  "author": "gena",
+  "description": "Add small interaction to https://www.shadertoy.com/view/mlBXRK. Pause and drag to rotate / drag.",
+  "tags": [
+    "neuron"
+  ],
+  "publishedAt": "2023-12-13T17:20:23.000Z",
+  "publishedTimestamp": 1702488023,
+  "views": 3590,
+  "likes": 101,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/dlGfWV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

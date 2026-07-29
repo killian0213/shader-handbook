@@ -1,0 +1,51 @@
+{
+  "id": "ws3Bzf",
+  "name": "Biplanar mapping",
+  "author": "iq",
+  "description": "A cheaper alternative to Box/Triplanar mapping that performs only two texture fetches instead of three. Useful for texturing 3D geometry when it doesn't have UV coords but can't afford 3D texturing and when triplanar mapping take up too much bandwidth.",
+  "tags": [
+    "3d",
+    "triplanar",
+    "boxmap",
+    "biplanar"
+  ],
+  "publishedAt": "2020-11-19T05:54:52.000Z",
+  "publishedTimestamp": 1605765292,
+  "views": 37587,
+  "likes": 101,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ws3Bzf",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4df3Rr",
+          "filepath": "/media/a/3871e838723dd6b166e490664eead8ec60aedd6b8d95bc8e2fe3f882f0fd90f0.jpg",
+          "previewfilepath": "/media/ap/3871e838723dd6b166e490664eead8ec60aedd6b8d95bc8e2fe3f882f0fd90f0.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

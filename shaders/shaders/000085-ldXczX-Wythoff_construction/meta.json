@@ -1,0 +1,68 @@
+{
+  "id": "ldXczX",
+  "name": "Wythoff construction",
+  "author": "mattz",
+  "description": "All of the convex regular uniform polyhedra, in one big shader.",
+  "tags": [
+    "tiling",
+    "spherical",
+    "symmetry",
+    "polyhedron",
+    "wythoff",
+    "buckyball"
+  ],
+  "publishedAt": "2017-03-09T16:58:27.000Z",
+  "publishedTimestamp": 1489078707,
+  "views": 5722,
+  "likes": 85,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 16,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/ldXczX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4dXGRr",
+          "filepath": "/presets/tex00.jpg",
+          "previewfilepath": "/presets/tex00.jpg",
+          "type": "keyboard",
+          "channel": 0,
+          "sampler": {
+            "filter": "linear",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        },
+        {
+          "id": "4dXGzr",
+          "filepath": "/media/a/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "previewfilepath": "/media/ap/08b42b43ae9d3c0605da11d0eac86618ea888e62cdd9518ee8b9097488b31560.png",
+          "type": "texture",
+          "channel": 1,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "clamp",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

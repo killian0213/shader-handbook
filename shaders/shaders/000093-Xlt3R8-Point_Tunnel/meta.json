@@ -1,0 +1,36 @@
+{
+  "id": "Xlt3R8",
+  "name": "Point Tunnel",
+  "author": "Flyguy",
+  "description": " A 3d point based tunnel effect based off the scene from Second Reality.",
+  "tags": [
+    "3d",
+    "tunnel",
+    "dots",
+    "points",
+    "secondreality"
+  ],
+  "publishedAt": "2016-07-07T22:52:01.000Z",
+  "publishedTimestamp": 1467931921,
+  "views": 4401,
+  "likes": 93,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Xlt3R8",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

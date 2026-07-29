@@ -1,0 +1,32 @@
+{
+  "id": "NtcyDn",
+  "name": "Wednesday messing around",
+  "author": "mrange",
+  "description": "CC0: Wednesday messing around\nTinkered a bit with an earlier shader\nThought while similar it turned out distinct enough to share\n",
+  "tags": [
+    "3d"
+  ],
+  "publishedAt": "2022-08-03T13:06:11.000Z",
+  "publishedTimestamp": 1659531971,
+  "views": 5717,
+  "likes": 111,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/NtcyDn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

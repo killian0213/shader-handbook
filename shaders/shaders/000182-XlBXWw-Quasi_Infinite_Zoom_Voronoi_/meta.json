@@ -1,0 +1,35 @@
+{
+  "id": "XlBXWw",
+  "name": "Quasi Infinite Zoom Voronoi ",
+  "author": "Shane",
+  "description": "This was inspired by Fabrice Neyret's \"Infinite Fall\" shader.",
+  "tags": [
+    "voronoi",
+    "zoom",
+    "bump",
+    "infinite"
+  ],
+  "publishedAt": "2015-10-05T21:20:08.000Z",
+  "publishedTimestamp": 1444080008,
+  "views": 9647,
+  "likes": 182,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlBXWw",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

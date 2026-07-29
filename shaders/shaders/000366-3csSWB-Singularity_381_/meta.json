@@ -1,0 +1,33 @@
+{
+  "id": "3csSWB",
+  "name": "Singularity [381]",
+  "author": "Xor",
+  "description": "A whirling blackhole.",
+  "tags": [
+    "space",
+    "golf"
+  ],
+  "publishedAt": "2025-03-06T15:40:55.000Z",
+  "publishedTimestamp": 1741275655,
+  "views": 21863,
+  "likes": 366,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/3csSWB",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

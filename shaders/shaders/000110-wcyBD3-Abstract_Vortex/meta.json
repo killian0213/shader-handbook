@@ -1,0 +1,36 @@
+{
+  "id": "wcyBD3",
+  "name": "Abstract Vortex",
+  "author": "Frostbyte_",
+  "description": "Only 10 ray march steps! See comment for more details. ",
+  "tags": [
+    "noise",
+    "simple",
+    "raymarch",
+    "gyroid",
+    "cineshader"
+  ],
+  "publishedAt": "2026-01-06T17:42:38.000Z",
+  "publishedTimestamp": 1767721358,
+  "views": 3751,
+  "likes": 110,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wcyBD3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

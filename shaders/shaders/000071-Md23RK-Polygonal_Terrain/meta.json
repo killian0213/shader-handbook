@@ -1,0 +1,31 @@
+{
+  "id": "Md23RK",
+  "name": "Polygonal Terrain",
+  "author": "fizzer",
+  "description": "An experiment to produce a terrain using a variant of the diamond-square algorithm. Requires optimisation.",
+  "tags": [
+    "raymarching",
+    "terrain",
+    "polygon",
+    "lowpoly",
+    "minimalist"
+  ],
+  "publishedAt": "2014-01-30T23:25:56.000Z",
+  "publishedTimestamp": 1391124356,
+  "views": 2825,
+  "likes": 71,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Md23RK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

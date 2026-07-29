@@ -1,0 +1,38 @@
+{
+  "id": "t3SyzV",
+  "name": "Fragmentum [302]",
+  "author": "Jaenam",
+  "description": "Gemcutting a special shard.",
+  "tags": [
+    "3d",
+    "raymarch",
+    "refraction",
+    "gem",
+    "iridescence",
+    "short",
+    "golf"
+  ],
+  "publishedAt": "2025-10-27T13:06:30.000Z",
+  "publishedTimestamp": 1761570390,
+  "views": 2032,
+  "likes": 66,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/t3SyzV",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

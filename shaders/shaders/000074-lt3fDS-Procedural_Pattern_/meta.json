@@ -1,0 +1,37 @@
+{
+  "id": "lt3fDS",
+  "name": "Procedural Pattern ",
+  "author": "ollj",
+  "description": "connotated and mildly crunched/fixed fork of \nhttps://www.shadertoy.com/view/4dfyzf",
+  "tags": [
+    "procedural",
+    "2d",
+    "basic",
+    "texture",
+    "pattern",
+    "collection"
+  ],
+  "publishedAt": "2018-10-29T21:38:55.000Z",
+  "publishedTimestamp": 1540849135,
+  "views": 4065,
+  "likes": 74,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/lt3fDS",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

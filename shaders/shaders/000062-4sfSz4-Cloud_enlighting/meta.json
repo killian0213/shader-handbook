@@ -1,0 +1,30 @@
+{
+  "id": "4sfSz4",
+  "name": "Cloud enlighting",
+  "author": "LoubetG",
+  "description": "Model for single scattering in a spherical cloud with density gradient.\nThere is no ray tracing, no ray marching.\n ",
+  "tags": [
+    "noise",
+    "cloud",
+    "scattering",
+    "dust"
+  ],
+  "publishedAt": "2014-04-10T13:24:56.000Z",
+  "publishedTimestamp": 1397136296,
+  "views": 3923,
+  "likes": 62,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4sfSz4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

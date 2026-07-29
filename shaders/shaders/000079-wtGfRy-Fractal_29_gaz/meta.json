@@ -1,0 +1,32 @@
+{
+  "id": "wtGfRy",
+  "name": "Fractal 29_gaz",
+  "author": "gaz",
+  "description": "3d",
+  "tags": [
+    "fractal"
+  ],
+  "publishedAt": "2021-03-01T02:55:05.000Z",
+  "publishedTimestamp": 1614567305,
+  "views": 1757,
+  "likes": 79,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wtGfRy",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

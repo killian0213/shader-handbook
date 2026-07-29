@@ -1,0 +1,33 @@
+{
+  "id": "4tX3R4",
+  "name": "Meta Experiment 7",
+  "author": "aiekick",
+  "description": "Meta Experiment 7",
+  "tags": [
+    "2d",
+    "experiment",
+    "spiral",
+    "meta",
+    "paper",
+    "milk",
+    "strawberry"
+  ],
+  "publishedAt": "2014-12-18T12:20:27.000Z",
+  "publishedTimestamp": 1418905227,
+  "views": 4002,
+  "likes": 74,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4tX3R4",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

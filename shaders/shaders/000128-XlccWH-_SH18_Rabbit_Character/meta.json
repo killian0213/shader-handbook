@@ -1,0 +1,36 @@
+{
+  "id": "XlccWH",
+  "name": "[SH18] Rabbit Character",
+  "author": "fizzer",
+  "description": "I tried to create some kind of character using signed distance fields, and came up with this rabbit.\nThis wasn't originally an SH18, but I decided to put it in (actually I hadn't realised that there is a new competition happening until after I made it).",
+  "tags": [
+    "sdf",
+    "cartoon",
+    "character",
+    "rabbit",
+    "sh18"
+  ],
+  "publishedAt": "2018-07-23T16:26:45.000Z",
+  "publishedTimestamp": 1532363205,
+  "views": 9352,
+  "likes": 128,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XlccWH",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

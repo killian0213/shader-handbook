@@ -1,0 +1,53 @@
+{
+  "id": "XtffzX",
+  "name": "Androgynous bolts",
+  "author": "s23b",
+  "description": "An experiment with an idea I had during a live-coding session. Mouse-enabled.",
+  "tags": [
+    "raymarching",
+    "motionblur",
+    "antialiasing",
+    "screw",
+    "bolt",
+    "nut"
+  ],
+  "publishedAt": "2017-12-12T07:12:41.000Z",
+  "publishedTimestamp": 1513062761,
+  "views": 4178,
+  "likes": 64,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/XtffzX",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGRn",
+          "filepath": "/media/a/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "previewfilepath": "/media/ap/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

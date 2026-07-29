@@ -1,0 +1,37 @@
+{
+  "id": "tt2XDt",
+  "name": "The Opera Game",
+  "author": "Poita_",
+  "description": "Ray-marched SDF for geometry, shadows, reflections with some volumetric mist and procedural sky. The game is Paul Morphy's famous Opera Game.",
+  "tags": [
+    "procedural",
+    "sdf",
+    "volumetric",
+    "fog",
+    "chess",
+    "opera"
+  ],
+  "publishedAt": "2019-09-30T18:40:07.000Z",
+  "publishedTimestamp": 1569868807,
+  "views": 2440,
+  "likes": 69,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/tt2XDt",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

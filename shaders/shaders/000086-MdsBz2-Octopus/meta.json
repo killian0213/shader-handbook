@@ -1,0 +1,53 @@
+{
+  "id": "MdsBz2",
+  "name": "Octopus",
+  "author": "knarkowicz",
+  "description": "A cephalopod mollusc with eight sucker-bearing arms, a soft sac-like body, strong beak-like jaws, and no internal shell.",
+  "tags": [
+    "sdf",
+    "water",
+    "bokeh",
+    "octopus",
+    "tentacle",
+    "predator"
+  ],
+  "publishedAt": "2017-06-11T22:09:28.000Z",
+  "publishedTimestamp": 1497218968,
+  "views": 2940,
+  "likes": 86,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MdsBz2",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sf3Rr",
+          "filepath": "/media/a/ad56fba948dfba9ae698198c109e71f118a54d209c0ea50d77ea546abad89c57.png",
+          "previewfilepath": "/media/ap/ad56fba948dfba9ae698198c109e71f118a54d209c0ea50d77ea546abad89c57.png",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "Ms23DR",
+  "name": "MattiasCRT",
+  "author": "Mattias",
+  "description": "Just some CRT emulation experimentation.\n\nThere is a newer version that looks better and have a few variations, available as a C lib here https://github.com/mattiasgustavsson/libs/blob/main/crtemu.h",
+  "tags": [
+    "crt"
+  ],
+  "publishedAt": "2013-12-08T08:45:42.000Z",
+  "publishedTimestamp": 1386492342,
+  "views": 27400,
+  "likes": 87,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Ms23DR",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "XdX3Rn",
+          "filepath": "/media/a/52d2a8f514c4fd2d9866587f4d7b2a5bfa1a11a0e772077d7682deb8b3b517e5.jpg",
+          "previewfilepath": "/media/ap/52d2a8f514c4fd2d9866587f4d7b2a5bfa1a11a0e772077d7682deb8b3b517e5.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

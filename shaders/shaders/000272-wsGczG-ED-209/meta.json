@@ -1,0 +1,37 @@
+{
+  "id": "wsGczG",
+  "name": "ED-209",
+  "author": "dean_the_coder",
+  "description": "\"PLEASE NORMALIZE YOUR VECTORS. YOU HAVE 20 SECONDS TO COMPLY...\"\n\nI've always loved the (original) Robocop movie, but have never felt confident enough to try modelling ED-209.\nI hope you like it!",
+  "tags": [
+    "3d",
+    "raymarching",
+    "robot",
+    "movie",
+    "cineshader",
+    "robocop"
+  ],
+  "publishedAt": "2020-10-29T18:38:26.000Z",
+  "publishedTimestamp": 1603996706,
+  "views": 367945,
+  "likes": 272,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wsGczG",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

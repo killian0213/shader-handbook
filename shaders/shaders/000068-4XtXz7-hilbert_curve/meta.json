@@ -1,0 +1,33 @@
+{
+  "id": "4XtXz7",
+  "name": "hilbert curve",
+  "author": "shadertoyjiang",
+  "description": "hilbert curve\n希尔伯特曲线\n参照 https://www.shadertoy.com/view/MljyRd\n",
+  "tags": [
+    "curve",
+    "hilbert"
+  ],
+  "publishedAt": "2024-06-20T09:59:03.000Z",
+  "publishedTimestamp": 1718877543,
+  "views": 596,
+  "likes": 68,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4XtXz7",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

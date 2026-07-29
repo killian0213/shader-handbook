@@ -1,0 +1,35 @@
+{
+  "id": "MsjSW3",
+  "name": "Ether",
+  "author": "nimitz",
+  "description": "A wild distance field in its natural habitat.",
+  "tags": [
+    "3d",
+    "fast",
+    "cheap",
+    "short"
+  ],
+  "publishedAt": "2014-11-23T21:28:36.000Z",
+  "publishedTimestamp": 1416778116,
+  "views": 30905,
+  "likes": 481,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/MsjSW3",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

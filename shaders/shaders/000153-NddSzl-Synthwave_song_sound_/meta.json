@@ -1,0 +1,50 @@
+{
+  "id": "NddSzl",
+  "name": "Synthwave song (sound)",
+  "author": "athibaul",
+  "description": "Let's compose a synthwave song on GPU!",
+  "tags": [
+    "sound",
+    "analog",
+    "synth",
+    "bass",
+    "gpusound"
+  ],
+  "publishedAt": "2021-10-17T01:10:43.000Z",
+  "publishedTimestamp": 1634433043,
+  "views": 8233,
+  "likes": 153,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 8,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/NddSzl",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    },
+    {
+      "type": "sound",
+      "name": "Sound",
+      "file": "sound.glsl",
+      "inputs": [],
+      "outputs": []
+    },
+    {
+      "type": "common",
+      "name": "Common",
+      "file": "common.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "wsKXRK",
+  "name": "VDropTunnel",
+  "author": "Del",
+  "description": "VDrop2 -> Tunnel remix - left mouse = warp speed",
+  "tags": [
+    "2d",
+    "tunnel",
+    "starfield",
+    "drops"
+  ],
+  "publishedAt": "2019-11-22T23:49:55.000Z",
+  "publishedTimestamp": 1574466595,
+  "views": 4468,
+  "likes": 78,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/wsKXRK",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

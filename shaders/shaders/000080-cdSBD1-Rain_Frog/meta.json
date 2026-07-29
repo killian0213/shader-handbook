@@ -1,0 +1,39 @@
+{
+  "id": "cdSBD1",
+  "name": "Rain Frog",
+  "author": "tristanantonsen",
+  "description": "Saw these hilarious little frogs and wanted to practice SDF modeling one. This shader is a combination of ray marching, SDF modeling, and a smattering of techniques (mostly from or inspired by iq). Tried to comment it well and stay organized!",
+  "tags": [
+    "raymarching",
+    "cute",
+    "cute",
+    "sdf",
+    "character",
+    "animal",
+    "creature",
+    "frog"
+  ],
+  "publishedAt": "2023-07-19T01:52:25.000Z",
+  "publishedTimestamp": 1689731545,
+  "views": 1233,
+  "likes": 80,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/cdSBD1",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

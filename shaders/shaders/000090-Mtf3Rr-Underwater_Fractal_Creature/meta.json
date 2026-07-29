@@ -1,0 +1,29 @@
+{
+  "id": "Mtf3Rr",
+  "name": "Underwater Fractal Creature",
+  "author": "Kali",
+  "description": "Enhanced version of my original \"LivingKIFS\" shader.",
+  "tags": [
+    "raymarching",
+    "fractal",
+    "kifs"
+  ],
+  "publishedAt": "2014-12-05T23:00:20.000Z",
+  "publishedTimestamp": 1417820420,
+  "views": 3484,
+  "likes": 90,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/Mtf3Rr",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": []
+    }
+  ]
+}

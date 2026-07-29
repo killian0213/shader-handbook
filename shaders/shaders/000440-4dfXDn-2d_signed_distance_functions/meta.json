@@ -1,0 +1,39 @@
+{
+  "id": "4dfXDn",
+  "name": "2d signed distance functions",
+  "author": "Maarten",
+  "description": "test stuff for signed distance fields, just a playground\nupdate: added early out in shadow, made min step larger (1 instead of 0.5), made step equal to distance instead of half distance\nthis allows fewer steps without light bleeding",
+  "tags": [
+    "2d",
+    "shadow",
+    "distance",
+    "occlusion",
+    "penumbra",
+    "ambient",
+    "soft",
+    "signed"
+  ],
+  "publishedAt": "2015-08-17T19:42:30.000Z",
+  "publishedTimestamp": 1439840550,
+  "views": 28290,
+  "likes": 440,
+  "comments": null,
+  "publishStatus": 1,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4dfXDn",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

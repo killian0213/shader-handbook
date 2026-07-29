@@ -1,0 +1,33 @@
+{
+  "id": "cdjGzD",
+  "name": "Graphic Design Experiment 2",
+  "author": "yasuo",
+  "description": "digital paisely",
+  "tags": [
+    "graphicdesign",
+    "cineshader"
+  ],
+  "publishedAt": "2022-11-01T16:10:00.000Z",
+  "publishedTimestamp": 1667319000,
+  "views": 4433,
+  "likes": 61,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/cdjGzD",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

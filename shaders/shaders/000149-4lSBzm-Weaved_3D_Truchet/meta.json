@@ -1,0 +1,52 @@
+{
+  "id": "4lSBzm",
+  "name": "Weaved 3D Truchet",
+  "author": "Shane",
+  "description": "Mapping a square Truchet pattern onto an overlapping, interwoven hexagonal Truchet object.",
+  "tags": [
+    "3d",
+    "raymarching",
+    "truchet",
+    "bump",
+    "weave"
+  ],
+  "publishedAt": "2018-01-05T13:03:06.000Z",
+  "publishedTimestamp": 1515157386,
+  "views": 5398,
+  "likes": 149,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/4lSBzm",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [
+        {
+          "id": "4sXGRn",
+          "filepath": "/media/a/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "previewfilepath": "/media/ap/95b90082f799f48677b4f206d856ad572f1d178c676269eac6347631d4447258.jpg",
+          "type": "texture",
+          "channel": 0,
+          "sampler": {
+            "filter": "mipmap",
+            "wrap": "repeat",
+            "vflip": "true",
+            "srgb": "false",
+            "internal": "byte"
+          },
+          "published": 1
+        }
+      ],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}

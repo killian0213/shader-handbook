@@ -1,0 +1,37 @@
+{
+  "id": "NsKSRz",
+  "name": "Abstract Geometric Art Pattern",
+  "author": "Shane",
+  "description": "Applying a very simple procedure involving multiple colored square-shaped overlays and basic lighting to produce a greeble-like surface in the style of abstract art.",
+  "tags": [
+    "procedural",
+    "voronoi",
+    "texture",
+    "abstract",
+    "art",
+    "greeble"
+  ],
+  "publishedAt": "2021-10-25T12:02:27.000Z",
+  "publishedTimestamp": 1635163347,
+  "views": 1369,
+  "likes": 84,
+  "comments": null,
+  "publishStatus": 3,
+  "flags": 0,
+  "ver": "0.1",
+  "url": "https://www.shadertoy.com/view/NsKSRz",
+  "passes": [
+    {
+      "type": "image",
+      "name": "Image",
+      "file": "image.glsl",
+      "inputs": [],
+      "outputs": [
+        {
+          "id": "4dfGRr",
+          "channel": 0
+        }
+      ]
+    }
+  ]
+}
