@@ -96,6 +96,16 @@ void mainImage(out vec4 fragColor, in vec2 fragCoord)
 
 `0.96` 是衰减系数：每帧保留 96% 旧画面，加 4% 新画面。越大拖尾越长，越接近 1.0 就越「永远擦不掉」。
 
+**网页预览版拖尾味**（单 Pass 假历史）。真版把 `mix(old, paint, 1-decay)` 写进 Buffer A 读自己。
+
+<!-- glsl-from: examples/ch13_stage1.glsl -->
+```glsl
+// 假历史笔尖残影 —— 真拖尾 = Buffer 自反馈
+for (int i = 0; i < TRAIL_N; i++) { /* 衰减克隆 */ }
+```
+
+![预览](img/ch13_stage1.png)
+
 ### 初始化：`iFrame == 0`
 
 第一帧没有「上一帧」。Buffer 里可能是未定义/黑色/垃圾。**所有反馈系统都必须初始化**：
@@ -209,6 +219,16 @@ vec4 cu = texelFetch(iChannel0, p + ivec2( 0, 1), 0);
 ---
 
 ## 13.5 反馈拖尾的三种配方
+
+**时间回声 / 延迟摄影**：沿圆环排开「过去的笔尖」衰减克隆——多 Pass 环形历史纹理的视觉直觉。
+
+<!-- glsl-from: examples/ch13_stage5.glsl -->
+```glsl
+// ECHO_N 个相位残影 + 当前笔尖
+float age = fi / float(ECHO_N);
+```
+
+![预览](img/ch13_stage5.png)
 
 ### ① 指数衰减混合（最常用）
 
@@ -324,6 +344,16 @@ Image: scene + bloom*strength → tonemap
 ```
 
 > 📄 出自 `000154-lsBfRc-Buffer_pass_bloom`（标准三段式 bloom）
+
+**Bloom 味道**的单 Pass 近似。真版：A 场景 → B 横糊 → Image 纵糊加回。
+
+<!-- glsl-from: examples/ch13_stage2.glsl -->
+```glsl
+vec3 bright = max(scene - threshold, 0.0);
+col = scene + blur(bright);
+```
+
+![预览](img/ch13_stage2.png)
 
 ### 模板 C：反应扩散 / 元胞（1–2 Buffer）
 
@@ -481,6 +511,15 @@ void mainImage(out vec4 fragColor, in vec2 fragCoord)
 
 扩展：`(1,0)` 存分数，`(2,0)` 存生命周期随机种子，`(0,1)` 存上一帧鼠标……开一张小「内存图」。
 
+**小游戏感**：鼠标控圆吃金币 + 左上角分数条。真版把位置/分数打进 BufA 的 `(0,0)` texel。
+
+<!-- glsl-from: examples/ch13_stage8.glsl -->
+```glsl
+// 玩家圆 + 金币 + HUD 分数条
+```
+
+![预览](img/ch13_stage8.png)
+
 ---
 
 ## 13.13 Ping-pong 与「假双缓冲」
@@ -497,6 +536,24 @@ Buf A 下一帧读 B ……
 
 或接受「跨帧迭代」：每帧只做 1～2 次泊松迭代，靠时间换精度（许多实时流体这么干）。
 
+**反馈万花筒味道**：每帧 zoom/rotate/mix——真版是读自己的反馈缩放。
+
+<!-- glsl-from: examples/ch13_stage6.glsl -->
+```glsl
+// feedback zoom / rotate / mix
+```
+
+![预览](img/ch13_stage6.png)
+
+**RGB 色散拖影**：三通道各自错位衰减——像劣质棱镜摄像。
+
+<!-- glsl-from: examples/ch13_stage7.glsl -->
+```glsl
+// R/G/B 分通道拖尾偏移
+```
+
+![预览](img/ch13_stage7.png)
+
 ---
 
 ## 13.14 练习作业（务必动手）
@@ -510,126 +567,42 @@ Buf A 下一帧读 B ……
 
 ---
 
-## 13.15 阶梯实战：没有 Buffer 时，先把「味道」做出来
+## 13.15 可运行例子总览（含新颖玩法）
 
-网页阅读器目前只跑 Image Pass，**真·反馈拖尾 / Ping-pong 必须到 Shadertoy 开 Buffer**。
+相关小节正文里已经嵌了可跑例子。下面把**多 Pass「味道」**收成一张连刷表——网页可预览；注释写真 Buffer 接法。
 
-下面四段是**单 Pass 等价物**：让你先看见拖尾、Bloom、状态机、成片后期长什么样；注释里写明对应的真多 Pass 接法。文件在 `examples/ch13_stage1..4.glsl`。
+| 文件 | 看点 | 真多 Pass | 正文位置 |
+|---|---|---|---|
+| `ch13_stage1` | 拖尾味 | Buf 自反馈 × decay | 13.3 |
+| `ch13_stage2` | Bloom 味 | 可分离模糊链 | 13.8 模板 B |
+| `ch13_stage3` | 状态机跳动 | 寄存器 texel | （下方） |
+| `ch13_stage4` | 霓虹成片 | 场景 + bloom + 后期 | （下方） |
+| `ch13_stage5` | **时间回声** | 环形历史纹理 | 13.5 |
+| `ch13_stage6` | **反馈万花筒** | 读自己 zoom/mix | 13.13 |
+| `ch13_stage7` | **色散拖影** | RGB 分通道拖尾 | 13.13 |
+| `ch13_stage8` | **小游戏 HUD** | 状态 texel | 13.12 |
 
-### 阶段 1：假历史拖尾
-
-用时间相位模拟笔迹残影；真拖尾 = Buffer 自反馈 × decay。
-
-<!-- glsl-from: examples/ch13_stage1.glsl -->
-```glsl
-{
-    vec2 uv = fragCoord / iResolution.xy;
-    vec2 p  = (2.0 * fragCoord - iResolution.xy) / iResolution.y;
-
-    // 鼠标位置；未按下时用时间驱动的螺旋笔迹
-    vec2 m = iMouse.xy / iResolution.xy;
-    bool useMouse = (iMouse.z > 0.0);
-    if (!useMouse) {
-        m = vec2(0.5 + 0.28 * sin(iTime * 0.9),
-                 0.5 + 0.22 * cos(iTime * 1.15));
-    }
-
-    vec3 col = vec3(0.015, 0.018, 0.045);
-
-    // 假「时间环缓冲」：N 个衰减的历史点
-    for (int i = 0; i < TRAIL_N; i++) {
-        float fi = float(i);
-        float age = fi / float(TRAIL_N - 1);
-
-        vec2 pos;
-```
-
-![阶段1](img/ch13_stage1.png)
-
-
-### 阶段 2：单 Pass Bloom 近似
-
-阈值 + 可分离模糊味道。
-
-<!-- glsl-from: examples/ch13_stage2.glsl -->
-```glsl
-vec3 bloom = blurV(puv, px * 3.5);
-
-    vec3 col = base + bloom * 1.35;
-    col = col / (col + 0.6);
-    col = pow(col, vec3(0.4545));
-    fragColor = vec4(col, 1.0);
-```
-
-![阶段2](img/ch13_stage2.png)
-
-
-### 阶段 3：寄存器状态可视化
-
-floor(iTime) 驱动的「每帧状态」。
+### 状态机跳动
 
 <!-- glsl-from: examples/ch13_stage3.glsl -->
 ```glsl
-{
-    vec2 uv = (2.0 * fragCoord - iResolution.xy) / iResolution.y;
-
-    float frame = floor(iTime * 2.0);
-    float blend = fract(iTime * 2.0);
-
-    vec3 col = vec3(0.04, 0.05, 0.08);
-
-    // 网格：暗示「像素格 = 存储单元」
-    vec2 g = fract(uv * 8.0);
-    col += vec3(0.02) * step(0.92, max(g.x, g.y));
-
-    const int REGS = 8;
-    for (int i = 0; i < REGS; i++) {
-        vec2 p0 = regPos(i, frame);
-        vec2 p1 = regPos(i, frame + 1.0);
-        vec2 pos = mix(p0, p1, smoothstep(0.0, 1.0, blend));
-
-        float d = length(uv - pos);
-        vec3  c = 0.5 + 0.5 * cos(vec3(0.0, 2.1, 4.2) + float(i) * 1.7);
+float frame = floor(iTime * 2.0);
+vec2 pos = mix(regPos(i, frame), regPos(i, frame + 1.0), blend);
 ```
 
-![阶段3](img/ch13_stage3.png)
+![预览](img/ch13_stage3.png)
 
-
-### 阶段 4：霓虹成片
-
-亮点 + bloom + 暗角 + tonemap。
+### 霓虹成片
 
 <!-- glsl-from: examples/ch13_stage4.glsl -->
 ```glsl
-vec3 base = neonScene(uv);
-    float lum = dot(base, vec3(0.299, 0.587, 0.114));
-    vec3  bright = base * smoothstep(0.45, 0.85, lum);
-    vec3  bloom  = blurPass(uv, px);
-
-    vec3 col = base + bloom * 1.6 + bright * 0.35;
-    col = tonemapACES(col);
-    col = pow(col, vec3(0.4545));
-
-    vec2 q = fragCoord / iResolution.xy;
-    col *= 0.58 + 0.42 * pow(16.0 * q.x * q.y * (1.0 - q.x) * (1.0 - q.y), 0.30);
-    col += (hash21(fragCoord) - 0.5) / 255.0;
-
-    fragColor = vec4(clamp(col, 0.0, 1.0), 1.0);
+vec3 col = base + bloom * 1.6;
+col = tonemapACES(col);
 ```
 
-![阶段4](img/ch13_stage4.png)
+![预览](img/ch13_stage4.png)
 
-
-### 回头看
-
-| 阶段 | 网页上看到的 | Shadertoy 真接法 |
-|---|---|---|
-| 1 | 假拖尾 | BufA：`mix(old, paint, 1-decay)` |
-| 2 | Bloom 味 | A 场景 → B 横糊 → Image 纵糊 |
-| 3 | 状态跳动 | BufA (0,0) 存位置 |
-| 4 | 出场 | 接 15 章后期配方 |
-
-做完请立刻去 Shadertoy 把阶段 1 改成真 Buffer 拖尾——你已经知道画面该长什么样了。
+做完请到 Shadertoy 把 stage1 改成真 Buffer 拖尾、把 stage6 改成读自己的反馈缩放。
 
 ## 要点回顾
 

@@ -1,7 +1,7 @@
 // 第 12 章 · 阶梯实战 · 阶段 5：打磨（ACES + 暗角 + 抖动）
-// 在阶段 4 场景上收尾：ACES 色调映射、暗角、抖动；miss 方向加简易环境反射色。
-const vec3 SUN = normalize(vec3(0.55, 0.72, -0.42));
-const int  MAX_BOUNCE = 2;
+// 在阶段 4 场景上收尾：ACES 色调映射、暗角、抖动；玻璃路径与 stage3 一致。
+const vec3  SUN = normalize(vec3(0.55, 0.72, -0.42));
+const int   MAX_BOUNCE = 8;
 const float IOR = 1.45;
 
 mat3 setCamera(vec3 ro, vec3 ta)
@@ -62,12 +62,6 @@ vec3 getNormal(vec3 p, float mat)
     return normalize(p - vec3(0.1, 1.05, 1.6));
 }
 
-bool inShadow(vec3 p, vec3 nor)
-{
-    vec3 ro = p + nor * 0.002 + SUN * 0.002;
-    return map(ro, SUN).x > 0.0;
-}
-
 // 简易环境：渐变天空 + 地平线暖色反射带
 vec3 envColor(vec3 rd)
 {
@@ -80,76 +74,122 @@ vec3 envColor(vec3 rd)
     return col;
 }
 
+float shadowAtten(vec3 p, vec3 nor)
+{
+    vec3 ro = p + nor * 0.003 + SUN * 0.003;
+    vec2 h = map(ro, SUN);
+    if (h.x <= 0.0) return 1.0;
+    if (h.y > 3.5) return 0.72;
+    return 0.0;
+}
+
 vec3 shadeDiffuse(vec3 pos, vec3 nor, vec3 alb)
 {
     float dif = max(dot(nor, SUN), 0.0);
-    float sha = inShadow(pos, nor) ? 0.0 : 1.0;
+    float sha = shadowAtten(pos, nor);
     float amb = 0.16 + 0.24 * max(nor.y, 0.0);
     return alb * (amb + dif * sha);
 }
 
+vec3 bounceEnv(vec3 ro, vec3 rd)
+{
+    float best = 1e20;
+    float mat = 0.0;
+    float tp = iPlane(ro, rd);
+    if (tp > 0.0) { best = tp; mat = 1.0; }
+    float t1 = iSphere(ro, rd, vec3(-1.4, 0.55, 0.2), 0.55);
+    if (t1 > 0.0 && t1 < best) { best = t1; mat = 2.0; }
+    float t2 = iSphere(ro, rd, vec3(0.9, 0.70, -0.5), 0.70);
+    if (t2 > 0.0 && t2 < best) { best = t2; mat = 3.0; }
+    if (mat < 0.5) return envColor(rd);
+    vec3 pos = ro + rd * best;
+    if (mat < 1.5) {
+        float chk = mod(floor(pos.x) + floor(pos.z), 2.0);
+        vec3  alb = mix(vec3(0.32, 0.35, 0.38), vec3(0.72, 0.75, 0.78), chk);
+        return shadeDiffuse(pos, vec3(0.0, 1.0, 0.0), alb);
+    }
+    if (mat < 2.5) return shadeDiffuse(pos, normalize(pos - vec3(-1.4, 0.55, 0.2)), vec3(0.78, 0.42, 0.32));
+    vec3 nor = normalize(pos - vec3(0.9, 0.70, -0.5));
+    return envColor(reflect(rd, nor)) * vec3(0.85, 0.80, 0.72);
+}
+
 bool refractDir(vec3 rd, vec3 nor, float eta, out vec3 outRd)
 {
-    float cosI = dot(-rd, nor);
+    float cosI  = clamp(dot(-rd, nor), -1.0, 1.0);
     float sinT2 = eta * eta * (1.0 - cosI * cosI);
     if (sinT2 > 1.0) return false;
-    outRd = normalize(eta * rd + (eta * cosI - sqrt(1.0 - sinT2)) * nor);
+    float cosT  = sqrt(1.0 - sinT2);
+    outRd = normalize(eta * rd + (eta * cosI - cosT) * nor);
     return true;
 }
 
-float fresnelSchlick(vec3 rd, vec3 nor, float f0)
+float fresnelSchlick(float cosTheta, float f0)
 {
-    float cosTheta = max(dot(-rd, nor), 0.0);
-    return f0 + (1.0 - f0) * pow(1.0 - cosTheta, 5.0);
+    return f0 + (1.0 - f0) * pow(1.0 - clamp(cosTheta, 0.0, 1.0), 5.0);
 }
 
-vec3 trace(vec3 ro, vec3 rd, bool inside)
+vec3 trace(vec3 ro, vec3 rd)
 {
     vec3 col = vec3(0.0);
     vec3 att = vec3(1.0);
+    bool inside = false;
 
     for (int i = 0; i < MAX_BOUNCE; i++) {
         vec2 hit = map(ro, rd);
         if (hit.y <= 0.0) {
             col += att * envColor(rd);
-            break;
+            return col;
         }
 
         vec3 pos = ro + rd * hit.x;
         vec3 nor = getNormal(pos, hit.y);
-        if (inside) nor = -nor;
         float mat = hit.y;
 
         if (mat < 1.5) {
             float chk = mod(floor(pos.x) + floor(pos.z), 2.0);
             vec3  alb = mix(vec3(0.32, 0.35, 0.38), vec3(0.72, 0.75, 0.78), chk);
             col += att * shadeDiffuse(pos, nor, alb);
-            break;
+            return col;
         }
         if (mat < 2.5) {
             col += att * shadeDiffuse(pos, nor, vec3(0.78, 0.42, 0.32));
-            break;
+            return col;
         }
         if (mat < 3.5) {
             float spe = pow(max(dot(reflect(rd, nor), SUN), 0.0), 48.0);
-            if (i == MAX_BOUNCE - 1)
-                col += att * (vec3(0.85, 0.80, 0.72) * spe * 0.7 + envColor(reflect(rd, nor)) * 0.15);
+            col += att * vec3(0.85, 0.80, 0.72) * spe * 0.7;
             att *= vec3(0.85, 0.80, 0.72);
             rd = reflect(rd, nor);
-            ro = pos + nor * 0.002;
+            ro = pos + nor * 0.004;
             continue;
         }
 
+        // —— 玻璃 ——
+        if (inside) nor = -nor;
+
+        float cosTheta = max(dot(-rd, nor), 0.0);
+        float fr       = fresnelSchlick(cosTheta, 0.04);
+        vec3  refl     = reflect(rd, nor);
+
+        col += att * fr * bounceEnv(pos + nor * 0.004, refl);
+
         float eta = inside ? IOR : (1.0 / IOR);
         vec3  refr;
-        vec3  refl = reflect(rd, nor);
-        bool  ok   = refractDir(rd, nor, eta, refr);
-        float fr   = fresnelSchlick(rd, nor, 0.04);
-        rd = (!ok || fr > 0.5) ? refl : refr;
-        att *= mix(vec3(1.0), vec3(0.97, 1.0, 1.03), 1.0 - fr);
-        inside = !inside;
-        ro = pos + rd * 0.002;
+        bool  ok = refractDir(rd, nor, eta, refr);
+
+        if (!ok) {
+            rd = refl;
+            ro = pos + nor * 0.004;
+        } else {
+            att *= (1.0 - fr);
+            if (inside) att *= exp(-hit.x * vec3(0.15, 0.05, 0.08));
+            rd = refr;
+            inside = !inside;
+            ro = pos + rd * 0.004;
+        }
     }
+
+    col += att * envColor(rd);
     return col;
 }
 
@@ -179,7 +219,7 @@ void mainImage(out vec4 fragColor, in vec2 fragCoord)
     mat3  ca = setCamera(ro, ta);
     vec3  rd = ca * normalize(vec3(p, 2.2));
 
-    vec3 col = trace(ro, rd, false);
+    vec3 col = trace(ro, rd);
     col = tonemapACES(col);
     col = pow(col, vec3(0.4545));
 
