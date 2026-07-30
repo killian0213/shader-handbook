@@ -405,6 +405,15 @@ float map(vec3 p)
 
 Shader 没有断点。第 0 章说过：把中间量当颜色输出。Raymarching 里最有用的三个探针：
 
+**好玩收官 · Portal 环面**：比单球更有场景感；文件顶部可开 `HEAT_OVERLAY` 叠步数热力——调试工具也能是作品。
+
+<!-- glsl-from: examples/ch7_stage8.glsl -->
+```glsl
+// torus portal tunnel; optional step-count heat
+```
+
+![预览](img/ch7_stage8.png)
+
 ### ① 步进次数（找性能黑洞）
 
 ```glsl
