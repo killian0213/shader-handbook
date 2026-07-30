@@ -9,6 +9,8 @@
 > 本地调试：`python web/serve.py`，然后打开 <http://localhost:8000/web/>。  
 > 网页版直接读这些 Markdown 原文，代码块能当场出画面、拖滑块调参数、就地改代码。说明见 [`web/README.md`](../web/README.md)。
 
+**课间餐点**：每章末尾有一道「综合甜点」——`chN_snack.glsl` 用本章技法分阶段实时解锁（自动轮播 / 鼠标 scrub），从零件长成惊艳成片。阶梯练零件，餐点练合菜。
+
 ---
 
 ## 这本手册和别的 Shader 教程有什么不同
