@@ -33,6 +33,16 @@
 
 > 📄 出自 `001676-Xds3zN-Raymarching_-_Primitives/image.glsl`（iq）
 
+**先跑起来**：地面 + 球 + 盒并排。记住——移物体 = 减坐标，不是改公式。
+
+<!-- glsl-from: examples/ch8_stage1.glsl -->
+```glsl
+d = sdSphere(p - vec3(-1.2,1,0), 0.7);
+d = min(d, sdBox(p - vec3(1.0,0.6,0), vec3(0.55)));
+```
+
+![预览](img/ch8_stage1.png)
+
 ### sdPlane / sdSphere
 
 <!-- glsl-skip -->
@@ -156,11 +166,31 @@ float opIntersection( float d1, float d2 ) { return max(d1,d2); }
 vec2 opU(vec2 a, vec2 b) { return (a.x < b.x) ? a : b; }
 ```
 
+**硬布尔成片**：方盒 ∪ 圆环，再挖一个球咬痕。差集顺序写反会「长出肉」而不是挖洞。
+
+<!-- glsl-from: examples/ch8_stage2.glsl -->
+```glsl
+d = min(box, torus);
+d = max(d, -bite); // 差集
+```
+
+![预览](img/ch8_stage2.png)
+
 ---
 
 ## 8.4 平滑并集：`smin` / `smax`
 
 硬 `min` 的接缝是尖锐的。有机造型（角色、熔岩、软糖）需要**平滑并集**。
+
+**smin 小生物**：胶囊腿 + 球身 + 头。把任意一处 `smin` 改成 `min`，立刻看到接缝变尖——这是读造型最快的办法。
+
+<!-- glsl-from: examples/ch8_stage3.glsl -->
+```glsl
+d = smin(body, leg, 0.18);
+d = smin(d, head, 0.12);
+```
+
+![预览](img/ch8_stage3.png)
 
 ### 二次多项式 smin（最常用）
 
@@ -251,6 +281,25 @@ float sMinE( float a, float b, float k) {
 > 若 `T` 是等距（旋转/平移/镜像），`f(T(p))` 仍是精确 SDF。  
 > 若 `T` 是均匀缩放 `s`，则 `f(p/s)*s` 精确。  
 > 若 `T` 非等距（twist/bend/非均匀缩放），结果不再是 SDF，需要保守系数。
+
+**域重复柱廊**：`p.xz = mod(p.xz+0.5*s,s)-0.5*s` 后只画一根柱。
+
+<!-- glsl-from: examples/ch8_stage4.glsl -->
+```glsl
+p.xz = mod(p.xz + 0.5*s, s) - 0.5*s;
+d = sdCylinder(p, ...);
+```
+
+![预览](img/ch8_stage4.png)
+
+**思路延展 · twist**：按高度旋转 xz，一根方柱变成麻花雕塑。非等距变换记得心里留 fudge。
+
+<!-- glsl-from: examples/ch8_stage5.glsl -->
+```glsl
+p.xz *= rot(p.y * k); // 先扭曲坐标再喂 sdBox
+```
+
+![预览](img/ch8_stage5.png)
 
 ### opRep —— 无限重复
 
@@ -471,6 +520,15 @@ vec2 sminMat( vec2 a, vec2 b, float k )
 
 这是本章的「如何从想法到实现」。
 
+**较难成片 · 微型神庙**：台阶 → 墙 → 四柱 → 山墙 → 上半球穹顶。先按这个顺序搭，不要一上来写完整 `map`。
+
+<!-- glsl-from: examples/ch8_stage6.glsl -->
+```glsl
+// 台阶 for-loop → 墙/山墙 → 四柱 → max(sphere,-y) 穹顶
+```
+
+![预览](img/ch8_stage6.png)
+
 ### 角色（Happy Jumping / Fish / Snail 路线）
 
 1. **骨架**：用胶囊/`sdStick` 搭头–躯干–四肢。每段是 `sdCapsule(p, a, b, r)`，关节处 `smin`。
@@ -536,6 +594,23 @@ float map(vec3 p)
 6. **删掉一行 `smin`，改成 `min`，看画面哪里变尖**——比读注释快。
 
 ---
+
+## 8.10 阶梯实战：从图元到一座小神庙
+
+上一章给了 raymarch 骨架；本章把 `map()` 填满。下面六段**嵌在对应小节**的也可按序连刷：
+
+| 阶段 | 文件 | 看点 | 嵌在 |
+|---|---|---|---|
+| 1 | `ch8_stage1` | 球/盒并排 | 8.2 |
+| 2 | `ch8_stage2` | 硬 CSG 咬痕 | 8.3 |
+| 3 | `ch8_stage3` | smin 小生物 | 8.4 |
+| 4 | `ch8_stage4` | 无限柱廊 | 8.5 |
+| 5 | `ch8_stage5` | twist 雕塑 | 8.5 |
+| 6 | `ch8_stage6` | **神庙成片**（较难） | 8.8 |
+
+较难的神庙请先完成 1→5：你会清楚每个零件来自哪一节。神庙完整例嵌在 **8.8**。
+
+**延展作业**：把柱改成 `opRepLim`；给穹顶加 `opOnion` 薄壳；给台阶脚加小 `smin`。
 
 ## 本章要点回顾
 

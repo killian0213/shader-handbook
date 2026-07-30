@@ -133,6 +133,16 @@ raymarch 时累加 `1/(d*d+eps)`，再 `1-exp(-color*k)` tonemap。无额外 Pas
 
 ## 15.4 景深与散景（DOF / Bokeh）
 
+**单 Pass 假景深**：多深度球 + 按 `|z-focus|` 加宽采样。真 DOF 用 Buffer 可分离模糊；这里先建立 CoC 直觉。
+
+<!-- glsl-from: examples/ch15_stage6.glsl -->
+```glsl
+float coc = abs(z - focus) * aperture;
+col = blurTap(uv, coc);
+```
+
+![预览](img/ch15_stage6.png)
+
 ### CoC
 
 ```
@@ -283,6 +293,16 @@ col *= scan;
 
 ## 15.9 手绘 / 铅笔 / NPR
 
+**油画味 NPR**：posterize + 阴影方向 hatch。先简化颜色层数，再加笔触——别一上来堆边缘检测。
+
+<!-- glsl-from: examples/ch15_stage7.glsl -->
+```glsl
+col = floor(col*levels)/levels;
+col *= hatch(uv, NdotL);
+```
+
+![预览](img/ch15_stage7.png)
+
 ### 边缘 = 梯度或深度差分
 
 Sobel / 邻域差分得到边强度，再乘纸张纹理：
@@ -382,6 +402,17 @@ col = vec3(r, g, b);
 ---
 
 ## 15.12 推荐出场配方
+
+**较难成片 · 电影出场包**：色差 + 暗角 + 胶片颗粒 + 轻微桶形——一条龙叠在霓虹场景上。
+
+<!-- glsl-from: examples/ch15_stage8.glsl -->
+```glsl
+col = chroma(uv);
+col *= vignette;
+col += grain;
+```
+
+![预览](img/ch15_stage8.png)
 
 ### 电影感 3D
 
