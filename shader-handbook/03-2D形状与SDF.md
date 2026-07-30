@@ -393,6 +393,16 @@ float outerBorderMask(float dist, float width)
 
 SDF 的合成是它最爽的部分——像 CSG，但一行写完。
 
+**布尔 Logo**：胶囊/盒拼字母感图标。Logo 设计 = 少图元 + 清晰布尔顺序。
+
+<!-- glsl-from: examples/ch3_stage7.glsl -->
+```glsl
+d = opU(stick, bar);
+d = opS(d, cut);
+```
+
+![预览](img/ch3_stage7.png)
+
 ### 硬布尔
 
 > 📄 出自 `000440-4dfXDn-2d_signed_distance_functions/image.glsl`（Maarten）
@@ -505,6 +515,16 @@ float dRound = sdSomething(p) - r;   // 向外膨胀 r → 尖角变圆角
 ## 3.5 辉光：三种经典衰减
 
 辉光的本质：**颜色贡献 ∝ 距离的衰减函数**。语料里三种配方反复出现。
+
+**洋葱环霓虹徽章**：`abs(d)-t` 剥皮 + 三层衰减各司其职（芯/晕/雾）。
+
+<!-- glsl-from: examples/ch3_stage8.glsl -->
+```glsl
+float ring = abs(d) - t;
+col += glow(ring);
+```
+
+![预览](img/ch3_stage8.png)
 
 ### ① `k / d`（双曲线，长尾巴）
 
@@ -650,6 +670,15 @@ void mainImage(out vec4 fragColor, in vec2 fragCoord)
 ## 3.7 设计形状的方法论（不是函数列表）
 
 背函数只能让你"有零件"。把零件变成画面，靠下面的思路：
+
+**较难 · SDF 变形图标**：两形态距离 `mix`（可加 smin），再叠色散辉光。做 UI/Logo 动效时，变形比换贴图便宜。
+
+<!-- glsl-from: examples/ch3_stage9.glsl -->
+```glsl
+float d = mix(dStar, dHeart, morph);
+```
+
+![预览](img/ch3_stage9.png)
 
 ### 步骤 1：用剪影思考
 
